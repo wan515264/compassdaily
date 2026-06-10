@@ -1,0 +1,274 @@
+{
+  "date": "2026-06-03",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "",
+  "introChinese": "",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "中东局势牵动全球能源市场，油价持续波动",
+          "summaryChinese": "市场正密切关注美国与伊朗之间的最新接触进展。由于霍尔木兹海峡运输安全及地区局势仍存在不确定性，国际油价本周出现上涨。分析人士指出，能源市场如今对地缘政治信号异常敏感。",
+          "englishExpressions": [
+            {
+              "expression": "geopolitical uncertainty",
+              "meaningChinese": "地缘政治不确定性",
+              "example": ""
+            },
+            {
+              "expression": "energy markets",
+              "meaningChinese": "能源市场",
+              "example": ""
+            },
+            {
+              "expression": "oil supply disruption",
+              "meaningChinese": "石油供应中断",
+              "example": ""
+            },
+            {
+              "expression": "on edge",
+              "meaningChinese": "处于紧张状态",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini sentence\nGlobal markets remain on edge as political developments affect energy supplies."
+        },
+        {
+          "title": "随着政治局势影响能源供应，全球市场仍保持高度警惕。⸻",
+          "summaryChinese": "“风险时代”成为国际治理关键词\n从能源、供应链到安全议题，国际媒体越来越频繁地使用 risk management（风险管理） 这一概念。与过去追求稳定不同，许多国家正转向管理长期不确定性与复杂风险。",
+          "englishExpressions": [
+            {
+              "expression": "risk management",
+              "meaningChinese": "风险管理",
+              "example": ""
+            },
+            {
+              "expression": "resilience",
+              "meaningChinese": "韧性",
+              "example": ""
+            },
+            {
+              "expression": "long-term planning",
+              "meaningChinese": "长期规划",
+              "example": ""
+            },
+            {
+              "expression": "global interconnectedness",
+              "meaningChinese": "全球相互关联性",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "“法律平等”与“现实平等”之间仍有距离",
+          "summaryChinese": "联合国妇女署（UN Women）今年发布的数据再次引发讨论：尽管过去几十年女性权利取得明显进展，但世界上尚无国家实现对女性与女孩的完全法律平等。专家指出，法律改革之外，文化观念、家庭分工与经济结构同样影响性别平等进程。",
+          "englishExpressions": [
+            {
+              "expression": "legal equality",
+              "meaningChinese": "法律平等",
+              "example": ""
+            },
+            {
+              "expression": "gender-based barriers",
+              "meaningChinese": "基于性别的障碍",
+              "example": ""
+            },
+            {
+              "expression": "structural inequality",
+              "meaningChinese": "结构性不平等",
+              "example": ""
+            },
+            {
+              "expression": "equal opportunities",
+              "meaningChinese": "平等机会",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\n英语学术写作里经常区分：\nequality（平等）\nequity（公平）Equality 强调相同待遇；\nEquity 更强调根据现实差异进行资源调整，实现实质公平。⸻"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "CFDA/Vogue Fashion Fund 公布2026年度入围设计师\n美国时尚界重要奖项 CFDA/Vogue Fashion Fund 公布今年10位决赛设计师名单。评论认为，今年入围者展现出更明显的多元文化背景与跨领域创作倾向，反映出当代时尚越来越重视身份、叙事与工艺之间的结合。",
+          "englishExpressions": [
+            {
+              "expression": "emerging designer",
+              "meaningChinese": "新锐设计师",
+              "example": ""
+            },
+            {
+              "expression": "creative vision",
+              "meaningChinese": "创作理念",
+              "example": ""
+            },
+            {
+              "expression": "craftsmanship",
+              "meaningChinese": "工艺精神",
+              "example": ""
+            },
+            {
+              "expression": "cultural storytelling",
+              "meaningChinese": "文化叙事",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "影视与时尚的边界持续模糊",
+          "summaryChinese": "Vogue 本周关注多部即将播出的电视剧，指出影视作品正在越来越直接地影响年轻人的穿搭风格与消费选择。角色形象、演员个人风格与社交媒体传播，共同构成新的流行趋势形成机制。",
+          "englishExpressions": [
+            {
+              "expression": "trend-setting",
+              "meaningChinese": "引领潮流的",
+              "example": ""
+            },
+            {
+              "expression": "audience engagement",
+              "meaningChinese": "观众参与度",
+              "example": ""
+            },
+            {
+              "expression": "visual identity",
+              "meaningChinese": "视觉身份",
+              "example": ""
+            },
+            {
+              "expression": "cultural influence",
+              "meaningChinese": "文化影响力",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "AI 基础设施竞赛进入新阶段\nAlphabet（Google 母公司）宣布筹集约800亿美元用于AI基础设施建设，引发市场广泛关注。与此同时，数据中心、电力供应与算力需求正成为全球科技产业最核心的话题之一。分析认为，AI竞争已从模型能力扩展到能源与基础设施能力。\n在台北 Computex 期间，Intel CEO Lip-Bu Tan 表示，公司未来将重点布局从个人电脑、边缘AI到数据中心的完整生态系统，而非单纯依赖单一芯片业务。",
+          "englishExpressions": [
+            {
+              "expression": "AI infrastructure",
+              "meaningChinese": "AI基础设施",
+              "example": ""
+            },
+            {
+              "expression": "computing power",
+              "meaningChinese": "算力",
+              "example": ""
+            },
+            {
+              "expression": "capital expenditure (capex)",
+              "meaningChinese": "资本支出",
+              "example": ""
+            },
+            {
+              "expression": "data center expansion",
+              "meaningChinese": "数据中心扩建",
+              "example": ""
+            },
+            {
+              "expression": "Intel",
+              "meaningChinese": "强调“完整AI生态系统”战略",
+              "example": ""
+            },
+            {
+              "expression": "AI ecosystem",
+              "meaningChinese": "AI生态系统",
+              "example": ""
+            },
+            {
+              "expression": "edge AI",
+              "meaningChinese": "边缘人工智能",
+              "example": ""
+            },
+            {
+              "expression": "full-stack strategy",
+              "meaningChinese": "全栈战略",
+              "example": ""
+            },
+            {
+              "expression": "generational opportunity",
+              "meaningChinese": "时代级机遇",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "A common thread running through today’s news is the importance of infrastructure. Infrastructure is not only physical, such as data centers, energy networks, or transportation systems. It can also be social and cultural, including laws, institutions, and shared values. The systems we build often shape the possibilities available to future generations long after the headlines fade.",
+    "chinese": "今天许多新闻背后有一个共同主题：基础设施的重要性。基础设施不仅是数据中心、能源网络或交通系统这样的物理设施，也包括法律、制度以及共同价值观等社会文化基础设施。我们今天建设的系统，往往会在新闻热度消退之后，继续塑造未来几代人的可能性。\n⸻"
+  },
+  "keywords": [
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑系统",
+      "example": "AI development requires massive infrastructure investment."
+    },
+    {
+      "word": "resilience",
+      "meaning": "韧性；恢复能力",
+      "example": "Communities need resilience during uncertain times."
+    },
+    {
+      "word": "equity",
+      "meaning": "公平；实质平等",
+      "example": "Equity focuses on fair outcomes rather than identical treatment."
+    },
+    {
+      "word": "craftsmanship",
+      "meaning": "工艺；匠心",
+      "example": "The collection highlights exceptional craftsmanship."
+    },
+    {
+      "word": "ecosystem",
+      "meaning": "生态系统",
+      "example": "Companies are competing to build complete AI ecosystems."
+    },
+    {
+      "word": "interconnectedness",
+      "meaning": "相互关联性",
+      "example": "Global interconnectedness makes local events internationally significant.⸻"
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "有些变化来自突发事件，有些变化则悄悄发生在制度、语言和技术之中。读新闻时，也别忘了看看那些正在缓慢塑造未来的“基础设施”。 🌿"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年6月3日\n★ Global News｜国际新闻\n中东局势牵动全球能源市场，油价持续波动\n市场正密切关注美国与伊朗之间的最新接触进展。由于霍尔木兹海峡运输安全及地区局势仍存在不确定性，国际油价本周出现上涨。分析人士指出，能源市场如今对地缘政治信号异常敏感。  ￼\nEnglish key expressions\ngeopolitical uncertainty：地缘政治不确定性\nenergy markets：能源市场\noil supply disruption：石油供应中断\non edge：处于紧张状态\nMini sentence\nGlobal markets remain on edge as political developments affect energy supplies.\n随着政治局势影响能源供应，全球市场仍保持高度警惕。⸻\n“风险时代”成为国际治理关键词\n从能源、供应链到安全议题，国际媒体越来越频繁地使用 risk management（风险管理） 这一概念。与过去追求稳定不同，许多国家正转向管理长期不确定性与复杂风险。  ￼\nEnglish key expressions\nrisk management：风险管理\nresilience：韧性\nlong-term planning：长期规划\nglobal interconnectedness：全球相互关联性\n⸻\n★ Gender / Culture｜性别与文化\n“法律平等”与“现实平等”之间仍有距离\n联合国妇女署（UN Women）今年发布的数据再次引发讨论：尽管过去几十年女性权利取得明显进展，但世界上尚无国家实现对女性与女孩的完全法律平等。专家指出，法律改革之外，文化观念、家庭分工与经济结构同样影响性别平等进程。  ￼\nEnglish key expressions\nlegal equality：法律平等\ngender-based barriers：基于性别的障碍\nstructural inequality：结构性不平等\nequal opportunities：平等机会\nStudy note\n英语学术写作里经常区分：\nequality（平等）\nequity（公平）Equality 强调相同待遇；\nEquity 更强调根据现实差异进行资源调整，实现实质公平。⸻\n★ Art / Fashion / Media｜艺术、时尚与媒体\nCFDA/Vogue Fashion Fund 公布2026年度入围设计师\n美国时尚界重要奖项 CFDA/Vogue Fashion Fund 公布今年10位决赛设计师名单。评论认为，今年入围者展现出更明显的多元文化背景与跨领域创作倾向，反映出当代时尚越来越重视身份、叙事与工艺之间的结合。  ￼\nEnglish key expressions\nemerging designer：新锐设计师\ncreative vision：创作理念\ncraftsmanship：工艺精神\ncultural storytelling：文化叙事\n⸻\n影视与时尚的边界持续模糊\nVogue 本周关注多部即将播出的电视剧，指出影视作品正在越来越直接地影响年轻人的穿搭风格与消费选择。角色形象、演员个人风格与社交媒体传播，共同构成新的流行趋势形成机制。  ￼\nEnglish key expressions\ntrend-setting：引领潮流的\naudience engagement：观众参与度\nvisual identity：视觉身份\ncultural influence：文化影响力\n⸻\n★ AI / Tech｜AI与科技\nAI 基础设施竞赛进入新阶段\nAlphabet（Google 母公司）宣布筹集约800亿美元用于AI基础设施建设，引发市场广泛关注。与此同时，数据中心、电力供应与算力需求正成为全球科技产业最核心的话题之一。分析认为，AI竞争已从模型能力扩展到能源与基础设施能力。  ￼\nEnglish key expressions\nAI infrastructure：AI基础设施\ncomputing power：算力\ncapital expenditure (capex)：资本支出\ndata center expansion：数据中心扩建\n⸻\nIntel 强调“完整AI生态系统”战略\n在台北 Computex 期间，Intel CEO Lip-Bu Tan 表示，公司未来将重点布局从个人电脑、边缘AI到数据中心的完整生态系统，而非单纯依赖单一芯片业务。  ￼\nEnglish key expressions\nAI ecosystem：AI生态系统\nedge AI：边缘人工智能\nfull-stack strategy：全栈战略\ngenerational opportunity：时代级机遇\n⸻\n★ One English Paragraph｜一段英文精读\nA common thread running through today’s news is the importance of infrastructure. Infrastructure is not only physical, such as data centers, energy networks, or transportation systems. It can also be social and cultural, including laws, institutions, and shared values. The systems we build often shape the possibilities available to future generations long after the headlines fade.\n中文翻译\n今天许多新闻背后有一个共同主题：基础设施的重要性。基础设施不仅是数据中心、能源网络或交通系统这样的物理设施，也包括法律、制度以及共同价值观等社会文化基础设施。我们今天建设的系统，往往会在新闻热度消退之后，继续塑造未来几代人的可能性。\n⸻\n★ Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample Sentence\ninfrastructure\n基础设施；支撑系统\nAI development requires massive infrastructure investment.\nresilience\n韧性；恢复能力\nCommunities need resilience during uncertain times.\nequity\n公平；实质平等\nEquity focuses on fair outcomes rather than identical treatment.\ncraftsmanship\n工艺；匠心\nThe collection highlights exceptional craftsmanship.\necosystem\n生态系统\nCompanies are competing to build complete AI ecosystems.\ninterconnectedness\n相互关联性\nGlobal interconnectedness makes local events internationally significant.⸻\n★ Morning Reflection｜晨间小记\n有些变化来自突发事件，有些变化则悄悄发生在制度、语言和技术之中。读新闻时，也别忘了看看那些正在缓慢塑造未来的“基础设施”。 🌿"
+}

@@ -1,0 +1,36 @@
+name: Daily briefing publish
+
+on:
+  workflow_dispatch:
+  schedule:
+    # 06:30 Asia/Shanghai every morning.
+    - cron: "30 22 * * *"
+
+permissions:
+  contents: write
+
+jobs:
+  update-briefing:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Install Node dependencies
+        run: npm install
+
+      - name: Generate daily briefing
+        run: npm run generate:briefing
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+
+      - name: Commit daily briefing
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "Publish daily briefing"
+          file_pattern: data/briefings/*.json data/briefings/index.json

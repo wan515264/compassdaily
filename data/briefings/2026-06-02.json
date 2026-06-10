@@ -1,0 +1,247 @@
+{
+  "date": "2026-06-02",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "",
+  "introChinese": "",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "香格里拉对话闭幕：印太安全仍是全球焦点",
+          "summaryChinese": "新加坡香格里拉对话在地区安全紧张氛围中结束。台湾问题、美中竞争、区域军费增长以及美国在亚洲的长期承诺，成为与会各国最关注的话题。分析指出，越来越多国家正在尝试在“依赖美国”与“保持战略自主”之间寻找平衡。",
+          "englishExpressions": [
+            {
+              "expression": "strategic autonomy",
+              "meaningChinese": "战略自主",
+              "example": ""
+            },
+            {
+              "expression": "security commitment",
+              "meaningChinese": "安全承诺",
+              "example": ""
+            },
+            {
+              "expression": "geopolitical tensions",
+              "meaningChinese": "地缘政治紧张局势",
+              "example": ""
+            },
+            {
+              "expression": "regional deterrence",
+              "meaningChinese": "区域威慑",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini sentence\nMany countries are trying to balance security partnerships with political independence.\n许多国家正在努力平衡安全合作与政治独立性。"
+        },
+        {
+          "title": "全球安全讨论越来越围绕“不确定性”展开",
+          "summaryChinese": "从乌克兰局势到亚洲安全，再到能源与供应链问题，“uncertainty（不确定性）”成为国际媒体频繁使用的关键词。专家认为，当代国际关系越来越像持续管理风险，而非追求绝对稳定。",
+          "englishExpressions": [
+            {
+              "expression": "global uncertainty",
+              "meaningChinese": "全球不确定性",
+              "example": ""
+            },
+            {
+              "expression": "risk management",
+              "meaningChinese": "风险管理",
+              "example": ""
+            },
+            {
+              "expression": "strategic planning",
+              "meaningChinese": "战略规划",
+              "example": ""
+            },
+            {
+              "expression": "long-term stability",
+              "meaningChinese": "长期稳定",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "英国围绕单一性别空间的讨论继续升级",
+          "summaryChinese": "英国 Equality and Human Rights Commission（EHRC）近期发布有关单一性别空间的新指导草案，再次引发关于跨性别权利、女性庇护空间以及法律定义的公共争论。相关讨论已不仅是法律问题，也涉及身份认同、公共空间与社会包容性的文化议题。",
+          "englishExpressions": [
+            {
+              "expression": "single-sex spaces",
+              "meaningChinese": "单一性别空间",
+              "example": ""
+            },
+            {
+              "expression": "gender identity",
+              "meaningChinese": "性别认同",
+              "example": ""
+            },
+            {
+              "expression": "legal protection",
+              "meaningChinese": "法律保护",
+              "example": ""
+            },
+            {
+              "expression": "public debate",
+              "meaningChinese": "公共讨论",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\n英语评论文章中常出现：\nRights can sometimes come into tension with one another.\n不同权利之间有时会产生张力。这里的 tension 并不是“冲突爆发”，而是一种复杂、难以简单解决的矛盾关系。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Charli XCX 发布新专辑《Music, Fashion, Film》\nCharli XCX 宣布将于7月推出新专辑《Music, Fashion, Film》。专辑封面没有出现她本人，而是邀请音乐人 John Cale、设计师 Marc Jacobs 与导演 Martin Scorsese 出镜，分别象征音乐、时尚与电影。许多评论认为，这种设计本身就在讨论当代流行文化如何跨越不同媒介。",
+          "englishExpressions": [
+            {
+              "expression": "cross-disciplinary",
+              "meaningChinese": "跨领域的",
+              "example": ""
+            },
+            {
+              "expression": "cultural icon",
+              "meaningChinese": "文化符号",
+              "example": ""
+            },
+            {
+              "expression": "album artwork",
+              "meaningChinese": "专辑视觉设计",
+              "example": ""
+            },
+            {
+              "expression": "creative collaboration",
+              "meaningChinese": "创意合作",
+              "example": ""
+            }
+          ],
+          "studyNote": "Media observation\n如今越来越多流行歌手不只是发布音乐，而是在经营一个完整的文化宇宙（cultural universe）。\nPop music is increasingly becoming a multimedia experience.\n流行音乐正越来越成为一种跨媒介体验。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "AI 偏见研究再次受到关注\n近期学术界持续讨论 AI 模型中的性别偏见问题。研究者发现，大型语言与图像模型中的偏见往往与训练数据背后的社会文化结构相关。越来越多学者开始从跨文化与女性主义视角研究 AI，而不仅仅把偏见视作技术错误。\n研究显示，生成式 AI 已开始进入服装设计、视觉编辑和创意生产流程。未来设计师可能越来越需要与 AI 协作，而非单纯竞争。",
+          "englishExpressions": [
+            {
+              "expression": "algorithmic bias",
+              "meaningChinese": "算法偏见",
+              "example": ""
+            },
+            {
+              "expression": "training data",
+              "meaningChinese": "训练数据",
+              "example": ""
+            },
+            {
+              "expression": "cultural assumptions",
+              "meaningChinese": "文化预设",
+              "example": ""
+            },
+            {
+              "expression": "AI ethics",
+              "meaningChinese": "AI伦理",
+              "example": ""
+            },
+            {
+              "expression": "AI",
+              "meaningChinese": "正在影响时尚与视觉创作",
+              "example": ""
+            },
+            {
+              "expression": "generative AI",
+              "meaningChinese": "生成式人工智能",
+              "example": ""
+            },
+            {
+              "expression": "creative workflow",
+              "meaningChinese": "创作流程",
+              "example": ""
+            },
+            {
+              "expression": "image generation",
+              "meaningChinese": "图像生成",
+              "example": ""
+            },
+            {
+              "expression": "human-AI collaboration",
+              "meaningChinese": "人机协作",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "One theme quietly connects many of today’s stories: the question of who gets to define reality. Governments debate security threats, courts debate legal definitions of gender, artists reshape cultural symbols, and AI systems learn from human language and images. In each case, power is not only about control—it is also about interpretation. The ability to define what is normal, legitimate, or true often shapes society as much as laws or technology do.",
+    "chinese": "今天许多新闻背后都隐藏着一个共同主题：谁有权定义现实。政府讨论什么构成安全威胁，法院讨论性别的法律定义，艺术家重塑文化符号，而 AI 则从人类语言与图像中学习。在每一种情境里，权力不仅关乎控制，也关乎解释。定义什么是正常的、合法的或真实的能力，往往和法律或技术本身一样深刻地塑造社会。"
+  },
+  "keywords": [
+    {
+      "word": "autonomy",
+      "meaning": "自主权；自主性",
+      "example": "Many countries seek greater strategic autonomy."
+    },
+    {
+      "word": "tension",
+      "meaning": "张力；矛盾关系",
+      "example": "There is growing tension between different social values."
+    },
+    {
+      "word": "legitimate",
+      "meaning": "合法的；被认可的",
+      "example": "The debate concerns who is seen as a legitimate participant."
+    },
+    {
+      "word": "bias",
+      "meaning": "偏见；倾向性",
+      "example": "Researchers continue to study bias in AI models."
+    },
+    {
+      "word": "interpretation",
+      "meaning": "解释；诠释",
+      "example": "Different groups offer different interpretations of the law."
+    },
+    {
+      "word": "collaboration",
+      "meaning": "合作；协作",
+      "example": "Human-AI collaboration is becoming more common in design."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "很多重要的变化并不是突然发生的，而是在语言、规则与想象力里慢慢累积。学新闻，有时也是在学习这个世界如何一步步重新定义自己。 🌿"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年6月2日\n★ Global News｜国际新闻\n1. 香格里拉对话闭幕：印太安全仍是全球焦点\n新加坡香格里拉对话在地区安全紧张氛围中结束。台湾问题、美中竞争、区域军费增长以及美国在亚洲的长期承诺，成为与会各国最关注的话题。分析指出，越来越多国家正在尝试在“依赖美国”与“保持战略自主”之间寻找平衡。\nEnglish key expressions\nstrategic autonomy：战略自主\nsecurity commitment：安全承诺\ngeopolitical tensions：地缘政治紧张局势\nregional deterrence：区域威慑\nMini sentence\nMany countries are trying to balance security partnerships with political independence.\n许多国家正在努力平衡安全合作与政治独立性。\n2. 全球安全讨论越来越围绕“不确定性”展开\n从乌克兰局势到亚洲安全，再到能源与供应链问题，“uncertainty（不确定性）”成为国际媒体频繁使用的关键词。专家认为，当代国际关系越来越像持续管理风险，而非追求绝对稳定。\nEnglish key expressions\nglobal uncertainty：全球不确定性\nrisk management：风险管理\nstrategic planning：战略规划\nlong-term stability：长期稳定\n★ Gender / Culture｜性别与文化\n英国围绕单一性别空间的讨论继续升级\n英国 Equality and Human Rights Commission（EHRC）近期发布有关单一性别空间的新指导草案，再次引发关于跨性别权利、女性庇护空间以及法律定义的公共争论。相关讨论已不仅是法律问题，也涉及身份认同、公共空间与社会包容性的文化议题。\nEnglish key expressions\nsingle-sex spaces：单一性别空间\ngender identity：性别认同\nlegal protection：法律保护\npublic debate：公共讨论\nStudy note\n英语评论文章中常出现：\nRights can sometimes come into tension with one another.\n不同权利之间有时会产生张力。这里的 tension 并不是“冲突爆发”，而是一种复杂、难以简单解决的矛盾关系。\n★ Art / Fashion / Media｜艺术、时尚与媒体\nCharli XCX 发布新专辑《Music, Fashion, Film》\nCharli XCX 宣布将于7月推出新专辑《Music, Fashion, Film》。专辑封面没有出现她本人，而是邀请音乐人 John Cale、设计师 Marc Jacobs 与导演 Martin Scorsese 出镜，分别象征音乐、时尚与电影。许多评论认为，这种设计本身就在讨论当代流行文化如何跨越不同媒介。\nEnglish key expressions\ncross-disciplinary：跨领域的\ncultural icon：文化符号\nalbum artwork：专辑视觉设计\ncreative collaboration：创意合作\nMedia observation\n如今越来越多流行歌手不只是发布音乐，而是在经营一个完整的文化宇宙（cultural universe）。\nPop music is increasingly becoming a multimedia experience.\n流行音乐正越来越成为一种跨媒介体验。\n★ AI / Tech｜AI与科技\nAI 偏见研究再次受到关注\n近期学术界持续讨论 AI 模型中的性别偏见问题。研究者发现，大型语言与图像模型中的偏见往往与训练数据背后的社会文化结构相关。越来越多学者开始从跨文化与女性主义视角研究 AI，而不仅仅把偏见视作技术错误。\nEnglish key expressions\nalgorithmic bias：算法偏见\ntraining data：训练数据\ncultural assumptions：文化预设\nAI ethics：AI伦理\nAI 正在影响时尚与视觉创作\n研究显示，生成式 AI 已开始进入服装设计、视觉编辑和创意生产流程。未来设计师可能越来越需要与 AI 协作，而非单纯竞争。\nEnglish key expressions\ngenerative AI：生成式人工智能\ncreative workflow：创作流程\nimage generation：图像生成\nhuman-AI collaboration：人机协作\n★ One English Paragraph｜一段英文精读\nOne theme quietly connects many of today’s stories: the question of who gets to define reality. Governments debate security threats, courts debate legal definitions of gender, artists reshape cultural symbols, and AI systems learn from human language and images. In each case, power is not only about control—it is also about interpretation. The ability to define what is normal, legitimate, or true often shapes society as much as laws or technology do.\n中文翻译\n今天许多新闻背后都隐藏着一个共同主题：谁有权定义现实。政府讨论什么构成安全威胁，法院讨论性别的法律定义，艺术家重塑文化符号，而 AI 则从人类语言与图像中学习。在每一种情境里，权力不仅关乎控制，也关乎解释。定义什么是正常的、合法的或真实的能力，往往和法律或技术本身一样深刻地塑造社会。\n★ Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample Sentence\nautonomy\n自主权；自主性\nMany countries seek greater strategic autonomy.\ntension\n张力；矛盾关系\nThere is growing tension between different social values.\nlegitimate\n合法的；被认可的\nThe debate concerns who is seen as a legitimate participant.\nbias\n偏见；倾向性\nResearchers continue to study bias in AI models.\ninterpretation\n解释；诠释\nDifferent groups offer different interpretations of the law.\ncollaboration\n合作；协作\nHuman-AI collaboration is becoming more common in design.\n★ Morning Reflection｜晨间小记\n很多重要的变化并不是突然发生的，而是在语言、规则与想象力里慢慢累积。学新闻，有时也是在学习这个世界如何一步步重新定义自己。 🌿"
+}

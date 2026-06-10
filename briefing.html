@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Daily Compass｜每日罗盘</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="app-header">
+      <div>
+        <h1>The Daily Compass<br /><span>每日罗盘</span></h1>
+        <p class="header-subtitle">
+          A bilingual daily briefing for navigating global news, culture, AI, and social change.<br />
+          一份用于理解全球资讯、文化、AI 与社会变化的双语每日小报。
+        </p>
+      </div>
+      <div class="header-actions">
+        <button class="icon-button" id="themeToggle" type="button" title="切换明暗模式" aria-label="切换明暗模式">◐</button>
+        <a class="primary-button nav-button" href="index.html">返回首页</a>
+      </div>
+    </header>
+
+    <main class="detail-shell">
+      <article class="article-card detail-card" id="briefingDetail"></article>
+      <aside class="study-panel detail-side" aria-label="学习面板">
+        <section class="panel-block">
+          <h2>今日关键词 / Today’s Keywords</h2>
+          <div class="wordbook" id="briefingWords"></div>
+        </section>
+        <section class="panel-block">
+          <h2>我的单词本</h2>
+          <div class="wordbook" id="wordbook"></div>
+        </section>
+      </aside>
+    </main>
+
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script src="data.js"></script>
+    <script src="briefing.js"></script>
+  </body>
+</html>

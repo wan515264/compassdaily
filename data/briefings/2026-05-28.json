@@ -1,0 +1,235 @@
+{
+  "date": "2026-05-28",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "",
+  "introChinese": "",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "老挝洞穴救援：5名被困村民被找到生还",
+          "summaryChinese": "老挝中部赛宋本省一处洞穴因暴雨突发洪水，7名村民被困超过一周；救援潜水员已找到其中5人，仍在寻找另外2人，并计划安全转移生还者。这个故事像一则安静但有力的提醒：极端天气、贫困生计与地方安全风险，常常交织在一起。",
+          "englishExpressions": [
+            {
+              "expression": "flash flooding",
+              "meaningChinese": "突发洪水",
+              "example": ""
+            },
+            {
+              "expression": "to be trapped in darkness",
+              "meaningChinese": "被困在黑暗中",
+              "example": ""
+            },
+            {
+              "expression": "rescue operation",
+              "meaningChinese": "救援行动",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "伊朗部分恢复联网，但限制仍然严厉",
+          "summaryChinese": "经历数月大范围网络关闭后，伊朗民众开始重新获得互联网接入，但网速、稳定性和社交平台访问仍受明显限制。报道指出，停网给线上工作者、小商家和内容创作者带来严重经济冲击。",
+          "englishExpressions": [
+            {
+              "expression": "internet shutdown",
+              "meaningChinese": "网络关闭 / 断网",
+              "example": ""
+            },
+            {
+              "expression": "connectivity",
+              "meaningChinese": "网络连接水平",
+              "example": ""
+            },
+            {
+              "expression": "to regain access",
+              "meaningChinese": "重新获得访问权",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "刚果埃博拉应对继续加紧",
+          "summaryChinese": "在刚果民主共和国东北部，援助组织计划设立一个50床位的埃博拉治疗中心。世卫组织此前已指出，当地医疗资源短缺与安全问题让疫情应对更加困难。",
+          "englishExpressions": [
+            {
+              "expression": "public health emergency",
+              "meaningChinese": "公共卫生紧急事件",
+              "example": ""
+            },
+            {
+              "expression": "treatment center",
+              "meaningChinese": "治疗中心",
+              "example": ""
+            },
+            {
+              "expression": "supply shortages",
+              "meaningChinese": "物资短缺",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Z世代宗教参与出现新的性别分化\n一篇文化报道讨论了美国年轻一代中的宗教性别差异：年轻男性更倾向回到制度化宗教空间，而一些年轻女性则通过音乐、影像、审美和“灵性文化”寻找意义感。这个现象值得从性别研究角度细读：它不只是“信不信教”的问题，也关乎归属感、权威、身体、保守主义与流行文化如何重新组织亲密经验。",
+          "englishExpressions": [
+            {
+              "expression": "gender divide",
+              "meaningChinese": "性别分化",
+              "example": ""
+            },
+            {
+              "expression": "institutional authority",
+              "meaningChinese": "制度性权威",
+              "example": ""
+            },
+            {
+              "expression": "spiritual yearning",
+              "meaningChinese": "精神 / 灵性渴望",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini thought:\n当“传统”被包装成安全感时，我们需要问：谁在其中获得秩序，谁又被要求服从？"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Betye Saar百岁之际，早期可穿戴艺术被重新看见\n《Vogue》聚焦艺术家Betye Saar即将迎来100岁生日，以及洛杉矶Roberts Projects的新展“Let’s Get It On: The Wearable Art of Betye Saar”。展览呈现她在1950至1970年代的服装、剧场造型、首饰与档案材料，提醒我们：所谓“严肃艺术”和“时尚 / 手工 / 表演”的边界，本来就并不稳定。",
+          "englishExpressions": [
+            {
+              "expression": "wearable art",
+              "meaningChinese": "可穿戴艺术",
+              "example": ""
+            },
+            {
+              "expression": "assemblage art",
+              "meaningChinese": "集合艺术 / 拼装艺术",
+              "example": ""
+            },
+            {
+              "expression": "archival photos",
+              "meaningChinese": "档案照片",
+              "example": ""
+            }
+          ],
+          "studyNote": "Fashion note:\n本月时尚新闻中，多个品牌继续把“限量书籍、快闪店、档案包款、明星活动”结合起来，说明奢侈品正在把商品变成一种可传播的文化场景。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "华为提出“后摩尔定律”芯片路径",
+          "summaryChinese": "路透社报道，华为正在推广一种新的芯片发展思路，强调通过系统级整合、优化数据移动和降低延迟来提升性能，而不只依赖晶体管继续缩小。这反映了在制裁和先进制造设备受限的背景下，中国AI芯片产业正在寻找替代路线。",
+          "englishExpressions": [
+            {
+              "expression": "system-level performance",
+              "meaningChinese": "系统级性能",
+              "example": ""
+            },
+            {
+              "expression": "latency",
+              "meaningChinese": "延迟",
+              "example": ""
+            },
+            {
+              "expression": "chip ecosystem",
+              "meaningChinese": "芯片生态系统",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "伦敦重回欧洲科技中心榜首",
+          "summaryChinese": "Dealroom的2026全球科技生态指数显示，伦敦重新超过巴黎，成为欧洲排名最高的科技中心；报道将这一变化与AI和深科技投资增长联系起来。",
+          "englishExpressions": [
+            {
+              "expression": "tech hub",
+              "meaningChinese": "科技中心",
+              "example": ""
+            },
+            {
+              "expression": "deep tech",
+              "meaningChinese": "深科技",
+              "example": ""
+            },
+            {
+              "expression": "to reclaim the top spot",
+              "meaningChinese": "重新夺回第一位置",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Across today’s stories, technology appears not only as a tool, but also as a form of power. A restored internet connection can reopen a person’s livelihood; a chip-design strategy can reshape national competition; and a social platform can become a place where identity, faith, and culture are negotiated. To read the news carefully is to ask who gains access, who is excluded, and who gets to define progress.",
+    "chinese": "在今天的新闻里，技术不仅是一种工具，也是一种权力形式。恢复网络连接，可能意味着一个人重新获得生计；一种芯片设计策略，可能重塑国家之间的竞争；而一个社交平台，也可能成为身份、信仰与文化被协商的场所。认真读新闻，就是要追问：谁获得了进入的机会，谁被排除在外，又是谁拥有定义“进步”的权力。"
+  },
+  "keywords": [
+    {
+      "word": "connectivity",
+      "meaning": "网络连接水平；也可泛指人与系统之间的连接能力",
+      "example": "Reliable connectivity is essential for online workers and small businesses."
+    },
+    {
+      "word": "rescue operation",
+      "meaning": "救援行动，常用于灾害、事故、战争等语境",
+      "example": "The rescue operation continued despite heavy rain and difficult terrain."
+    },
+    {
+      "word": "institutional authority",
+      "meaning": "制度性权威，指宗教、国家、学校、法律等机构的规范力量",
+      "example": "Many young people question institutional authority while still searching for meaning."
+    },
+    {
+      "word": "wearable art",
+      "meaning": "可穿戴艺术，介于服装、身体、表演和视觉艺术之间",
+      "example": "Her wearable art challenges the boundary between fashion and fine art."
+    },
+    {
+      "word": "latency",
+      "meaning": "延迟，尤其指数据传输或系统响应的时间差",
+      "example": "Lower latency can make AI systems faster and more efficient."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "愿今天的阅读像一杯温热的茶：不急着给世界下结论，但愿意更细地看见它。"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年5月28日\n⭐ Global News｜全球新闻\n1. 老挝洞穴救援：5名被困村民被找到生还\n老挝中部赛宋本省一处洞穴因暴雨突发洪水，7名村民被困超过一周；救援潜水员已找到其中5人，仍在寻找另外2人，并计划安全转移生还者。这个故事像一则安静但有力的提醒：极端天气、贫困生计与地方安全风险，常常交织在一起。\nEnglish expressions:\nflash flooding：突发洪水\nto be trapped in darkness：被困在黑暗中\nrescue operation：救援行动\n2. 伊朗部分恢复联网，但限制仍然严厉\n经历数月大范围网络关闭后，伊朗民众开始重新获得互联网接入，但网速、稳定性和社交平台访问仍受明显限制。报道指出，停网给线上工作者、小商家和内容创作者带来严重经济冲击。\nEnglish expressions:\ninternet shutdown：网络关闭 / 断网\nconnectivity：网络连接水平\nto regain access：重新获得访问权\n3. 刚果埃博拉应对继续加紧\n在刚果民主共和国东北部，援助组织计划设立一个50床位的埃博拉治疗中心。世卫组织此前已指出，当地医疗资源短缺与安全问题让疫情应对更加困难。\nEnglish expressions:\npublic health emergency：公共卫生紧急事件\ntreatment center：治疗中心\nsupply shortages：物资短缺\n⭐ Gender / Culture｜性别与文化\nZ世代宗教参与出现新的性别分化\n一篇文化报道讨论了美国年轻一代中的宗教性别差异：年轻男性更倾向回到制度化宗教空间，而一些年轻女性则通过音乐、影像、审美和“灵性文化”寻找意义感。这个现象值得从性别研究角度细读：它不只是“信不信教”的问题，也关乎归属感、权威、身体、保守主义与流行文化如何重新组织亲密经验。\nEnglish expressions:\ngender divide：性别分化\ninstitutional authority：制度性权威\nspiritual yearning：精神 / 灵性渴望\nMini thought:\n当“传统”被包装成安全感时，我们需要问：谁在其中获得秩序，谁又被要求服从？\n⭐ Art / Fashion / Media｜艺术、时尚与媒介\nBetye Saar百岁之际，早期可穿戴艺术被重新看见\n《Vogue》聚焦艺术家Betye Saar即将迎来100岁生日，以及洛杉矶Roberts Projects的新展“Let’s Get It On: The Wearable Art of Betye Saar”。展览呈现她在1950至1970年代的服装、剧场造型、首饰与档案材料，提醒我们：所谓“严肃艺术”和“时尚 / 手工 / 表演”的边界，本来就并不稳定。\nEnglish expressions:\nwearable art：可穿戴艺术\nassemblage art：集合艺术 / 拼装艺术\narchival photos：档案照片\nFashion note:\n本月时尚新闻中，多个品牌继续把“限量书籍、快闪店、档案包款、明星活动”结合起来，说明奢侈品正在把商品变成一种可传播的文化场景。\n⭐ AI / Tech｜AI与科技\n1. 华为提出“后摩尔定律”芯片路径\n路透社报道，华为正在推广一种新的芯片发展思路，强调通过系统级整合、优化数据移动和降低延迟来提升性能，而不只依赖晶体管继续缩小。这反映了在制裁和先进制造设备受限的背景下，中国AI芯片产业正在寻找替代路线。\nEnglish expressions:\nsystem-level performance：系统级性能\nlatency：延迟\nchip ecosystem：芯片生态系统\n2. 伦敦重回欧洲科技中心榜首\nDealroom的2026全球科技生态指数显示，伦敦重新超过巴黎，成为欧洲排名最高的科技中心；报道将这一变化与AI和深科技投资增长联系起来。\nEnglish expressions:\ntech hub：科技中心\ndeep tech：深科技\nto reclaim the top spot：重新夺回第一位置\n⭐ One English Paragraph｜今日英文段落\nEnglish\nAcross today’s stories, technology appears not only as a tool, but also as a form of power. A restored internet connection can reopen a person’s livelihood; a chip-design strategy can reshape national competition; and a social platform can become a place where identity, faith, and culture are negotiated. To read the news carefully is to ask who gains access, who is excluded, and who gets to define progress.中文翻译\n在今天的新闻里，技术不仅是一种工具，也是一种权力形式。恢复网络连接，可能意味着一个人重新获得生计；一种芯片设计策略，可能重塑国家之间的竞争；而一个社交平台，也可能成为身份、信仰与文化被协商的场所。认真读新闻，就是要追问：谁获得了进入的机会，谁被排除在外，又是谁拥有定义“进步”的权力。\n⭐ Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nconnectivity\n网络连接水平；也可泛指人与系统之间的连接能力\nReliable connectivity is essential for online workers and small businesses.\nrescue operation\n救援行动，常用于灾害、事故、战争等语境\n\nThe rescue operation continued despite heavy rain and difficult terrain.\ninstitutional authority\n制度性权威，指宗教、国家、学校、法律等机构的规范力量\nMany young people question institutional authority while still searching for meaning.\nwearable art\n可穿戴艺术，介于服装、身体、表演和视觉艺术之间\nHer wearable art challenges the boundary between fashion and fine art.\nlatency\n延迟，尤其指数据传输或系统响应的时间差\n\nLower latency can make AI systems faster and more efficient.\n⭐ Closing Reflection｜晨间小结\n愿今天的阅读像一杯温热的茶：不急着给世界下结论，但愿意更细地看见它。"
+}

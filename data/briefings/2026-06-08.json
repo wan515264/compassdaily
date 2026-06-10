@@ -1,0 +1,227 @@
+{
+  "date": "2026-06-08",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "数字主权、技术依赖、性别暴力、文化空间与未来治理",
+  "introChinese": "今天这份小报的关键词是：数字主权、技术依赖、性别暴力、文化空间与未来治理。今天的新闻看似分散，却都在围绕一个问题展开：当世界越来越数字化，我们究竟把哪些能力交给了他人，又希望保留哪些自主权？",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "欧洲加速“数字主权”计划",
+          "summaryChinese": "欧盟近期公布一系列新措施，希望发展本土云计算、人工智能和芯片产业，减少对美国科技巨头的依赖。支持者认为这有助于增强欧洲的战略自主性；批评者则担心过度强调本土化可能影响创新与国际合作。",
+          "englishExpressions": [
+            {
+              "expression": "digital sovereignty",
+              "meaningChinese": "数字主权",
+              "example": ""
+            },
+            {
+              "expression": "strategic autonomy",
+              "meaningChinese": "战略自主",
+              "example": ""
+            },
+            {
+              "expression": "critical infrastructure",
+              "meaningChinese": "关键基础设施",
+              "example": ""
+            },
+            {
+              "expression": "technological dependence",
+              "meaningChinese": "技术依赖",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nGovernments are increasingly concerned about technological dependence.\n各国政府越来越关注技术依赖问题。"
+        },
+        {
+          "title": "欧洲议会正式将默认搜索引擎切换至 Qwant",
+          "summaryChinese": "作为技术主权战略的一部分，欧洲议会已将默认搜索引擎从 Google 调整为法国搜索引擎 Qwant。这一决定被视为支持欧洲本土数字服务的重要象征。",
+          "englishExpressions": [
+            {
+              "expression": "default search engine",
+              "meaningChinese": "默认搜索引擎",
+              "example": ""
+            },
+            {
+              "expression": "privacy-focused service",
+              "meaningChinese": "注重隐私的服务",
+              "example": ""
+            },
+            {
+              "expression": "local alternative",
+              "meaningChinese": "本土替代方案",
+              "example": ""
+            },
+            {
+              "expression": "digital ecosystem",
+              "meaningChinese": "数字生态系统",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "肯尼亚抗议者要求将性别暴力列为国家危机",
+          "summaryChinese": "在肯尼亚首都内罗毕，数百名抗议者走上街头，呼吁政府宣布性别暴力为国家危机。抗议发生在一系列针对女性的暴力案件之后，也再次引发社会对于保护机制、司法体系和公共安全的讨论。",
+          "englishExpressions": [
+            {
+              "expression": "gender-based violence",
+              "meaningChinese": "基于性别的暴力",
+              "example": ""
+            },
+            {
+              "expression": "national crisis",
+              "meaningChinese": "国家危机",
+              "example": ""
+            },
+            {
+              "expression": "public protest",
+              "meaningChinese": "公众抗议",
+              "example": ""
+            },
+            {
+              "expression": "protective measures",
+              "meaningChinese": "保护措施",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\n新闻中常出现的 GBV (Gender-Based Violence) 是联合国及国际组织广泛使用的概念，强调暴力与性别不平等结构之间的联系。"
+        },
+        {
+          "title": "法律平等与现实平等之间的距离",
+          "summaryChinese": "许多国际组织持续指出，即使法律条文保障平等，女性在就业、收入、安全和照护劳动方面仍面临结构性障碍。阅读性别新闻时，一个有用的区分是：\nformal equality（形式平等）\nsubstantive equality（实质平等）\n二者并不总是同步实现。",
+          "englishExpressions": [],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "London Gallery Weekend 展现当代艺术活力\n伦敦画廊周（London Gallery Weekend）刚刚举行，超过120家画廊参与。展览主题涉及身份认同、种族、城市更新、民俗传统与当代政治想象，成为观察英国当代艺术生态的重要窗口。\n艺术如何讲述女性经验？\n近期在印度展出的当代艺术展《Shades of Grey》聚焦女性情感经验与内在世界，通过抽象绘画讨论记忆、成长与复杂情绪。它提醒我们：艺术不仅呈现现实，也创造理解现实的新语言。",
+          "englishExpressions": [
+            {
+              "expression": "contemporary art",
+              "meaningChinese": "当代艺术",
+              "example": ""
+            },
+            {
+              "expression": "gallery weekend",
+              "meaningChinese": "画廊周",
+              "example": ""
+            },
+            {
+              "expression": "cultural landscape",
+              "meaningChinese": "文化景观",
+              "example": ""
+            },
+            {
+              "expression": "identity politics",
+              "meaningChinese": "身份政治",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini thought\n有些社会议题难以用统计数字表达，而艺术恰好提供了另一种理解方式。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "欧洲云服务企业支持减少对美国科技依赖",
+          "summaryChinese": "十三家欧洲云服务企业联合支持欧盟推动本土技术发展的计划。他们认为，在数据存储、AI模型和关键数字基础设施领域，欧洲需要建立更强的自主能力。\nAI竞争越来越像“基础设施竞争”\n专家指出，未来AI竞争不只是模型能力的竞争，也涉及芯片、数据中心、电力供应和人才体系。换句话说，AI已经从软件问题逐渐变成基础设施问题。",
+          "englishExpressions": [
+            {
+              "expression": "cloud provider",
+              "meaningChinese": "云服务提供商",
+              "example": ""
+            },
+            {
+              "expression": "data sovereignty",
+              "meaningChinese": "数据主权",
+              "example": ""
+            },
+            {
+              "expression": "AI infrastructure",
+              "meaningChinese": "AI基础设施",
+              "example": ""
+            },
+            {
+              "expression": "domestic capability",
+              "meaningChinese": "本土能力",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nAI development increasingly depends on infrastructure rather than software alone.\nAI的发展越来越依赖基础设施，而不仅仅是软件本身。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Many discussions about technology are actually discussions about power. Data, search engines, cloud services, and artificial intelligence may appear technical, but they also shape who has influence, who controls information, and who sets the rules. Understanding the news means looking beyond individual events and paying attention to the systems that make those events possible.",
+    "chinese": "许多关于技术的讨论，其实也是关于权力的讨论。数据、搜索引擎、云服务和人工智能看似是技术问题，但它们同时决定谁拥有影响力、谁控制信息、谁制定规则。理解新闻，不只是关注单个事件，更要关注让这些事件成为可能的系统。"
+  },
+  "keywords": [
+    {
+      "word": "sovereignty",
+      "meaning": "主权；自主控制能力",
+      "example": "Digital sovereignty has become a major policy goal in Europe."
+    },
+    {
+      "word": "dependency",
+      "meaning": "依赖关系",
+      "example": "The country wants to reduce dependency on foreign technology."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施",
+      "example": "AI infrastructure requires large investments in data centers."
+    },
+    {
+      "word": "ecosystem",
+      "meaning": "生态系统；相互关联的体系",
+      "example": "The company is building its own AI ecosystem."
+    },
+    {
+      "word": "protester",
+      "meaning": "抗议者",
+      "example": "Protesters called for stronger protections against violence."
+    },
+    {
+      "word": "representation",
+      "meaning": "代表性；呈现方式",
+      "example": "The exhibition explores questions of representation and identity."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "今天的小报留给我们一句话：真正重要的未来，不只是由新技术创造，也由我们决定如何使用它、规范它，以及与谁共享它。 🌿"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年6月8日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：数字主权、技术依赖、性别暴力、文化空间与未来治理。今天的新闻看似分散，却都在围绕一个问题展开：当世界越来越数字化，我们究竟把哪些能力交给了他人，又希望保留哪些自主权？\n🌟 1) Global News｜全球新闻\n欧洲加速“数字主权”计划\n欧盟近期公布一系列新措施，希望发展本土云计算、人工智能和芯片产业，减少对美国科技巨头的依赖。支持者认为这有助于增强欧洲的战略自主性；批评者则担心过度强调本土化可能影响创新与国际合作。\nEnglish key expressions\nExpression\n中文理解\ndigital sovereignty\n数字主权\nstrategic autonomy\n战略自主\ncritical infrastructure\n关键基础设施\ntechnological dependence\n技术依赖\nUseful sentence\nGovernments are increasingly concerned about technological dependence.\n各国政府越来越关注技术依赖问题。\n欧洲议会正式将默认搜索引擎切换至 Qwant\n作为技术主权战略的一部分，欧洲议会已将默认搜索引擎从 Google 调整为法国搜索引擎 Qwant。这一决定被视为支持欧洲本土数字服务的重要象征。\nEnglish key expressions\nExpression\n中文理解\ndefault search engine\n默认搜索引擎\nprivacy-focused service\n注重隐私的服务\nlocal alternative\n本土替代方案\ndigital ecosystem\n数字生态系统\n🌟 2) Gender / Culture｜性别与文化\n肯尼亚抗议者要求将性别暴力列为国家危机\n在肯尼亚首都内罗毕，数百名抗议者走上街头，呼吁政府宣布性别暴力为国家危机。抗议发生在一系列针对女性的暴力案件之后，也再次引发社会对于保护机制、司法体系和公共安全的讨论。\nEnglish key expressions\nExpression\n中文理解\ngender-based violence\n基于性别的暴力\nnational crisis\n国家危机\npublic protest\n公众抗议\nprotective measures\n保护措施\nStudy note\n新闻中常出现的 GBV (Gender-Based Violence) 是联合国及国际组织广泛使用的概念，强调暴力与性别不平等结构之间的联系。\n法律平等与现实平等之间的距离\n许多国际组织持续指出，即使法律条文保障平等，女性在就业、收入、安全和照护劳动方面仍面临结构性障碍。阅读性别新闻时，一个有用的区分是：\nformal equality（形式平等）\nsubstantive equality（实质平等）\n二者并不总是同步实现。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\nLondon Gallery Weekend 展现当代艺术活力\n伦敦画廊周（London Gallery Weekend）刚刚举行，超过120家画廊参与。展览主题涉及身份认同、种族、城市更新、民俗传统与当代政治想象，成为观察英国当代艺术生态的重要窗口。\nEnglish key expressions\nExpression\n中文理解\ncontemporary art\n当代艺术\ngallery weekend\n画廊周\ncultural landscape\n文化景观\nidentity politics\n身份政治\n艺术如何讲述女性经验？\n近期在印度展出的当代艺术展《Shades of Grey》聚焦女性情感经验与内在世界，通过抽象绘画讨论记忆、成长与复杂情绪。它提醒我们：艺术不仅呈现现实，也创造理解现实的新语言。\nMini thought\n有些社会议题难以用统计数字表达，而艺术恰好提供了另一种理解方式。\n🌟 4) AI / Tech｜AI 与科技\n欧洲云服务企业支持减少对美国科技依赖\n十三家欧洲云服务企业联合支持欧盟推动本土技术发展的计划。他们认为，在数据存储、AI模型和关键数字基础设施领域，欧洲需要建立更强的自主能力。\nEnglish key expressions\nExpression\n中文理解\ncloud provider\n云服务提供商\ndata sovereignty\n数据主权\nAI infrastructure\nAI基础设施\ndomestic capability\n本土能力\nAI竞争越来越像“基础设施竞争”\n专家指出，未来AI竞争不只是模型能力的竞争，也涉及芯片、数据中心、电力供应和人才体系。换句话说，AI已经从软件问题逐渐变成基础设施问题。\nUseful sentence\nAI development increasingly depends on infrastructure rather than software alone.\nAI的发展越来越依赖基础设施，而不仅仅是软件本身。\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nMany discussions about technology are actually discussions about power. Data, search engines, cloud services, and artificial intelligence may appear technical, but they also shape who has influence, who controls information, and who sets the rules. Understanding the news means looking beyond individual events and paying attention to the systems that make those events possible.\n中文翻译\n许多关于技术的讨论，其实也是关于权力的讨论。数据、搜索引擎、云服务和人工智能看似是技术问题，但它们同时决定谁拥有影响力、谁控制信息、谁制定规则。理解新闻，不只是关注单个事件，更要关注让这些事件成为可能的系统。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nsovereignty\n主权；自主控制能力\nDigital sovereignty has become a major policy goal in Europe.\ndependency\n依赖关系\nThe country wants to reduce dependency on foreign technology.\ninfrastructure\n基础设施\nAI infrastructure requires large investments in data centers.\necosystem\n生态系统；相互关联的体系\nThe company is building its own AI ecosystem.\nprotester\n抗议者\nProtesters called for stronger protections against violence.\nrepresentation\n代表性；呈现方式\nThe exhibition explores questions of representation and identity.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：真正重要的未来，不只是由新技术创造，也由我们决定如何使用它、规范它，以及与谁共享它。 🌿"
+}

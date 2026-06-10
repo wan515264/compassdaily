@@ -1,0 +1,215 @@
+{
+  "date": "2026-05-27",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "",
+  "introChinese": "Morning Mini-Newspaper｜早安双语新闻简报\n今天的新闻关键词有一点沉重：escalation（升级）、backlash（反弹）、oversight（监管/审查）。我们慢慢读，不追求信息轰炸，而是抓住世界正在移动的几条线索。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Ukraine｜俄罗斯威胁扩大对基辅打击，联合国呼吁避免升级\n联合国秘书长古特雷斯表示，他对俄罗斯宣布可能打击基辅的乌克兰国防企业和“决策中心”深感担忧。此前，基辅经历了近期较猛烈的轰炸之一；美联社也报道，俄罗斯连夜向乌克兰发射了上百架无人机和弹道导弹，基辅被警告可能面临更大规模袭击。\n伊朗指责美国近期对伊朗导弹设施和船只发动打击，违反了持续近七周的停火安排；与此同时，美伊仍在通过间接渠道推进可能的和平备忘录谈判。地区局势也牵动能源市场，报道称布伦特原油价格因不稳定加剧而上涨。\nThe two sides are still engaged in indirect talks.",
+          "englishExpressions": [
+            {
+              "expression": "to brace for",
+              "meaningChinese": "准备迎接，尤指坏消息或冲击",
+              "example": ""
+            },
+            {
+              "expression": "Kyiv was warned to brace for possible major strikes.",
+              "meaningChinese": "escalation：局势升级",
+              "example": ""
+            },
+            {
+              "expression": "The UN warned that further escalation would deepen civilian suffering.",
+              "meaningChinese": "civilian infrastructure：民用基础设施",
+              "example": ""
+            },
+            {
+              "expression": "Attacks on civilian infrastructure are widely condemned.",
+              "meaningChinese": "Middle East｜美国对伊朗新一轮打击引发停火争议",
+              "example": ""
+            },
+            {
+              "expression": "ceasefire",
+              "meaningChinese": "停火",
+              "example": ""
+            },
+            {
+              "expression": "Iran said the strikes violated the ceasefire.",
+              "meaningChinese": "bad faith：不诚信、缺乏诚意",
+              "example": ""
+            },
+            {
+              "expression": "Iran described the attacks as a sign of bad faith.",
+              "meaningChinese": "indirect talks：间接谈判",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "“Microfeminism” 在社交媒体流行：微小动作如何翻转性别脚本",
+          "summaryChinese": "《卫报》关注到 TikTok 上流行的 microfeminism（微女权主义）：女性通过日常小动作挑战默认的男性中心秩序，比如在问候语中把女性名字放在前面，或者有意改变一些长期被视为“自然”的性别表达。这些行动往往轻巧、幽默，却能让人看见日常性别偏见如何被反复复制。\n澳大利亚一项研究指出，部分中学女教师正在面对受网络“manosphere（男性圈层）”影响的性别羞辱、言语骚扰和课堂挑衅，一些教师因此离职。研究者呼吁学校系统更认真地处理数字文化、厌女言论与校园权力关系之间的联系。",
+          "englishExpressions": [
+            {
+              "expression": "to flip the script",
+              "meaningChinese": "反转剧本、改变既定规则",
+              "example": ""
+            },
+            {
+              "expression": "Microfeminism aims to flip the gender script.",
+              "meaningChinese": "everyday sexism：日常性别歧视",
+              "example": ""
+            },
+            {
+              "expression": "Small acts can reveal everyday sexism.",
+              "meaningChinese": "gender norms：性别规范",
+              "example": ""
+            },
+            {
+              "expression": "The trend challenges deeply ingrained gender norms.",
+              "meaningChinese": "澳大利亚女教师遭遇“男性圈层”影响下的新一轮性别歧视",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "艺术新闻：伦敦 RSA 推出新的年度夏季展",
+          "summaryChinese": "《The Art Newspaper》报道，伦敦皇家艺术、制造与商业学会 RSA 推出新的年度夏季展览。这类展览值得关注的地方，不只是“展什么”，也包括它如何重新组织公共文化空间：谁被邀请、谁被看见、谁被纳入艺术制度的叙事。",
+          "englishExpressions": [
+            {
+              "expression": "annual exhibition",
+              "meaningChinese": "年度展览",
+              "example": ""
+            },
+            {
+              "expression": "The RSA launched a new annual summer exhibition.",
+              "meaningChinese": "public cultural space：公共文化空间",
+              "example": ""
+            },
+            {
+              "expression": "Exhibitions help shape public cultural space.",
+              "meaningChinese": "visibility：可见性",
+              "example": ""
+            },
+            {
+              "expression": "Art institutions influence whose work gains visibility.",
+              "meaningChinese": "时尚新闻：五月品牌发布、快闪店与联名持续升温",
+              "example": ""
+            },
+            {
+              "expression": "ELLE",
+              "meaningChinese": "汇总了 2026 年 5 月的主要时尚发布，包括 Valentino 的限量书籍合作、Fendi 的 Baguette 项目、Chanel 东汉普顿夏季精品店，以及 Louis Vuitton 的 SoHo 快闪店。时尚新闻在这里不仅是消费信息，也呈现品牌如何通过空间、出版物和联名制造文化记忆。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "南非将重写国家 AI 政策：此前草案因虚假引用被撤回",
+          "summaryChinese": "路透社报道，南非通信部长宣布成立独立专家小组，重新修订国家 AI 政策；此前一版政策文件因包含虚假、疑似 AI 生成的参考文献而被撤回。新版政策预计将在 2027 年 1 月进入公众意见征询阶段。这个案例提醒我们：AI 不只是创新工具，也会放大治理、透明度和学术诚信问题。",
+          "englishExpressions": [
+            {
+              "expression": "fictitious references",
+              "meaningChinese": "虚假参考文献",
+              "example": ""
+            },
+            {
+              "expression": "The draft contained fictitious references.",
+              "meaningChinese": "public comment：公众意见征询",
+              "example": ""
+            },
+            {
+              "expression": "The revised policy will be released for public comment.",
+              "meaningChinese": "oversight：监督、审查、监管",
+              "example": ""
+            },
+            {
+              "expression": "The case exposed serious failures of oversight.",
+              "meaningChinese": "AI 与职场：银行业高层提醒员工“不要对抗 AI”",
+              "example": ""
+            },
+            {
+              "expression": "路透社 AI 专栏近期关注金融业对 AI 的态度变化",
+              "meaningChinese": "一些银行开始更直接地讨论 AI 对岗位的潜在替代作用，员工焦虑随之上升。对学习者来说，一个很有用的表达是 job displacement，意思是“岗位被技术替代或转移”。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows how power often moves through language before it becomes policy or violence. A warning to evacuate, a ceasefire accusation, a viral feminist phrase, or a flawed AI policy document may seem like very different stories. Yet each one reminds us that words shape public reality: they can threaten, normalize, resist, or repair. Learning to read the news carefully is therefore not only about collecting facts, but also about noticing whose language becomes authority.",
+    "chinese": "今天的新闻显示，权力常常先通过语言流动，然后才变成政策或暴力。一次撤离警告、一项停火指控、一个走红的女权词语，或一份有缺陷的 AI 政策文件，看似是完全不同的故事。但它们都提醒我们：语言会塑造公共现实。语言可以威胁、正常化、抵抗，也可以修复。因此，认真读新闻不只是收集事实，也是在观察：谁的语言会变成权威。"
+  },
+  "keywords": [
+    {
+      "word": "escalation",
+      "meaning": "升级；冲突、紧张关系或问题变得更严重",
+      "example": "Diplomats warned that further escalation could endanger civilians."
+    },
+    {
+      "word": "ceasefire",
+      "meaning": "停火；交战方暂时停止军事行动的安排",
+      "example": "The ceasefire remains fragile after the latest strikes."
+    },
+    {
+      "word": "backlash",
+      "meaning": "反弹；对某种社会变化、政策或观念的强烈反对",
+      "example": "The feminist trend emerged amid a broader backlash against gender equality."
+    },
+    {
+      "word": "oversight",
+      "meaning": "监督、监管；也可指疏忽，需看语境",
+      "example": "The AI policy scandal revealed weak oversight."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；某人或某群体被社会、媒体或制度看见的程度",
+      "example": "The exhibition increased visibility for emerging artists."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "愿今天的阅读像一盏小灯：不急着照亮全部世界，但能温柔地照出几条值得继续思考的线索。"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年5月27日\n✦ Morning Mini-Newspaper｜早安双语新闻简报\n今天的新闻关键词有一点沉重：escalation（升级）、backlash（反弹）、oversight（监管/审查）。我们慢慢读，不追求信息轰炸，而是抓住世界正在移动的几条线索。\n✦ 1. Global News｜全球新闻\nUkraine｜俄罗斯威胁扩大对基辅打击，联合国呼吁避免升级\n联合国秘书长古特雷斯表示，他对俄罗斯宣布可能打击基辅的乌克兰国防企业和“决策中心”深感担忧。此前，基辅经历了近期较猛烈的轰炸之一；美联社也报道，俄罗斯连夜向乌克兰发射了上百架无人机和弹道导弹，基辅被警告可能面临更大规模袭击。\nEnglish key expressions\nto brace for：准备迎接，尤指坏消息或冲击\nKyiv was warned to brace for possible major strikes.\nescalation：局势升级\nThe UN warned that further escalation would deepen civilian suffering.\ncivilian infrastructure：民用基础设施\nAttacks on civilian infrastructure are widely condemned.\nMiddle East｜美国对伊朗新一轮打击引发停火争议\n伊朗指责美国近期对伊朗导弹设施和船只发动打击，违反了持续近七周的停火安排；与此同时，美伊仍在通过间接渠道推进可能的和平备忘录谈判。地区局势也牵动能源市场，报道称布伦特原油价格因不稳定加剧而上涨。\nEnglish key expressions\nceasefire：停火\nIran said the strikes violated the ceasefire.\nbad faith：不诚信、缺乏诚意\nIran described the attacks as a sign of bad faith.\nindirect talks：间接谈判\nThe two sides are still engaged in indirect talks.\n✦ 2. Gender / Culture｜性别与文化\n“Microfeminism” 在社交媒体流行：微小动作如何翻转性别脚本\n《卫报》关注到 TikTok 上流行的 microfeminism（微女权主义）：女性通过日常小动作挑战默认的男性中心秩序，比如在问候语中把女性名字放在前面，或者有意改变一些长期被视为“自然”的性别表达。这些行动往往轻巧、幽默，却能让人看见日常性别偏见如何被反复复制。\nEnglish key expressions\nto flip the script：反转剧本、改变既定规则\nMicrofeminism aims to flip the gender script.\neveryday sexism：日常性别歧视\nSmall acts can reveal everyday sexism.\ngender norms：性别规范\nThe trend challenges deeply ingrained gender norms.\n澳大利亚女教师遭遇“男性圈层”影响下的新一轮性别歧视\n澳大利亚一项研究指出，部分中学女教师正在面对受网络“manosphere（男性圈层）”影响的性别羞辱、言语骚扰和课堂挑衅，一些教师因此离职。研究者呼吁学校系统更认真地处理数字文化、厌女言论与校园权力关系之间的联系。\n✦ 3. Art / Fashion / Media｜艺术、时尚与媒体\n艺术新闻：伦敦 RSA 推出新的年度夏季展\n《The Art Newspaper》报道，伦敦皇家艺术、制造与商业学会 RSA 推出新的年度夏季展览。这类展览值得关注的地方，不只是“展什么”，也包括它如何重新组织公共文化空间：谁被邀请、谁被看见、谁被纳入艺术制度的叙事。\nEnglish key expressions\nannual exhibition：年度展览\nThe RSA launched a new annual summer exhibition.\npublic cultural space：公共文化空间\nExhibitions help shape public cultural space.\nvisibility：可见性\nArt institutions influence whose work gains visibility.\n时尚新闻：五月品牌发布、快闪店与联名持续升温\nELLE 汇总了 2026 年 5 月的主要时尚发布，包括 Valentino 的限量书籍合作、Fendi 的 Baguette 项目、Chanel 东汉普顿夏季精品店，以及 Louis Vuitton 的 SoHo 快闪店。时尚新闻在这里不仅是消费信息，也呈现品牌如何通过空间、出版物和联名制造文化记忆。\n✦ 4. AI / Tech｜人工智能与科技\n南非将重写国家 AI 政策：此前草案因虚假引用被撤回\n路透社报道，南非通信部长宣布成立独立专家小组，重新修订国家 AI 政策；此前一版政策文件因包含虚假、疑似 AI 生成的参考文献而被撤回。新版政策预计将在 2027 年 1 月进入公众意见征询阶段。这个案例提醒我们：AI 不只是创新工具，也会放大治理、透明度和学术诚信问题。\nEnglish key expressions\nfictitious references：虚假参考文献\nThe draft contained fictitious references.\npublic comment：公众意见征询\nThe revised policy will be released for public comment.\noversight：监督、审查、监管\nThe case exposed serious failures of oversight.\nAI 与职场：银行业高层提醒员工“不要对抗 AI”\n路透社 AI 专栏近期关注金融业对 AI 的态度变化：一些银行开始更直接地讨论 AI 对岗位的潜在替代作用，员工焦虑随之上升。对学习者来说，一个很有用的表达是 job displacement，意思是“岗位被技术替代或转移”。\n✦ 5. One English Paragraph｜今日英文段落\nEnglish\nToday’s news shows how power often moves through language before it becomes policy or violence. A warning to evacuate, a ceasefire accusation, a viral feminist phrase, or a flawed AI policy document may seem like very different stories. Yet each one reminds us that words shape public reality: they can threaten, normalize, resist, or repair. Learning to read the news carefully is therefore not only about collecting facts, but also about noticing whose language becomes authority.\n中文翻译\n今天的新闻显示，权力常常先通过语言流动，然后才变成政策或暴力。一次撤离警告、一项停火指控、一个走红的女权词语，或一份有缺陷的 AI 政策文件，看似是完全不同的故事。但它们都提醒我们：语言会塑造公共现实。语言可以威胁、正常化、抵抗，也可以修复。因此，认真读新闻不只是收集事实，也是在观察：谁的语言会变成权威。\n✦ 6. Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nescalation\n升级；冲突、紧张关系或问题变得更严重\nDiplomats warned that further escalation could endanger civilians.\nceasefire\n停火；交战方暂时停止军事行动的安排\nThe ceasefire remains fragile after the latest strikes.\nbacklash\n反弹；对某种社会变化、政策或观念的强烈反对\nThe feminist trend emerged amid a broader backlash against gender equality.\noversight\n监督、监管；也可指疏忽，需看语境\nThe AI policy scandal revealed weak oversight.\nvisibility\n可见性；某人或某群体被社会、媒体或制度看见的程度\nThe exhibition increased visibility for emerging artists.\n✦ Closing Reflection｜晨间小结\n愿今天的阅读像一盏小灯：不急着照亮全部世界，但能温柔地照出几条值得继续思考的线索。"
+}

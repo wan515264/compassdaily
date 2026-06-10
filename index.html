@@ -1,0 +1,117 @@
+<!doctype html>
+<html lang="zh-CN">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>The Daily Compass｜每日罗盘</title>
+    <link rel="stylesheet" href="styles.css" />
+  </head>
+  <body>
+    <header class="site-nav" aria-label="主导航">
+      <a class="brand-mark" href="index.html">
+        <span class="brand-sigil" aria-hidden="true">✶</span>
+        <span>
+          <strong>The Daily Compass｜每日罗盘</strong>
+          <small>A BILINGUAL DAILY BRIEFING</small>
+        </span>
+      </a>
+      <nav class="nav-links" aria-label="页面导航">
+        <a href="#today">今日小报<span>Today</span></a>
+        <a href="#archive">往期归档<span>Archive</span></a>
+        <a href="#about">关于<span>About</span></a>
+      </nav>
+      <button class="moon-button" id="themeSwitch" type="button" aria-label="Toggle light and dark theme" aria-pressed="false">
+        <span class="theme-icon" aria-hidden="true">☾</span>
+      </button>
+    </header>
+
+    <main>
+      <section class="editorial-hero" aria-labelledby="heroTitle">
+        <div class="hero-copy">
+          <p class="eyebrow">Bilingual Global Briefing</p>
+          <h1 id="heroTitle">The Daily Compass<span>每日罗盘</span></h1>
+          <p class="hero-subtitle">
+            A bilingual daily briefing for navigating global news, culture, AI, and social change.<br />
+            一份用于理解全球资讯、文化、AI 与社会变化的双语每日小报。
+          </p>
+          <div class="hero-actions">
+            <a class="primary-button" id="readTodayLink" href="#today">阅读今日小报 / Read Today’s Briefing</a>
+            <a class="secondary-button" href="#archive">浏览往期归档 / Browse Archive</a>
+          </div>
+        </div>
+        <div class="hero-illustration" aria-hidden="true">
+          <div class="arched-window">
+            <div class="moon"></div>
+            <div class="stars"></div>
+          </div>
+          <div class="study-table">
+            <div class="candle">
+              <div class="flame"></div>
+              <div class="wick"></div>
+              <div class="wax"></div>
+            </div>
+            <div class="books"><span></span><span></span><span></span></div>
+            <div class="crystals"><span></span><span></span><span></span></div>
+            <div class="armillary"></div>
+          </div>
+          <div class="astro-chart">LUNA</div>
+        </div>
+      </section>
+
+      <section class="page-section" id="today" aria-labelledby="todayTitle">
+        <div class="section-kicker">今日小报 / Today’s Briefing</div>
+        <div class="section-heading">
+          <h2 id="todayTitle">Front Page</h2>
+          <p>Today’s quiet map of global signals, language, and reflection.</p>
+        </div>
+        <div class="today-card" id="todayBriefing">
+          <div class="empty-state">Loading today’s briefing...</div>
+        </div>
+      </section>
+
+      <section class="page-section" id="archive" aria-labelledby="archiveTitle">
+        <div class="section-kicker">往期小报 / Archive</div>
+        <div class="archive-heading">
+          <div>
+            <h2 id="archiveTitle">Library Catalogue</h2>
+            <p>Search by date, theme, or tag.</p>
+          </div>
+          <label class="archive-search">
+            <span>Search archive</span>
+            <input id="archiveSearch" type="search" placeholder="搜索日期、主题或关键词..." autocomplete="off" />
+          </label>
+          <button class="filter-button" type="button" aria-label="筛选归档">筛选 / Filter</button>
+        </div>
+        <div class="archive-grid" id="archiveList"></div>
+      </section>
+
+      <section class="page-section about-section" id="about" aria-labelledby="aboutTitle">
+        <div class="about-still-life" aria-hidden="true">
+          <span>☾</span>
+          <span>✦</span>
+          <span>◈</span>
+        </div>
+        <div>
+          <div class="section-kicker">About</div>
+          <h2 id="aboutTitle">About The Daily Compass</h2>
+        </div>
+        <div class="about-copy">
+          <p>
+            The Daily Compass｜每日罗盘 is a bilingual archive for reading global news through language, culture, technology, gender, and power.
+            It is designed for slow reading, vocabulary building, and daily reflection.
+          </p>
+          <p>
+            《每日罗盘》是一份双语全球资讯小报，用语言、文化、技术、性别与权力的线索来阅读世界。它适合慢读、积累表达、练习英文，也适合保存每天的思考。
+          </p>
+        </div>
+      </section>
+    </main>
+
+    <footer class="site-footer">
+      <strong>The Daily Compass｜每日罗盘</strong>
+      <span>Read the world slowly. Find your direction daily.</span>
+    </footer>
+
+    <script src="app.js"></script>
+  </body>
+</html>

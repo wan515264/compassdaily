@@ -1,0 +1,239 @@
+{
+  "date": "2026-05-25",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "AI as atmosphere（AI 成为空气般的存在）",
+  "introChinese": "今天的小报主题是：“AI as atmosphere（AI 成为空气般的存在）”。\n过去人们“使用软件”，而现在，科技公司越来越希望 AI 变成一种持续存在、主动行动、默默组织生活的环境。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "中东局势仍在谈判与紧张之间摇摆",
+          "summaryChinese": "CBS News 报道称，伊朗正在考虑美国最新提出的和平方案，特朗普表示愿意“再等几天”以避免局势升级。与此同时，美国继续对部分与伊朗相关的个人与组织实施制裁。\n这类新闻说明：\n国际政治很多时候并不是“战争”或“和平”的二选一，而是长期处于一种 fragile balance（脆弱平衡）之中。",
+          "englishExpressions": [
+            {
+              "expression": "peace proposal",
+              "meaningChinese": "和平方案",
+              "example": ""
+            },
+            {
+              "expression": "fragile ceasefire",
+              "meaningChinese": "脆弱停火",
+              "example": ""
+            },
+            {
+              "expression": "regional diplomacy",
+              "meaningChinese": "地区外交",
+              "example": ""
+            },
+            {
+              "expression": "Diplomats are attempting to maintain a fragile ceasefire.",
+              "meaningChinese": "外交人员正试图维持脆弱的停火局势。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "全球 AI 投资规模继续扩大",
+          "summaryChinese": "Reuters 报道，Google 与 Blackstone 将共同建立 AI 云基础设施企业，预计总投资规模可能达到 250 亿美元。行业预计，2026 年全球 AI 基础设施投资将超过 7000 亿美元。\n值得注意的是：\n如今 AI 的竞争已经不仅是“模型谁更聪明”，而是：谁拥有更多能源\n谁拥有更多芯片\n谁能建设更大的数据中心",
+          "englishExpressions": [
+            {
+              "expression": "AI infrastructure",
+              "meaningChinese": "AI 基础设施",
+              "example": ""
+            },
+            {
+              "expression": "data center expansion",
+              "meaningChinese": "数据中心扩张",
+              "example": ""
+            },
+            {
+              "expression": "capital expenditure",
+              "meaningChinese": "资本支出",
+              "example": ""
+            },
+            {
+              "expression": "Tech companies are dramatically increasing capital expenditure on AI.",
+              "meaningChinese": "科技公司正在大幅增加 AI 资本支出。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "全球经济进入“高技术投入时代”",
+          "summaryChinese": "经济媒体观察到，即使全球消费增长放缓，AI 相关产业仍持续吸引大量资金。投资者如今越来越把 AI 看作一种“基础经济方向”，类似过去的互联网或电力系统。",
+          "englishExpressions": [
+            {
+              "expression": "economic transition",
+              "meaningChinese": "经济转型",
+              "example": ""
+            },
+            {
+              "expression": "long-term investment",
+              "meaningChinese": "长期投资",
+              "example": ""
+            },
+            {
+              "expression": "market optimism",
+              "meaningChinese": "市场乐观情绪",
+              "example": ""
+            },
+            {
+              "expression": "Investors continue to show optimism about long-term AI growth.",
+              "meaningChinese": "投资者依然对 AI 的长期增长保持乐观。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "“理想 AI 助手”为什么总是温柔的？\n越来越多 AI 产品强调：\n温柔语气\n情绪陪伴\n日程整理\n主动提醒\n关怀感\n但文化研究与女性主义视角会提出一个很关键的问题：\n为什么“照顾别人”“情绪稳定”“随时回应”这些能力，总被默认设计成 feminine（女性化）的？\n很多 AI assistants 的人格设计，其实继承了传统社会对女性服务劳动的期待：\n永远耐心、永远在线、永远不抱怨。\n这很值得观察。",
+          "englishExpressions": [
+            {
+              "expression": "emotional labour",
+              "meaningChinese": "情感劳动",
+              "example": ""
+            },
+            {
+              "expression": "gendered design",
+              "meaningChinese": "性别化设计",
+              "example": ""
+            },
+            {
+              "expression": "digital care",
+              "meaningChinese": "数字化照护",
+              "example": ""
+            },
+            {
+              "expression": "Some researchers argue that AI assistants reflect gendered design assumptions.",
+              "meaningChinese": "一些研究者认为 AI 助手体现了性别化设计假设。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Google 智能眼镜回归：屏幕正在“消失”\nThe Guardian 报道，Google 在 I/O 2026 宣布重新进入智能眼镜市场，并与 Samsung、Warby Parker 等合作开发新产品。\n新的智能眼镜强调：\n语音交互\n实时视觉识别\n与 Gemini AI 深度整合\n它背后的趋势其实是：\ntechnology is becoming ambient\n技术正在“环境化”也就是说，未来科技可能不再需要被“打开”，而会持续存在于视野与日常生活中。\n时尚媒体继续观察到，“quiet luxury（静奢风）”依然影响服装与消费趋势：",
+          "englishExpressions": [
+            {
+              "expression": "smart eyewear",
+              "meaningChinese": "智能眼镜",
+              "example": ""
+            },
+            {
+              "expression": "ambient computing",
+              "meaningChinese": "环境式计算",
+              "example": ""
+            },
+            {
+              "expression": "wearable devices",
+              "meaningChinese": "可穿戴设备",
+              "example": ""
+            },
+            {
+              "expression": "Ambient computing aims to integrate technology seamlessly into daily life.",
+              "meaningChinese": "环境式计算希望将技术无缝融入日常生活。",
+              "example": ""
+            },
+            {
+              "expression": "Quiet luxury",
+              "meaningChinese": "仍然流行",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "中性色",
+          "summaryChinese": "经典剪裁\n不明显 logo\n长期主义消费\n它很像一种经济与文化情绪：\n在变化太快的时候，人们更渴望“稳定感”。\ntimeless fashion = 不易过时的时尚\nConsumers are increasingly drawn to timeless fashion and practicality.\n消费者越来越被经典耐久与实用性风格吸引。",
+          "englishExpressions": [],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Google I/O 2026：正式进入 “Agentic Gemini Era”\nGoogle 在 I/O 2026 上反复强调：\nagentic AI\n具代理能力的 AI\nGoogle 表示，Gemini 不再只是聊天工具，而会：\n主动执行任务\n长时间后台运行\n整合 Gmail、Calendar、Search\n替用户组织信息与行动\nGoogle 官方甚至把这称为：\n“the Agentic Gemini Era”\n同时，Google Search 迎来“25 年来最大升级”，AI agents 将越来越深地参与搜索过程。\nBusiness Insider 也提到，Google 的 AI 方向已经明显从：\nanswering → acting\n回答问题 → 主动行动\n今天很值得记住的一句话：\nAI is shifting from interface to infrastructure.\nAI 正从“界面工具”变成“基础设施”。",
+          "englishExpressions": [],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "The newest generation of AI systems is designed not only to answer questions, but also to organize information, automate tasks, and act continuously in the background of everyday life. This changes the relationship between humans and technology. AI is becoming less visible as a tool and more present as an environment. At the same time, cultural debates remind us that every technology also carries assumptions about labour, care, efficiency, and power.",
+    "chinese": "最新一代 AI 系统不仅被设计来回答问题，也被设计来整理信息、自动执行任务，并持续在日常生活后台运行。这正在改变人与技术之间的关系。AI 不再只是一个可见的工具，而越来越像一种环境。同时，文化讨论提醒我们：每一种技术也都会携带关于劳动、照护、效率与权力的假设。"
+  },
+  "keywords": [
+    {
+      "word": "agentic AI",
+      "meaning": "具代理能力的 AI",
+      "example": "Agentic AI can perform tasks autonomously."
+    },
+    {
+      "word": "ambient computing",
+      "meaning": "环境式计算",
+      "example": "Ambient computing blends technology into daily life."
+    },
+    {
+      "word": "fragile ceasefire",
+      "meaning": "脆弱停火",
+      "example": "Diplomats are trying to maintain a fragile ceasefire."
+    },
+    {
+      "word": "emotional labour",
+      "meaning": "情感劳动",
+      "example": "Emotional labour is often invisible but exhausting."
+    },
+    {
+      "word": "capital expenditure",
+      "meaning": "资本支出",
+      "example": "AI companies are increasing capital expenditure rapidly."
+    },
+    {
+      "word": "timeless fashion",
+      "meaning": "不易过时的时尚",
+      "example": "Timeless fashion remains popular during uncertain times."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "When technology becomes invisible and constant, the most important question may no longer be what it can do, but what kind of world it quietly teaches people to accept.",
+    "chinese": ""
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "2026年5月25日\n今天的小报主题是：“AI as atmosphere（AI 成为空气般的存在）”。\n过去人们“使用软件”，而现在，科技公司越来越希望 AI 变成一种持续存在、主动行动、默默组织生活的环境。\n⭐ 1. Global News｜全球新闻\n1｜中东局势仍在谈判与紧张之间摇摆\nCBS News 报道称，伊朗正在考虑美国最新提出的和平方案，特朗普表示愿意“再等几天”以避免局势升级。与此同时，美国继续对部分与伊朗相关的个人与组织实施制裁。\n这类新闻说明：\n国际政治很多时候并不是“战争”或“和平”的二选一，而是长期处于一种 fragile balance（脆弱平衡）之中。\nEnglish expressions\nExpression\n中文\npeace proposal\n和平方案\nfragile ceasefire\n\n脆弱停火\nregional diplomacy\n地区外交\nExample sentence\nDiplomats are attempting to maintain a fragile ceasefire.\n外交人员正试图维持脆弱的停火局势。\n2｜全球 AI 投资规模继续扩大\nReuters 报道，Google 与 Blackstone 将共同建立 AI 云基础设施企业，预计总投资规模可能达到 250 亿美元。行业预计，2026 年全球 AI 基础设施投资将超过 7000 亿美元。\n值得注意的是：\n如今 AI 的竞争已经不仅是“模型谁更聪明”，而是：谁拥有更多能源\n谁拥有更多芯片\n谁能建设更大的数据中心\nEnglish expressions\nExpression\n中文\nAI infrastructure\nAI 基础设施\ndata center expansion\n数据中心扩张\ncapital expenditure\n资本支出\nExample sentence\nTech companies are dramatically increasing capital expenditure on AI.\n科技公司正在大幅增加 AI 资本支出。\n3｜全球经济进入“高技术投入时代”\n经济媒体观察到，即使全球消费增长放缓，AI 相关产业仍持续吸引大量资金。投资者如今越来越把 AI 看作一种“基础经济方向”，类似过去的互联网或电力系统。\nEnglish expressions\nExpression\n中文\neconomic transition\n经济转型\nlong-term investment\n长期投资\nmarket optimism\n市场乐观情绪\nExample sentence\nInvestors continue to show optimism about long-term AI growth.\n投资者依然对 AI 的长期增长保持乐观。\n⭐ 2. Gender / Culture｜性别与文化\n“理想 AI 助手”为什么总是温柔的？\n越来越多 AI 产品强调：\n温柔语气\n情绪陪伴\n日程整理\n主动提醒\n关怀感\n但文化研究与女性主义视角会提出一个很关键的问题：\n为什么“照顾别人”“情绪稳定”“随时回应”这些能力，总被默认设计成 feminine（女性化）的？\n很多 AI assistants 的人格设计，其实继承了传统社会对女性服务劳动的期待：\n永远耐心、永远在线、永远不抱怨。\n这很值得观察。\nEnglish expressions\nExpression\n中文\nemotional labour\n\n情感劳动\ngendered design\n性别化设计\ndigital care\n数字化照护\nExample sentence\nSome researchers argue that AI assistants reflect gendered design assumptions.\n一些研究者认为 AI 助手体现了性别化设计假设。\n⭐ 3. Art / Fashion / Media｜艺术、时尚与媒介\nGoogle 智能眼镜回归：屏幕正在“消失”\nThe Guardian 报道，Google 在 I/O 2026 宣布重新进入智能眼镜市场，并与 Samsung、Warby Parker 等合作开发新产品。\n新的智能眼镜强调：\n语音交互\n实时视觉识别\n与 Gemini AI 深度整合\n它背后的趋势其实是：\ntechnology is becoming ambient\n技术正在“环境化”也就是说，未来科技可能不再需要被“打开”，而会持续存在于视野与日常生活中。\nEnglish expressions\nExpression\n中文\nsmart eyewear\n智能眼镜\nambient computing\n环境式计算\nwearable devices\n可穿戴设备\nExample sentence\nAmbient computing aims to integrate technology seamlessly into daily life.\n环境式计算希望将技术无缝融入日常生活。\nQuiet luxury 仍然流行\n时尚媒体继续观察到，“quiet luxury（静奢风）”依然影响服装与消费趋势：\n中性色\n经典剪裁\n不明显 logo\n长期主义消费\n它很像一种经济与文化情绪：\n在变化太快的时候，人们更渴望“稳定感”。\nEnglish expression\ntimeless fashion = 不易过时的时尚\nExample sentence\nConsumers are increasingly drawn to timeless fashion and practicality.\n消费者越来越被经典耐久与实用性风格吸引。\n⭐ 4. AI / Tech｜AI 与科技\nGoogle I/O 2026：正式进入 “Agentic Gemini Era”\nGoogle 在 I/O 2026 上反复强调：\nagentic AI\n具代理能力的 AI\nGoogle 表示，Gemini 不再只是聊天工具，而会：\n主动执行任务\n长时间后台运行\n整合 Gmail、Calendar、Search\n替用户组织信息与行动\nGoogle 官方甚至把这称为：\n“the Agentic Gemini Era”\n同时，Google Search 迎来“25 年来最大升级”，AI agents 将越来越深地参与搜索过程。\nBusiness Insider 也提到，Google 的 AI 方向已经明显从：\nanswering → acting\n回答问题 → 主动行动\n今天很值得记住的一句话：\nAI is shifting from interface to infrastructure.\nAI 正从“界面工具”变成“基础设施”。\n⭐ 5. One English Paragraph｜今日英文阅读\nThe newest generation of AI systems is designed not only to answer questions, but also to organize information, automate tasks, and act continuously in the background of everyday life. This changes the relationship between humans and technology. AI is becoming less visible as a tool and more present as an environment. At the same time, cultural debates remind us that every technology also carries assumptions about labour, care, efficiency, and power.\n中文翻译\n最新一代 AI 系统不仅被设计来回答问题，也被设计来整理信息、自动执行任务，并持续在日常生活后台运行。这正在改变人与技术之间的关系。AI 不再只是一个可见的工具，而越来越像一种环境。同时，文化讨论提醒我们：每一种技术也都会携带关于劳动、照护、效率与权力的假设。\n⭐ 6. Today’s Keywords｜今日关键词\nEnglish\n中文解释\nExample sentence\nagentic AI\n具代理能力的 AI\nAgentic AI can perform tasks autonomously.\nambient computing\n环境式计算\nAmbient computing blends technology into daily life.\nfragile ceasefire\n脆弱停火\nDiplomats are trying to maintain a fragile ceasefire.\nemotional labour\n情感劳动\nEmotional labour is often invisible but exhausting.\ncapital expenditure\n资本支出\nAI companies are increasing capital expenditure rapidly.\ntimeless fashion\n不易过时的时尚\nTimeless fashion remains popular during uncertain times.\n⭐ 7. Reflective Closing｜今日思考\nWhen technology becomes invisible and constant, the most important question may no longer be what it can do, but what kind of world it quietly teaches people to accept."
+}

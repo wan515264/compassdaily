@@ -1,0 +1,269 @@
+{
+  "date": "2026-06-05",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "AI 监管、技术主权、性别暴力、艺术可及性、基础设施与社会风险",
+  "introChinese": "今天这份小报的关键词是：AI 监管、技术主权、性别暴力、艺术可及性、基础设施与社会风险。今天的新闻都在提醒我们：所谓“系统”，常常藏在看似单独的事件背后。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "中东：美伊停火方案仍在僵持中",
+          "summaryChinese": "路透社报道，伊朗仍在研究一项由美国提出、旨在停止冲突的协议方案；美国方面则表示谈判仍在持续。这个新闻值得关注，不只是因为地区安全，也因为中东局势会牵动能源价格、国际市场和外交联盟。",
+          "englishExpressions": [
+            {
+              "expression": "ceasefire deal",
+              "meaningChinese": "停火协议",
+              "example": ""
+            },
+            {
+              "expression": "peace negotiations",
+              "meaningChinese": "和平谈判",
+              "example": ""
+            },
+            {
+              "expression": "diplomatic stalemate",
+              "meaningChinese": "外交僵局",
+              "example": ""
+            },
+            {
+              "expression": "regional security",
+              "meaningChinese": "地区安全",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nThe proposed ceasefire deal is still under review.\n这项停火协议提案仍在审议中。"
+        },
+        {
+          "title": "欧洲：欧盟继续推动“欧洲制造”的科技政策",
+          "summaryChinese": "欧盟委员会提出新法案，试图扶持本土云计算、AI 和半导体产业，减少对美国大型科技公司的依赖。这类政策背后有一个重要词：tech sovereignty，也就是技术主权。它不仅关乎技术，也关乎谁控制数据、基础设施和公共部门的数字系统。",
+          "englishExpressions": [
+            {
+              "expression": "tech sovereignty",
+              "meaningChinese": "技术主权",
+              "example": ""
+            },
+            {
+              "expression": "domestic industry",
+              "meaningChinese": "本土产业",
+              "example": ""
+            },
+            {
+              "expression": "reduce reliance on",
+              "meaningChinese": "减少对……的依赖",
+              "example": ""
+            },
+            {
+              "expression": "strategic autonomy",
+              "meaningChinese": "战略自主",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "阿根廷：两名少女遇害再次引发反性别暴力愤怒",
+          "summaryChinese": "《卫报》报道，阿根廷两名少女 Agostina Vega 和 Dulce Candia 近日遇害，引发公众愤怒，也再次把该国长期存在的 femicide crisis 推到舆论中心。报道指出，这些案件发生在年度 Ni Una Menos 抗议前后，抗议者批评政府削弱性别暴力防治机制。",
+          "englishExpressions": [
+            {
+              "expression": "gender-based violence",
+              "meaningChinese": "基于性别的暴力",
+              "example": ""
+            },
+            {
+              "expression": "femicide crisis",
+              "meaningChinese": "杀害女性危机",
+              "example": ""
+            },
+            {
+              "expression": "public outrage",
+              "meaningChinese": "公众愤怒",
+              "example": ""
+            },
+            {
+              "expression": "support systems",
+              "meaningChinese": "支持系统 / 援助机制",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\nFemicide 不只是 “the murder of a woman”。它强调女性被杀与性别权力结构、厌女文化、亲密关系暴力或制度保护失效之间的联系。\nUseful sentence\nFeminist groups say the cases reveal systemic failures in protecting women and girls.\n女性主义团体表示，这些案件暴露了保护女性和女孩方面的系统性失灵。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "伦敦艺术现场：画廊周与城市文化空间",
+          "summaryChinese": "《卫报》艺术版近期继续关注伦敦的当代艺术展览与画廊活动，其中 London Gallery Weekend 被视为观察城市艺术生态的重要窗口。画廊周不只是“看展”，也能让我们思考：谁能进入文化空间？哪些艺术家被展示？哪些议题被市场吸收？",
+          "englishExpressions": [
+            {
+              "expression": "contemporary art scene",
+              "meaningChinese": "当代艺术生态",
+              "example": ""
+            },
+            {
+              "expression": "gallery weekend",
+              "meaningChinese": "画廊周",
+              "example": ""
+            },
+            {
+              "expression": "cultural access",
+              "meaningChinese": "文化可及性",
+              "example": ""
+            },
+            {
+              "expression": "public engagement",
+              "meaningChinese": "公众参与",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini thought\n艺术新闻有时不只是关于作品本身，也关于城市如何分配注意力、空间和资源。"
+        },
+        {
+          "title": "时尚作为艺术：Met 展览继续引发讨论",
+          "summaryChinese": "年 Met 相关时尚展览以“fashion as art”为核心，把服装放进更广阔的艺术史与身体政治语境中讨论。这个角度很适合从性别研究视角阅读：衣服既是审美对象，也是身体、阶级、劳动和身份表达的交汇点。",
+          "englishExpressions": [
+            {
+              "expression": "fashion as art",
+              "meaningChinese": "作为艺术的时尚",
+              "example": ""
+            },
+            {
+              "expression": "Costume Institute",
+              "meaningChinese": "服装学院 / 服饰研究机构",
+              "example": ""
+            },
+            {
+              "expression": "visual culture",
+              "meaningChinese": "视觉文化",
+              "example": ""
+            },
+            {
+              "expression": "body politics",
+              "meaningChinese": "身体政治",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "美国：两党议员提出 AI 监管草案，限制各州单独监管模型开发",
+          "summaryChinese": "路透社报道，美国众议院两名议员提出一项两党 AI 法案草案，试图禁止各州单独监管 AI 模型的开发，例如要求模型发布前测试。不过，各州仍可监管 AI 的具体使用方式。支持者认为全国统一标准有利于创新；批评者则担心它无法充分处理算法偏见、歧视、消费者欺诈和市场集中等问题。",
+          "englishExpressions": [
+            {
+              "expression": "AI regulation",
+              "meaningChinese": "AI 监管",
+              "example": ""
+            },
+            {
+              "expression": "pre-release testing",
+              "meaningChinese": "发布前测试",
+              "example": ""
+            },
+            {
+              "expression": "national framework",
+              "meaningChinese": "全国性框架",
+              "example": ""
+            },
+            {
+              "expression": "algorithmic bias",
+              "meaningChinese": "算法偏见",
+              "example": ""
+            },
+            {
+              "expression": "AI infrastructure boom",
+              "meaningChinese": "AI 基础设施热潮",
+              "example": ""
+            },
+            {
+              "expression": "debt markets",
+              "meaningChinese": "债务市场",
+              "example": ""
+            },
+            {
+              "expression": "data centers",
+              "meaningChinese": "数据中心",
+              "example": ""
+            },
+            {
+              "expression": "capital spending",
+              "meaningChinese": "资本支出",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nThe draft bill reflects a broader struggle over who should regulate AI.\n这项法案草案反映出一个更大的争议：AI 应该由谁来监管？\nAI 基建热潮正在影响金融市场\n路透社分析称，AI 建设热潮不仅推高科技股，也开始影响债券市场。Meta、Oracle 等科技公司今年已在全球债务市场融资约 2500 亿美元，用于支撑数据中心和 AI 基础设施建设。AI 不再只是软件故事，它越来越像能源、地产、金融和供应链共同参与的基础设施故事。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows that power often appears through infrastructure. AI systems need data centers, chips, electricity, financing, and regulation. Cultural events need galleries, institutions, funding, and audiences. Protection against gender-based violence needs laws, shelters, reporting systems, and political will. To read the news carefully is to ask not only what happened, but also what structures made it possible.",
+    "chinese": "今天的新闻显示，权力常常通过基础设施显现出来。AI 系统需要数据中心、芯片、电力、融资和监管。文化活动需要画廊、机构、资金和观众。防止性别暴力需要法律、庇护所、报告系统和政治意愿。认真阅读新闻，不只是问“发生了什么”，也要问“是什么结构让它成为可能”。"
+  },
+  "keywords": [
+    {
+      "word": "ceasefire",
+      "meaning": "停火；冲突双方暂时停止军事行动",
+      "example": "The two sides are still discussing a ceasefire."
+    },
+    {
+      "word": "sovereignty",
+      "meaning": "主权；自主控制权",
+      "example": "Tech sovereignty has become a major policy goal in Europe."
+    },
+    {
+      "word": "femicide",
+      "meaning": "女性因性别而被杀害，常与结构性暴力相关",
+      "example": "Activists described the case as femicide."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑系统运行的物质与制度条件",
+      "example": "AI infrastructure requires enormous investment."
+    },
+    {
+      "word": "algorithmic bias",
+      "meaning": "算法偏见；算法系统中 reproduces inequality 的倾向",
+      "example": "Researchers warned that algorithmic bias can deepen discrimination."
+    },
+    {
+      "word": "public outrage",
+      "meaning": "公众愤怒；大规模社会不满",
+      "example": "The murders sparked public outrage across the country."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "今天的小报留给我们一句话：真正的新闻阅读，是在事件之外，看见制度、资源和沉默如何共同塑造世界。 🌿"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年6月5日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：AI 监管、技术主权、性别暴力、艺术可及性、基础设施与社会风险。今天的新闻都在提醒我们：所谓“系统”，常常藏在看似单独的事件背后。\n🌟 1) Global News｜全球新闻\n中东：美伊停火方案仍在僵持中\n路透社报道，伊朗仍在研究一项由美国提出、旨在停止冲突的协议方案；美国方面则表示谈判仍在持续。这个新闻值得关注，不只是因为地区安全，也因为中东局势会牵动能源价格、国际市场和外交联盟。\nEnglish key expressions\nExpression\n中文理解\nceasefire deal\n停火协议\npeace negotiations\n和平谈判\ndiplomatic stalemate\n外交僵局\nregional security\n地区安全\nUseful sentence\nThe proposed ceasefire deal is still under review.\n这项停火协议提案仍在审议中。\n欧洲：欧盟继续推动“欧洲制造”的科技政策\n欧盟委员会提出新法案，试图扶持本土云计算、AI 和半导体产业，减少对美国大型科技公司的依赖。这类政策背后有一个重要词：tech sovereignty，也就是技术主权。它不仅关乎技术，也关乎谁控制数据、基础设施和公共部门的数字系统。\nEnglish key expressions\nExpression\n中文理解\ntech sovereignty\n技术主权\ndomestic industry\n本土产业\nreduce reliance on\n减少对……的依赖\nstrategic autonomy\n战略自主\n🌟 2) Gender / Culture｜性别与文化\n阿根廷：两名少女遇害再次引发反性别暴力愤怒\n《卫报》报道，阿根廷两名少女 Agostina Vega 和 Dulce Candia 近日遇害，引发公众愤怒，也再次把该国长期存在的 femicide crisis 推到舆论中心。报道指出，这些案件发生在年度 Ni Una Menos 抗议前后，抗议者批评政府削弱性别暴力防治机制。\nEnglish key expressions\nExpression\n中文理解\ngender-based violence\n基于性别的暴力\nfemicide crisis\n杀害女性危机\npublic outrage\n公众愤怒\nsupport systems\n支持系统 / 援助机制\nStudy note\nFemicide 不只是 “the murder of a woman”。它强调女性被杀与性别权力结构、厌女文化、亲密关系暴力或制度保护失效之间的联系。\nUseful sentence\nFeminist groups say the cases reveal systemic failures in protecting women and girls.\n女性主义团体表示，这些案件暴露了保护女性和女孩方面的系统性失灵。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\n伦敦艺术现场：画廊周与城市文化空间\n《卫报》艺术版近期继续关注伦敦的当代艺术展览与画廊活动，其中 London Gallery Weekend 被视为观察城市艺术生态的重要窗口。画廊周不只是“看展”，也能让我们思考：谁能进入文化空间？哪些艺术家被展示？哪些议题被市场吸收？\nEnglish key expressions\nExpression\n中文理解\ncontemporary art scene\n当代艺术生态\ngallery weekend\n画廊周\ncultural access\n文化可及性\npublic engagement\n公众参与\nMini thought\n艺术新闻有时不只是关于作品本身，也关于城市如何分配注意力、空间和资源。\n时尚作为艺术：Met 展览继续引发讨论\n2026 年 Met 相关时尚展览以“fashion as art”为核心，把服装放进更广阔的艺术史与身体政治语境中讨论。这个角度很适合从性别研究视角阅读：衣服既是审美对象，也是身体、阶级、劳动和身份表达的交汇点。\nEnglish key expressions\nExpression\n中文理解\nfashion as art\n作为艺术的时尚\nCostume Institute\n服装学院 / 服饰研究机构\nvisual culture\n视觉文化\nbody politics\n身体政治\n🌟 4) AI / Tech｜AI 与科技\n美国：两党议员提出 AI 监管草案，限制各州单独监管模型开发\n路透社报道，美国众议院两名议员提出一项两党 AI 法案草案，试图禁止各州单独监管 AI 模型的开发，例如要求模型发布前测试。不过，各州仍可监管 AI 的具体使用方式。支持者认为全国统一标准有利于创新；批评者则担心它无法充分处理算法偏见、歧视、消费者欺诈和市场集中等问题。\nEnglish key expressions\nExpression\n中文理解\nAI regulation\nAI 监管\npre-release testing\n发布前测试\nnational framework\n全国性框架\nalgorithmic bias\n算法偏见\nUseful sentence\nThe draft bill reflects a broader struggle over who should regulate AI.\n这项法案草案反映出一个更大的争议：AI 应该由谁来监管？\nAI 基建热潮正在影响金融市场\n路透社分析称，AI 建设热潮不仅推高科技股，也开始影响债券市场。Meta、Oracle 等科技公司今年已在全球债务市场融资约 2500 亿美元，用于支撑数据中心和 AI 基础设施建设。AI 不再只是软件故事，它越来越像能源、地产、金融和供应链共同参与的基础设施故事。\nEnglish key expressions\nExpression\n中文理解\nAI infrastructure boom\nAI 基础设施热潮\ndebt markets\n债务市场\ndata centers\n数据中心\ncapital spending\n资本支出\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nToday’s news shows that power often appears through infrastructure. AI systems need data centers, chips, electricity, financing, and regulation. Cultural events need galleries, institutions, funding, and audiences. Protection against gender-based violence needs laws, shelters, reporting systems, and political will. To read the news carefully is to ask not only what happened, but also what structures made it possible.中文翻译\n今天的新闻显示，权力常常通过基础设施显现出来。AI 系统需要数据中心、芯片、电力、融资和监管。文化活动需要画廊、机构、资金和观众。防止性别暴力需要法律、庇护所、报告系统和政治意愿。认真阅读新闻，不只是问“发生了什么”，也要问“是什么结构让它成为可能”。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nceasefire\n停火；冲突双方暂时停止军事行动\nThe two sides are still discussing a ceasefire.\nsovereignty\n主权；自主控制权\nTech sovereignty has become a major policy goal in Europe.\nfemicide\n女性因性别而被杀害，常与结构性暴力相关\nActivists described the case as femicide.\ninfrastructure\n基础设施；支撑系统运行的物质与制度条件\nAI infrastructure requires enormous investment.\nalgorithmic bias\n算法偏见；算法系统中 reproduces inequality 的倾向\nResearchers warned that algorithmic bias can deepen discrimination.\npublic outrage\n公众愤怒；大规模社会不满\nThe murders sparked public outrage across the country.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：真正的新闻阅读，是在事件之外，看见制度、资源和沉默如何共同塑造世界。 🌿"
+}

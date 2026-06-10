@@ -1,0 +1,269 @@
+{
+  "date": "2026-06-04",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "停火谈判、极端高温、性别暴力、文化可及性、AI 基础设施与技术主权",
+  "introChinese": "今天这份小报的关键词是：停火谈判、极端高温、性别暴力、文化可及性、AI 基础设施与技术主权。像翻一张安静的报纸一样读，不用急。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "中东：美国称与伊朗谈判持续，停火方案仍在讨论中",
+          "summaryChinese": "路透社报道，美国方面表示，与伊朗有关停火/和平安排的谈判仍在继续；伊朗方面则仍在研究相关方案。市场也在关注中东局势对能源价格和全球风险情绪的影响。",
+          "englishExpressions": [
+            {
+              "expression": "ceasefire proposal",
+              "meaningChinese": "停火提案",
+              "example": ""
+            },
+            {
+              "expression": "peace talks",
+              "meaningChinese": "和平谈判",
+              "example": ""
+            },
+            {
+              "expression": "stalemate persists",
+              "meaningChinese": "僵局仍在持续",
+              "example": ""
+            },
+            {
+              "expression": "market sentiment",
+              "meaningChinese": "市场情绪",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nNegotiations are continuing, but a lasting agreement remains uncertain.\n谈判仍在继续，但能否达成持久协议仍不确定。"
+        },
+        {
+          "title": "联合国警告：厄尔尼诺或推高全球极端高温风险",
+          "summaryChinese": "联合国相关机构警告，可能出现的强厄尔尼诺现象会进一步推高全球气温，并带来热浪、强降雨等风险。这个新闻不只是“天气新闻”，也关乎公共卫生、农业、贫困人口和城市基础设施承压。",
+          "englishExpressions": [
+            {
+              "expression": "extreme heat risk",
+              "meaningChinese": "极端高温风险",
+              "example": ""
+            },
+            {
+              "expression": "above-average temperatures",
+              "meaningChinese": "高于平均水平的气温",
+              "example": ""
+            },
+            {
+              "expression": "heavy rainfall",
+              "meaningChinese": "强降雨",
+              "example": ""
+            },
+            {
+              "expression": "climate warning",
+              "meaningChinese": "气候警告",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "阿根廷：少女遇害案再次点燃反性别暴力抗议",
+          "summaryChinese": "美联社报道，阿根廷 14 岁少女 Agostina Vega 遇害案引发全国愤怒，也让 11 年前推动 Ni Una Menos 运动的女性主义抗议记忆重新浮现。报道指出，抗议者不仅要求个案正义，也批评政府削减性别暴力防治项目。",
+          "englishExpressions": [
+            {
+              "expression": "gender-based violence",
+              "meaningChinese": "基于性别的暴力",
+              "example": ""
+            },
+            {
+              "expression": "femicide",
+              "meaningChinese": "杀害女性 / 女性因性别而被杀害",
+              "example": ""
+            },
+            {
+              "expression": "mass protests",
+              "meaningChinese": "大规模抗议",
+              "example": ""
+            },
+            {
+              "expression": "hard-won rights",
+              "meaningChinese": "来之不易的权利",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\nFemicide 不是普通的 “murder”。它强调女性被杀与性别权力结构、厌女文化、亲密关系暴力或国家保护失效之间的关联。\nUN Women：气候危机时代的性别平等\nUN Women 最新材料继续把气候危机与性别平等放在一起讨论，强调气候变化会放大既有的不平等，尤其影响女性、女孩和性别多元群体的生计、安全与照护劳动。\nUseful phrase\nThe climate crisis is not gender-neutral.\n气候危机并不是性别中立的。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "London Gallery Weekend：当代艺术在城市中展开\n《卫报》报道，2026 年 London Gallery Weekend 将于 6 月 5–7 日举行，集合伦敦多家画廊、展览、表演、讲座与诗歌活动。推荐展览涉及 Francis Picabia、Anne Imhof、Keith Piper、Helen Marten 等艺术家，主题横跨身份、民俗、种族图像、男性气质与城市更新。",
+          "englishExpressions": [
+            {
+              "expression": "contemporary art scene",
+              "meaningChinese": "当代艺术生态",
+              "example": ""
+            },
+            {
+              "expression": "citywide programme",
+              "meaningChinese": "覆盖全城的项目",
+              "example": ""
+            },
+            {
+              "expression": "politically charged",
+              "meaningChinese": "具有政治意味的",
+              "example": ""
+            },
+            {
+              "expression": "identity and folklore",
+              "meaningChinese": "身份与民俗",
+              "example": ""
+            },
+            {
+              "expression": "capsule collection",
+              "meaningChinese": "胶囊系列",
+              "example": ""
+            },
+            {
+              "expression": "accessible design",
+              "meaningChinese": "更可及的设计",
+              "example": ""
+            },
+            {
+              "expression": "creative collaboration",
+              "meaningChinese": "创意合作",
+              "example": ""
+            },
+            {
+              "expression": "see-now-buy-now model",
+              "meaningChinese": "即看即买模式",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini thought\n画廊周不只是看展，也是观察一座城市如何把艺术、资本、公共空间和文化记忆编织在一起。\nMango x Eckhaus Latta：快时尚与实验设计的合作\nVogue 报道，Mango 与纽约品牌 Eckhaus Latta 推出夏季胶囊系列，包含轻薄针织、手工感配饰、自然纹样等元素。这类合作很值得从时尚研究角度看：独立设计语言如何被大众品牌吸收？“可及性”与“商业化”之间如何拉扯？"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Foxconn 与 Intel 合作建设新一代 AI 系统\n路透社报道，Foxconn 与 Intel 宣布战略合作，计划共同开发和部署下一代 AI 基础设施与智能计算平台，重点包括 AI 数据中心设备、服务器机架、高速互连、冷却设计和能源效率。",
+          "englishExpressions": [
+            {
+              "expression": "AI infrastructure",
+              "meaningChinese": "AI 基础设施",
+              "example": ""
+            },
+            {
+              "expression": "server racks",
+              "meaningChinese": "服务器机架",
+              "example": ""
+            },
+            {
+              "expression": "energy efficiency",
+              "meaningChinese": "能源效率",
+              "example": ""
+            },
+            {
+              "expression": "system integration",
+              "meaningChinese": "系统整合",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "欧洲议会改用法国搜索引擎 Qwant：技术主权成为关键词",
+          "summaryChinese": "路透社报道，欧洲议会将把默认搜索引擎从 Google 改为法国搜索引擎 Qwant，作为推动欧洲“技术主权”的一部分。与此同时，欧盟也在推进云计算、AI、半导体等领域的本土化政策，以减少对美国大型科技公司的依赖。",
+          "englishExpressions": [
+            {
+              "expression": "tech sovereignty",
+              "meaningChinese": "技术主权",
+              "example": ""
+            },
+            {
+              "expression": "reduce reliance on",
+              "meaningChinese": "减少对……的依赖",
+              "example": ""
+            },
+            {
+              "expression": "domestic cloud industry",
+              "meaningChinese": "本土云产业",
+              "example": ""
+            },
+            {
+              "expression": "critical public contracts",
+              "meaningChinese": "关键公共合同",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nEurope is trying to reduce its dependence on U.S. Big Tech.\n欧洲正在试图减少对美国大型科技公司的依赖。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows that infrastructure is never neutral. A data center is not only a technical facility; it also requires land, energy, chips, labour, and political decisions. A gallery weekend is not only an art event; it reflects who has access to cultural spaces. A climate warning is not only about temperature; it reveals which communities are more exposed to risk. To read the news critically is to notice the systems beneath the surface.",
+    "chinese": "今天的新闻显示，基础设施从来不是中性的。数据中心不只是技术设施，它还需要土地、能源、芯片、劳动和政治决策。画廊周也不只是艺术活动，它反映谁能够进入文化空间。气候警告不只是关于温度，它也揭示哪些群体更容易暴露在风险之中。批判性地阅读新闻，就是看见表面之下的系统。"
+  },
+  "keywords": [
+    {
+      "word": "ceasefire",
+      "meaning": "停火；战争双方暂时停止军事行动",
+      "example": "The two sides are discussing a possible ceasefire."
+    },
+    {
+      "word": "femicide",
+      "meaning": "女性因性别而被杀害，常与厌女和结构性暴力相关",
+      "example": "Activists called the case a femicide and demanded justice."
+    },
+    {
+      "word": "sovereignty",
+      "meaning": "主权；自主控制权",
+      "example": "Tech sovereignty has become a major policy goal in Europe."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑某个系统运行的物质或制度条件",
+      "example": "AI infrastructure requires enormous energy and investment."
+    },
+    {
+      "word": "accessible",
+      "meaning": "可接近的；可负担或可参与的",
+      "example": "The fair aims to make contemporary art more accessible."
+    },
+    {
+      "word": "risk exposure",
+      "meaning": "风险暴露；某人或某群体面对风险的程度",
+      "example": "Climate change increases risk exposure for vulnerable communities."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "今天的小报留给我们一句话：真正重要的新闻，往往不是单个事件，而是它让我们看见了哪些系统正在运转。 🌿"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年6月4日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：停火谈判、极端高温、性别暴力、文化可及性、AI 基础设施与技术主权。像翻一张安静的报纸一样读，不用急。\n🌟 1) Global News｜全球新闻\n中东：美国称与伊朗谈判持续，停火方案仍在讨论中\n路透社报道，美国方面表示，与伊朗有关停火/和平安排的谈判仍在继续；伊朗方面则仍在研究相关方案。市场也在关注中东局势对能源价格和全球风险情绪的影响。\nEnglish key expressions\nExpression\n中文理解\nceasefire proposal\n停火提案\npeace talks\n和平谈判\nstalemate persists\n僵局仍在持续\nmarket sentiment\n市场情绪\nUseful sentence\nNegotiations are continuing, but a lasting agreement remains uncertain.\n谈判仍在继续，但能否达成持久协议仍不确定。\n联合国警告：厄尔尼诺或推高全球极端高温风险\n联合国相关机构警告，可能出现的强厄尔尼诺现象会进一步推高全球气温，并带来热浪、强降雨等风险。这个新闻不只是“天气新闻”，也关乎公共卫生、农业、贫困人口和城市基础设施承压。\nEnglish key expressions\nExpression\n中文理解\nextreme heat risk\n极端高温风险\nabove-average temperatures\n高于平均水平的气温\nheavy rainfall\n强降雨\nclimate warning\n气候警告\n🌟 2) Gender / Culture｜性别与文化\n阿根廷：少女遇害案再次点燃反性别暴力抗议\n美联社报道，阿根廷 14 岁少女 Agostina Vega 遇害案引发全国愤怒，也让 11 年前推动 Ni Una Menos 运动的女性主义抗议记忆重新浮现。报道指出，抗议者不仅要求个案正义，也批评政府削减性别暴力防治项目。\nEnglish key expressions\nExpression\n中文理解\ngender-based violence\n基于性别的暴力\nfemicide\n杀害女性 / 女性因性别而被杀害\nmass protests\n大规模抗议\nhard-won rights\n来之不易的权利\nStudy note\nFemicide 不是普通的 “murder”。它强调女性被杀与性别权力结构、厌女文化、亲密关系暴力或国家保护失效之间的关联。\nUN Women：气候危机时代的性别平等\nUN Women 最新材料继续把气候危机与性别平等放在一起讨论，强调气候变化会放大既有的不平等，尤其影响女性、女孩和性别多元群体的生计、安全与照护劳动。\nUseful phrase\nThe climate crisis is not gender-neutral.\n气候危机并不是性别中立的。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\nLondon Gallery Weekend：当代艺术在城市中展开\n《卫报》报道，2026 年 London Gallery Weekend 将于 6 月 5–7 日举行，集合伦敦多家画廊、展览、表演、讲座与诗歌活动。推荐展览涉及 Francis Picabia、Anne Imhof、Keith Piper、Helen Marten 等艺术家，主题横跨身份、民俗、种族图像、男性气质与城市更新。\nEnglish key expressions\nExpression\n中文理解\ncontemporary art scene\n当代艺术生态\ncitywide programme\n覆盖全城的项目\npolitically charged\n具有政治意味的\nidentity and folklore\n身份与民俗\nMini thought\n画廊周不只是看展，也是观察一座城市如何把艺术、资本、公共空间和文化记忆编织在一起。\nMango x Eckhaus Latta：快时尚与实验设计的合作\nVogue 报道，Mango 与纽约品牌 Eckhaus Latta 推出夏季胶囊系列，包含轻薄针织、手工感配饰、自然纹样等元素。这类合作很值得从时尚研究角度看：独立设计语言如何被大众品牌吸收？“可及性”与“商业化”之间如何拉扯？\nEnglish key expressions\nExpression\n中文理解\ncapsule collection\n胶囊系列\naccessible design\n更可及的设计\ncreative collaboration\n创意合作\nsee-now-buy-now model\n即看即买模式\n🌟 4) AI / Tech｜AI 与科技\nFoxconn 与 Intel 合作建设新一代 AI 系统\n路透社报道，Foxconn 与 Intel 宣布战略合作，计划共同开发和部署下一代 AI 基础设施与智能计算平台，重点包括 AI 数据中心设备、服务器机架、高速互连、冷却设计和能源效率。\nEnglish key expressions\nExpression\n中文理解\nAI infrastructure\nAI 基础设施\nserver racks\n服务器机架\nenergy efficiency\n能源效率\nsystem integration\n系统整合\n欧洲议会改用法国搜索引擎 Qwant：技术主权成为关键词\n路透社报道，欧洲议会将把默认搜索引擎从 Google 改为法国搜索引擎 Qwant，作为推动欧洲“技术主权”的一部分。与此同时，欧盟也在推进云计算、AI、半导体等领域的本土化政策，以减少对美国大型科技公司的依赖。\nEnglish key expressions\nExpression\n中文理解\ntech sovereignty\n技术主权\nreduce reliance on\n减少对……的依赖\ndomestic cloud industry\n本土云产业\ncritical public contracts\n关键公共合同\nUseful sentence\nEurope is trying to reduce its dependence on U.S. Big Tech.\n欧洲正在试图减少对美国大型科技公司的依赖。\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nToday’s news shows that infrastructure is never neutral. A data center is not only a technical facility; it also requires land, energy, chips, labour, and political decisions. A gallery weekend is not only an art event; it reflects who has access to cultural spaces. A climate warning is not only about temperature; it reveals which communities are more exposed to risk. To read the news critically is to notice the systems beneath the surface.中文翻译\n今天的新闻显示，基础设施从来不是中性的。数据中心不只是技术设施，它还需要土地、能源、芯片、劳动和政治决策。画廊周也不只是艺术活动，它反映谁能够进入文化空间。气候警告不只是关于温度，它也揭示哪些群体更容易暴露在风险之中。批判性地阅读新闻，就是看见表面之下的系统。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nceasefire\n停火；战争双方暂时停止军事行动\nThe two sides are discussing a possible ceasefire.\nfemicide\n女性因性别而被杀害，常与厌女和结构性暴力相关\nActivists called the case a femicide and demanded justice.\nsovereignty\n主权；自主控制权\nTech sovereignty has become a major policy goal in Europe.\ninfrastructure\n基础设施；支撑某个系统运行的物质或制度条件\nAI infrastructure requires enormous energy and investment.\naccessible\n可接近的；可负担或可参与的\nThe fair aims to make contemporary art more accessible.\nrisk exposure\n风险暴露；某人或某群体面对风险的程度\nClimate change increases risk exposure for vulnerable communities.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：真正重要的新闻，往往不是单个事件，而是它让我们看见了哪些系统正在运转。 🌿"
+}

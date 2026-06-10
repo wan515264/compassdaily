@@ -1,0 +1,252 @@
+{
+  "date": "2026-05-31",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "",
+  "introChinese": "",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "香格里拉对话：美国防长敦促亚洲盟友提高防务开支",
+          "summaryChinese": "在新加坡举行的香格里拉对话上，美国国防部长 Pete Hegseth 表示，面对中国军力扩张，亚洲盟友应提高防务投入，并提出可向 GDP 的 3.5% 靠近。他同时强调，美国会继续维持地区威慑能力，尤其是在台湾与印太安全议题上。",
+          "englishExpressions": [
+            {
+              "expression": "defence spending",
+              "meaningChinese": "防务开支",
+              "example": ""
+            },
+            {
+              "expression": "strategic competition",
+              "meaningChinese": "战略竞争",
+              "example": ""
+            },
+            {
+              "expression": "regional stability",
+              "meaningChinese": "地区稳定",
+              "example": ""
+            },
+            {
+              "expression": "to deter aggression",
+              "meaningChinese": "威慑侵略 / 阻止挑衅",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini sentence\nThe speech reflected Washington’s attempt to reassure allies while pressing them to shoulder more security responsibilities.\n这场讲话反映出华盛顿一边安抚盟友，一边要求其承担更多安全责任。"
+        },
+        {
+          "title": "老挝洪水洞穴救援：5人已获救，仍有2人失踪",
+          "summaryChinese": "老挝 Xaisomboun 省一处洞穴因洪水被困的淘金者中，已有5人被救出，仍有2人失踪。救援行动由来自多国的潜水员和志愿者参与，其中一些人曾参与2018年泰国洞穴救援。",
+          "englishExpressions": [
+            {
+              "expression": "flooded cave",
+              "meaningChinese": "被洪水淹没的洞穴",
+              "example": ""
+            },
+            {
+              "expression": "rescue operation",
+              "meaningChinese": "救援行动",
+              "example": ""
+            },
+            {
+              "expression": "trapped underground",
+              "meaningChinese": "被困地下",
+              "example": ""
+            },
+            {
+              "expression": "search-and-rescue team",
+              "meaningChinese": "搜救队",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Hay Festival 上的“性别战争”争议\n英国 Hay Festival 的一场活动中，前澳大利亚总理 Julia Gillard 因其任内推动的性别身份保护法案遭到抗议者打断。争议与澳大利亚“Giggle for Girls”案件有关：该女性社交应用因排除一名跨性别女性用户，被法院认定构成基于性别身份的歧视。这个事件再次显示，“女性空间”“跨性别权利”和反歧视法律之间的讨论，正成为英语世界公共文化辩论的核心之一。",
+          "englishExpressions": [
+            {
+              "expression": "gender identity protections",
+              "meaningChinese": "性别身份保护",
+              "example": ""
+            },
+            {
+              "expression": "women-only spaces",
+              "meaningChinese": "女性专属空间",
+              "example": ""
+            },
+            {
+              "expression": "anti-discrimination law",
+              "meaningChinese": "反歧视法",
+              "example": ""
+            },
+            {
+              "expression": "public backlash",
+              "meaningChinese": "公众反弹 / 舆论反噬",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\n“Backlash” 很适合用来描述某个政策、名人言论或文化现象引发的强烈反对。\nThe ruling triggered a backlash from groups concerned about women-only spaces.\n这一裁决引发了关注女性专属空间群体的反弹。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Naomi Osaka 把法网球场变成秀场\nNaomi Osaka 在2026年法网期间，以夸张的亮片、薄纱和高定感造型登场，引发关注。她在5月30日赢得个人第100场大满贯胜利时，穿着带有青铜色亮片和薄纱拖尾的造型热身，再次把运动、身份表达与高级时装连接起来。",
+          "englishExpressions": [
+            {
+              "expression": "to turn the court into a runway",
+              "meaningChinese": "把球场变成秀场",
+              "example": ""
+            },
+            {
+              "expression": "couture-inspired look",
+              "meaningChinese": "受高级定制服启发的造型",
+              "example": ""
+            },
+            {
+              "expression": "spark backlash",
+              "meaningChinese": "引发争议 / 反弹",
+              "example": ""
+            },
+            {
+              "expression": "self-expression",
+              "meaningChinese": "自我表达",
+              "example": ""
+            }
+          ],
+          "studyNote": "Cultural lens\nOsaka 的造型不仅是“好不好看”的问题，也关于女性运动员如何使用身体、服装和视觉语言来争取叙事权。Fashion here becomes a form of authorship.\n在这里，时尚成为一种“自我书写”。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "SoftBank 将在法国大规模建设 AI 数据中心\nSoftBank 宣布将在法国投资建设 AI 数据中心，显示欧洲正在成为全球 AI 基础设施竞争的重要场域。随着大模型训练和部署需求上升，数据中心、能源、芯片和监管都成为 AI 产业链的关键议题。",
+          "englishExpressions": [
+            {
+              "expression": "AI data centre",
+              "meaningChinese": "AI 数据中心",
+              "example": ""
+            },
+            {
+              "expression": "infrastructure buildout",
+              "meaningChinese": "基础设施扩张",
+              "example": ""
+            },
+            {
+              "expression": "computing power",
+              "meaningChinese": "算力",
+              "example": ""
+            },
+            {
+              "expression": "energy demand",
+              "meaningChinese": "能源需求",
+              "example": ""
+            },
+            {
+              "expression": "OpenAI",
+              "meaningChinese": "发布 Frontier Governance Framework",
+              "example": ""
+            },
+            {
+              "expression": "OpenAI",
+              "meaningChinese": "发布了新的 Frontier Governance Framework，说明其安全、保障和风险管理实践如何与欧盟 AI Act、加州前沿 AI 透明度法案等新兴监管要求相衔接。",
+              "example": ""
+            },
+            {
+              "expression": "frontier AI",
+              "meaningChinese": "前沿 AI",
+              "example": ""
+            },
+            {
+              "expression": "governance framework",
+              "meaningChinese": "治理框架",
+              "example": ""
+            },
+            {
+              "expression": "risk management",
+              "meaningChinese": "风险管理",
+              "example": ""
+            },
+            {
+              "expression": "regulatory alignment",
+              "meaningChinese": "与监管要求保持一致",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "In today’s news, power is being negotiated not only through armies and markets, but also through language, technology, and representation. Security forums debate military spending; courts debate the meaning of gender equality; athletes use fashion to reshape public attention; and AI companies publish governance frameworks to earn trust. Together, these stories remind us that politics is not confined to parliaments. It also lives in platforms, images, bodies, and everyday words.",
+    "chinese": "在今天的新闻里，权力不仅通过军队和市场被协商，也通过语言、技术和再现方式被协商。安全论坛讨论军费开支；法院讨论性别平等的含义；运动员通过时尚重新塑造公众注意力；AI 公司则发布治理框架来争取信任。这些故事共同提醒我们：政治并不只存在于议会之中，它也存在于平台、图像、身体和日常词语里。"
+  },
+  "keywords": [
+    {
+      "word": "backlash",
+      "meaning": "强烈反对；舆论反弹",
+      "example": "The policy sparked a public backlash."
+    },
+    {
+      "word": "governance",
+      "meaning": "治理；管理机制",
+      "example": "AI governance requires transparency and accountability."
+    },
+    {
+      "word": "representation",
+      "meaning": "再现；代表性；呈现方式",
+      "example": "Fashion can be a powerful form of representation."
+    },
+    {
+      "word": "to deter",
+      "meaning": "威慑；阻止某事发生",
+      "example": "The alliance aims to deter regional aggression."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施",
+      "example": "Data centres are becoming core AI infrastructure."
+    },
+    {
+      "word": "self-expression",
+      "meaning": "自我表达",
+      "example": "Her outfit became a statement of self-expression."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "今天的新闻像一张细密的网：安全、性别、时尚与 AI 看似分散，却都在追问同一个问题——谁有权定义世界，以及我们如何被看见。"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年5月31日\n★ Global News｜国际新闻\n1. 香格里拉对话：美国防长敦促亚洲盟友提高防务开支\n在新加坡举行的香格里拉对话上，美国国防部长 Pete Hegseth 表示，面对中国军力扩张，亚洲盟友应提高防务投入，并提出可向 GDP 的 3.5% 靠近。他同时强调，美国会继续维持地区威慑能力，尤其是在台湾与印太安全议题上。\nEnglish key expressions\ndefence spending：防务开支\nstrategic competition：战略竞争\nregional stability：地区稳定\nto deter aggression：威慑侵略 / 阻止挑衅\nMini sentence\nThe speech reflected Washington’s attempt to reassure allies while pressing them to shoulder more security responsibilities.\n这场讲话反映出华盛顿一边安抚盟友，一边要求其承担更多安全责任。\n2. 老挝洪水洞穴救援：5人已获救，仍有2人失踪\n老挝 Xaisomboun 省一处洞穴因洪水被困的淘金者中，已有5人被救出，仍有2人失踪。救援行动由来自多国的潜水员和志愿者参与，其中一些人曾参与2018年泰国洞穴救援。\nEnglish key expressions\nflooded cave：被洪水淹没的洞穴\nrescue operation：救援行动\ntrapped underground：被困地下\nsearch-and-rescue team：搜救队\n★ Gender / Culture｜性别与文化\nHay Festival 上的“性别战争”争议\n英国 Hay Festival 的一场活动中，前澳大利亚总理 Julia Gillard 因其任内推动的性别身份保护法案遭到抗议者打断。争议与澳大利亚“Giggle for Girls”案件有关：该女性社交应用因排除一名跨性别女性用户，被法院认定构成基于性别身份的歧视。这个事件再次显示，“女性空间”“跨性别权利”和反歧视法律之间的讨论，正成为英语世界公共文化辩论的核心之一。\nEnglish key expressions\ngender identity protections：性别身份保护\nwomen-only spaces：女性专属空间\nanti-discrimination law：反歧视法\npublic backlash：公众反弹 / 舆论反噬\nStudy note\n“Backlash” 很适合用来描述某个政策、名人言论或文化现象引发的强烈反对。\nThe ruling triggered a backlash from groups concerned about women-only spaces.\n这一裁决引发了关注女性专属空间群体的反弹。\n★ Art / Fashion / Media｜艺术、时尚与媒体\nNaomi Osaka 把法网球场变成秀场\nNaomi Osaka 在2026年法网期间，以夸张的亮片、薄纱和高定感造型登场，引发关注。她在5月30日赢得个人第100场大满贯胜利时，穿着带有青铜色亮片和薄纱拖尾的造型热身，再次把运动、身份表达与高级时装连接起来。\nEnglish key expressions\nto turn the court into a runway：把球场变成秀场\ncouture-inspired look：受高级定制服启发的造型\nspark backlash：引发争议 / 反弹\nself-expression：自我表达\nCultural lens\nOsaka 的造型不仅是“好不好看”的问题，也关于女性运动员如何使用身体、服装和视觉语言来争取叙事权。Fashion here becomes a form of authorship.\n在这里，时尚成为一种“自我书写”。\n★ AI / Tech｜AI与科技\n1. SoftBank 将在法国大规模建设 AI 数据中心\nSoftBank 宣布将在法国投资建设 AI 数据中心，显示欧洲正在成为全球 AI 基础设施竞争的重要场域。随着大模型训练和部署需求上升，数据中心、能源、芯片和监管都成为 AI 产业链的关键议题。\nEnglish key expressions\nAI data centre：AI 数据中心\ninfrastructure buildout：基础设施扩张\ncomputing power：算力\nenergy demand：能源需求\n2. OpenAI 发布 Frontier Governance Framework\nOpenAI 发布了新的 Frontier Governance Framework，说明其安全、保障和风险管理实践如何与欧盟 AI Act、加州前沿 AI 透明度法案等新兴监管要求相衔接。\nEnglish key expressions\nfrontier AI：前沿 AI\ngovernance framework：治理框架\nrisk management：风险管理\nregulatory alignment：与监管要求保持一致\n★ One English Paragraph｜一段英文精读\nIn today’s news, power is being negotiated not only through armies and markets, but also through language, technology, and representation. Security forums debate military spending; courts debate the meaning of gender equality; athletes use fashion to reshape public attention; and AI companies publish governance frameworks to earn trust. Together, these stories remind us that politics is not confined to parliaments. It also lives in platforms, images, bodies, and everyday words.\n中文翻译\n在今天的新闻里，权力不仅通过军队和市场被协商，也通过语言、技术和再现方式被协商。安全论坛讨论军费开支；法院讨论性别平等的含义；运动员通过时尚重新塑造公众注意力；AI 公司则发布治理框架来争取信任。这些故事共同提醒我们：政治并不只存在于议会之中，它也存在于平台、图像、身体和日常词语里。\n★ Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nbacklash\n强烈反对；舆论反弹\nThe policy sparked a public backlash.\ngovernance\n治理；管理机制\nAI governance requires transparency and accountability.\nrepresentation\n再现；代表性；呈现方式\nFashion can be a powerful form of representation.\nto deter\n威慑；阻止某事发生\nThe alliance aims to deter regional aggression.\ninfrastructure\n基础设施\nData centres are becoming core AI infrastructure.\nself-expression\n自我表达\nHer outfit became a statement of self-expression.\n★ Gentle Closing｜今日小结\n今天的新闻像一张细密的网：安全、性别、时尚与 AI 看似分散，却都在追问同一个问题——谁有权定义世界，以及我们如何被看见。"
+}

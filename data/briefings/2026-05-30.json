@@ -1,0 +1,219 @@
+{
+  "date": "2026-05-30",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "能源焦虑、身体政治、文化机构、AI劳动监控",
+  "introChinese": "今天的新闻关键词是：能源焦虑、身体政治、文化机构、AI劳动监控。慢慢读，像喝一杯温热的茶。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "中东冲突牵动全球能源安全",
+          "summaryChinese": "国际能源署、IMF、世界银行和 WTO 负责人警告，中东战争正在加剧全球能源供应压力，尤其影响较脆弱经济体。报道指出，霍尔木兹海峡相关运输风险、燃料与化肥价格上涨，都可能把战争影响传导到普通人的日常生活。",
+          "englishExpressions": [
+            {
+              "expression": "strain energy supplies",
+              "meaningChinese": "使能源供应承压",
+              "example": ""
+            },
+            {
+              "expression": "vulnerable economies",
+              "meaningChinese": "脆弱经济体",
+              "example": ""
+            },
+            {
+              "expression": "shipping flows",
+              "meaningChinese": "航运流动 / 运输流量",
+              "example": ""
+            },
+            {
+              "expression": "broader economic resilience",
+              "meaningChinese": "更广泛的经济韧性",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "乌克兰称俄罗斯或准备新一轮重大攻击",
+          "summaryChinese": "乌克兰总统泽连斯基表示，情报显示俄罗斯正在准备对乌克兰发动新的重大攻击。这个消息让欧洲安全局势继续处在高度紧张之中。",
+          "englishExpressions": [],
+          "studyNote": "Useful sentence\nUkraine warned that Russia may be preparing a major new attack.\n乌克兰警告称，俄罗斯可能正在准备一次新的重大攻击。"
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "加纳议会通过打击 LGBTQ“宣传”的法案",
+          "summaryChinese": "路透社报道，加纳议会通过一项法案，将所谓“宣传 LGBTQ 活动”的行为刑事化。这一事件值得从性别研究视角关注：它不仅是法律问题，也是国家、宗教、家庭价值与身体自主权之间的文化冲突。\n朱丽安·摩尔在戛纳相关活动中表示，真正的性别平等仍然遥远。她的发言提醒我们：电影节红毯上的可见性，并不自动等于产业内部的权力平等。\nMini note｜学习角度",
+          "englishExpressions": [
+            {
+              "expression": "criminalize",
+              "meaningChinese": "将……定为犯罪",
+              "example": ""
+            },
+            {
+              "expression": "sexual minorities",
+              "meaningChinese": "性少数群体",
+              "example": ""
+            },
+            {
+              "expression": "a broader crackdown",
+              "meaningChinese": "更广泛的打压 / 整肃",
+              "example": ""
+            },
+            {
+              "expression": "rights-based perspective",
+              "meaningChinese": "基于权利的视角",
+              "example": ""
+            },
+            {
+              "expression": "Cannes",
+              "meaningChinese": "朱丽安·摩尔谈电影业性别平等",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "可以把这类新闻理解为：representation is not the same as structural change",
+          "summaryChinese": "“代表性 / 可见性”并不等于“结构性改变”。",
+          "englishExpressions": [],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "肯尼迪中心命名争议：文化机构也有政治边界",
+          "summaryChinese": "美联社报道，美国一名联邦法官裁定，特朗普的名字被加到肯尼迪中心一事违法，并阻止政府关闭该艺术机构进行大规模翻修；特朗普随后表示将把该机构控制权交还国会。",
+          "englishExpressions": [
+            {
+              "expression": "cultural and arts venue",
+              "meaningChinese": "文化艺术场馆",
+              "example": ""
+            },
+            {
+              "expression": "legal setback",
+              "meaningChinese": "法律挫败",
+              "example": ""
+            },
+            {
+              "expression": "leave one’s mark",
+              "meaningChinese": "留下个人印记",
+              "example": ""
+            },
+            {
+              "expression": "return control to Congress",
+              "meaningChinese": "将控制权交还国会",
+              "example": ""
+            }
+          ],
+          "studyNote": "Why it matters｜为什么值得读\n文化机构不是“中性空间”。它们的名字、资金、建筑和治理方式，都会反映权力如何试图在公共记忆中留下痕迹。"
+        },
+        {
+          "title": "流媒体与本土制作：德国坚持平台投资义务",
+          "summaryChinese": "德国政府表示，将坚持要求流媒体服务在德国承担最低本土制作支出配额。这个议题连接了媒体产业、文化主权与平台经济。",
+          "englishExpressions": [],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Meta 员工点击追踪工具引发欧盟隐私争议\n路透社报道称，Meta 一项用于追踪员工鼠标点击的工具，可能与欧盟隐私规则发生冲突。这个案例很适合从“数字劳动”角度阅读：当工作被数据化，效率管理也可能变成持续监控。",
+          "englishExpressions": [
+            {
+              "expression": "employee monitoring",
+              "meaningChinese": "员工监控",
+              "example": ""
+            },
+            {
+              "expression": "mouse clicks",
+              "meaningChinese": "鼠标点击",
+              "example": ""
+            },
+            {
+              "expression": "privacy rules",
+              "meaningChinese": "隐私规则",
+              "example": ""
+            },
+            {
+              "expression": "on a collision course with",
+              "meaningChinese": "与……发生冲突 / 正面相撞",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "华为讨论“后摩尔定律”时代的 AI 芯片路径",
+          "summaryChinese": "路透社 AI 页面显示，华为正在关注超越摩尔定律的技术方向；同时，AI 芯片需求继续推动半导体产业变化。",
+          "englishExpressions": [],
+          "studyNote": "Useful phrase\nbeyond Moore’s Law\n超越摩尔定律；常用于讨论芯片性能增长不再只依赖传统晶体管微缩。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "The latest news shows how politics often enters everyday life through systems that seem distant at first: energy routes, cultural institutions, workplace software, and media platforms. A war can raise fuel prices far from the battlefield; a naming dispute can reveal who has the power to shape public memory; and a productivity tool can quietly become a privacy concern. Reading the news carefully means asking not only what happened, but also who becomes more visible, who becomes more vulnerable, and who gets to define the rules.",
+    "chinese": "今天的新闻显示，政治常常通过一些看似遥远的系统进入日常生活：能源路线、文化机构、工作软件和媒体平台。一场战争可能让远离战场的人承担更高燃料价格；一场命名争议可能揭示谁有权塑造公共记忆；一个生产力工具也可能悄悄变成隐私问题。认真读新闻，不只是问“发生了什么”，也要问：谁变得更可见，谁变得更脆弱，以及谁有权制定规则。"
+  },
+  "keywords": [
+    {
+      "word": "resilience",
+      "meaning": "韧性；系统承受冲击并恢复的能力",
+      "example": "Economic resilience depends on stable energy supplies."
+    },
+    {
+      "word": "criminalize",
+      "meaning": "将某种行为定为犯罪",
+      "example": "The bill would criminalize certain forms of LGBTQ advocacy."
+    },
+    {
+      "word": "surveillance",
+      "meaning": "监控；尤其指持续收集和观察人的行为数据",
+      "example": "Workplace surveillance raises serious privacy concerns."
+    },
+    {
+      "word": "public memory",
+      "meaning": "公共记忆；社会如何记住历史与人物",
+      "example": "Cultural institutions play a role in shaping public memory."
+    },
+    {
+      "word": "structural change",
+      "meaning": "结构性改变；不是表面改善，而是制度层面的变化",
+      "example": "Representation matters, but structural change requires power shifts."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "愿今天的阅读让你既看见世界的震动，也保留一点温柔的判断力：news is not only information; it is a way of noticing power."
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年5月30日\n🌟 Morning Daily Brief｜晨间双语小报\n今天的新闻关键词是：能源焦虑、身体政治、文化机构、AI劳动监控。慢慢读，像喝一杯温热的茶。\n🌟 1) Global News｜全球新闻\n中东冲突牵动全球能源安全\n国际能源署、IMF、世界银行和 WTO 负责人警告，中东战争正在加剧全球能源供应压力，尤其影响较脆弱经济体。报道指出，霍尔木兹海峡相关运输风险、燃料与化肥价格上涨，都可能把战争影响传导到普通人的日常生活。\nEnglish key expressions\nExpression\n中文理解\nstrain energy supplies\n使能源供应承压\nvulnerable economies\n脆弱经济体\nshipping flows\n航运流动 / 运输流量\nbroader economic resilience\n更广泛的经济韧性\n乌克兰称俄罗斯或准备新一轮重大攻击\n乌克兰总统泽连斯基表示，情报显示俄罗斯正在准备对乌克兰发动新的重大攻击。这个消息让欧洲安全局势继续处在高度紧张之中。\nUseful sentence\nUkraine warned that Russia may be preparing a major new attack.\n乌克兰警告称，俄罗斯可能正在准备一次新的重大攻击。\n🌟 2) Gender / Culture｜性别与文化\n加纳议会通过打击 LGBTQ“宣传”的法案\n路透社报道，加纳议会通过一项法案，将所谓“宣传 LGBTQ 活动”的行为刑事化。这一事件值得从性别研究视角关注：它不仅是法律问题，也是国家、宗教、家庭价值与身体自主权之间的文化冲突。\nEnglish key expressions\nExpression\n中文理解\ncriminalize\n将……定为犯罪\nsexual minorities\n性少数群体\na broader crackdown\n更广泛的打压 / 整肃\nrights-based perspective\n基于权利的视角\nCannes：朱丽安·摩尔谈电影业性别平等\n朱丽安·摩尔在戛纳相关活动中表示，真正的性别平等仍然遥远。她的发言提醒我们：电影节红毯上的可见性，并不自动等于产业内部的权力平等。\nMini note｜学习角度\n可以把这类新闻理解为：representation is not the same as structural change\n“代表性 / 可见性”并不等于“结构性改变”。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\n肯尼迪中心命名争议：文化机构也有政治边界\n美联社报道，美国一名联邦法官裁定，特朗普的名字被加到肯尼迪中心一事违法，并阻止政府关闭该艺术机构进行大规模翻修；特朗普随后表示将把该机构控制权交还国会。\nWhy it matters｜为什么值得读\n文化机构不是“中性空间”。它们的名字、资金、建筑和治理方式，都会反映权力如何试图在公共记忆中留下痕迹。\nEnglish key expressions\nExpression\n中文理解\ncultural and arts venue\n文化艺术场馆\nlegal setback\n法律挫败\nleave one’s mark\n留下个人印记\nreturn control to Congress\n将控制权交还国会\n流媒体与本土制作：德国坚持平台投资义务\n德国政府表示，将坚持要求流媒体服务在德国承担最低本土制作支出配额。这个议题连接了媒体产业、文化主权与平台经济。\n🌟 4) AI / Tech｜AI 与科技\nMeta 员工点击追踪工具引发欧盟隐私争议\n路透社报道称，Meta 一项用于追踪员工鼠标点击的工具，可能与欧盟隐私规则发生冲突。这个案例很适合从“数字劳动”角度阅读：当工作被数据化，效率管理也可能变成持续监控。\nEnglish key expressions\nExpression\n中文理解\nemployee monitoring\n员工监控\nmouse clicks\n鼠标点击\nprivacy rules\n隐私规则\non a collision course with\n与……发生冲突 / 正面相撞\n华为讨论“后摩尔定律”时代的 AI 芯片路径\n路透社 AI 页面显示，华为正在关注超越摩尔定律的技术方向；同时，AI 芯片需求继续推动半导体产业变化。\nUseful phrase\nbeyond Moore’s Law\n超越摩尔定律；常用于讨论芯片性能增长不再只依赖传统晶体管微缩。\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nThe latest news shows how politics often enters everyday life through systems that seem distant at first: energy routes, cultural institutions, workplace software, and media platforms. A war can raise fuel prices far from the battlefield; a naming dispute can reveal who has the power to shape public memory; and a productivity tool can quietly become a privacy concern. Reading the news carefully means asking not only what happened, but also who becomes more visible, who becomes more vulnerable, and who gets to define the rules.中文翻译\n今天的新闻显示，政治常常通过一些看似遥远的系统进入日常生活：能源路线、文化机构、工作软件和媒体平台。一场战争可能让远离战场的人承担更高燃料价格；一场命名争议可能揭示谁有权塑造公共记忆；一个生产力工具也可能悄悄变成隐私问题。认真读新闻，不只是问“发生了什么”，也要问：谁变得更可见，谁变得更脆弱，以及谁有权制定规则。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nresilience\n韧性；系统承受冲击并恢复的能力\nEconomic resilience depends on stable energy supplies.\ncriminalize\n将某种行为定为犯罪\nThe bill would criminalize certain forms of LGBTQ advocacy.\nsurveillance\n监控；尤其指持续收集和观察人的行为数据\nWorkplace surveillance raises serious privacy concerns.\npublic memory\n公共记忆；社会如何记住历史与人物\nCultural institutions play a role in shaping public memory.\nstructural change\n结构性改变；不是表面改善，而是制度层面的变化\nRepresentation matters, but structural change requires power shifts.\n🌟 7) A Soft Closing｜今日收束\n愿今天的阅读让你既看见世界的震动，也保留一点温柔的判断力：news is not only information; it is a way of noticing power."
+}

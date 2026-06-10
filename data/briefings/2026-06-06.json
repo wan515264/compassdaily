@@ -1,0 +1,260 @@
+{
+  "date": "2026-06-06",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "技术主权、AI竞争、文化记忆、性别平等与基础设施政治",
+  "introChinese": "今天这份小报的关键词是：技术主权、AI竞争、文化记忆、性别平等与基础设施政治。比起关注单个事件，今天的新闻更像是在讨论一个问题：谁拥有塑造未来的能力？",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "日本数字大臣警告：落后可能让日本成为“AI殖民地”",
+          "summaryChinese": "路透社报道，日本数字大臣松本刚明表示，如果日本在人工智能竞争中落后，未来可能沦为“AI colony（AI殖民地）”。相关讨论围绕一项允许AI训练使用部分敏感数据的新法案展开，也反映出各国对于AI发展与隐私保护之间平衡的焦虑。",
+          "englishExpressions": [
+            {
+              "expression": "AI colony",
+              "meaningChinese": "AI殖民地（对外部技术高度依赖）",
+              "example": ""
+            },
+            {
+              "expression": "data protection law",
+              "meaningChinese": "数据保护法",
+              "example": ""
+            },
+            {
+              "expression": "AI competitiveness",
+              "meaningChinese": "AI竞争力",
+              "example": ""
+            },
+            {
+              "expression": "privacy concerns",
+              "meaningChinese": "隐私担忧",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nPolicymakers are debating how to balance innovation and privacy.\n政策制定者正在讨论如何平衡创新与隐私。"
+        },
+        {
+          "title": "欧洲继续推进“技术主权”战略",
+          "summaryChinese": "欧盟近期提出多项政策，希望减少对美国大型科技企业的依赖，包括发展本土云服务、半导体和AI产业。与此同时，欧洲议会已开始将默认搜索引擎从 Google 转向法国搜索引擎 Qwant。",
+          "englishExpressions": [
+            {
+              "expression": "tech sovereignty",
+              "meaningChinese": "技术主权",
+              "example": ""
+            },
+            {
+              "expression": "strategic autonomy",
+              "meaningChinese": "战略自主",
+              "example": ""
+            },
+            {
+              "expression": "domestic cloud industry",
+              "meaningChinese": "本土云产业",
+              "example": ""
+            },
+            {
+              "expression": "reduce dependence on",
+              "meaningChinese": "减少对……的依赖",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "联合国：没有任何国家实现了女性的完全法律平等",
+          "summaryChinese": "联合国妇女署今年发布的数据指出，目前世界上没有任何国家实现女性与女孩的完全法律平等。从反性别暴力到同工同酬，许多法律保护仍存在缺口。",
+          "englishExpressions": [
+            {
+              "expression": "legal equality",
+              "meaningChinese": "法律平等",
+              "example": ""
+            },
+            {
+              "expression": "equal pay",
+              "meaningChinese": "同工同酬",
+              "example": ""
+            },
+            {
+              "expression": "gender-based violence",
+              "meaningChinese": "基于性别的暴力",
+              "example": ""
+            },
+            {
+              "expression": "women’s rights",
+              "meaningChinese": "女性权利",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\n阅读性别新闻时，可以区分：\nformal equality（形式平等）\nsubstantive equality（实质平等）\n法律写下来的权利，并不总能转化为现实中的机会。"
+        },
+        {
+          "title": "影星 Julianne Moore：真正的性别平等仍然遥远",
+          "summaryChinese": "在接受表彰女性电影工作者贡献的活动上，演员 Julianne Moore 表示，距离真正的性别平等仍有很长的路要走。她的发言再次提醒人们：文化产业中的代表性问题并未消失。",
+          "englishExpressions": [],
+          "studyNote": "Useful phrase\nWe still have a long way to go.\n我们还有很长的路要走。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "M.C. Escher 大展重新吸引公众关注视觉错觉艺术\n《卫报》本周推荐的艺术展览中，最受关注的是荷兰艺术家 M. C. Escher 在伦敦举办的大型回顾展。其作品以不可能建筑、空间悖论和视觉错觉闻名，至今仍影响设计、数学和数字艺术。",
+          "englishExpressions": [
+            {
+              "expression": "retrospective exhibition",
+              "meaningChinese": "回顾展",
+              "example": ""
+            },
+            {
+              "expression": "optical illusion",
+              "meaningChinese": "视觉错觉",
+              "example": ""
+            },
+            {
+              "expression": "immersive installation",
+              "meaningChinese": "沉浸式装置",
+              "example": ""
+            },
+            {
+              "expression": "visual perception",
+              "meaningChinese": "视觉感知",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "：Y2K运动套装回潮",
+          "summaryChinese": "《Vogue》认为，2026年可能成为Y2K运动套装全面回归的一年。从 Juicy Couture 到新一代品牌合作，千禧年代的休闲审美正在重新流行。这种怀旧风潮也反映了年轻世代对“前智能手机时代”的想象。",
+          "englishExpressions": [
+            {
+              "expression": "Y2K revival",
+              "meaningChinese": "千禧年风格复兴",
+              "example": ""
+            },
+            {
+              "expression": "nostalgia",
+              "meaningChinese": "怀旧情绪",
+              "example": ""
+            },
+            {
+              "expression": "capsule collaboration",
+              "meaningChinese": "联名系列",
+              "example": ""
+            },
+            {
+              "expression": "fashion cycle",
+              "meaningChinese": "时尚循环",
+              "example": ""
+            }
+          ],
+          "studyNote": "Mini thought\n时尚的“复古”并不只是重复过去，而是在重新解释过去。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "ASML CEO：技术战略应由产业而非官僚体系主导\n面对欧盟最新技术主权计划，荷兰芯片设备巨头 ASML 首席执行官表示支持提升欧洲科技能力，但认为战略项目应更多由产业界推动，而不是由政府直接主导。",
+          "englishExpressions": [
+            {
+              "expression": "industry-led",
+              "meaningChinese": "产业主导的",
+              "example": ""
+            },
+            {
+              "expression": "state aid",
+              "meaningChinese": "国家补贴",
+              "example": ""
+            },
+            {
+              "expression": "strategic project",
+              "meaningChinese": "战略项目",
+              "example": ""
+            },
+            {
+              "expression": "bureaucracy",
+              "meaningChinese": "官僚体系",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "欧洲的AI监管进入新阶段",
+          "summaryChinese": "围绕AI Act（人工智能法案）的讨论仍在持续。欧洲一方面希望保持严格监管，另一方面也担心过度监管削弱创新能力。监管与竞争力之间的平衡，已成为全球AI治理的核心议题之一。",
+          "englishExpressions": [],
+          "studyNote": "Useful sentence\nRegulators are trying to encourage innovation without sacrificing safety.\n监管机构正试图在不牺牲安全性的前提下促进创新。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "The most interesting question in today’s news is not who has the newest technology, but who has the ability to shape the rules around it. Artificial intelligence depends on data, infrastructure, laws, and institutions. Cultural life depends on museums, schools, publishers, and public funding. Power often appears not as a single event, but as a system that quietly determines what becomes possible.",
+    "chinese": "今天新闻里最有意思的问题，并不是谁拥有最新技术，而是谁拥有制定规则的能力。人工智能依赖数据、基础设施、法律和制度。文化生活依赖博物馆、学校、出版机构和公共资金。权力往往并不表现为某个单独事件，而是作为一种系统，悄悄决定什么成为可能。"
+  },
+  "keywords": [
+    {
+      "word": "sovereignty",
+      "meaning": "主权；自主控制能力",
+      "example": "Tech sovereignty has become a major policy goal in Europe."
+    },
+    {
+      "word": "autonomy",
+      "meaning": "自主性；独立性",
+      "example": "The country wants greater technological autonomy."
+    },
+    {
+      "word": "nostalgia",
+      "meaning": "怀旧情绪",
+      "example": "Nostalgia is driving the return of Y2K fashion."
+    },
+    {
+      "word": "optical illusion",
+      "meaning": "视觉错觉",
+      "example": "Escher’s work is famous for its optical illusions."
+    },
+    {
+      "word": "bureaucracy",
+      "meaning": "官僚体系",
+      "example": "Critics worry that bureaucracy may slow innovation."
+    },
+    {
+      "word": "competitiveness",
+      "meaning": "竞争力",
+      "example": "Governments are investing heavily to improve AI competitiveness."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "今天的小报留给我们一句话：未来不仅属于创造技术的人，也属于能够想象并塑造制度的人。 🌿"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年6月6日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：技术主权、AI竞争、文化记忆、性别平等与基础设施政治。比起关注单个事件，今天的新闻更像是在讨论一个问题：谁拥有塑造未来的能力？\n🌟 1) Global News｜全球新闻\n日本数字大臣警告：落后可能让日本成为“AI殖民地”\n路透社报道，日本数字大臣松本刚明表示，如果日本在人工智能竞争中落后，未来可能沦为“AI colony（AI殖民地）”。相关讨论围绕一项允许AI训练使用部分敏感数据的新法案展开，也反映出各国对于AI发展与隐私保护之间平衡的焦虑。\nEnglish key expressions\nExpression\n中文理解\nAI colony\nAI殖民地（对外部技术高度依赖）\ndata protection law\n数据保护法\nAI competitiveness\nAI竞争力\nprivacy concerns\n隐私担忧\nUseful sentence\nPolicymakers are debating how to balance innovation and privacy.\n政策制定者正在讨论如何平衡创新与隐私。\n欧洲继续推进“技术主权”战略\n欧盟近期提出多项政策，希望减少对美国大型科技企业的依赖，包括发展本土云服务、半导体和AI产业。与此同时，欧洲议会已开始将默认搜索引擎从 Google 转向法国搜索引擎 Qwant。\nEnglish key expressions\nExpression\n中文理解\ntech sovereignty\n技术主权\nstrategic autonomy\n战略自主\ndomestic cloud industry\n本土云产业\nreduce dependence on\n减少对……的依赖\n🌟 2) Gender / Culture｜性别与文化\n联合国：没有任何国家实现了女性的完全法律平等\n联合国妇女署今年发布的数据指出，目前世界上没有任何国家实现女性与女孩的完全法律平等。从反性别暴力到同工同酬，许多法律保护仍存在缺口。\nEnglish key expressions\nExpression\n中文理解\nlegal equality\n法律平等\nequal pay\n同工同酬\ngender-based violence\n基于性别的暴力\nwomen’s rights\n女性权利\nStudy note\n阅读性别新闻时，可以区分：\nformal equality（形式平等）\nsubstantive equality（实质平等）\n法律写下来的权利，并不总能转化为现实中的机会。\n影星 Julianne Moore：真正的性别平等仍然遥远\n在接受表彰女性电影工作者贡献的活动上，演员 Julianne Moore 表示，距离真正的性别平等仍有很长的路要走。她的发言再次提醒人们：文化产业中的代表性问题并未消失。\nUseful phrase\nWe still have a long way to go.\n我们还有很长的路要走。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\nM.C. Escher 大展重新吸引公众关注视觉错觉艺术\n《卫报》本周推荐的艺术展览中，最受关注的是荷兰艺术家 M. C. Escher 在伦敦举办的大型回顾展。其作品以不可能建筑、空间悖论和视觉错觉闻名，至今仍影响设计、数学和数字艺术。\nEnglish key expressions\nExpression\n中文理解\nretrospective exhibition\n回顾展\noptical illusion\n视觉错觉\nimmersive installation\n沉浸式装置\nvisual perception\n视觉感知\n2026：Y2K运动套装回潮\n《Vogue》认为，2026年可能成为Y2K运动套装全面回归的一年。从 Juicy Couture 到新一代品牌合作，千禧年代的休闲审美正在重新流行。这种怀旧风潮也反映了年轻世代对“前智能手机时代”的想象。\nEnglish key expressions\nExpression\n中文理解\nY2K revival\n千禧年风格复兴\nnostalgia\n怀旧情绪\ncapsule collaboration\n联名系列\nfashion cycle\n时尚循环\nMini thought\n时尚的“复古”并不只是重复过去，而是在重新解释过去。\n🌟 4) AI / Tech｜AI 与科技\nASML CEO：技术战略应由产业而非官僚体系主导\n面对欧盟最新技术主权计划，荷兰芯片设备巨头 ASML 首席执行官表示支持提升欧洲科技能力，但认为战略项目应更多由产业界推动，而不是由政府直接主导。\nEnglish key expressions\nExpression\n中文理解\nindustry-led\n产业主导的\nstate aid\n国家补贴\nstrategic project\n战略项目\nbureaucracy\n官僚体系\n欧洲的AI监管进入新阶段\n围绕AI Act（人工智能法案）的讨论仍在持续。欧洲一方面希望保持严格监管，另一方面也担心过度监管削弱创新能力。监管与竞争力之间的平衡，已成为全球AI治理的核心议题之一。\nUseful sentence\nRegulators are trying to encourage innovation without sacrificing safety.\n监管机构正试图在不牺牲安全性的前提下促进创新。\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nThe most interesting question in today’s news is not who has the newest technology, but who has the ability to shape the rules around it. Artificial intelligence depends on data, infrastructure, laws, and institutions. Cultural life depends on museums, schools, publishers, and public funding. Power often appears not as a single event, but as a system that quietly determines what becomes possible.\n中文翻译\n今天新闻里最有意思的问题，并不是谁拥有最新技术，而是谁拥有制定规则的能力。人工智能依赖数据、基础设施、法律和制度。文化生活依赖博物馆、学校、出版机构和公共资金。权力往往并不表现为某个单独事件，而是作为一种系统，悄悄决定什么成为可能。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nsovereignty\n主权；自主控制能力\nTech sovereignty has become a major policy goal in Europe.\nautonomy\n自主性；独立性\nThe country wants greater technological autonomy.\nnostalgia\n怀旧情绪\nNostalgia is driving the return of Y2K fashion.\noptical illusion\n视觉错觉\nEscher’s work is famous for its optical illusions.\nbureaucracy\n官僚体系\nCritics worry that bureaucracy may slow innovation.\ncompetitiveness\n竞争力\nGovernments are investing heavily to improve AI competitiveness.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：未来不仅属于创造技术的人，也属于能够想象并塑造制度的人。 🌿"
+}

@@ -1,0 +1,225 @@
+const SITE_TITLE = "The Daily Compass｜每日罗盘";
+const SITE_SUBTITLE = "A bilingual daily briefing for navigating global news, culture, AI, and social change.";
+
+const SECTION_LABELS = {
+  "Global News｜全球新闻": "Global News｜全球新闻",
+  "Gender & Culture｜性别与文化": "Gender & Culture｜性别与文化",
+  "Gender / Culture｜性别与文化": "Gender & Culture｜性别与文化",
+  "Art, Fashion & Media｜艺术、时尚与媒介": "Art, Fashion & Media｜艺术、时尚与媒介",
+  "Art / Fashion / Media｜艺术、时尚与媒介": "Art, Fashion & Media｜艺术、时尚与媒介",
+  "Art / Fashion / Media｜艺术、时尚与媒体": "Art, Fashion & Media｜艺术、时尚与媒体",
+  "AI & Tech｜AI 与科技": "AI & Tech｜AI 与科技",
+  "AI / Tech｜AI 与科技": "AI & Tech｜AI 与科技",
+};
+
+const topicFallback = ["Global News｜全球新闻", "Gender & Culture｜性别与文化", "Art, Fashion & Media｜艺术、时尚与媒介", "AI & Tech｜AI 与科技"];
+const signalIcons = ["◎", "☾", "◉", "✶"];
+const todayBriefing = document.querySelector("#todayBriefing");
+const archiveList = document.querySelector("#archiveList");
+const archiveSearch = document.querySelector("#archiveSearch");
+const readTodayLink = document.querySelector("#readTodayLink");
+const themeSwitch = document.querySelector("#themeSwitch");
+const themeIcon = themeSwitch?.querySelector(".theme-icon");
+
+let archiveEntries = [];
+
+function getStoredTheme() {
+  return localStorage.getItem("daily-compass.home-theme") || "dark";
+}
+
+function applyHomeTheme(theme) {
+  const normalizedTheme = theme === "light" ? "light" : "dark";
+  document.documentElement.classList.toggle("theme-light", normalizedTheme === "light");
+  document.documentElement.classList.toggle("theme-dark", normalizedTheme === "dark");
+  localStorage.setItem("daily-compass.home-theme", normalizedTheme);
+  if (!themeSwitch || !themeIcon) return;
+  const isLight = normalizedTheme === "light";
+  themeSwitch.setAttribute("aria-pressed", String(isLight));
+  themeSwitch.setAttribute("aria-label", "Toggle light and dark theme");
+  themeSwitch.title = isLight ? "Night mode / 夜间模式" : "Day mode / 日间模式";
+  themeIcon.textContent = isLight ? "☼" : "☾";
+}
+
+function transitionHomeTheme(theme) {
+  document.documentElement.classList.add("theme-transitioning");
+  applyHomeTheme(theme);
+  window.clearTimeout(transitionHomeTheme.timer);
+  transitionHomeTheme.timer = window.setTimeout(() => {
+    document.documentElement.classList.remove("theme-transitioning");
+  }, 720);
+}
+
+async function fetchJson(path) {
+  const response = await fetch(path);
+  if (!response.ok) throw new Error(`Failed to load ${path}`);
+  return response.json();
+}
+
+function sortByNewest(entries) {
+  return [...entries].sort((a, b) => new Date(b.date) - new Date(a.date));
+}
+
+async function loadBriefingIndex() {
+  const index = await fetchJson("data/briefings/index.json");
+  return sortByNewest(index);
+}
+
+async function loadBriefing(entry) {
+  return fetchJson(`data/briefings/${entry.file || `${entry.date}.json`}`);
+}
+
+function displaySectionLabel(section, index) {
+  return SECTION_LABELS[section.heading] || topicFallback[index] || section.heading || "Briefing";
+}
+
+function trimText(text = "", maxLength = 360) {
+  const clean = String(text).replace(/\s+/g, " ").trim();
+  if (clean.length <= maxLength) return clean;
+  return `${clean.slice(0, maxLength).trim()}...`;
+}
+
+function sectionPreview(section, fallback = "") {
+  if (section.summaryChinese) return section.summaryChinese;
+  if (section.body || section.text) return section.body || section.text;
+  if (Array.isArray(section.items) && section.items.length) {
+    return section.items
+      .map((item) => [item.title, item.summaryChinese].filter(Boolean).join("："))
+      .filter(Boolean)
+      .join(" ");
+  }
+  return fallback;
+}
+
+function sectionPlainText(section) {
+  return sectionPreview(section, "");
+}
+
+function formatDateParts(dateString) {
+  const date = new Date(`${dateString}T00:00:00`);
+  if (Number.isNaN(date.getTime())) return { year: "", monthDay: dateString, weekday: "" };
+  return {
+    year: String(date.getFullYear()),
+    monthDay: new Intl.DateTimeFormat("en-US", { month: "2-digit", day: "2-digit" }).format(date).replace("/", " / "),
+    weekday: new Intl.DateTimeFormat("zh-CN", { weekday: "long" }).format(date),
+  };
+}
+
+function renderTags(tags = []) {
+  if (!tags.length) return "";
+  return `<div class="tag-row">${tags.map((tag) => `<span>${tag}</span>`).join("")}</div>`;
+}
+
+function renderTodayBriefing(briefing) {
+  const sections = (briefing.sections || []).slice(0, 4);
+  const signalRows = (sections.length ? sections : topicFallback.map((heading) => ({ heading }))).slice(0, 4)
+    .map((section, index) => {
+      const [english, chinese = ""] = displaySectionLabel(section, index).split("｜");
+      const preview = sectionPreview(section, [
+        "采集地缘政治、经济与气候的最新动态",
+        "观察性别议题、社会文化与群体声音",
+        "从美学、时尚与媒介看世界的想象与表达",
+        "追踪技术发展、AI 应用与数字社会议题",
+      ][index] || "");
+      return `
+        <div class="signal-row">
+          <span class="signal-icon">${signalIcons[index] || "✦"}</span>
+          <div>
+            <strong>${english}${chinese ? ` / ${chinese}` : ""}</strong>
+            <small>${trimText(preview, 58)}</small>
+          </div>
+        </div>
+      `;
+    })
+    .join("");
+  const englishPreview = briefing.englishParagraph?.english || briefing.sentenceAnalysis?.sentence || briefing.sentenceLab?.sentence || sectionPlainText(sections[0]) || "";
+  const href = `briefing.html?date=${briefing.date}`;
+  const dateParts = formatDateParts(briefing.date);
+
+  readTodayLink.href = href;
+  todayBriefing.innerHTML = `
+    <div class="today-main">
+      <div class="date-card" aria-label="${briefing.date}">
+        <span>${dateParts.year}</span>
+        <strong>${dateParts.monthDay}</strong>
+        <small>${dateParts.weekday}</small>
+      </div>
+      <div class="today-copy">
+        <p class="dateline">今日主题 / Today’s Theme</p>
+        <h3>${briefing.theme || SITE_TITLE}</h3>
+        <p class="today-intro">${briefing.introChinese || "今天的小报还在整理中，请稍后回来阅读。"}</p>
+        <a class="primary-button" href="${href}">阅读全文 / Read this briefing</a>
+      </div>
+    </div>
+    <aside class="today-signals" aria-label="Today’s Signals">
+      <p class="signal-title">今日信号 / Today’s Signals</p>
+      <div class="signal-list">${signalRows}</div>
+      ${briefing.tags?.length ? renderTags(briefing.tags) : ""}
+      ${
+        englishPreview
+          ? `<div class="english-preview"><span>One English Paragraph</span><p>${trimText(englishPreview, 320)}</p></div>`
+          : ""
+      }
+    </aside>
+  `;
+}
+
+function archiveMatches(entry, query) {
+  if (!query) return true;
+  const haystack = [entry.date, entry.title, entry.theme, ...(entry.tags || [])].join(" ").toLowerCase();
+  return haystack.includes(query.toLowerCase());
+}
+
+function renderArchive(entries, query = "") {
+  const visible = entries.filter((entry) => archiveMatches(entry, query));
+  if (!visible.length) {
+    archiveList.innerHTML = `<div class="empty-state">No briefings match this search yet.</div>`;
+    return;
+  }
+
+  archiveList.innerHTML = visible
+    .map(
+      (entry) => `
+        <article class="archive-card">
+          <div class="archive-card-top">
+            <time datetime="${entry.date}">${entry.date}</time>
+            <span>${formatDateParts(entry.date).weekday || "Briefing"}</span>
+          </div>
+          <h3>${entry.theme || SITE_SUBTITLE}</h3>
+          ${renderTags(entry.tags || [])}
+          <a class="archive-read-button" href="briefing.html?date=${entry.date}">阅读 / Read</a>
+        </article>
+      `,
+    )
+    .join("");
+}
+
+function renderEmptyState(message) {
+  todayBriefing.innerHTML = `<div class="empty-state">${message}</div>`;
+  archiveList.innerHTML = `<div class="empty-state">Archive is empty.</div>`;
+}
+
+archiveSearch.addEventListener("input", (event) => {
+  renderArchive(archiveEntries, event.currentTarget.value.trim());
+});
+
+themeSwitch?.addEventListener("click", () => {
+  const nextTheme = document.documentElement.classList.contains("theme-light") ? "dark" : "light";
+  transitionHomeTheme(nextTheme);
+});
+
+async function init() {
+  applyHomeTheme(getStoredTheme());
+  archiveEntries = await loadBriefingIndex();
+  if (!archiveEntries.length) {
+    renderEmptyState("No daily briefings have been added yet.");
+    return;
+  }
+  const newest = archiveEntries[0];
+  const briefing = await loadBriefing(newest);
+  renderTodayBriefing(briefing);
+  renderArchive(archiveEntries);
+}
+
+init().catch((error) => {
+  renderEmptyState(`Could not load briefings: ${error.message}`);
+});

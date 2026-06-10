@@ -1,0 +1,12 @@
+{
+  "name": "the-daily-compass",
+  "version": "1.0.0",
+  "private": true,
+  "description": "The Daily Compass｜每日罗盘 bilingual daily briefing archive.",
+  "scripts": {
+    "generate:briefing": "node scripts/generate-daily-briefing.mjs"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

@@ -1,0 +1,234 @@
+{
+  "date": "2026-06-07",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "技术主权、数字依赖、性别正义、文化空间与AI治理",
+  "introChinese": "今天这份小报的关键词是：技术主权、数字依赖、性别正义、文化空间与AI治理。今天的新闻有一个共同主题：当人们讨论未来时，讨论的往往不只是技术本身，而是谁拥有决定规则的权力。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "欧洲加速推动“技术主权”计划",
+          "summaryChinese": "欧盟本周正式推出新一轮技术主权方案，希望加强欧洲在半导体、云计算和人工智能领域的自主能力，减少对美国科技公司的依赖。相关计划包括新版《芯片法案》以及针对AI和云服务的新政策框架。",
+          "englishExpressions": [
+            {
+              "expression": "tech sovereignty",
+              "meaningChinese": "技术主权",
+              "example": ""
+            },
+            {
+              "expression": "digital autonomy",
+              "meaningChinese": "数字自主权",
+              "example": ""
+            },
+            {
+              "expression": "semiconductor industry",
+              "meaningChinese": "半导体产业",
+              "example": ""
+            },
+            {
+              "expression": "strategic dependency",
+              "meaningChinese": "战略依赖",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nPolicymakers want to reduce strategic dependencies in critical technologies.\n政策制定者希望减少关键技术领域的战略依赖。"
+        },
+        {
+          "title": "欧洲议会正式改用法国搜索引擎 Qwant",
+          "summaryChinese": "作为技术主权战略的一部分，欧洲议会已开始将默认搜索引擎从 Google 调整为法国搜索引擎 Qwant。这一变化象征意义大于实际影响，但反映出欧洲对数字基础设施自主性的重视。",
+          "englishExpressions": [
+            {
+              "expression": "default search engine",
+              "meaningChinese": "默认搜索引擎",
+              "example": ""
+            },
+            {
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": ""
+            },
+            {
+              "expression": "local alternative",
+              "meaningChinese": "本土替代方案",
+              "example": ""
+            },
+            {
+              "expression": "technological independence",
+              "meaningChinese": "技术独立性",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "肯尼亚抗议者呼吁将性别暴力列为国家危机",
+          "summaryChinese": "美联社报道，数百名抗议者近日在内罗毕举行游行，要求政府宣布性别暴力为国家危机。抗议活动发生在多起针对女性的暴力案件之后，也再次引发关于国家责任与社会保护机制的讨论。",
+          "englishExpressions": [
+            {
+              "expression": "gender-based violence",
+              "meaningChinese": "基于性别的暴力",
+              "example": ""
+            },
+            {
+              "expression": "national crisis",
+              "meaningChinese": "国家危机",
+              "example": ""
+            },
+            {
+              "expression": "public demonstration",
+              "meaningChinese": "公众抗议",
+              "example": ""
+            },
+            {
+              "expression": "protective measures",
+              "meaningChinese": "保护措施",
+              "example": ""
+            }
+          ],
+          "studyNote": "Study note\n新闻中常见的 gender-based violence (GBV) 不仅包括身体暴力，也包括心理、经济和性暴力等形式。"
+        },
+        {
+          "title": "联合国：全球女性法律平等仍未实现",
+          "summaryChinese": "联合国妇女署最新数据显示，全球女性平均仅拥有男性约64%的法律权利。目前世界上仍没有任何国家实现女性与男性的完全法律平等。研究者指出，法律条文与实际执行之间往往存在明显差距。",
+          "englishExpressions": [],
+          "studyNote": "Useful phrase\nLegal equality does not always mean lived equality.\n法律平等并不总意味着现实中的平等。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "艺术空间与“谁能被看见”",
+          "summaryChinese": "随着欧洲夏季艺术季展开，越来越多评论关注艺术机构中的代表性问题：哪些艺术家获得展览机会？哪些故事被保存下来？哪些声音仍被忽视？艺术新闻越来越不仅关于作品，也关于文化权力如何运作。",
+          "englishExpressions": [
+            {
+              "expression": "cultural representation",
+              "meaningChinese": "文化代表性",
+              "example": ""
+            },
+            {
+              "expression": "curatorial practice",
+              "meaningChinese": "策展实践",
+              "example": ""
+            },
+            {
+              "expression": "public access",
+              "meaningChinese": "公众可及性",
+              "example": ""
+            },
+            {
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "媒体行业继续讨论女性与新闻生产",
+          "summaryChinese": "学界与媒体研究持续关注一个问题：女性不仅是新闻受众，也应作为专家、评论者和决策者出现在新闻生产过程中。媒体中的代表性，往往会影响公众如何理解现实。",
+          "englishExpressions": [],
+          "studyNote": "Mini thought\n媒体不仅报道世界，也参与塑造我们理解世界的方式。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "欧洲的AI战略进入“基础设施时代”",
+          "summaryChinese": "欧洲近期发布的一系列AI政策显示，竞争焦点正从聊天机器人转向基础设施建设，包括数据中心、芯片制造、云平台和能源供应。专家认为，未来AI竞争很大程度上将是基础设施竞争。\nAI治理成为企业关注重点\n越来越多企业开始将注意力从“能否使用AI”转向“如何负责任地使用AI”。治理、透明度、数据质量与风险管理，正在成为AI实践中的核心议题。",
+          "englishExpressions": [
+            {
+              "expression": "AI infrastructure",
+              "meaningChinese": "AI基础设施",
+              "example": ""
+            },
+            {
+              "expression": "data center capacity",
+              "meaningChinese": "数据中心容量",
+              "example": ""
+            },
+            {
+              "expression": "cloud computing",
+              "meaningChinese": "云计算",
+              "example": ""
+            },
+            {
+              "expression": "industrial deployment",
+              "meaningChinese": "产业部署",
+              "example": ""
+            }
+          ],
+          "studyNote": "Useful sentence\nSuccessful AI adoption requires both innovation and governance.\n成功的AI应用既需要创新，也需要治理。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Many of today’s debates are not really about technology itself. They are about power, dependence, and choice. Countries want to decide where their data is stored, which technologies they rely on, and who writes the rules that shape the future. Whether we are discussing artificial intelligence, gender equality, or cultural institutions, the deeper question is often the same: who gets to participate, and who gets left out?",
+    "chinese": "今天许多讨论其实并不只是关于技术本身，而是关于权力、依赖与选择。各国希望决定自己的数据存放在哪里、依赖哪些技术，以及由谁来制定塑造未来的规则。无论是在讨论人工智能、性别平等还是文化机构，更深层的问题往往是相同的：谁能够参与其中，而谁被排除在外？"
+  },
+  "keywords": [
+    {
+      "word": "sovereignty",
+      "meaning": "主权；自主控制能力",
+      "example": "The EU is promoting tech sovereignty through new legislation."
+    },
+    {
+      "word": "dependency",
+      "meaning": "依赖关系",
+      "example": "Many countries worry about dependency on foreign technologies."
+    },
+    {
+      "word": "governance",
+      "meaning": "治理；管理框架",
+      "example": "AI governance is becoming a major policy issue."
+    },
+    {
+      "word": "representation",
+      "meaning": "代表性；呈现",
+      "example": "The exhibition raises questions about cultural representation."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施",
+      "example": "AI infrastructure requires massive investment and energy."
+    },
+    {
+      "word": "implementation",
+      "meaning": "实施；执行",
+      "example": "The challenge is not only legislation but also implementation."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "今天的小报留给我们一句话：未来并不只是被发明出来的，它也会被制度、文化和集体选择一点点塑造。 🌿"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年6月7日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：技术主权、数字依赖、性别正义、文化空间与AI治理。今天的新闻有一个共同主题：当人们讨论未来时，讨论的往往不只是技术本身，而是谁拥有决定规则的权力。\n🌟 1) Global News｜全球新闻\n欧洲加速推动“技术主权”计划\n欧盟本周正式推出新一轮技术主权方案，希望加强欧洲在半导体、云计算和人工智能领域的自主能力，减少对美国科技公司的依赖。相关计划包括新版《芯片法案》以及针对AI和云服务的新政策框架。\nEnglish key expressions\nExpression\n中文理解\ntech sovereignty\n技术主权\ndigital autonomy\n数字自主权\nsemiconductor industry\n半导体产业\nstrategic dependency\n战略依赖\nUseful sentence\nPolicymakers want to reduce strategic dependencies in critical technologies.\n政策制定者希望减少关键技术领域的战略依赖。\n欧洲议会正式改用法国搜索引擎 Qwant\n作为技术主权战略的一部分，欧洲议会已开始将默认搜索引擎从 Google 调整为法国搜索引擎 Qwant。这一变化象征意义大于实际影响，但反映出欧洲对数字基础设施自主性的重视。\nEnglish key expressions\nExpression\n中文理解\ndefault search engine\n默认搜索引擎\ndigital infrastructure\n数字基础设施\nlocal alternative\n本土替代方案\ntechnological independence\n技术独立性\n🌟 2) Gender / Culture｜性别与文化\n肯尼亚抗议者呼吁将性别暴力列为国家危机\n美联社报道，数百名抗议者近日在内罗毕举行游行，要求政府宣布性别暴力为国家危机。抗议活动发生在多起针对女性的暴力案件之后，也再次引发关于国家责任与社会保护机制的讨论。\nEnglish key expressions\nExpression\n中文理解\ngender-based violence\n基于性别的暴力\nnational crisis\n国家危机\npublic demonstration\n公众抗议\nprotective measures\n保护措施\nStudy note\n新闻中常见的 gender-based violence (GBV) 不仅包括身体暴力，也包括心理、经济和性暴力等形式。\n联合国：全球女性法律平等仍未实现\n联合国妇女署最新数据显示，全球女性平均仅拥有男性约64%的法律权利。目前世界上仍没有任何国家实现女性与男性的完全法律平等。研究者指出，法律条文与实际执行之间往往存在明显差距。\nUseful phrase\nLegal equality does not always mean lived equality.\n法律平等并不总意味着现实中的平等。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\n艺术空间与“谁能被看见”\n随着欧洲夏季艺术季展开，越来越多评论关注艺术机构中的代表性问题：哪些艺术家获得展览机会？哪些故事被保存下来？哪些声音仍被忽视？艺术新闻越来越不仅关于作品，也关于文化权力如何运作。\nEnglish key expressions\nExpression\n中文理解\ncultural representation\n文化代表性\ncuratorial practice\n策展实践\npublic access\n公众可及性\ncultural memory\n文化记忆\n媒体行业继续讨论女性与新闻生产\n学界与媒体研究持续关注一个问题：女性不仅是新闻受众，也应作为专家、评论者和决策者出现在新闻生产过程中。媒体中的代表性，往往会影响公众如何理解现实。\nMini thought\n媒体不仅报道世界，也参与塑造我们理解世界的方式。\n🌟 4) AI / Tech｜AI 与科技\n欧洲的AI战略进入“基础设施时代”\n欧洲近期发布的一系列AI政策显示，竞争焦点正从聊天机器人转向基础设施建设，包括数据中心、芯片制造、云平台和能源供应。专家认为，未来AI竞争很大程度上将是基础设施竞争。\nEnglish key expressions\nExpression\n中文理解\nAI infrastructure\nAI基础设施\ndata center capacity\n数据中心容量\ncloud computing\n云计算\nindustrial deployment\n产业部署\nAI治理成为企业关注重点\n越来越多企业开始将注意力从“能否使用AI”转向“如何负责任地使用AI”。治理、透明度、数据质量与风险管理，正在成为AI实践中的核心议题。\nUseful sentence\nSuccessful AI adoption requires both innovation and governance.\n成功的AI应用既需要创新，也需要治理。\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nMany of today’s debates are not really about technology itself. They are about power, dependence, and choice. Countries want to decide where their data is stored, which technologies they rely on, and who writes the rules that shape the future. Whether we are discussing artificial intelligence, gender equality, or cultural institutions, the deeper question is often the same: who gets to participate, and who gets left out?\n中文翻译\n今天许多讨论其实并不只是关于技术本身，而是关于权力、依赖与选择。各国希望决定自己的数据存放在哪里、依赖哪些技术，以及由谁来制定塑造未来的规则。无论是在讨论人工智能、性别平等还是文化机构，更深层的问题往往是相同的：谁能够参与其中，而谁被排除在外？\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nsovereignty\n主权；自主控制能力\nThe EU is promoting tech sovereignty through new legislation.\ndependency\n依赖关系\nMany countries worry about dependency on foreign technologies.\ngovernance\n治理；管理框架\nAI governance is becoming a major policy issue.\nrepresentation\n代表性；呈现\nThe exhibition raises questions about cultural representation.\ninfrastructure\n基础设施\nAI infrastructure requires massive investment and energy.\nimplementation\n实施；执行\nThe challenge is not only legislation but also implementation.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：未来并不只是被发明出来的，它也会被制度、文化和集体选择一点点塑造。 🌿"
+}

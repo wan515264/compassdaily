@@ -1,0 +1,280 @@
+{
+  "date": "2026-05-26",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "风险、照护与边界",
+  "introChinese": "Morning Mini-Newspaper｜每日双语资讯小报\n今天的小报关键词是：风险、照护与边界。从公共卫生到 AI 监管，从女性权利到红毯文化，新闻都在提醒我们：真正重要的，不只是“发生了什么”，还有谁承担代价、谁被看见、谁拥有发声权。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "非洲开发银行年会：埃博拉阴影下的融资焦虑",
+          "summaryChinese": "非洲开发银行在刚果共和国举行年会，讨论非洲发展融资问题。Reuters 报道，随着外援下降，非洲开发银行希望更多调动本土金融资源，以填补能源、粮食安全、气候韧性、基础设施和就业等领域的巨大资金缺口；与此同时，邻国刚果民主共和国的埃博拉疫情也给会议蒙上阴影。\n美国、日本、澳大利亚和印度组成的 Quad 将在新德里举行外长会议。日本外务省表示，日本外相茂木敏充将访问印度并参加会议，美国国务卿 Marco Rubio 也将出席。这个会议反映出四国继续加强印太地区安全与战略合作。",
+          "englishExpressions": [
+            {
+              "expression": "development financing",
+              "meaningChinese": "发展融资",
+              "example": ""
+            },
+            {
+              "expression": "funding gap",
+              "meaningChinese": "资金缺口",
+              "example": ""
+            },
+            {
+              "expression": "climate resilience",
+              "meaningChinese": "气候韧性",
+              "example": ""
+            },
+            {
+              "expression": "foreign aid cuts",
+              "meaningChinese": "外援削减",
+              "example": ""
+            },
+            {
+              "expression": "African leaders are looking for new ways to close the development financing gap.",
+              "meaningChinese": "非洲领导人正在寻找新的方式来弥合发展融资缺口。",
+              "example": ""
+            },
+            {
+              "expression": "WHO 警告",
+              "meaningChinese": "埃博拉疫情正在超过应对速度",
+              "example": ""
+            },
+            {
+              "expression": "WHO",
+              "meaningChinese": "总干事 Tedros Adhanom Ghebreyesus 表示，刚果民主共和国和乌干达的埃博拉疫情扩散很快，目前应对速度已经跟不上疫情发展；截至 5月25日，已报告 220 例疑似死亡病例。此次疫情涉及较罕见的 Bundibugyo 毒株，目前没有获批疫苗，且部分地区安全形势不稳定，增加了防控难度。",
+              "example": ""
+            },
+            {
+              "expression": "outpace response efforts",
+              "meaningChinese": "超过应对能力 / 速度",
+              "example": ""
+            },
+            {
+              "expression": "suspected deaths",
+              "meaningChinese": "疑似死亡病例",
+              "example": ""
+            },
+            {
+              "expression": "containment",
+              "meaningChinese": "遏制；控制疫情",
+              "example": ""
+            },
+            {
+              "expression": "public health emergency",
+              "meaningChinese": "公共卫生紧急事件",
+              "example": ""
+            },
+            {
+              "expression": "Late detection can make it harder to contain a fast-moving outbreak.",
+              "meaningChinese": "发现过晚会让快速扩散的疫情更难被控制。",
+              "example": ""
+            },
+            {
+              "expression": "Quad",
+              "meaningChinese": "外长会议在新德里举行",
+              "example": ""
+            },
+            {
+              "expression": "top diplomats’ meeting",
+              "meaningChinese": "高级外交官会议 / 外长会议",
+              "example": ""
+            },
+            {
+              "expression": "strategic cooperation",
+              "meaningChinese": "战略合作",
+              "example": ""
+            },
+            {
+              "expression": "Indo-Pacific region",
+              "meaningChinese": "印太地区",
+              "example": ""
+            },
+            {
+              "expression": "security partnership",
+              "meaningChinese": "安全伙伴关系",
+              "example": ""
+            },
+            {
+              "expression": "The Quad meeting signals closer strategic cooperation in the Indo-Pacific region.",
+              "meaningChinese": "Quad 会议显示出印太地区更紧密的战略合作。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "阿富汗新法引发联合国担忧：女性与儿童权利进一步受压",
+          "summaryChinese": "AP 报道，联合国对阿富汗塔利班政府一项新法律表示严重担忧。该法律涉及婚姻分离与婚姻同意问题，其中一些条款可能被解释为允许童婚，并进一步限制女性离婚权。UNAMA 认为，这会削弱女性与儿童的自主权、平等权和安全。\n这条新闻特别适合从性别研究角度理解：法律从来不只是规则，它也决定了谁的沉默会被当作同意，谁的身体会被家庭、国家或宗教权力重新定义。",
+          "englishExpressions": [
+            {
+              "expression": "child marriage",
+              "meaningChinese": "童婚",
+              "example": ""
+            },
+            {
+              "expression": "gender discrimination",
+              "meaningChinese": "性别歧视",
+              "example": ""
+            },
+            {
+              "expression": "legal autonomy",
+              "meaningChinese": "法律自主权",
+              "example": ""
+            },
+            {
+              "expression": "women’s rights rollback",
+              "meaningChinese": "女性权利倒退",
+              "example": ""
+            },
+            {
+              "expression": "Human rights groups warn that the law could deepen gender discrimination.",
+              "meaningChinese": "人权组织警告说，这项法律可能加深性别歧视。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Briefing item",
+          "summaryChinese": "Cannes 红毯趋势：从复古档案到当季品牌叙事\nVogue 观察到，2026 年 Cannes 红毯上，明星造型正在从 archival dressing（档案造型） 转向更多当季定制和最新秀场造型。虽然 Bella Hadid、Simone Ashley 等人仍穿着复古或档案款，但整体趋势更偏向品牌合作、当季曝光和设计师可见度。\n这背后不只是“谁穿得好看”，而是红毯越来越像一种媒介空间：电影节、奢侈品牌、明星身体和社交媒体传播在同一个场域里共同生产意义。",
+          "englishExpressions": [
+            {
+              "expression": "archival dressing",
+              "meaningChinese": "档案造型 / 复古档案服装",
+              "example": ""
+            },
+            {
+              "expression": "current-season look",
+              "meaningChinese": "当季造型",
+              "example": ""
+            },
+            {
+              "expression": "brand visibility",
+              "meaningChinese": "品牌可见度",
+              "example": ""
+            },
+            {
+              "expression": "red-carpet storytelling",
+              "meaningChinese": "红毯叙事",
+              "example": ""
+            },
+            {
+              "expression": "Red-carpet fashion is increasingly shaped by brand visibility and current-season looks.",
+              "meaningChinese": "红毯时尚越来越受到品牌可见度和当季造型的影响。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "教宗 Leo 呼吁 AI 监管：尤其警惕自主武器",
+          "summaryChinese": "Reuters 报道，教宗 Leo XIV 在其首份重要通谕中呼吁世界加强 AI 监管。他特别警告，一些自主武器系统已经越来越难由人类控制，并指出 AI 可能加剧虚假信息、冲突和社会不平等。\n同一场 Vatican 活动上，Anthropic 联合创始人 Chris Olah 也表示，AI 发展不能只由大型科技公司内部决定，而需要政府、宗教团体、公民社会等外部力量共同参与监督。",
+          "englishExpressions": [
+            {
+              "expression": "AI regulation",
+              "meaningChinese": "AI 监管",
+              "example": ""
+            },
+            {
+              "expression": "autonomous weapons",
+              "meaningChinese": "自主武器",
+              "example": ""
+            },
+            {
+              "expression": "human oversight",
+              "meaningChinese": "人类监督",
+              "example": ""
+            },
+            {
+              "expression": "external scrutiny",
+              "meaningChinese": "外部审查 / 外部监督",
+              "example": ""
+            },
+            {
+              "expression": "Experts argue that powerful AI systems require stronger human oversight.",
+              "meaningChinese": "专家认为，强大的 AI 系统需要更强的人类监督。",
+              "example": ""
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news is connected by one quiet question: who has control when systems become too large, too fast, or too powerful? Public health officials are trying to contain Ebola before it spreads further; African leaders are searching for development funding amid shrinking foreign aid; women and girls in Afghanistan face laws that may reduce their autonomy; and AI experts are asking whether technology can remain accountable to human values. The world is not only changing quickly — it is asking us to decide what kind of protection, dignity, and oversight should come first.",
+    "chinese": "今天的新闻被一个安静的问题连接起来：当系统变得太庞大、太快速、太强大时，谁还拥有控制权？公共卫生官员正在努力遏制埃博拉进一步扩散；非洲领导人在外援减少的背景下寻找发展资金；阿富汗女性和女孩面对可能削弱其自主权的法律；AI 专家也在追问技术是否仍能对人类价值负责。世界不只是在快速变化，它也在要求我们决定：保护、尊严与监督，哪一个应该被优先放在前面。"
+  },
+  "keywords": [
+    {
+      "word": "funding gap",
+      "meaning": "资金缺口；所需资金与实际资金之间的差距",
+      "example": "The bank is trying to close a major funding gap."
+    },
+    {
+      "word": "containment",
+      "meaning": "遏制；控制疫情或危机扩散",
+      "example": "Early testing is essential for outbreak containment."
+    },
+    {
+      "word": "legal autonomy",
+      "meaning": "法律自主权；个人在法律上做决定的权利",
+      "example": "The new decree raises concerns about women’s legal autonomy."
+    },
+    {
+      "word": "rights rollback",
+      "meaning": "权利倒退；已有权利被削弱或撤回",
+      "example": "Activists described the policy as a rights rollback."
+    },
+    {
+      "word": "human oversight",
+      "meaning": "人类监督；由人类对系统进行判断和控制",
+      "example": "Autonomous systems should remain under human oversight."
+    },
+    {
+      "word": "external scrutiny",
+      "meaning": "外部审查；来自机构外部的监督",
+      "example": "Big Tech faces growing calls for external scrutiny."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "",
+    "analysisChinese": ""
+  },
+  "reflection": {
+    "english": "A humane society is measured not only by how fast it advances, but by how carefully it protects those most easily left behind.",
+    "chinese": "一个有人性的社会，不只看它前进得多快，也看它是否认真保护那些最容易被落下的人。"
+  },
+  "tags": [
+    "AI",
+    "technology",
+    "gender",
+    "culture",
+    "global",
+    "climate"
+  ],
+  "sources": [],
+  "rawText": "推送日期｜2026年5月26日\n⭐ Morning Mini-Newspaper｜每日双语资讯小报\n今天的小报关键词是：风险、照护与边界。从公共卫生到 AI 监管，从女性权利到红毯文化，新闻都在提醒我们：真正重要的，不只是“发生了什么”，还有谁承担代价、谁被看见、谁拥有发声权。\n⭐ 1. Global News｜全球新闻\n1｜非洲开发银行年会：埃博拉阴影下的融资焦虑\n非洲开发银行在刚果共和国举行年会，讨论非洲发展融资问题。Reuters 报道，随着外援下降，非洲开发银行希望更多调动本土金融资源，以填补能源、粮食安全、气候韧性、基础设施和就业等领域的巨大资金缺口；与此同时，邻国刚果民主共和国的埃博拉疫情也给会议蒙上阴影。\nEnglish expressions\nExpression\n中文\ndevelopment financing\n发展融资\nfunding gap\n资金缺口\nclimate resilience\n气候韧性\nforeign aid cuts\n外援削减\nExample sentence\nAfrican leaders are looking for new ways to close the development financing gap.\n非洲领导人正在寻找新的方式来弥合发展融资缺口。\n2｜WHO 警告：埃博拉疫情正在超过应对速度\nWHO 总干事 Tedros Adhanom Ghebreyesus 表示，刚果民主共和国和乌干达的埃博拉疫情扩散很快，目前应对速度已经跟不上疫情发展；截至 5月25日，已报告 220 例疑似死亡病例。此次疫情涉及较罕见的 Bundibugyo 毒株，目前没有获批疫苗，且部分地区安全形势不稳定，增加了防控难度。\nEnglish expressions\nExpression\n中文\noutpace response efforts\n超过应对能力 / 速度\nsuspected deaths\n疑似死亡病例\ncontainment\n\n遏制；控制疫情\npublic health emergency\n公共卫生紧急事件\nExample sentence\nLate detection can make it harder to contain a fast-moving outbreak.\n发现过晚会让快速扩散的疫情更难被控制。\n3｜Quad 外长会议在新德里举行\n美国、日本、澳大利亚和印度组成的 Quad 将在新德里举行外长会议。日本外务省表示，日本外相茂木敏充将访问印度并参加会议，美国国务卿 Marco Rubio 也将出席。这个会议反映出四国继续加强印太地区安全与战略合作。\nEnglish expressions\nExpression\n中文\ntop diplomats’ meeting\n高级外交官会议 / 外长会议\nstrategic cooperation\n战略合作\nIndo-Pacific region\n印太地区\nsecurity partnership\n安全伙伴关系\nExample sentence\nThe Quad meeting signals closer strategic cooperation in the Indo-Pacific region.\nQuad 会议显示出印太地区更紧密的战略合作。\n⭐ 2. Gender / Culture｜性别与文化\n阿富汗新法引发联合国担忧：女性与儿童权利进一步受压\nAP 报道，联合国对阿富汗塔利班政府一项新法律表示严重担忧。该法律涉及婚姻分离与婚姻同意问题，其中一些条款可能被解释为允许童婚，并进一步限制女性离婚权。UNAMA 认为，这会削弱女性与儿童的自主权、平等权和安全。\n这条新闻特别适合从性别研究角度理解：法律从来不只是规则，它也决定了谁的沉默会被当作同意，谁的身体会被家庭、国家或宗教权力重新定义。\nEnglish expressions\nExpression\n中文\nchild marriage\n童婚\ngender discrimination\n性别歧视\nlegal autonomy\n法律自主权\nwomen’s rights rollback\n女性权利倒退\nExample sentence\nHuman rights groups warn that the law could deepen gender discrimination.\n人权组织警告说，这项法律可能加深性别歧视。\n⭐ 3. Art / Fashion / Media｜艺术、时尚与媒介\nCannes 红毯趋势：从复古档案到当季品牌叙事\nVogue 观察到，2026 年 Cannes 红毯上，明星造型正在从 archival dressing（档案造型） 转向更多当季定制和最新秀场造型。虽然 Bella Hadid、Simone Ashley 等人仍穿着复古或档案款，但整体趋势更偏向品牌合作、当季曝光和设计师可见度。\n这背后不只是“谁穿得好看”，而是红毯越来越像一种媒介空间：电影节、奢侈品牌、明星身体和社交媒体传播在同一个场域里共同生产意义。\nEnglish expressions\nExpression\n中文\narchival dressing\n\n档案造型 / 复古档案服装\ncurrent-season look\n当季造型\nbrand visibility\n品牌可见度\nred-carpet storytelling\n红毯叙事\nExample sentence\nRed-carpet fashion is increasingly shaped by brand visibility and current-season looks.\n红毯时尚越来越受到品牌可见度和当季造型的影响。\n⭐ 4. AI / Tech｜AI 与科技\n教宗 Leo 呼吁 AI 监管：尤其警惕自主武器\nReuters 报道，教宗 Leo XIV 在其首份重要通谕中呼吁世界加强 AI 监管。他特别警告，一些自主武器系统已经越来越难由人类控制，并指出 AI 可能加剧虚假信息、冲突和社会不平等。\n同一场 Vatican 活动上，Anthropic 联合创始人 Chris Olah 也表示，AI 发展不能只由大型科技公司内部决定，而需要政府、宗教团体、公民社会等外部力量共同参与监督。\nEnglish expressions\nExpression\n中文\nAI regulation\nAI 监管\nautonomous weapons\n自主武器\nhuman oversight\n\n人类监督\nexternal scrutiny\n\n外部审查 / 外部监督\nExample sentence\nExperts argue that powerful AI systems require stronger human oversight.\n专家认为，强大的 AI 系统需要更强的人类监督。\n⭐ 5. One English Paragraph｜今日英文阅读\nToday’s news is connected by one quiet question: who has control when systems become too large, too fast, or too powerful? Public health officials are trying to contain Ebola before it spreads further; African leaders are searching for development funding amid shrinking foreign aid; women and girls in Afghanistan face laws that may reduce their autonomy; and AI experts are asking whether technology can remain accountable to human values. The world is not only changing quickly — it is asking us to decide what kind of protection, dignity, and oversight should come first.\n中文翻译\n今天的新闻被一个安静的问题连接起来：当系统变得太庞大、太快速、太强大时，谁还拥有控制权？公共卫生官员正在努力遏制埃博拉进一步扩散；非洲领导人在外援减少的背景下寻找发展资金；阿富汗女性和女孩面对可能削弱其自主权的法律；AI 专家也在追问技术是否仍能对人类价值负责。世界不只是在快速变化，它也在要求我们决定：保护、尊严与监督，哪一个应该被优先放在前面。\n⭐ 6. Today’s Keywords｜今日关键词\nEnglish\n中文解释\nExample sentence\nfunding gap\n资金缺口；所需资金与实际资金之间的差距\nThe bank is trying to close a major funding gap.\ncontainment\n\n遏制；控制疫情或危机扩散\nEarly testing is essential for outbreak containment.\nlegal autonomy\n法律自主权；个人在法律上做决定的权利\nThe new decree raises concerns about women’s legal autonomy.\nrights rollback\n权利倒退；已有权利被削弱或撤回\nActivists described the policy as a rights rollback.\nhuman oversight\n\n人类监督；由人类对系统进行判断和控制\nAutonomous systems should remain under human oversight.\nexternal scrutiny\n外部审查；来自机构外部的监督\nBig Tech faces growing calls for external scrutiny.\n⭐ 7. Reflective Closing｜今日思考\nA humane society is measured not only by how fast it advances, but by how carefully it protects those most easily left behind.\n一个有人性的社会，不只看它前进得多快，也看它是否认真保护那些最容易被落下的人。"
+}
