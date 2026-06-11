@@ -22,6 +22,9 @@ const themeSwitch = document.querySelector("#themeSwitch");
 const themeIcon = themeSwitch?.querySelector(".theme-icon");
 const archiveToggle = document.querySelector("#archiveToggle");
 const updateLogList = document.querySelector("#update-log-list");
+const siteNotesToggle = document.querySelector("#siteNotesToggle");
+const siteNotesContent = document.querySelector("#site-notes-content");
+const siteNotesCount = document.querySelector("#siteNotesCount");
 
 let archiveEntries = [];
 let showFullArchive = false;
@@ -262,16 +265,16 @@ function renderUpdateLogItem(update) {
   const type = escapeHTML(update.type || "update");
   const link = update.link ? escapeAttribute(update.link) : "";
   const titleHTML = link
-    ? `<a class="update-log-link" href="${link}">${title}</a>`
-    : `<span class="update-log-heading">${title}</span>`;
+    ? `<a class="site-notes-link" href="${link}">${title}</a>`
+    : `<span class="site-notes-title">${title}</span>`;
 
   return `
-    <li class="update-log-item">
-      <div class="update-log-date">${date}</div>
-      <div class="update-log-main">
+    <li class="site-notes-item">
+      <div class="site-notes-date">${date}</div>
+      <div class="site-notes-main">
         ${titleHTML}
-        ${description ? `<p class="update-log-description">${description}</p>` : ""}
-        <span class="update-log-type">${type}</span>
+        ${description ? `<p class="site-notes-description">${description}</p>` : ""}
+        <span class="site-notes-type">${type}</span>
       </div>
     </li>
   `;
@@ -286,18 +289,25 @@ async function loadUpdateLog() {
     const updates = await response.json();
 
     if (!Array.isArray(updates) || !updates.length) {
-      updateLogList.innerHTML = `<p class="update-log-empty">暂无更新记录 / No updates yet.</p>`;
+      if (siteNotesCount) siteNotesCount.textContent = "0 updates";
+      updateLogList.innerHTML = `<p class="site-notes-empty">暂无更新记录 / No updates yet.</p>`;
       return;
     }
 
+    if (siteNotesCount) {
+      const countLabel = updates.length === 1 ? "1 update" : `${updates.length} updates`;
+      siteNotesCount.textContent = `Latest ${countLabel}`;
+    }
+
     updateLogList.innerHTML = `
-      <ol class="update-log-timeline">
+      <ol class="site-notes-list">
         ${updates.slice(0, 5).map(renderUpdateLogItem).join("")}
       </ol>
     `;
   } catch (error) {
     console.warn("Could not load update log:", error);
-    updateLogList.innerHTML = `<p class="update-log-empty">暂无更新记录 / No updates yet.</p>`;
+    if (siteNotesCount) siteNotesCount.textContent = "0 updates";
+    updateLogList.innerHTML = `<p class="site-notes-empty">暂无更新记录 / No updates yet.</p>`;
   }
 }
 
@@ -319,6 +329,12 @@ archiveToggle?.addEventListener("click", () => {
 themeSwitch?.addEventListener("click", () => {
   const nextTheme = document.documentElement.classList.contains("theme-light") ? "dark" : "light";
   transitionHomeTheme(nextTheme);
+});
+
+siteNotesToggle?.addEventListener("click", () => {
+  const isExpanded = siteNotesToggle.getAttribute("aria-expanded") === "true";
+  siteNotesToggle.setAttribute("aria-expanded", String(!isExpanded));
+  if (siteNotesContent) siteNotesContent.hidden = isExpanded;
 });
 
 async function init() {

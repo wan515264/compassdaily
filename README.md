@@ -140,7 +140,7 @@ http://localhost:8000
 
 ## Update Log
 
-首页右侧的更新记录存放在：
+首页底部 **Site Notes｜站点札记** 的更新记录存放在：
 
 ```text
 data/update-log.json
@@ -168,7 +168,7 @@ data/update-log.json
 - `bugfix`
 - `source`
 
-如果某条记录没有相关页面，可以把 `link` 留空。保存并提交 `data/update-log.json` 后，首页会自动显示最新 5 条更新。
+如果某条记录没有相关页面，可以把 `link` 留空。保存并提交 `data/update-log.json` 后，首页的站点札记会自动显示最新 5 条更新。
 
 ## 自动生成
 
