@@ -3,7 +3,7 @@
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
   "theme": "公共信任、国际冲突、女性健康、文化身份与AI治理",
-  "introChinese": "今天的小报像一杯不太烫的早茶：世界仍然喧闹，但我们慢慢读、慢慢学，把新闻拆成可以理解的句子。",
+  "introChinese": "早安呀，蝶蝶。今天的小报像一杯不太烫的早茶：世界仍然喧闹，但我们慢慢读、慢慢学，把新闻拆成可以理解的句子。",
   "sections": [
     {
       "id": "global-news",
@@ -29,6 +29,16 @@
               "example": "The president accused Iran of diplomatic deceit."
             }
           ],
+          "sourceLinks": [
+            {
+              "label": "BBC News",
+              "url": "https://www.bbc.com/news"
+            },
+            {
+              "label": "ABC World News",
+              "url": "https://www.abc.net.au/news/world"
+            }
+          ],
           "studyNote": ""
         },
         {
@@ -49,6 +59,20 @@
               "expression": "a symbol of resilience",
               "meaningChinese": "韧性的象征",
               "example": "For many fans, football is a symbol of resilience."
+            }
+          ],
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Haiti kit controversy",
+              "url": "https://www.theguardian.com/football/2026/jun/10/haiti-world-cup-jerseys-change-fifa-saeta-imagery"
+            },
+            {
+              "label": "Al Jazeera｜World Cup 2026",
+              "url": "https://www.aljazeera.com/sports/2026/6/11/fifa-world-cup-2026-haiti-kit-political-flag-war-imagery-football"
+            },
+            {
+              "label": "FIFA｜Tournament page",
+              "url": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026"
             }
           ],
           "studyNote": ""
@@ -79,6 +103,16 @@
               "example": "The supply withdrawal may affect thousands of patients."
             }
           ],
+          "sourceLinks": [
+            {
+              "label": "ABC News｜Zoladex discontinued",
+              "url": "https://www.abc.net.au/news/2026-06-04/breast-cancer-endometriosis-drug-zoladex-discontinued/106726158"
+            },
+            {
+              "label": "ABC News｜Women’s Health",
+              "url": "https://www.abc.net.au/news/topic/womens-health"
+            }
+          ],
           "studyNote": ""
         },
         {
@@ -99,6 +133,12 @@
               "expression": "public advocacy",
               "meaningChinese": "公共倡议 / 公共倡导",
               "example": ""
+            }
+          ],
+          "sourceLinks": [
+            {
+              "label": "ABC Politics",
+              "url": "https://www.abc.net.au/news/politics"
             }
           ],
           "studyNote": ""
@@ -127,6 +167,16 @@
               "expression": "to pay tribute to",
               "meaningChinese": "向……致敬",
               "example": "The design aimed to pay tribute to Haiti's history."
+            }
+          ],
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Football shirts and politics",
+              "url": "https://www.theguardian.com/football/2026/jun/10/haiti-world-cup-jerseys-change-fifa-saeta-imagery"
+            },
+            {
+              "label": "Reuters｜Politics stitched into shirts",
+              "url": "https://www.reuters.com/lifestyle/culture-current/joey-durso-politics-stitched-into-soccer-shirts-2026-06-06/"
             }
           ],
           "studyNote": ""
@@ -177,6 +227,12 @@
               "expression": "to hold companies accountable",
               "meaningChinese": "让公司承担责任",
               "example": "Lawmakers want to hold tech companies accountable."
+            }
+          ],
+          "sourceLinks": [
+            {
+              "label": "ABC News｜AI data centres",
+              "url": "https://www.abc.net.au/news/2026-06-09/federal-politics-live-blog-david-pocock-ai-centres/106774856"
             }
           ],
           "studyNote": ""
