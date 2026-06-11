@@ -58,15 +58,34 @@
         </div>
       </section>
 
-      <section class="page-section" id="today" aria-labelledby="todayTitle">
-        <div class="section-kicker">今日小报 / Today’s Briefing</div>
-        <div class="section-heading">
-          <h2 id="todayTitle">Front Page</h2>
-          <p>Today’s quiet map of global signals, language, and reflection.</p>
+      <section class="home-dashboard page-section" aria-label="Today briefing and update log">
+        <div class="home-main-column">
+          <section id="today" aria-labelledby="todayTitle">
+            <div class="section-kicker">今日小报 / Today’s Briefing</div>
+            <div class="section-heading">
+              <h2 id="todayTitle">Front Page</h2>
+              <p>Today’s quiet map of global signals, language, and reflection.</p>
+            </div>
+            <div class="today-card" id="todayBriefing">
+              <div class="empty-state">Loading today’s briefing...</div>
+            </div>
+          </section>
         </div>
-        <div class="today-card" id="todayBriefing">
-          <div class="empty-state">Loading today’s briefing...</div>
-        </div>
+        <aside class="home-side-column">
+          <section id="update-log" class="update-log-panel" aria-labelledby="update-log-title">
+            <div class="update-log-header">
+              <p class="eyebrow">Project Ledger</p>
+              <h2 id="update-log-title" class="update-log-title">Update Log｜更新记录</h2>
+              <p class="update-log-subtitle">
+                Recent changes to The Daily Compass.<br />
+                《每日罗盘》的近期更新。
+              </p>
+            </div>
+            <div id="update-log-list" class="update-log-list" aria-live="polite">
+              <p class="update-log-empty">Loading updates...</p>
+            </div>
+          </section>
+        </aside>
       </section>
 
       <section class="page-section" id="archive" aria-labelledby="archiveTitle">

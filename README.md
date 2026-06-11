@@ -14,7 +14,7 @@ A bilingual daily briefing for navigating global news, culture, AI, and social c
 页面功能：
 
 - 首页展示最新一期小报和往期归档
-- 首页采用 editorial briefing 版式：纸感 hero、今日小报头版、主题卡片、可搜索归档和 About 区块
+- 首页采用 editorial briefing 版式：神秘罗盘 hero、今日小报头版、更新记录、星历档案和 About 区块
 - 每期小报包含日期、主题、中文导读、分区内容、今日英文段落、今日关键词和今日思考
 - 点击英文单词查看中英释义、朗读并加入单词本
 - 保存原句，导出 CSV 单词本
@@ -137,6 +137,38 @@ python3 -m http.server 8000
 ```text
 http://localhost:8000
 ```
+
+## Update Log
+
+首页右侧的更新记录存放在：
+
+```text
+data/update-log.json
+```
+
+添加新记录时，把新的对象放在数组最上方：
+
+```json
+{
+  "date": "YYYY-MM-DD",
+  "title": "Short update title",
+  "description": "One sentence describing what changed.",
+  "type": "content",
+  "relatedDate": "YYYY-MM-DD",
+  "link": "briefing.html?date=YYYY-MM-DD"
+}
+```
+
+常用 `type`：
+
+- `briefing`
+- `content`
+- `design`
+- `archive`
+- `bugfix`
+- `source`
+
+如果某条记录没有相关页面，可以把 `link` 留空。保存并提交 `data/update-log.json` 后，首页会自动显示最新 5 条更新。
 
 ## 自动生成
 

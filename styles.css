@@ -875,6 +875,18 @@ main,
   margin: 24px 0;
 }
 
+.home-dashboard {
+  display: grid;
+  grid-template-columns: minmax(0, 1fr) 340px;
+  gap: 1.5rem;
+  align-items: start;
+}
+
+.home-main-column,
+.home-side-column {
+  min-width: 0;
+}
+
 .section-heading,
 .archive-heading,
 .about-section {
@@ -920,6 +932,164 @@ main,
     radial-gradient(circle at 88% 12%, rgba(157, 109, 47, 0.12), transparent 26%),
     linear-gradient(135deg, rgba(255, 248, 231, 0.86), rgba(232, 211, 181, 0.72));
   box-shadow: var(--shadow), inset 0 0 50px rgba(255, 255, 255, 0.28);
+}
+
+.update-log-panel {
+  position: sticky;
+  top: 1.2rem;
+  padding: 1.25rem;
+  border: 1px solid rgba(197, 154, 87, 0.32);
+  border-radius: 22px;
+  background:
+    radial-gradient(circle at 20% 0%, rgba(197, 154, 87, 0.1), transparent 34%),
+    rgba(18, 11, 22, 0.84);
+  box-shadow:
+    0 18px 50px rgba(0, 0, 0, 0.28),
+    inset 0 1px 0 rgba(255, 255, 255, 0.04);
+  backdrop-filter: blur(10px);
+}
+
+.theme-light .update-log-panel {
+  border-color: rgba(135, 91, 48, 0.25);
+  background:
+    radial-gradient(circle at 18% 0%, rgba(155, 106, 53, 0.12), transparent 34%),
+    rgba(255, 249, 238, 0.86);
+  box-shadow: 0 16px 40px rgba(90, 60, 30, 0.12);
+}
+
+.update-log-header {
+  margin-bottom: 1rem;
+}
+
+.update-log-title {
+  margin: 0;
+  color: var(--ink-light);
+  font-family: Georgia, "Times New Roman", "Songti SC", serif;
+  font-size: 1.35rem;
+  font-weight: 500;
+  line-height: 1.15;
+}
+
+.update-log-subtitle {
+  margin: 0.4rem 0 0;
+  color: rgba(245, 234, 216, 0.62);
+  font-size: 0.9rem;
+  line-height: 1.55;
+}
+
+.theme-light .update-log-title {
+  color: #2a2118;
+}
+
+.theme-light .update-log-subtitle {
+  color: rgba(42, 33, 24, 0.66);
+}
+
+.update-log-list {
+  margin-top: 0.9rem;
+}
+
+.update-log-timeline {
+  display: grid;
+  gap: 0.9rem;
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.update-log-item {
+  position: relative;
+  padding-left: 1.1rem;
+  border-left: 1px solid rgba(197, 154, 87, 0.25);
+}
+
+.update-log-item::before {
+  content: "✦";
+  position: absolute;
+  top: 0.05rem;
+  left: -0.48rem;
+  color: var(--gold);
+  font-size: 0.8rem;
+  text-shadow: 0 0 12px rgba(197, 154, 87, 0.28);
+}
+
+.update-log-date {
+  margin-bottom: 0.15rem;
+  color: var(--gold);
+  font-size: 0.78rem;
+  letter-spacing: 0.04em;
+}
+
+.update-log-main {
+  min-width: 0;
+}
+
+.update-log-heading,
+.update-log-link {
+  color: var(--ink-light);
+  font-weight: 700;
+  line-height: 1.35;
+}
+
+.update-log-link {
+  text-decoration: none;
+  border-bottom: 1px solid rgba(197, 154, 87, 0.22);
+}
+
+.update-log-link:hover,
+.update-log-link:focus-visible {
+  color: #e6c68a;
+  border-bottom-color: rgba(197, 154, 87, 0.7);
+}
+
+.update-log-description {
+  margin: 0.28rem 0 0;
+  color: rgba(245, 234, 216, 0.68);
+  font-size: 0.88rem;
+  line-height: 1.55;
+}
+
+.update-log-type {
+  display: inline-flex;
+  margin-top: 0.42rem;
+  padding: 0.16rem 0.48rem;
+  border: 1px solid rgba(197, 154, 87, 0.25);
+  border-radius: 999px;
+  background: rgba(197, 154, 87, 0.08);
+  color: #e6c68a;
+  font-size: 0.72rem;
+  letter-spacing: 0.03em;
+}
+
+.update-log-empty {
+  margin: 0;
+  color: rgba(245, 234, 216, 0.62);
+  font-size: 0.9rem;
+}
+
+.theme-light .update-log-item {
+  border-left-color: rgba(135, 91, 48, 0.22);
+}
+
+.theme-light .update-log-heading,
+.theme-light .update-log-link {
+  color: #2a2118;
+}
+
+.theme-light .update-log-description,
+.theme-light .update-log-empty {
+  color: rgba(42, 33, 24, 0.66);
+}
+
+.theme-light .update-log-date,
+.theme-light .update-log-type,
+.theme-light .update-log-item::before {
+  color: #9b6a35;
+}
+
+.theme-light .update-log-type {
+  border-color: rgba(135, 91, 48, 0.25);
+  background: rgba(135, 91, 48, 0.08);
 }
 
 .today-main {
@@ -1702,6 +1872,52 @@ main,
   line-height: 1.75;
 }
 
+.item-source-links {
+  margin-top: 12px;
+  padding-top: 12px;
+  border-top: 1px solid rgba(197, 154, 87, 0.16);
+}
+
+.item-source-links > span {
+  display: block;
+  margin-bottom: 8px;
+  color: var(--gold);
+  font-size: 0.82rem;
+  font-weight: 800;
+  letter-spacing: 0.02em;
+}
+
+.item-source-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 8px;
+}
+
+.item-source-pill {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 0.28rem 0.66rem;
+  border: 1px solid rgba(197, 154, 87, 0.34);
+  border-radius: 999px;
+  background: rgba(197, 154, 87, 0.1);
+  color: #e6c68a;
+  font-size: 0.82rem;
+  font-weight: 800;
+  line-height: 1.3;
+  text-decoration: none;
+  transition: 160ms ease;
+}
+
+.item-source-pill:hover,
+.item-source-pill:focus-visible {
+  border-color: rgba(197, 154, 87, 0.72);
+  background: rgba(197, 154, 87, 0.16);
+  color: var(--ink-light);
+  box-shadow: 0 0 18px rgba(197, 154, 87, 0.14);
+  transform: translateY(-1px);
+}
+
 .keyword-table-card,
 .reflection-card {
   background:
@@ -1746,6 +1962,22 @@ main,
     radial-gradient(circle at 8% 0%, rgba(155, 106, 53, 0.16), transparent 36%),
     rgba(155, 106, 53, 0.07);
   border-color: rgba(135, 91, 48, 0.22);
+}
+
+.theme-light .item-source-links {
+  border-top-color: rgba(135, 91, 48, 0.16);
+}
+
+.theme-light .item-source-pill {
+  border-color: rgba(135, 91, 48, 0.28);
+  background: rgba(155, 106, 53, 0.1);
+  color: #815225;
+}
+
+.theme-light .item-source-pill:hover,
+.theme-light .item-source-pill:focus-visible {
+  background: rgba(155, 106, 53, 0.16);
+  color: #2a2118;
 }
 
 .briefing-subblock {
@@ -1906,6 +2138,7 @@ main,
   .site-nav,
   .editorial-hero,
   .today-card,
+  .home-dashboard,
   .section-heading,
   .archive-heading,
   .about-section,
@@ -1923,6 +2156,10 @@ main,
 
   .hero-illustration {
     min-height: 420px;
+  }
+
+  .update-log-panel {
+    position: static;
   }
 
 }
@@ -1987,6 +2224,19 @@ main,
     border-left: 0;
     border-top: 1px solid rgba(197, 154, 87, 0.22);
     padding-top: 20px;
+  }
+
+  .update-log-panel {
+    padding: 1rem;
+    border-radius: 18px;
+  }
+
+  .update-log-title {
+    font-size: 1.18rem;
+  }
+
+  .update-log-description {
+    font-size: 0.84rem;
   }
 
   .hero-actions,

@@ -21,6 +21,7 @@ const readTodayLink = document.querySelector("#readTodayLink");
 const themeSwitch = document.querySelector("#themeSwitch");
 const themeIcon = themeSwitch?.querySelector(".theme-icon");
 const archiveToggle = document.querySelector("#archiveToggle");
+const updateLogList = document.querySelector("#update-log-list");
 
 let archiveEntries = [];
 let showFullArchive = false;
@@ -88,6 +89,15 @@ function escapeAttribute(value = "") {
     .replace(/"/g, "&quot;")
     .replace(/</g, "&lt;")
     .replace(/>/g, "&gt;");
+}
+
+function escapeHTML(value = "") {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;")
+    .replace(/"/g, "&quot;")
+    .replace(/'/g, "&#039;");
 }
 
 function sectionPreview(section, fallback = "") {
@@ -245,6 +255,52 @@ function renderArchive(entries, query = "") {
     .join("");
 }
 
+function renderUpdateLogItem(update) {
+  const date = escapeHTML(update.date || "");
+  const title = escapeHTML(update.title || "Untitled update");
+  const description = escapeHTML(update.description || "");
+  const type = escapeHTML(update.type || "update");
+  const link = update.link ? escapeAttribute(update.link) : "";
+  const titleHTML = link
+    ? `<a class="update-log-link" href="${link}">${title}</a>`
+    : `<span class="update-log-heading">${title}</span>`;
+
+  return `
+    <li class="update-log-item">
+      <div class="update-log-date">${date}</div>
+      <div class="update-log-main">
+        ${titleHTML}
+        ${description ? `<p class="update-log-description">${description}</p>` : ""}
+        <span class="update-log-type">${type}</span>
+      </div>
+    </li>
+  `;
+}
+
+async function loadUpdateLog() {
+  if (!updateLogList) return;
+
+  try {
+    const response = await fetch("data/update-log.json", { cache: "no-store" });
+    if (!response.ok) throw new Error(`Update log not found: ${response.status}`);
+    const updates = await response.json();
+
+    if (!Array.isArray(updates) || !updates.length) {
+      updateLogList.innerHTML = `<p class="update-log-empty">暂无更新记录 / No updates yet.</p>`;
+      return;
+    }
+
+    updateLogList.innerHTML = `
+      <ol class="update-log-timeline">
+        ${updates.slice(0, 5).map(renderUpdateLogItem).join("")}
+      </ol>
+    `;
+  } catch (error) {
+    console.warn("Could not load update log:", error);
+    updateLogList.innerHTML = `<p class="update-log-empty">暂无更新记录 / No updates yet.</p>`;
+  }
+}
+
 function renderEmptyState(message) {
   todayBriefing.innerHTML = `<div class="empty-state">${message}</div>`;
   archiveList.innerHTML = `<div class="empty-state">Archive is empty.</div>`;
@@ -267,6 +323,7 @@ themeSwitch?.addEventListener("click", () => {
 
 async function init() {
   applyHomeTheme(getStoredTheme());
+  loadUpdateLog();
   archiveEntries = await loadBriefingIndex();
   if (!archiveEntries.length) {
     renderEmptyState("No daily briefings have been added yet.");
