@@ -20,8 +20,12 @@ const archiveSearch = document.querySelector("#archiveSearch");
 const readTodayLink = document.querySelector("#readTodayLink");
 const themeSwitch = document.querySelector("#themeSwitch");
 const themeIcon = themeSwitch?.querySelector(".theme-icon");
+const archiveToggle = document.querySelector("#archiveToggle");
 
 let archiveEntries = [];
+let showFullArchive = false;
+const ARCHIVE_PREVIEW_LIMIT = 16;
+const archiveSymbols = ["✦", "☾", "✶", "∙"];
 
 function getStoredTheme() {
   return localStorage.getItem("daily-compass.home-theme") || "dark";
@@ -76,6 +80,14 @@ function trimText(text = "", maxLength = 360) {
   const clean = String(text).replace(/\s+/g, " ").trim();
   if (clean.length <= maxLength) return clean;
   return `${clean.slice(0, maxLength).trim()}...`;
+}
+
+function escapeAttribute(value = "") {
+  return String(value)
+    .replace(/&/g, "&amp;")
+    .replace(/"/g, "&quot;")
+    .replace(/</g, "&lt;")
+    .replace(/>/g, "&gt;");
 }
 
 function sectionPreview(section, fallback = "") {
@@ -165,31 +177,71 @@ function renderTodayBriefing(briefing) {
 
 function archiveMatches(entry, query) {
   if (!query) return true;
-  const haystack = [entry.date, entry.title, entry.theme, ...(entry.tags || [])].join(" ").toLowerCase();
+  const dateParts = formatDateParts(entry.date);
+  const compactDate = dateParts.monthDay.replace(/\s/g, "");
+  const haystack = [entry.date, compactDate, dateParts.monthDay, entry.title, entry.theme, ...(entry.tags || [])].join(" ").toLowerCase();
   return haystack.includes(query.toLowerCase());
 }
 
+function monthKey(dateString) {
+  return dateString.slice(0, 7);
+}
+
+function monthLabel(dateString) {
+  const date = new Date(`${dateString}T00:00:00`);
+  if (Number.isNaN(date.getTime())) return dateString.slice(0, 7);
+  return new Intl.DateTimeFormat("en-US", { month: "long", year: "numeric" }).format(date);
+}
+
+function groupByMonth(entries) {
+  return entries.reduce((groups, entry) => {
+    const key = monthKey(entry.date);
+    if (!groups.has(key)) groups.set(key, []);
+    groups.get(key).push(entry);
+    return groups;
+  }, new Map());
+}
+
 function renderArchive(entries, query = "") {
-  const visible = entries.filter((entry) => archiveMatches(entry, query));
+  const cleanQuery = query.trim();
+  const matched = entries.filter((entry) => archiveMatches(entry, cleanQuery));
+  const visible = cleanQuery || showFullArchive ? matched : matched.slice(0, ARCHIVE_PREVIEW_LIMIT);
+
+  if (archiveToggle) {
+    const canExpand = !cleanQuery && matched.length > ARCHIVE_PREVIEW_LIMIT;
+    archiveToggle.hidden = !canExpand;
+    archiveToggle.textContent = showFullArchive ? "收起星历 / Collapse archive" : "查看全部星历 / View full archive";
+  }
+
   if (!visible.length) {
     archiveList.innerHTML = `<div class="empty-state">No briefings match this search yet.</div>`;
     return;
   }
 
-  archiveList.innerHTML = visible
-    .map(
-      (entry) => `
-        <article class="archive-card">
-          <div class="archive-card-top">
-            <time datetime="${entry.date}">${entry.date}</time>
-            <span>${formatDateParts(entry.date).weekday || "Briefing"}</span>
-          </div>
-          <h3>${entry.theme || SITE_SUBTITLE}</h3>
-          ${renderTags(entry.tags || [])}
-          <a class="archive-read-button" href="briefing.html?date=${entry.date}">阅读 / Read</a>
-        </article>
-      `,
-    )
+  archiveList.innerHTML = [...groupByMonth(visible).entries()]
+    .map(([key, monthEntries]) => {
+      const tokens = monthEntries
+        .map((entry, index) => {
+          const dateParts = formatDateParts(entry.date);
+          const symbol = archiveSymbols[index % archiveSymbols.length];
+          const label = escapeAttribute(`${entry.date} ${entry.theme || SITE_SUBTITLE}`);
+          return `
+            <a class="archive-date-token" href="briefing.html?date=${entry.date}" title="${label}" aria-label="${label}">
+              <span class="archive-date-symbol" aria-hidden="true">${symbol}</span>
+              <span class="archive-date-main">${dateParts.monthDay.replace(/\s/g, "")}</span>
+              <span class="archive-date-weekday">${dateParts.weekday || "Briefing"}</span>
+              <span class="archive-date-preview">${entry.theme || SITE_SUBTITLE}</span>
+            </a>
+          `;
+        })
+        .join("");
+      return `
+        <section class="archive-month" aria-label="${monthLabel(`${key}-01`)}">
+          <h3>${monthLabel(`${key}-01`)}</h3>
+          <div class="archive-token-grid">${tokens}</div>
+        </section>
+      `;
+    })
     .join("");
 }
 
@@ -199,7 +251,13 @@ function renderEmptyState(message) {
 }
 
 archiveSearch.addEventListener("input", (event) => {
+  showFullArchive = false;
   renderArchive(archiveEntries, event.currentTarget.value.trim());
+});
+
+archiveToggle?.addEventListener("click", () => {
+  showFullArchive = !showFullArchive;
+  renderArchive(archiveEntries, archiveSearch.value.trim());
 });
 
 themeSwitch?.addEventListener("click", () => {
