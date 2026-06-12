@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-06-12",
+    "title": "Published June 12 briefing",
+    "description": "Added the June 12 Daily Compass briefing to the archive.",
+    "type": "briefing",
+    "relatedDate": "2026-06-12",
+    "link": "briefing.html?date=2026-06-12"
+  },
+  {
     "date": "2026-06-11",
     "title": "Added source links",
     "description": "Added item-level source links to each news item in the June 11 daily briefing.",
