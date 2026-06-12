@@ -1,0 +1,293 @@
+{
+  "date": "2026-06-12",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "地缘政治紧张、科技资本、身体表达、AI芯片与未来叙事",
+  "introChinese": "今天的小报像一杯稍微浓一点的茶：有地缘政治的紧张、有科技资本的狂热，也有时装与身体表达里更柔软的文化线索。今天我们继续用「中文理解 + 对应英文 + 可复用表达」的方式读新闻。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "美国取消对伊朗的新一轮打击，外交窗口重新打开",
+          "summaryChinese": "据路透社报道，美国总统特朗普取消了原定于周四晚间对伊朗的军事打击，称美伊高层谈判取得进展。与此同时，围绕霍尔木兹海峡的紧张局势仍未完全解除，油价在相关消息后回落。伊朗方面则表示，尚未就协议作出最终决定。这个事件说明：战争边缘的“暂停”并不等于和平已经到来，而是外交、能源和地区安全继续拉扯。",
+          "correspondingEnglish": "The United States has cancelled a new round of planned strikes against Iran, saying that diplomatic talks have made progress. Oil prices fell after the announcement, but tensions around the Strait of Hormuz remain unresolved. Iran has also said that no final decision has been made on a possible agreement. The situation shows that a pause in military action is not the same as lasting peace.",
+          "englishExpressions": [
+            {
+              "expression": "planned strikes",
+              "meaningChinese": "计划中的军事打击",
+              "example": "The government cancelled the planned strikes after diplomatic talks resumed."
+            },
+            {
+              "expression": "make progress",
+              "meaningChinese": "取得进展",
+              "example": "Negotiators said the talks had made progress overnight."
+            },
+            {
+              "expression": "remain unresolved",
+              "meaningChinese": "仍未解决",
+              "example": "Key security questions remain unresolved."
+            },
+            {
+              "expression": "lasting peace",
+              "meaningChinese": "持久和平",
+              "example": "A temporary pause does not guarantee lasting peace."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "乌克兰无人机部队试图切断克里米亚与俄罗斯的连接",
+          "summaryChinese": "乌克兰无人机部队指挥官 Robert Brovdi 表示，其目标是通过打击军事道路和基础设施，削弱俄罗斯对克里米亚的连接和补给能力。路透社称，乌克兰近来加大了对俄罗斯炼油厂、防空系统和军事生产设施的无人机袭击。这反映出战争正在进一步技术化：无人机不仅是战术武器，也正在改变前线、后勤和战争节奏。",
+          "correspondingEnglish": "Ukraine’s drone forces are trying to weaken Russia’s connection to Crimea by targeting military routes and infrastructure. Their commander says the aim is to isolate Crimea more effectively. Recent Ukrainian strikes have also hit oil refineries and sites linked to drone and military production. The war is increasingly shaped by technology, data and remote attacks.",
+          "englishExpressions": [
+            {
+              "expression": "target infrastructure",
+              "meaningChinese": "打击基础设施",
+              "example": "The drones were used to target key infrastructure."
+            },
+            {
+              "expression": "military routes",
+              "meaningChinese": "军事运输路线",
+              "example": "Military routes are vital for moving supplies."
+            },
+            {
+              "expression": "remote attacks",
+              "meaningChinese": "远程攻击",
+              "example": "Remote attacks have changed the rhythm of the war."
+            },
+            {
+              "expression": "be shaped by technology",
+              "meaningChinese": "被技术塑造",
+              "example": "Modern conflict is increasingly shaped by technology."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "Pride Month 与身体政治：六月仍是关于可见性的月份",
+          "summaryChinese": "六月在美国等地是 Pride Month，通常被视为 LGBTQ+ 社群争取可见性、权利与公共空间的重要月份。虽然今天的头条更多被战争、市场和 AI 占据，但 Pride Month 提醒我们：文化新闻不只是娱乐，也关乎谁能够被看见、被命名、被安全地生活。对于性别研究来说，“visibility 可见性”既是一种权利，也可能带来新的商业化、标签化和政治争议。",
+          "correspondingEnglish": "June is widely recognized as Pride Month in the United States and several other places. It is a time when LGBTQ+ communities celebrate visibility, rights and public belonging. Even when global headlines focus on war, markets or technology, Pride Month reminds us that culture is also about who can be seen, named and protected. For gender studies, visibility is both a right and a complicated political issue.",
+          "englishExpressions": [
+            {
+              "expression": "public belonging",
+              "meaningChinese": "公共归属感",
+              "example": "Pride events create a sense of public belonging."
+            },
+            {
+              "expression": "be seen and named",
+              "meaningChinese": "被看见、被命名",
+              "example": "Marginalized groups often fight to be seen and named."
+            },
+            {
+              "expression": "a complicated political issue",
+              "meaningChinese": "复杂的政治议题",
+              "example": "Visibility can become a complicated political issue."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "CFDA/Vogue Fashion Fund 公布 2026 年入围设计师",
+          "summaryChinese": "《Vogue》报道，2026 年 CFDA/Vogue Fashion Fund 公布了十位入围设计师，其中包括来自不同族裔、文化和设计背景的美国新锐创作者。入围者中有人关注针织、珠宝、可持续性，也有人强调身体多样性和叙事性。这个名单不仅是时尚产业的“新人观察”，也显示出当代时尚越来越重视身份、手工艺、商业压力和包容性之间的平衡。",
+          "correspondingEnglish": "The 2026 CFDA/Vogue Fashion Fund has announced ten finalists, highlighting a new generation of U.S.-based designers. Their work includes knitwear, jewelry, couture, sustainability and body diversity. The list is not only about discovering new fashion talent. It also reflects how contemporary fashion is trying to balance identity, craft, business pressure and inclusivity.",
+          "englishExpressions": [
+            {
+              "expression": "a new generation of designers",
+              "meaningChinese": "新一代设计师",
+              "example": "The award supports a new generation of designers."
+            },
+            {
+              "expression": "body diversity",
+              "meaningChinese": "身体多样性",
+              "example": "Body diversity has become an important topic in fashion."
+            },
+            {
+              "expression": "balance identity and business",
+              "meaningChinese": "平衡身份表达与商业需求",
+              "example": "Young brands must balance identity and business."
+            },
+            {
+              "expression": "contemporary fashion",
+              "meaningChinese": "当代时尚",
+              "example": "Contemporary fashion often responds to social change."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "世界杯热潮进入时尚：运动服变成身份表达",
+          "summaryChinese": "《Elle》报道，随着 2026 年世界杯开启，足球球衣、运动夹克和“sporty-chic”穿搭正在被时尚界重新包装。品牌和明星把运动元素与裙装、珠宝、手工细节结合，让“看球穿搭”不再只是球迷身份，而成为一种混合了性别气质、身体风格和归属感的表达。运动时尚的流行也说明：大型体育赛事早已超出赛场，进入消费文化和日常审美。",
+          "correspondingEnglish": "As the 2026 World Cup begins, football-inspired fashion is becoming more visible. Jerseys, track jackets and sporty outfits are being mixed with skirts, jewelry and delicate details. This trend turns sportswear into a form of identity expression, not just fan culture. It also shows how major sports events can influence consumer culture and everyday style.",
+          "englishExpressions": [
+            {
+              "expression": "football-inspired fashion",
+              "meaningChinese": "足球灵感时尚",
+              "example": "Football-inspired fashion is appearing on streets and runways."
+            },
+            {
+              "expression": "identity expression",
+              "meaningChinese": "身份表达",
+              "example": "Clothing can become a form of identity expression."
+            },
+            {
+              "expression": "fan culture",
+              "meaningChinese": "粉丝文化 / 球迷文化",
+              "example": "Fan culture often shapes fashion trends."
+            },
+            {
+              "expression": "everyday style",
+              "meaningChinese": "日常风格",
+              "example": "Sportswear has become part of everyday style."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Google 据称与三星谈判，布局下一代 AI 芯片",
+          "summaryChinese": "路透社援引 The Information 报道称，Google 正与三星讨论由三星生产其下一代 AI 芯片 “Icefish” 的一部分。该芯片仍在开发中，可能最早于 2028 年量产。报道指出，这一安排可能帮助 Google 分散对台积电的依赖，也显示出 AI 竞争正在从模型和应用延伸到芯片制造、供应链和能源效率。",
+          "correspondingEnglish": "Google is reportedly in talks with Samsung to produce part of its next-generation AI chip, known as “Icefish.” The chip is still under development and could enter mass production as early as 2028. The move may help Google reduce its dependence on TSMC. It also shows that AI competition is no longer only about models and apps, but also about chips, supply chains and energy efficiency.",
+          "englishExpressions": [
+            {
+              "expression": "next-generation AI chip",
+              "meaningChinese": "下一代 AI 芯片",
+              "example": "The company is developing a next-generation AI chip."
+            },
+            {
+              "expression": "mass production",
+              "meaningChinese": "大规模量产",
+              "example": "The chip could enter mass production in 2028."
+            },
+            {
+              "expression": "reduce dependence on",
+              "meaningChinese": "减少对……的依赖",
+              "example": "Google may want to reduce dependence on a single supplier."
+            },
+            {
+              "expression": "supply chains",
+              "meaningChinese": "供应链",
+              "example": "AI growth depends on complex global supply chains."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "SpaceX 创纪录 IPO：科技想象力与资本狂热交织",
+          "summaryChinese": "SpaceX 以每股 135 美元定价，路透社称其 IPO 募资规模达到 750 亿美元，成为美国历史上规模最大的 IPO 之一，并使公司估值达到约 1.77 万亿美元。报道也提醒，散户投资者面对这种高度热捧的科技 IPO 时需要谨慎，因为估值、政府合同依赖和市场波动都可能带来风险。科技公司上市不只是商业新闻，也是一种“未来叙事”如何被资本定价的过程。",
+          "correspondingEnglish": "SpaceX has priced its IPO at $135 per share, raising $75 billion and reaching a valuation of about $1.77 trillion. The offering reflects strong investor excitement around space technology, satellite internet and artificial intelligence. However, analysts have also warned that retail investors should be careful, because high valuations and market volatility can create serious risks. A tech IPO is not only a business event; it is also a way of putting a price on visions of the future.",
+          "englishExpressions": [
+            {
+              "expression": "price its IPO at",
+              "meaningChinese": "将 IPO 定价为",
+              "example": "The company priced its IPO at $135 per share."
+            },
+            {
+              "expression": "market volatility",
+              "meaningChinese": "市场波动",
+              "example": "Retail investors are exposed to market volatility."
+            },
+            {
+              "expression": "investor excitement",
+              "meaningChinese": "投资者热情",
+              "example": "Investor excitement pushed demand higher."
+            },
+            {
+              "expression": "visions of the future",
+              "meaningChinese": "对未来的想象 / 愿景",
+              "example": "Technology companies often sell visions of the future."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows how fragile the idea of stability can be. A cancelled strike may ease fears for a moment, but it does not end a conflict. A fashion trend may look playful, but it can also reveal deeper questions about identity and belonging. An AI chip or a record-breaking IPO may sound like a technical or financial story, but it is also about power, infrastructure and who gets to shape the future.",
+    "chinese": "今天的新闻让我们看到，“稳定”这个概念其实很脆弱。一次被取消的军事打击也许能暂时缓解恐惧，但它并不意味着冲突结束。一种时尚潮流看起来轻松好玩，却也可能揭示关于身份与归属的深层问题。一枚 AI 芯片或一场破纪录的 IPO 听起来像科技或金融新闻，但它同样关乎权力、基础设施，以及谁有资格塑造未来。"
+  },
+  "keywords": [
+    {
+      "word": "de-escalation",
+      "meaning": "降级冲突；缓和紧张局势",
+      "example": "Diplomats are calling for de-escalation before the conflict spreads further."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被公众看见和承认的状态",
+      "example": "For many communities, visibility is closely connected to safety and rights."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑社会、战争或科技系统运转的结构",
+      "example": "AI development depends on energy, data centers and chip infrastructure."
+    },
+    {
+      "word": "valuation",
+      "meaning": "估值；市场对公司价值的判断",
+      "example": "The company’s high valuation reflects investor confidence and risk."
+    },
+    {
+      "word": "belonging",
+      "meaning": "归属感",
+      "example": "Clothing, language and public rituals can all create a sense of belonging."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "A tech IPO is not only a business event; it is also a way of putting a price on visions of the future.",
+    "analysisChinese": "这个句子用 not only... also... 结构表达递进：科技公司 IPO 不只是商业事件，也是在给“未来愿景”定价。putting a price on visions of the future 是一个很适合写作的表达，可以用来讨论资本、科技想象和社会价值之间的关系。"
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "今天的小报里，最值得记住的一句话也许是：新闻从来不只是事件本身，它也在悄悄告诉我们，世界把什么视为风险、价值与未来。"
+  },
+  "tags": [
+    "global",
+    "geopolitics",
+    "AI",
+    "technology",
+    "fashion",
+    "culture",
+    "gender",
+    "capital",
+    "infrastructure"
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "Vogue",
+      "url": "https://www.vogue.com/"
+    },
+    {
+      "name": "Elle",
+      "url": "https://www.elle.com/"
+    },
+    {
+      "name": "The Information",
+      "url": "https://www.theinformation.com/"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月12日\n\n今天的小报像一杯稍微浓一点的茶：有地缘政治的紧张、有科技资本的狂热，也有时装与身体表达里更柔软的文化线索。今天我们继续用「中文理解 + 对应英文 + 可复用表达」的方式读新闻。"
+}
