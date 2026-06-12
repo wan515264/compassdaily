@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-06-12",
+    "title": "Added English news entries",
+    "description": "Added corresponding English entries for the news items in the June 12 briefing.",
+    "type": "content",
+    "relatedDate": "2026-06-12",
+    "link": "briefing.html?date=2026-06-12"
+  },
+  {
+    "date": "2026-06-12",
     "title": "Published June 12 briefing",
     "description": "Added the June 12 Daily Compass briefing to the archive.",
     "type": "briefing",
