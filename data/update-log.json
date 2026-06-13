@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-13",
+    "title": "Updated briefing tools and theme support",
+    "description": "Published the June 13 briefing, added TXT export for the wordbook, and synced light/dark theme support across homepage and briefing pages.",
+    "type": "update",
+    "relatedDate": "2026-06-13",
+    "link": "briefing.html?date=2026-06-13"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Published June 13 briefing",
+    "description": "Added the June 13 Daily Compass briefing to the archive.",
+    "type": "briefing",
+    "relatedDate": "2026-06-13",
+    "link": "briefing.html?date=2026-06-13"
+  },
+  {
     "date": "2026-06-12",
     "title": "Added English news entries",
     "description": "Added corresponding English entries for the news items in the June 12 briefing.",
