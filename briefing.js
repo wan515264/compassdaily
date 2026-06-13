@@ -17,10 +17,10 @@ const SECTION_LABELS = {
 };
 
 const briefingDetail = document.querySelector("#briefingDetail");
-const briefingWords = document.querySelector("#briefingWords");
 const wordbook = document.querySelector("#wordbook");
 const toast = document.querySelector("#toast");
 const exportWordbookTxtButton = document.querySelector("#export-wordbook-txt");
+const clearWordbookButton = document.querySelector("#clear-wordbook");
 const themeToggleButtons = document.querySelectorAll("[data-theme-toggle]");
 
 let savedWords = readJson(STORAGE.words, []);
@@ -301,43 +301,48 @@ function renderBriefing(briefing) {
     ${sources ? `<div class="article-footer"><div class="link-group">${sources}</div></div>` : ""}
   `;
 
-  briefingWords.innerHTML = vocabulary
-    .map(
-      (item) => `
-        <button class="article-word" type="button" data-word="${item.word}" data-sentence="${escapeAttribute(item.example)}">
-          ${item.word}<span>${item.meaningChinese || item.meaning || ""}</span>
-        </button>
-      `,
-    )
-    .join("");
 }
 
 function renderWordbook() {
   if (savedWords.length === 0) {
-    wordbook.innerHTML = `<p class="hint">点击小报里的英文词，会自动加入这里。</p>`;
+    wordbook.innerHTML = `
+      <p class="hint wordbook-empty">
+        还没有保存单词。点击小报里的表达或句子，把它们加入这里。<br />
+        Click words or expressions in the briefing to add them here.
+      </p>
+    `;
     return;
   }
   wordbook.innerHTML = savedWords
-    .map(
-      (item) => `
-        <div class="word-row">
-          <div>
-            <strong>${item.word}</strong>
-            <span>${item.meaning || localChineseMeaning(item.word)}</span>
-            ${item.sentence ? `<p class="word-sentence">${item.sentence}</p>` : ""}
+    .map((item, index) => {
+      const entry = normalizeWordbookEntry(item);
+      const word = entry.word || "Untitled";
+      const meaning = entry.meaning || localChineseMeaning(word);
+      const example = entry.example || "";
+      const type = entry.type || "单词";
+      const identifier = entry.id || String(index);
+      return `
+        <article class="wordbook-item">
+          <button class="wordbook-delete" type="button" data-wordbook-delete="${escapeAttribute(identifier)}" aria-label="删除 ${escapeAttribute(word)} / Remove ${escapeAttribute(word)}">×</button>
+          <div class="wordbook-item-main">
+            <strong>${word}</strong>
+            ${meaning ? `<span>${meaning}</span>` : ""}
+            ${example ? `<p class="word-sentence">${example}</p>` : ""}
           </div>
           <div class="word-actions">
-            <button class="word-chip" type="button" data-speak="${item.word}">单词</button>
-            ${item.sentence ? `<button class="word-chip" type="button" data-sentence-speak="${escapeAttribute(item.sentence)}">句子</button>` : ""}
+            <span class="wordbook-type">${type}</span>
+            <button class="word-chip" type="button" data-speak="${escapeAttribute(word)}">单词</button>
+            ${example ? `<button class="word-chip" type="button" data-sentence-speak="${escapeAttribute(example)}">句子</button>` : ""}
           </div>
-        </div>
-      `,
-    )
+        </article>
+      `;
+    })
     .join("");
 }
 
 function normalizeWordbookEntry(entry = {}) {
   return {
+    id: entry.id || "",
     word: entry.word || entry.term || entry.expression || "",
     meaning: entry.meaning || entry.meaningChinese || entry.translation || "",
     example: entry.example || entry.sentence || "",
@@ -457,11 +462,11 @@ function getPreferredEnglishVoice() {
 
 async function handleWordClick(word, sentence = "") {
   speak(word);
-  const existingWord = savedWords.find((item) => item.word === word);
+  const existingWord = savedWords.find((item) => normalizeWordbookEntry(item).word === word);
   if (!existingWord) {
-    savedWords = [{ word, meaning: localChineseMeaning(word), sentence, savedAt: todayKey() }, ...savedWords];
+    savedWords = [{ id: createWordbookId(), word, meaning: localChineseMeaning(word), sentence, type: "单词", savedAt: todayKey() }, ...savedWords];
   } else {
-    savedWords = savedWords.map((item) => (item.word === word ? { ...item, sentence: item.sentence || sentence } : item));
+    savedWords = savedWords.map((item) => (normalizeWordbookEntry(item).word === word ? { ...item, sentence: item.sentence || item.example || sentence } : item));
   }
   writeJson(STORAGE.words, savedWords);
   renderWordbook();
@@ -470,6 +475,20 @@ async function handleWordClick(word, sentence = "") {
   writeJson(STORAGE.words, savedWords);
   renderWordbook();
   showToast(`${word} 已保存`);
+}
+
+function createWordbookId() {
+  return `${Date.now()}-${Math.random().toString(36).slice(2)}`;
+}
+
+function deleteWordbookItem(identifier) {
+  savedWords = savedWords.filter((item, index) => {
+    if (item.id) return item.id !== identifier;
+    return String(index) !== String(identifier);
+  });
+  writeJson(STORAGE.words, savedWords);
+  renderWordbook();
+  showToast("已从单词本删除");
 }
 
 window.handleInlineWordClick = (event, word) => {
@@ -508,12 +527,12 @@ briefingDetail.addEventListener("click", (event) => {
   if (sentence) speak(sentence);
 });
 
-briefingWords.addEventListener("click", (event) => {
-  const wordButton = event.target.closest("[data-word]");
-  if (wordButton) handleWordClick(wordButton.dataset.word, wordButton.dataset.sentence || "");
-});
-
 wordbook.addEventListener("click", (event) => {
+  const deleteButton = event.target.closest("[data-wordbook-delete]");
+  if (deleteButton) {
+    deleteWordbookItem(deleteButton.getAttribute("data-wordbook-delete"));
+    return;
+  }
   const word = event.target.dataset.speak;
   if (word) speak(word);
   const sentence = event.target.dataset.sentenceSpeak;
@@ -528,6 +547,18 @@ themeToggleButtons.forEach((button) => {
 });
 
 exportWordbookTxtButton?.addEventListener("click", exportWordbookTxt);
+
+clearWordbookButton?.addEventListener("click", () => {
+  if (!savedWords.length) {
+    showToast("单词本已经是空的");
+    return;
+  }
+  if (!window.confirm("确定要清空单词本吗？")) return;
+  savedWords = [];
+  writeJson(STORAGE.words, savedWords);
+  renderWordbook();
+  showToast("单词本已清空");
+});
 
 if ("speechSynthesis" in window) {
   window.speechSynthesis.addEventListener("voiceschanged", () => {

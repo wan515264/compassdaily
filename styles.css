@@ -2147,6 +2147,18 @@ main,
 .wordbook {
   max-height: 330px;
   overflow: auto;
+  padding-right: 2px;
+  display: grid;
+  gap: 10px;
+}
+
+.wordbook::-webkit-scrollbar {
+  width: 8px;
+}
+
+.wordbook::-webkit-scrollbar-thumb {
+  border-radius: 999px;
+  background: rgba(197, 154, 87, 0.24);
 }
 
 .wordbook-actions {
@@ -2158,17 +2170,17 @@ main,
 
 .wordbook-actions button {
   padding: 0.42rem 0.72rem;
-  border: 1px solid rgba(197, 154, 87, 0.35);
+  border: 1px solid var(--border);
   border-radius: 999px;
-  background: rgba(197, 154, 87, 0.08);
-  color: #e6c68a;
+  background: var(--gold-soft);
+  color: var(--gold);
   font-size: 0.82rem;
   cursor: pointer;
 }
 
 .wordbook-actions button:hover,
 .wordbook-actions button:focus-visible {
-  border-color: rgba(197, 154, 87, 0.72);
+  border-color: var(--gold);
   background: rgba(197, 154, 87, 0.16);
 }
 
@@ -2176,6 +2188,70 @@ main,
 .word-chip {
   border: 0;
   cursor: pointer;
+}
+
+.wordbook-item {
+  position: relative;
+  padding: 1rem 3rem 1rem 1rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background: var(--card-bg);
+  color: var(--ink);
+}
+
+.wordbook-item-main {
+  padding-right: 0;
+}
+
+.wordbook-item strong {
+  display: block;
+  margin-bottom: 4px;
+  color: var(--ink);
+  overflow-wrap: anywhere;
+}
+
+.wordbook-item span,
+.word-sentence,
+.wordbook-empty {
+  color: var(--ink-muted);
+  font-size: 0.9rem;
+}
+
+.wordbook-delete {
+  position: absolute;
+  top: 0.7rem;
+  right: 0.7rem;
+  width: 1.75rem;
+  height: 1.75rem;
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border: 1px solid rgba(197, 154, 87, 0.28);
+  border-radius: 999px;
+  background: rgba(197, 154, 87, 0.08);
+  color: var(--gold);
+  cursor: pointer;
+  font-size: 1rem;
+  line-height: 1;
+  transition: border-color 180ms ease, background 180ms ease, color 180ms ease, transform 180ms ease;
+}
+
+.wordbook-delete:hover,
+.wordbook-delete:focus-visible {
+  border-color: rgba(197, 154, 87, 0.7);
+  background: rgba(197, 154, 87, 0.16);
+  color: var(--ink);
+  transform: scale(1.05);
+}
+
+.theme-dark .wordbook-delete:hover,
+.theme-dark .wordbook-delete:focus-visible {
+  color: #f5ead8;
+}
+
+.theme-light .wordbook-delete:hover,
+.theme-light .wordbook-delete:focus-visible {
+  color: #2a2118;
 }
 
 .article-word {
@@ -2191,23 +2267,33 @@ main,
   text-align: left;
 }
 
-.article-word span,
-.word-row span,
-.word-sentence {
-  color: var(--ink-muted);
-  font-size: 0.9rem;
-}
-
-.word-row {
-  justify-content: space-between;
-}
-
 .word-chip {
   min-height: 30px;
   padding: 4px 8px;
+  border-radius: 999px;
   background: rgba(197, 154, 87, 0.14);
   color: var(--gold);
   font-size: 0.82rem;
+}
+
+.word-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 6px;
+  margin-top: 10px;
+}
+
+.wordbook-type {
+  display: inline-flex;
+  align-items: center;
+  min-height: 30px;
+  padding: 4px 8px;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: var(--gold-soft);
+  color: var(--gold);
+  font-size: 0.78rem;
+  font-weight: 800;
 }
 
 .inline-word {
