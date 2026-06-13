@@ -1,7 +1,8 @@
 const STORAGE = {
   words: "daily-compass.words",
-  theme: "daily-compass.theme",
 };
+const THEME_KEY = "daily-compass-theme";
+const LEGACY_THEME_KEYS = ["daily-compass.theme", "daily-compass.home-theme"];
 
 const SITE_TITLE = "The Daily Compass｜每日罗盘";
 const SECTION_LABELS = {
@@ -18,11 +19,13 @@ const SECTION_LABELS = {
 const briefingDetail = document.querySelector("#briefingDetail");
 const briefingWords = document.querySelector("#briefingWords");
 const wordbook = document.querySelector("#wordbook");
-const themeToggle = document.querySelector("#themeToggle");
 const toast = document.querySelector("#toast");
+const exportWordbookTxtButton = document.querySelector("#export-wordbook-txt");
+const themeToggleButtons = document.querySelectorAll("[data-theme-toggle]");
 
 let savedWords = readJson(STORAGE.words, []);
 let preferredEnglishVoice = null;
+let currentBriefing = null;
 
 function readJson(key, fallback) {
   try {
@@ -38,6 +41,11 @@ function writeJson(key, value) {
 
 function todayKey(date = new Date()) {
   return date.toISOString().slice(0, 10);
+}
+
+function currentBriefingDate() {
+  const params = new URLSearchParams(window.location.search);
+  return params.get("date") || currentBriefing?.date || todayKey();
 }
 
 async function fetchJson(path) {
@@ -107,6 +115,26 @@ function renderStudyNote(note = "") {
   `;
 }
 
+function renderSourceLinks(sourceLinks = []) {
+  if (!sourceLinks.length) return "";
+  return `
+    <div class="item-source-links">
+      <span>来源 / Sources:</span>
+      <div class="item-source-list">
+        ${sourceLinks
+          .map(
+            (source) => `
+              <a class="item-source-pill" href="${escapeAttribute(source.url || "#")}" target="_blank" rel="noopener noreferrer">
+                ${escapeHtml(source.label || "Source")} ↗
+              </a>
+            `,
+          )
+          .join("")}
+      </div>
+    </div>
+  `;
+}
+
 function renderLegacyParagraphs(text = "") {
   const hiddenLabels = /^(English key expressions?|English expressions?|Expression|Expressions|中文理解|中文解释|中文|Example sentence|Keyword|Keywords)$/i;
   return text
@@ -126,9 +154,15 @@ function renderSection(section) {
         <article class="briefing-item">
           <h4>${item.title || "Briefing item"}</h4>
           ${item.summaryChinese ? `<p class="briefing-cn">${item.summaryChinese}</p>` : ""}
+          ${
+            item.correspondingEnglish
+              ? `<div class="corresponding-english"><strong>Corresponding English / 对应英文</strong><p>${renderClickableWords(item.correspondingEnglish, savedWords)}</p></div>`
+              : ""
+          }
           ${renderExpressions(item.englishExpressions || [])}
           ${item.exampleNote ? `<p class="expression-example-note">${renderClickableWords(item.exampleNote, savedWords)}</p>` : ""}
           ${renderStudyNote(item.studyNote || "")}
+          ${renderSourceLinks(item.sourceLinks || [])}
         </article>
       `,
     )
@@ -302,6 +336,70 @@ function renderWordbook() {
     .join("");
 }
 
+function normalizeWordbookEntry(entry = {}) {
+  return {
+    word: entry.word || entry.term || entry.expression || "",
+    meaning: entry.meaning || entry.meaningChinese || entry.translation || "",
+    example: entry.example || entry.sentence || "",
+    type: entry.type || entry.kind || "单词",
+    sourceDate: entry.sourceDate || entry.date || entry.savedAt || entry.createdAt || "",
+    sourceTitle: entry.sourceTitle || entry.briefingTitle || entry.theme || "",
+    createdAt: entry.createdAt || entry.savedAt || "",
+  };
+}
+
+function wordbookTxtContent(entries, exportDate) {
+  const divider = "----------------------------------------";
+  const body = entries
+    .map((entry, index) => {
+      const lines = [`${index + 1}. ${entry.word}`];
+      if (entry.meaning) lines.push(`中文理解：${entry.meaning}`);
+      if (entry.example) lines.push(`例句：${entry.example}`);
+      if (entry.type) lines.push(`类型：${entry.type}`);
+      if (entry.sourceDate) lines.push(`来源日期：${entry.sourceDate}`);
+      if (entry.sourceTitle) lines.push(`来源小报：${entry.sourceTitle}`);
+      return lines.join("\n");
+    })
+    .join(`\n\n${divider}\n\n`);
+
+  return [
+    SITE_TITLE,
+    "我的单词本 / Wordbook",
+    `Date: ${exportDate}`,
+    "",
+    divider,
+    "",
+    body,
+    "",
+    divider,
+    "",
+  ].join("\n");
+}
+
+function downloadFile(filename, content, mimeType) {
+  const blob = new Blob([content], { type: mimeType });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = filename;
+  document.body.appendChild(a);
+  a.click();
+  a.remove();
+  URL.revokeObjectURL(url);
+}
+
+function exportWordbookTxt() {
+  const entries = savedWords.map(normalizeWordbookEntry).filter((entry) => entry.word);
+  if (!entries.length) {
+    showToast("暂无可导出的单词。No saved words to export yet.");
+    return;
+  }
+  const exportDate = currentBriefingDate();
+  const filename = `daily-compass-wordbook-${exportDate}.txt`;
+  downloadFile(filename, wordbookTxtContent(entries, exportDate), "text/plain;charset=utf-8");
+  showToast("单词本 TXT 已导出");
+}
+
 function speak(text) {
   if (!("speechSynthesis" in window)) {
     showToast("当前浏览器不支持发音功能");
@@ -386,8 +484,20 @@ function showToast(message) {
   showToast.timer = window.setTimeout(() => toast.classList.remove("show"), 1800);
 }
 
-function applyTheme() {
-  document.documentElement.classList.toggle("dark", localStorage.getItem(STORAGE.theme) === "dark");
+function getStoredTheme() {
+  return localStorage.getItem(THEME_KEY) || LEGACY_THEME_KEYS.map((key) => localStorage.getItem(key)).find(Boolean) || "dark";
+}
+
+function applyTheme(theme) {
+  const normalizedTheme = theme === "light" ? "light" : "dark";
+  const isLight = normalizedTheme === "light";
+  document.documentElement.classList.toggle("theme-light", isLight);
+  document.documentElement.classList.toggle("theme-dark", !isLight);
+  localStorage.setItem(THEME_KEY, normalizedTheme);
+  themeToggleButtons.forEach((button) => {
+    button.setAttribute("aria-pressed", String(isLight));
+    button.title = isLight ? "Night mode / 夜间模式" : "Day mode / 日间模式";
+  });
 }
 
 briefingDetail.addEventListener("click", (event) => {
@@ -410,11 +520,14 @@ wordbook.addEventListener("click", (event) => {
   if (sentence) speak(sentence);
 });
 
-themeToggle.addEventListener("click", () => {
-  const nextTheme = document.documentElement.classList.contains("dark") ? "light" : "dark";
-  localStorage.setItem(STORAGE.theme, nextTheme);
-  applyTheme();
+themeToggleButtons.forEach((button) => {
+  button.addEventListener("click", () => {
+    const nextTheme = document.documentElement.classList.contains("theme-light") ? "dark" : "light";
+    applyTheme(nextTheme);
+  });
 });
+
+exportWordbookTxtButton?.addEventListener("click", exportWordbookTxt);
 
 if ("speechSynthesis" in window) {
   window.speechSynthesis.addEventListener("voiceschanged", () => {
@@ -424,9 +537,10 @@ if ("speechSynthesis" in window) {
   getPreferredEnglishVoice();
 }
 
-applyTheme();
+applyTheme(getStoredTheme());
 loadBriefing()
   .then((briefing) => {
+    currentBriefing = briefing;
     renderBriefing(briefing);
     renderWordbook();
   })

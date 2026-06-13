@@ -6,14 +6,15 @@
   --panel: rgba(24, 15, 29, 0.88);
   --panel-soft: rgba(41, 25, 48, 0.82);
   --ink: #f5ead8;
-  --muted: #bda98d;
+  --muted: rgba(245, 234, 216, 0.68);
   --parchment: #e8d6bd;
   --parchment-soft: #f3e7d2;
   --ink-light: var(--ink);
   --ink-muted: var(--muted);
   --gold: #c59a57;
-  --gold-soft: rgba(197, 154, 87, 0.28);
+  --gold-soft: rgba(197, 154, 87, 0.18);
   --accent: #7c3f76;
+  --card-bg: rgba(18, 11, 22, 0.86);
   --archive-bg: #e8d6bd;
   --archive-ink: #2b2118;
   --plum: #4b254d;
@@ -30,14 +31,15 @@
   --panel: rgba(255, 249, 238, 0.88);
   --panel-soft: rgba(246, 232, 210, 0.9);
   --ink: #2a2118;
-  --muted: #746456;
+  --muted: rgba(42, 33, 24, 0.68);
   --parchment: #fff8eb;
   --parchment-soft: #fffaf0;
   --ink-light: var(--ink);
   --ink-muted: var(--muted);
   --gold: #9b6a35;
-  --gold-soft: rgba(155, 106, 53, 0.2);
+  --gold-soft: rgba(155, 106, 53, 0.16);
   --accent: #8b6f4d;
+  --card-bg: rgba(255, 248, 235, 0.86);
   --archive-bg: #fff8eb;
   --archive-ink: #2a2118;
   --plum: #8b6f4d;
@@ -1686,6 +1688,24 @@ main,
   border-radius: 50%;
   background: var(--panel);
   color: var(--gold);
+  cursor: pointer;
+  transition: background 240ms ease, border-color 240ms ease, color 240ms ease, box-shadow 240ms ease;
+}
+
+.icon-button:hover,
+.icon-button:focus-visible {
+  border-color: var(--gold);
+  box-shadow: 0 0 22px rgba(197, 154, 87, 0.14);
+}
+
+.theme-toggle-icon {
+  line-height: 1;
+}
+
+.theme-light .theme-icon-dark,
+.theme-dark .theme-icon-light,
+:root:not(.theme-light) .theme-icon-light {
+  display: none;
 }
 
 .detail-shell {
@@ -1704,7 +1724,9 @@ main,
   border: 1px solid var(--border);
   border-radius: var(--radius);
   background: var(--panel);
+  color: var(--ink);
   box-shadow: var(--shadow);
+  transition: background 320ms ease, color 240ms ease, border-color 240ms ease, box-shadow 240ms ease;
 }
 
 .detail-card {
@@ -1737,9 +1759,11 @@ main,
 .detail-section,
 .word-row {
   padding: 14px;
-  border: 1px solid rgba(197, 154, 87, 0.18);
+  border: 1px solid var(--border);
   border-radius: 8px;
-  background: rgba(8, 6, 11, 0.22);
+  background: var(--card-bg);
+  color: var(--ink);
+  transition: background 320ms ease, color 240ms ease, border-color 240ms ease;
 }
 
 .detail-section h3,
@@ -1783,6 +1807,29 @@ main,
 
 .briefing-item .briefing-cn {
   margin: 6px 0 10px;
+}
+
+.corresponding-english {
+  margin: 12px 0 14px;
+  padding: 12px 14px;
+  border: 1px solid rgba(197, 154, 87, 0.18);
+  border-radius: 8px;
+  background: rgba(8, 6, 11, 0.24);
+}
+
+.corresponding-english strong {
+  display: block;
+  margin-bottom: 6px;
+  color: var(--gold);
+  font-family: Georgia, "Times New Roman", "Songti SC", serif;
+  font-size: 0.92rem;
+  font-weight: 600;
+}
+
+.corresponding-english p {
+  margin: 0;
+  color: var(--ink-light);
+  line-height: 1.72;
 }
 
 .expression-list {
@@ -2010,6 +2057,15 @@ main,
   border-color: rgba(135, 91, 48, 0.22);
 }
 
+.theme-light .corresponding-english {
+  border-color: rgba(135, 91, 48, 0.2);
+  background: rgba(255, 248, 235, 0.52);
+}
+
+.theme-light .corresponding-english p {
+  color: var(--ink);
+}
+
 .theme-light .item-source-links {
   border-top-color: rgba(135, 91, 48, 0.16);
 }
@@ -2018,6 +2074,18 @@ main,
   border-color: rgba(135, 91, 48, 0.28);
   background: rgba(155, 106, 53, 0.1);
   color: #815225;
+}
+
+.theme-light .wordbook-actions button {
+  border-color: rgba(135, 91, 48, 0.28);
+  background: rgba(155, 106, 53, 0.08);
+  color: #815225;
+}
+
+.theme-light .wordbook-actions button:hover,
+.theme-light .wordbook-actions button:focus-visible {
+  border-color: rgba(135, 91, 48, 0.48);
+  background: rgba(155, 106, 53, 0.14);
 }
 
 .theme-light .item-source-pill:hover,
@@ -2079,6 +2147,29 @@ main,
 .wordbook {
   max-height: 330px;
   overflow: auto;
+}
+
+.wordbook-actions {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 0.5rem;
+  margin: 0.75rem 0 1rem;
+}
+
+.wordbook-actions button {
+  padding: 0.42rem 0.72rem;
+  border: 1px solid rgba(197, 154, 87, 0.35);
+  border-radius: 999px;
+  background: rgba(197, 154, 87, 0.08);
+  color: #e6c68a;
+  font-size: 0.82rem;
+  cursor: pointer;
+}
+
+.wordbook-actions button:hover,
+.wordbook-actions button:focus-visible {
+  border-color: rgba(197, 154, 87, 0.72);
+  background: rgba(197, 154, 87, 0.16);
 }
 
 .article-word,

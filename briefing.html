@@ -16,7 +16,10 @@
         </p>
       </div>
       <div class="header-actions">
-        <button class="icon-button" id="themeToggle" type="button" title="切换明暗模式" aria-label="切换明暗模式">◐</button>
+        <button class="icon-button theme-toggle" id="themeToggle" type="button" data-theme-toggle title="切换明暗模式" aria-label="Toggle light and dark theme" aria-pressed="false">
+          <span class="theme-toggle-icon theme-icon-dark" aria-hidden="true">☾</span>
+          <span class="theme-toggle-icon theme-icon-light" aria-hidden="true">☼</span>
+        </button>
         <a class="primary-button nav-button" href="index.html">返回首页</a>
       </div>
     </header>
@@ -30,6 +33,9 @@
         </section>
         <section class="panel-block">
           <h2>我的单词本</h2>
+          <div class="wordbook-actions">
+            <button id="export-wordbook-txt" type="button">导出 TXT</button>
+          </div>
           <div class="wordbook" id="wordbook"></div>
         </section>
       </aside>

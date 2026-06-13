@@ -1,5 +1,7 @@
 const SITE_TITLE = "The Daily Compass｜每日罗盘";
 const SITE_SUBTITLE = "A bilingual daily briefing for navigating global news, culture, AI, and social change.";
+const THEME_KEY = "daily-compass-theme";
+const LEGACY_THEME_KEYS = ["daily-compass.home-theme", "daily-compass.theme"];
 
 const SECTION_LABELS = {
   "Global News｜全球新闻": "Global News｜全球新闻",
@@ -32,14 +34,14 @@ const ARCHIVE_PREVIEW_LIMIT = 16;
 const archiveSymbols = ["✦", "☾", "✶", "∙"];
 
 function getStoredTheme() {
-  return localStorage.getItem("daily-compass.home-theme") || "dark";
+  return localStorage.getItem(THEME_KEY) || LEGACY_THEME_KEYS.map((key) => localStorage.getItem(key)).find(Boolean) || "dark";
 }
 
-function applyHomeTheme(theme) {
+function applySiteTheme(theme) {
   const normalizedTheme = theme === "light" ? "light" : "dark";
   document.documentElement.classList.toggle("theme-light", normalizedTheme === "light");
   document.documentElement.classList.toggle("theme-dark", normalizedTheme === "dark");
-  localStorage.setItem("daily-compass.home-theme", normalizedTheme);
+  localStorage.setItem(THEME_KEY, normalizedTheme);
   if (!themeSwitch || !themeIcon) return;
   const isLight = normalizedTheme === "light";
   themeSwitch.setAttribute("aria-pressed", String(isLight));
@@ -50,7 +52,7 @@ function applyHomeTheme(theme) {
 
 function transitionHomeTheme(theme) {
   document.documentElement.classList.add("theme-transitioning");
-  applyHomeTheme(theme);
+  applySiteTheme(theme);
   window.clearTimeout(transitionHomeTheme.timer);
   transitionHomeTheme.timer = window.setTimeout(() => {
     document.documentElement.classList.remove("theme-transitioning");
@@ -338,7 +340,7 @@ siteNotesToggle?.addEventListener("click", () => {
 });
 
 async function init() {
-  applyHomeTheme(getStoredTheme());
+  applySiteTheme(getStoredTheme());
   loadUpdateLog();
   archiveEntries = await loadBriefingIndex();
   if (!archiveEntries.length) {
