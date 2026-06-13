@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-06-13",
+    "title": "Improved wordbook management",
+    "description": "Simplified the briefing sidebar and added per-item delete controls plus Clear All for the wordbook.",
+    "type": "feature",
+    "relatedDate": "2026-06-13",
+    "link": "briefing.html?date=2026-06-13"
+  },
+  {
+    "date": "2026-06-13",
     "title": "Updated briefing tools and theme support",
     "description": "Published the June 13 briefing, added TXT export for the wordbook, and synced light/dark theme support across homepage and briefing pages.",
     "type": "update",
