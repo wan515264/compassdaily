@@ -1,0 +1,267 @@
+{
+  "date": "2026-06-13",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "战争边缘的谈判、无人机战争、文化可见性、运动时尚与未来科技资本",
+  "introChinese": "今天的世界新闻里，有战争边缘的谈判、无人机改变战争方式的现实，也有资本市场对“未来科技”的巨大想象。读新闻时，不妨留意一个问题：什么是真正的变化，什么只是变化即将到来的信号？",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "美伊协议似乎接近达成，中东局势出现缓和迹象",
+          "summaryChinese": "路透社报道，美国与伊朗均释放出积极信号，表示结束当前冲突的协议可能已经接近完成。双方据称已就协议文本达成初步共识，不过伊朗强调最终协议尚未正式签署。受此影响，国际油价出现回落。",
+          "correspondingEnglish": "The United States and Iran have signaled that a possible agreement to end the conflict may be close. Officials from both sides suggest that progress has been made on a draft text, although Tehran says a final agreement has not yet been reached. The news has helped ease concerns in energy markets.",
+          "englishExpressions": [
+            {
+              "expression": "signal progress",
+              "meaningChinese": "释放进展信号",
+              "example": "Both governments signaled progress in the negotiations."
+            },
+            {
+              "expression": "draft agreement",
+              "meaningChinese": "协议草案",
+              "example": "The draft agreement is still under discussion."
+            },
+            {
+              "expression": "ease concerns",
+              "meaningChinese": "缓解担忧",
+              "example": "The announcement eased concerns among investors."
+            },
+            {
+              "expression": "reach a final agreement",
+              "meaningChinese": "达成最终协议",
+              "example": "The two sides have not yet reached a final agreement."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "俄乌继续互相发动无人机袭击",
+          "summaryChinese": "俄罗斯与乌克兰继续进行大规模无人机攻击。乌克兰袭击了俄罗斯境内炼油厂和石化设施；俄方则袭击乌克兰铁路基础设施。双方都表示打击目标为军事或战略设施。无人机已成为战争的重要组成部分。",
+          "correspondingEnglish": "Russia and Ukraine exchanged large-scale drone attacks overnight. Ukrainian forces targeted oil and petrochemical facilities inside Russia, while Russian strikes damaged railway infrastructure in Ukraine. The conflict continues to demonstrate how drones are reshaping modern warfare.",
+          "englishExpressions": [
+            {
+              "expression": "exchange attacks",
+              "meaningChinese": "相互发动袭击",
+              "example": "The two sides exchanged attacks throughout the night."
+            },
+            {
+              "expression": "petrochemical facility",
+              "meaningChinese": "石化设施",
+              "example": "Several petrochemical facilities were damaged."
+            },
+            {
+              "expression": "railway infrastructure",
+              "meaningChinese": "铁路基础设施",
+              "example": "The strike affected railway infrastructure."
+            },
+            {
+              "expression": "reshape warfare",
+              "meaningChinese": "改变战争形态",
+              "example": "Drones are reshaping modern warfare."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "“可见性”仍然是当代性别政治的重要议题",
+          "summaryChinese": "六月的 Pride Month 仍在持续。许多学者指出，“被看见”（visibility）不仅意味着获得认同，也意味着面临新的审视与争议。在当代社会，关于性别、身体与身份的讨论越来越围绕谁拥有发声空间展开。",
+          "correspondingEnglish": "Pride Month continues to encourage discussions about visibility, identity and belonging. Scholars argue that visibility is not only about recognition but also about exposure to public scrutiny. Questions about who gets to speak and who gets to be seen remain central to contemporary gender politics.",
+          "englishExpressions": [
+            {
+              "expression": "public scrutiny",
+              "meaningChinese": "公众审视",
+              "example": "Greater visibility can bring greater public scrutiny."
+            },
+            {
+              "expression": "identity politics",
+              "meaningChinese": "身份政治",
+              "example": "Identity politics remains a major topic in public debate."
+            },
+            {
+              "expression": "a sense of belonging",
+              "meaningChinese": "归属感",
+              "example": "Community events can strengthen a sense of belonging."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "世界杯热潮推动运动时尚继续升温",
+          "summaryChinese": "随着世界杯赛事展开，运动风格再次成为时尚媒体关注焦点。从足球球衣到复古运动夹克，越来越多品牌将体育文化融入日常穿搭。体育赛事正在不断影响流行文化和消费习惯。",
+          "correspondingEnglish": "As the World Cup gains momentum, sports-inspired fashion continues to attract attention. Football jerseys, track jackets and athletic aesthetics are appearing in both streetwear and luxury collections. The trend shows how major sporting events influence culture beyond the playing field.",
+          "englishExpressions": [
+            {
+              "expression": "sports-inspired",
+              "meaningChinese": "受体育启发的",
+              "example": "Sports-inspired designs are becoming more popular."
+            },
+            {
+              "expression": "streetwear",
+              "meaningChinese": "街头时尚",
+              "example": "Streetwear often reflects broader cultural trends."
+            },
+            {
+              "expression": "beyond the playing field",
+              "meaningChinese": "超越赛场范围",
+              "example": "Its impact extends beyond the playing field."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "时尚产业继续关注“工艺价值”",
+          "summaryChinese": "近年来，从高级时装到独立设计师品牌，越来越多作品强调手工艺、材料来源与可持续生产。评论者认为，这反映消费者开始重新思考“快时尚”之外的价值体系。",
+          "correspondingEnglish": "Fashion designers are increasingly highlighting craftsmanship, sustainable production and material quality. Industry observers believe that consumers are becoming more interested in how products are made rather than simply how they look.",
+          "englishExpressions": [
+            {
+              "expression": "craftsmanship",
+              "meaningChinese": "工艺水平",
+              "example": "The collection celebrates craftsmanship."
+            },
+            {
+              "expression": "sustainable production",
+              "meaningChinese": "可持续生产",
+              "example": "Many brands are investing in sustainable production."
+            },
+            {
+              "expression": "material quality",
+              "meaningChinese": "材料品质",
+              "example": "Consumers are paying more attention to material quality."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Google 与三星讨论下一代 AI 芯片合作",
+          "summaryChinese": "据路透社报道，Google 正与三星洽谈合作，希望由三星参与生产其下一代 AI 芯片。这显示 AI 竞争已不仅是模型竞争，更是芯片、制造能力与供应链竞争。",
+          "correspondingEnglish": "Google is reportedly discussing a partnership with Samsung to manufacture part of its next-generation AI processor. The move highlights how competition in artificial intelligence increasingly depends on semiconductor production and supply-chain capabilities.",
+          "englishExpressions": [
+            {
+              "expression": "AI processor",
+              "meaningChinese": "AI处理器",
+              "example": "The company is developing a new AI processor."
+            },
+            {
+              "expression": "semiconductor production",
+              "meaningChinese": "半导体制造",
+              "example": "Semiconductor production has become strategically important."
+            },
+            {
+              "expression": "supply-chain capability",
+              "meaningChinese": "供应链能力",
+              "example": "Strong supply-chain capability is essential for AI development."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "SpaceX 创下史上最大 IPO 纪录",
+          "summaryChinese": "SpaceX 以约750亿美元融资规模完成上市，成为美国历史上规模最大的 IPO 之一。投资者对太空产业、AI 基础设施和未来技术愿景表现出强烈兴趣，但分析人士也提醒关注估值风险。",
+          "correspondingEnglish": "SpaceX has completed the largest IPO in U.S. history, raising approximately $75 billion. Investors are enthusiastic about the company’s role in space technology, satellite networks and future AI infrastructure. At the same time, analysts warn that extremely high valuations can create significant risks.",
+          "englishExpressions": [
+            {
+              "expression": "IPO (Initial Public Offering)",
+              "meaningChinese": "首次公开募股",
+              "example": "The company completed a record-breaking IPO."
+            },
+            {
+              "expression": "valuation",
+              "meaningChinese": "估值",
+              "example": "Some analysts question the company’s valuation."
+            },
+            {
+              "expression": "investor enthusiasm",
+              "meaningChinese": "投资者热情",
+              "example": "Investor enthusiasm drove demand higher."
+            },
+            {
+              "expression": "future infrastructure",
+              "meaningChinese": "未来基础设施",
+              "example": "AI requires large-scale future infrastructure."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Many of today’s headlines are about technology, conflict and markets. Yet behind these stories lies a common question: how do societies imagine the future? Governments negotiate because they hope to avoid worse outcomes. Companies invest because they believe new technologies will change everyday life. Even cultural movements are often driven by competing visions of what the future should look like.",
+    "chinese": "今天许多新闻都与科技、冲突和市场有关。但这些故事背后其实隐藏着同一个问题：社会如何想象未来？政府进行谈判，是因为希望避免更糟糕的结果；企业进行投资，是因为相信新技术会改变日常生活；甚至文化运动，也往往源于人们对于未来应该是什么样子的不同想象。"
+  },
+  "keywords": [
+    {
+      "word": "negotiation",
+      "meaning": "谈判、协商",
+      "example": "Successful negotiation requires patience and trust."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施",
+      "example": "Modern AI depends on digital infrastructure."
+    },
+    {
+      "word": "scrutiny",
+      "meaning": "审视、监督",
+      "example": "Public figures often face intense scrutiny."
+    },
+    {
+      "word": "craftsmanship",
+      "meaning": "精湛工艺",
+      "example": "The designer is known for exceptional craftsmanship."
+    },
+    {
+      "word": "valuation",
+      "meaning": "估值",
+      "example": "The company’s valuation surprised many analysts."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Even cultural movements are often driven by competing visions of what the future should look like.",
+    "analysisChinese": "这个句子中，Even 用来强调“甚至文化运动也如此”。are driven by 表示“由……驱动”，competing visions 指彼此竞争的未来想象。what the future should look like 是名词性从句，作 visions of 的内容说明。"
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "世界的大新闻常常关于冲突与竞争，但真正塑造未来的，也许是那些看似缓慢的过程：谈判、学习、创造，以及人们不断重新想象自己想生活在怎样的世界里。"
+  },
+  "tags": [
+    "global",
+    "geopolitics",
+    "AI",
+    "technology",
+    "fashion",
+    "culture",
+    "gender",
+    "warfare",
+    "markets",
+    "future"
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月13日\n\n今天的世界新闻里，有战争边缘的谈判、无人机改变战争方式的现实，也有资本市场对“未来科技”的巨大想象。读新闻时，不妨留意一个问题：什么是真正的变化，什么只是变化即将到来的信号？"
+}
