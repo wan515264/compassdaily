@@ -2,60 +2,65 @@
   "date": "2026-06-16",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "过渡时期、停火安排、归属与包容、慢阅读、AI基础设施与未来科技乐观",
-  "introChinese": "今天的小报里，一个词反复出现：transition（过渡）。从战争走向谈判，从技术突破走向产业竞争，从个人身份走向群体归属，许多故事都发生在“正在改变，但尚未完成”的阶段。这样的时刻往往最值得观察。",
+  "theme": "权力与基础设施、G7峰会、性别政策、公共记忆、AI工厂与社会规范",
+  "introChinese": "今天的关键词是：power and infrastructure（权力与基础设施）。G7 峰会表面上是外交会议，背后是能源、矿产、战争与 AI 规则；AI 表面上是软件，背后是工厂、电力、芯片与劳动；性别政策表面上是“保护”，背后可能是权利边界的重新划定。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "美伊宣布延长停火并重开霍尔木兹海峡",
-          "summaryChinese": "据《金融时报》、ABC News 与路透社报道，美国与伊朗宣布延长停火安排，并同意重新开放霍尔木兹海峡。油价应声回落，市场普遍将此视为中东局势缓和的重要信号。不过，围绕核计划、地区安全以及后续执行机制的谈判仍将持续。",
-          "correspondingEnglish": "The United States and Iran have agreed to extend a ceasefire and reopen the Strait of Hormuz. The announcement helped lower oil prices and eased concerns about a wider regional conflict. However, negotiations over nuclear issues and long-term security arrangements are expected to continue.",
+          "title": "G7峰会聚焦乌克兰、中东与关键矿产：全球秩序正在重新布线",
+          "summaryChinese": "6月16日，G7峰会继续在法国埃维昂莱班举行。Al Jazeera 报道称，乌克兰总统泽连斯基参与会谈，重点讨论加强乌克兰防空与推动外交；Reuters 也报道，泽连斯基表示 G7 领导人同意“俄罗斯并没有赢得战争”，并讨论对俄罗斯石油、银行和军事生产进一步施压。与此同时，关键矿产、AI治理和中东局势也在峰会议程中，这说明当代外交已经不只是军事与领土问题，也涉及能源、技术、供应链和产业自主。",
+          "correspondingEnglish": "On June 16, G7 leaders continued their summit in Evian-les-Bains, France. Ukrainian President Volodymyr Zelenskiy joined the talks and called for stronger air defense and more diplomatic pressure on Russia. Reuters reported that Zelenskiy said G7 leaders agreed Russia is not winning the war. The summit also covered critical minerals, AI governance and the Middle East, showing that modern diplomacy is increasingly connected to energy, technology and supply chains.",
           "englishExpressions": [
             {
-              "expression": "extend a ceasefire",
-              "meaningChinese": "延长停火协议",
-              "example": "Both sides agreed to extend a ceasefire for another period."
+              "expression": "air defense",
+              "meaningChinese": "防空系统",
+              "example": "Ukraine asked for stronger air defense support."
             },
             {
-              "expression": "ease concerns",
-              "meaningChinese": "缓解担忧",
-              "example": "The agreement eased concerns in global markets."
+              "expression": "diplomatic pressure",
+              "meaningChinese": "外交压力",
+              "example": "Leaders discussed how to increase diplomatic pressure on Russia."
             },
             {
-              "expression": "security arrangements",
-              "meaningChinese": "安全安排",
-              "example": "Future security arrangements remain under discussion."
+              "expression": "critical minerals",
+              "meaningChinese": "关键矿产",
+              "example": "Critical minerals are essential for batteries and defense technologies."
             },
             {
-              "expression": "regional conflict",
-              "meaningChinese": "地区冲突",
-              "example": "Leaders hope to prevent a broader regional conflict."
+              "expression": "supply chains",
+              "meaningChinese": "供应链",
+              "example": "Modern diplomacy is closely linked to supply chains."
             }
           ],
           "studyNote": ""
         },
         {
-          "title": "G7峰会聚焦能源、外交与全球稳定",
-          "summaryChinese": "随着中东局势出现缓和迹象，七国集团（G7）峰会将更多关注能源价格、国际贸易和地缘政治稳定。分析人士认为，此次峰会将成为观察各国如何协调外交与经济政策的重要窗口。",
-          "correspondingEnglish": "As tensions in the Middle East begin to ease, G7 leaders are focusing on energy security, trade and international stability. The summit is expected to highlight how governments balance diplomatic goals with economic priorities.",
+          "title": "反G7抗议升级：街头也在争夺“全球治理”的含义",
+          "summaryChinese": "Reuters 报道，G7峰会期间，约两万人参与反资本主义抗议，部分示威从和平游行演变为冲突，抗议者破坏联合国办公室并焚烧特斯拉车辆，警方使用催泪瓦斯。Al Jazeera 也报道，峰会前夕日内瓦已有大规模抗议，抗议者批评G7国家的政策和全球权力结构。这个事件提醒我们：全球治理不只发生在会议桌上，也发生在街头、媒体画面和公共愤怒之中。",
+          "correspondingEnglish": "Around 20,000 people joined anti-capitalist protests during the G7 summit. Some demonstrations turned violent, with protesters targeting symbols of global institutions and corporate power. Police used tear gas as clashes broke out. The protests show that global governance is not only made by leaders in conference rooms; it is also challenged by people in the streets.",
           "englishExpressions": [
             {
-              "expression": "energy security",
-              "meaningChinese": "能源安全",
-              "example": "Energy security remains a key issue for many countries."
+              "expression": "anti-capitalist protest",
+              "meaningChinese": "反资本主义抗议",
+              "example": "Anti-capitalist protests took place during the summit."
             },
             {
-              "expression": "economic priorities",
-              "meaningChinese": "经济优先事项",
-              "example": "Governments must balance economic priorities with diplomacy."
+              "expression": "global governance",
+              "meaningChinese": "全球治理",
+              "example": "Global governance is often contested by social movements."
             },
             {
-              "expression": "international stability",
-              "meaningChinese": "国际稳定",
-              "example": "The summit aims to support international stability."
+              "expression": "corporate power",
+              "meaningChinese": "企业权力 / 资本权力",
+              "example": "Protesters criticized the influence of corporate power."
+            },
+            {
+              "expression": "clashes broke out",
+              "meaningChinese": "冲突爆发",
+              "example": "Clashes broke out between protesters and police."
             }
           ],
           "studyNote": ""
@@ -67,24 +72,57 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "归属感不仅是情感，也是社会结构的一部分",
-          "summaryChinese": "近期来自文化研究与社会学领域的讨论持续关注“belonging（归属感）”。学者指出，归属感并非单纯个人感受，它与语言、阶级、性别、国籍以及社会制度密切相关。对于性别研究而言，“谁能够被接纳”始终是核心问题之一。",
-          "correspondingEnglish": "Researchers continue to explore the idea of belonging as both a personal feeling and a social condition. Questions about who is accepted, represented and included remain central to discussions of gender, identity and community.",
+          "title": "英国平等薪酬争议：以“保护女性”为名，也可能削弱女性权利",
+          "summaryChinese": "The Guardian 6月16日报道，英国 Reform UK 提出所谓 “women and motherhood protection act”，声称要加强女性权利，但工会批评该方案可能削弱现有平等薪酬保护。争议核心在于：如果只保障“相同工作同酬”，而削弱“同等价值工作同酬”的原则，女性在零售、护理等被长期低估的行业中可能更难维权。这是一个典型的性别研究问题：政策语言可以说“保护女性”，但真正要看它保护的是女性作为完整劳动者的权利，还是仅仅把女性重新框进“母职”角色。",
+          "correspondingEnglish": "A proposed policy by Reform UK claims to strengthen women’s rights, but unions warn that it could weaken existing equal pay protections. The debate focuses on whether women should be protected only when they do identical work, or also when they do work of equal value. This matters because many jobs traditionally done by women, such as care and retail work, have often been undervalued.",
           "englishExpressions": [
             {
-              "expression": "social condition",
-              "meaningChinese": "社会处境",
-              "example": "Belonging is influenced by social conditions."
+              "expression": "equal pay",
+              "meaningChinese": "平等薪酬",
+              "example": "Equal pay remains a major issue for women workers."
             },
             {
-              "expression": "representation",
-              "meaningChinese": "代表性；呈现",
-              "example": "Representation matters in public life."
+              "expression": "work of equal value",
+              "meaningChinese": "同等价值的工作",
+              "example": "The law protects workers doing work of equal value."
             },
             {
-              "expression": "inclusion",
-              "meaningChinese": "包容、纳入",
-              "example": "Many institutions are working to improve inclusion."
+              "expression": "weaken protections",
+              "meaningChinese": "削弱保护",
+              "example": "Unions warned that the proposal could weaken protections."
+            },
+            {
+              "expression": "undervalued work",
+              "meaningChinese": "被低估的劳动",
+              "example": "Care work is often undervalued in the economy."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "英国跨性别权利争议：法律定义与日常生活之间出现裂缝",
+          "summaryChinese": "The Guardian 6月16日报道，多名英国工党议员质疑 EHRC 关于“生理性别”裁决后的指导是否可行。该指导建议跨性别者不应进入与其生活性别相符的单一性别服务，而应使用性别中立替代空间。已有135名议员签署动议，要求政府阻止该指导，担心其可能引发歧视、实际执行困难和医疗等敏感场景中的伤害。这个争议显示：法律定义看似抽象，但会直接落到医院、厕所、更衣室和日常安全感上。",
+          "correspondingEnglish": "A growing number of Labour MPs have questioned whether new guidance from the Equality and Human Rights Commission is workable. The guidance follows a ruling that defines “sex” in the Equality Act as biological sex and suggests that trans people should use gender-neutral alternatives instead of single-sex services aligned with their lived gender. Critics worry that this could increase discrimination and create practical problems in places such as hospitals.",
+          "englishExpressions": [
+            {
+              "expression": "biological sex",
+              "meaningChinese": "生理性别",
+              "example": "The ruling defines sex as biological sex."
+            },
+            {
+              "expression": "lived gender",
+              "meaningChinese": "生活中的性别身份",
+              "example": "The guidance may affect people’s lived gender in daily life."
+            },
+            {
+              "expression": "gender-neutral alternative",
+              "meaningChinese": "性别中立替代空间",
+              "example": "Some institutions offer gender-neutral alternatives."
+            },
+            {
+              "expression": "incite discrimination",
+              "meaningChinese": "引发歧视",
+              "example": "Critics fear the policy may incite discrimination."
             }
           ],
           "studyNote": ""
@@ -96,47 +134,57 @@
       "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
       "items": [
         {
-          "title": "世界杯继续推动全球文化交流",
-          "summaryChinese": "世界杯不仅是体育赛事，也成为全球文化传播的平台。从球迷文化到社交媒体内容，再到品牌营销和时尚设计，赛事正在影响人们的日常表达方式。ABC 等媒体指出，大型赛事的文化影响往往持续远超比赛本身。",
-          "correspondingEnglish": "The World Cup continues to shape culture beyond sport. Fan communities, social media trends and fashion influences are spreading across borders, showing how major events can become platforms for global cultural exchange.",
+          "title": "Obama Presidential Center：总统图书馆变成社区、艺术与记忆空间",
+          "summaryChinese": "The Guardian 6月16日报道，耗资8.5亿美元的 Obama Presidential Center 即将在芝加哥南区开放。它不只是传统总统图书馆，而是包含公共图书馆、篮球场、录音室和30位艺术家作品的综合文化空间。报道提到，这些艺术委托虽然名义上是“非政治”的，但实际上与非裔美国历史、民权传统、芝加哥文化和公共记忆紧密相连。文化空间从来不是中性的：它决定谁的历史被保存，谁的形象被放大，谁的记忆可以进入公共建筑。",
+          "correspondingEnglish": "The Obama Presidential Center in Chicago is expected to open as an $850 million cultural complex. It includes not only museum exhibits, but also a public library, a basketball court, a recording studio and artworks by 30 artists. Although the commissions are described as officially apolitical, they are closely connected to African American heritage, civil rights and Chicago’s cultural memory.",
           "englishExpressions": [
             {
-              "expression": "cultural exchange",
-              "meaningChinese": "文化交流",
-              "example": "Sports can encourage cultural exchange."
+              "expression": "cultural complex",
+              "meaningChinese": "综合文化空间",
+              "example": "The center is designed as a cultural complex."
             },
             {
-              "expression": "fan community",
-              "meaningChinese": "球迷社群",
-              "example": "The fan community has grown rapidly online."
+              "expression": "public memory",
+              "meaningChinese": "公共记忆",
+              "example": "Museums help shape public memory."
             },
             {
-              "expression": "across borders",
-              "meaningChinese": "跨越国界",
-              "example": "Ideas travel across borders more quickly than ever."
+              "expression": "civil rights",
+              "meaningChinese": "民权",
+              "example": "The artworks refer to civil rights history."
+            },
+            {
+              "expression": "officially apolitical",
+              "meaningChinese": "官方上非政治的",
+              "example": "The project is officially apolitical, but culturally meaningful."
             }
           ],
           "studyNote": ""
         },
         {
-          "title": "阅读仍然是一种“慢媒体”体验",
-          "summaryChinese": "BBC 近期文化评论指出，在短视频和即时信息不断增长的环境下，阅读长篇作品仍然具有独特价值。它不仅提供知识，也训练注意力与耐心，让读者能够停留在复杂问题之中，而不是快速滑过。",
-          "correspondingEnglish": "Cultural commentators argue that reading remains valuable in the age of constant digital stimulation. Long-form books encourage reflection and help readers engage with complexity rather than seeking immediate answers.",
+          "title": "G7抗议的媒体画面：政治事件如何变成视觉文化",
+          "summaryChinese": "G7抗议不只是政治新闻，也是一场媒体图像事件。Reuters 描述了被焚烧的特斯拉、被破坏的联合国办公室和催泪瓦斯场景；Al Jazeera 的视频报道也捕捉了警方水炮与抗议人群的冲突。这样的画面会迅速进入全球媒体循环，把“全球不平等”“资本权力”“气候焦虑”等抽象议题转化成可见的视觉符号。",
+          "correspondingEnglish": "The anti-G7 protests were not only political events; they also became media images. Burning vehicles, damaged buildings and police tear gas turned abstract ideas such as global inequality and corporate power into visible symbols. In this way, protest becomes part of visual culture as well as political debate.",
           "englishExpressions": [
             {
-              "expression": "digital stimulation",
-              "meaningChinese": "数字刺激",
-              "example": "People are surrounded by digital stimulation every day."
+              "expression": "visual symbol",
+              "meaningChinese": "视觉符号",
+              "example": "The burning car became a visual symbol of anger."
             },
             {
-              "expression": "long-form books",
-              "meaningChinese": "长篇作品",
-              "example": "Long-form books require sustained attention."
+              "expression": "media image",
+              "meaningChinese": "媒体图像",
+              "example": "Protests often become powerful media images."
             },
             {
-              "expression": "engage with complexity",
-              "meaningChinese": "处理复杂问题",
-              "example": "Good literature helps us engage with complexity."
+              "expression": "abstract idea",
+              "meaningChinese": "抽象概念",
+              "example": "Images can make abstract ideas easier to understand."
+            },
+            {
+              "expression": "political debate",
+              "meaningChinese": "政治辩论",
+              "example": "The protest entered wider political debate."
             }
           ],
           "studyNote": ""
@@ -148,47 +196,57 @@
       "heading": "AI 与科技 / AI & Tech",
       "items": [
         {
-          "title": "AI竞争正在转向芯片与基础设施",
-          "summaryChinese": "Google 与三星关于下一代 AI 芯片生产的讨论持续受到关注。业内认为，未来 AI 竞争不仅发生在模型层面，更发生在数据中心、能源供应、半导体制造和全球供应链层面。",
-          "correspondingEnglish": "The AI race is increasingly focused on infrastructure. Beyond software and models, companies are investing heavily in chips, energy systems and manufacturing capacity to support future AI development.",
+          "title": "Nvidia押注AI工厂：AI竞争进入实体基础设施阶段",
+          "summaryChinese": "AP 6月16日报道，Nvidia CEO Jensen Huang 在德州 Sherman 推动一个与 Coherent 合作的20亿美元 AI 基础设施升级项目。工厂将生产基于磷化铟的激光器，用于芯片之间高速数据传输，并可能将功耗降低最多50%。该项目预计创造约1000个岗位，其中550个属于先进技术岗位。这个新闻很重要，因为它把 AI 从“屏幕里的模型”拉回到实体世界：AI 需要工厂、电力、材料、劳动力和产业政策。",
+          "correspondingEnglish": "Nvidia is promoting a $2 billion AI infrastructure project in Sherman, Texas, in partnership with Coherent. The factory will produce lasers used for high-speed data transfer between AI chips and may reduce power consumption by up to 50%. The project is expected to create about 1,000 jobs, including hundreds of advanced technical roles. The story shows that AI depends on factories, materials, workers and energy systems.",
           "englishExpressions": [
-            {
-              "expression": "manufacturing capacity",
-              "meaningChinese": "制造产能",
-              "example": "Manufacturing capacity has become a strategic resource."
-            },
             {
               "expression": "AI infrastructure",
               "meaningChinese": "AI基础设施",
-              "example": "AI infrastructure requires enormous investment."
+              "example": "AI infrastructure includes chips, factories and energy systems."
             },
             {
-              "expression": "semiconductor industry",
-              "meaningChinese": "半导体产业",
-              "example": "The semiconductor industry plays a crucial role in AI."
+              "expression": "power consumption",
+              "meaningChinese": "电力消耗",
+              "example": "The new technology may reduce power consumption."
+            },
+            {
+              "expression": "advanced technical roles",
+              "meaningChinese": "先进技术岗位",
+              "example": "The project will create advanced technical roles."
+            },
+            {
+              "expression": "high-speed data transfer",
+              "meaningChinese": "高速数据传输",
+              "example": "AI chips require high-speed data transfer."
             }
           ],
           "studyNote": ""
         },
         {
-          "title": "SpaceX热潮反映资本市场对未来科技的期待",
-          "summaryChinese": "SpaceX 上市后股价表现强劲，市场将其视为太空基础设施与未来计算能力的重要参与者。同时，多家 AI 企业也获得大规模融资。分析人士认为，这不仅是投资行为，也反映了资本市场对于未来科技叙事的信心。",
-          "correspondingEnglish": "Strong investor interest in SpaceX and AI companies suggests that markets remain optimistic about future technologies. Investors are not only funding current products but also betting on long-term visions of innovation and growth.",
+          "title": "Jensen Huang 称AI时代需要“新的社会规范”",
+          "summaryChinese": "AP 同日专访中，Nvidia CEO Jensen Huang 表示，AI时代需要“新的社会规范”。他认为公众不应只害怕 AI，而应参与和理解它；同时，他也承认 AI 带来失业、国家安全、能源需求和不平等等风险。这个表述非常值得注意：当科技公司开始谈“社会规范”，说明 AI 已经不只是技术产品，而是正在进入教育、劳动、治理和日常伦理。",
+          "correspondingEnglish": "In an AP interview, Nvidia CEO Jensen Huang said that the age of AI requires “new social norms.” He encouraged people to engage with AI rather than only fear it, while also acknowledging concerns about job loss, national security, energy demand and inequality. His comments show that AI is not only a technical product; it is becoming part of work, education, governance and everyday ethics.",
           "englishExpressions": [
             {
-              "expression": "investor optimism",
-              "meaningChinese": "投资者乐观情绪",
-              "example": "Investor optimism pushed technology stocks higher."
+              "expression": "social norms",
+              "meaningChinese": "社会规范",
+              "example": "AI may require new social norms."
             },
             {
-              "expression": "long-term vision",
-              "meaningChinese": "长期愿景",
-              "example": "The company promotes a long-term vision of innovation."
+              "expression": "engage with AI",
+              "meaningChinese": "参与/理解/使用 AI",
+              "example": "Students need to learn how to engage with AI critically."
             },
             {
-              "expression": "future growth",
-              "meaningChinese": "未来增长",
-              "example": "Markets are focused on future growth opportunities."
+              "expression": "energy demand",
+              "meaningChinese": "能源需求",
+              "example": "AI data centers increase energy demand."
+            },
+            {
+              "expression": "everyday ethics",
+              "meaningChinese": "日常伦理",
+              "example": "AI raises questions about everyday ethics."
             }
           ],
           "studyNote": ""
@@ -197,74 +255,82 @@
     }
   ],
   "englishParagraph": {
-    "english": "Periods of transition are often uncomfortable because the outcome is uncertain. Yet uncertainty can also create opportunities for learning and change. Whether in politics, technology or personal life, important transformations usually happen gradually before they become visible to everyone.",
-    "chinese": "过渡时期往往令人不安，因为结果尚不确定。但不确定性也可能创造学习与改变的机会。无论是在政治、科技还是个人生活中，重要的转变通常都是先缓慢发生，然后才被所有人看见。"
+    "english": "Today’s news shows that power is often hidden inside infrastructure. A summit is not only a diplomatic meeting; it is also about energy routes, minerals, sanctions and technologies. AI is not only software; it is built through factories, lasers, electricity and workers. Gender policy is not only legal language; it shapes pay, safety, recognition and everyday access to public life.",
+    "chinese": "今天的新闻让我们看到，权力常常隐藏在基础设施之中。峰会不只是外交会议，它也关乎能源通道、矿产、制裁与技术。AI不只是软件，它由工厂、激光器、电力和劳动者共同建成。性别政策也不只是法律语言，它会塑造薪酬、安全、承认，以及人们进入公共生活的日常机会。"
   },
   "keywords": [
     {
-      "word": "transition",
-      "meaning": "过渡；转变过程",
-      "example": "The country is going through a period of transition."
-    },
-    {
-      "word": "ceasefire",
-      "meaning": "停火协议",
-      "example": "The ceasefire reduced tensions in the region."
-    },
-    {
-      "word": "inclusion",
-      "meaning": "包容、纳入",
-      "example": "Inclusion is essential for healthy communities."
-    },
-    {
       "word": "infrastructure",
-      "meaning": "基础设施",
-      "example": "Modern economies rely on digital infrastructure."
+      "meaning": "基础设施；支撑系统运行的物质与组织结构",
+      "example": "AI infrastructure requires electricity, chips and skilled workers."
     },
     {
-      "word": "optimism",
-      "meaning": "乐观情绪",
-      "example": "Investor optimism boosted technology stocks."
+      "word": "governance",
+      "meaning": "治理；制定规则并管理系统的方式",
+      "example": "AI governance is becoming a global political issue."
+    },
+    {
+      "word": "equal pay",
+      "meaning": "平等薪酬",
+      "example": "Equal pay laws protect workers from gender-based wage discrimination."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被公众看见和承认",
+      "example": "Protests create visibility for social concerns."
+    },
+    {
+      "word": "social norms",
+      "meaning": "社会规范；社会中被认为合适或可接受的行为规则",
+      "example": "New technologies often require new social norms."
+    },
+    {
+      "word": "contested",
+      "meaning": "被争夺的；有争议的",
+      "example": "Public space is often politically contested."
     }
   ],
   "sentenceLab": {
-    "sentence": "Whether in politics, technology or personal life, important transformations usually happen gradually before they become visible to everyone.",
-    "analysisChinese": "这个句子用 Whether in... 列出三个场景：政治、科技和个人生活。important transformations 是主语，happen gradually 表示“逐渐发生”，before they become visible to everyone 强调重要转变往往在被看见之前已经开始。"
+    "sentence": "Gender policy is not only legal language; it shapes pay, safety, recognition and everyday access to public life.",
+    "analysisChinese": "这个句子用分号连接解释关系：前半句指出 gender policy 不只是法律语言，后半句说明它会具体影响 pay, safety, recognition and everyday access to public life。这个结构适合用于分析抽象制度如何落到日常生活。"
   },
   "reflection": {
-    "english": "",
-    "chinese": "有时候，世界最重要的变化并不是突然发生的，而是在人们尚未察觉时，已经悄悄开始了。愿我们既能看见新闻里的事件，也能看见事件背后缓慢生长的趋势。"
+    "english": "Many abstract systems eventually land on bodies, labor, space and everyday life. When we learn to read infrastructure, we also learn to see how power operates quietly.",
+    "chinese": "今天这期小报最想留下的一句话是：很多看似抽象的制度，最终都会落到人的身体、劳动、空间和日常生活里。当我们读懂基础设施，也是在读懂权力如何安静地运行。"
   },
   "tags": [
+    "power",
+    "infrastructure",
     "global",
-    "geopolitics",
-    "energy",
     "G7",
-    "AI",
-    "technology",
+    "Ukraine",
+    "critical minerals",
+    "governance",
+    "gender",
+    "equal pay",
+    "trans rights",
     "culture",
     "media",
-    "belonging",
-    "transition",
-    "infrastructure"
+    "AI",
+    "technology"
   ],
   "sources": [
     {
-      "name": "Financial Times",
-      "url": "https://www.ft.com/"
-    },
-    {
-      "name": "ABC News",
-      "url": "https://www.abc.net.au/news/"
-    },
-    {
-      "name": "Reuters",
+      "label": "Reuters",
       "url": "https://www.reuters.com/"
     },
     {
-      "name": "BBC",
-      "url": "https://www.bbc.com/"
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/"
+    },
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
     }
   ],
-  "rawText": "推送日期｜2026年6月16日\n\n今天的小报里，一个词反复出现：transition（过渡）。从战争走向谈判，从技术突破走向产业竞争，从个人身份走向群体归属，许多故事都发生在“正在改变，但尚未完成”的阶段。这样的时刻往往最值得观察。"
+  "rawText": "推送日期｜2026年6月16日\n\n今天的关键词是：power and infrastructure（权力与基础设施）。G7 峰会表面上是外交会议，背后是能源、矿产、战争与 AI 规则；AI 表面上是软件，背后是工厂、电力、芯片与劳动；性别政策表面上是“保护”，背后可能是权利边界的重新划定。"
 }
