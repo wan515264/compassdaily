@@ -1,5 +1,45 @@
 [
   {
+    "date": "2026-06-17",
+    "title": "Regenerated June 15 briefing",
+    "description": "Rebuilt the June 15 briefing around systems, G7 diplomacy, global growth, women’s entrepreneurship, women’s health, cultural memory, and AI data center infrastructure.",
+    "type": "content",
+    "relatedDate": "2026-06-15",
+    "link": "briefing.html?date=2026-06-15"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Published June 17 briefing",
+    "description": "Added the June 17 Daily Compass briefing on visibility, infrastructure, G7 diplomacy, Pride politics, AI governance, and manufacturing systems.",
+    "type": "briefing",
+    "relatedDate": "2026-06-17",
+    "link": "briefing.html?date=2026-06-17"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Published June 16 briefing",
+    "description": "Added the June 16 Daily Compass briefing on transition, ceasefire diplomacy, belonging, slow reading, AI infrastructure, and future technology optimism.",
+    "type": "briefing",
+    "relatedDate": "2026-06-16",
+    "link": "briefing.html?date=2026-06-16"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Published June 15 briefing",
+    "description": "Added the June 15 Daily Compass briefing on peace agreements, infrastructure, belonging, literature, and future imagination.",
+    "type": "briefing",
+    "relatedDate": "2026-06-15",
+    "link": "briefing.html?date=2026-06-15"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Published June 14 briefing",
+    "description": "Added the June 14 Daily Compass briefing on peace negotiations, belonging, literature, AI chips, and space capital.",
+    "type": "briefing",
+    "relatedDate": "2026-06-14",
+    "link": "briefing.html?date=2026-06-14"
+  },
+  {
     "date": "2026-06-13",
     "title": "Improved wordbook management",
     "description": "Simplified the briefing sidebar and added per-item delete controls plus Clear All for the wordbook.",
