@@ -1,5 +1,87 @@
 [
   {
+    "date": "2026-06-17",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "可见性、基础设施、G7峰会、关键矿产、Pride政治、AI治理与制造业",
+    "file": "2026-06-17.json",
+    "tags": [
+      "global",
+      "G7",
+      "Ukraine",
+      "energy",
+      "critical minerals",
+      "visibility",
+      "gender",
+      "culture",
+      "AI",
+      "technology",
+      "infrastructure",
+      "governance"
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "权力与基础设施、G7峰会、性别政策、公共记忆、AI工厂与社会规范",
+    "file": "2026-06-16.json",
+    "tags": [
+      "power",
+      "infrastructure",
+      "global",
+      "G7",
+      "Ukraine",
+      "critical minerals",
+      "governance",
+      "gender",
+      "equal pay",
+      "trans rights",
+      "culture",
+      "media",
+      "AI",
+      "technology"
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "系统、G7峰会、全球增长、女性创业、女性健康、文化记忆与AI基础设施",
+    "file": "2026-06-15.json",
+    "tags": [
+      "systems",
+      "global",
+      "G7",
+      "economy",
+      "critical minerals",
+      "AI",
+      "technology",
+      "infrastructure",
+      "gender",
+      "women",
+      "health",
+      "culture",
+      "art",
+      "media"
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "和平协议悬念、能源安全、归属感、文学阅读、AI芯片与太空资本",
+    "file": "2026-06-14.json",
+    "tags": [
+      "global",
+      "geopolitics",
+      "energy",
+      "AI",
+      "technology",
+      "literature",
+      "culture",
+      "fashion",
+      "belonging",
+      "future"
+    ]
+  },
+  {
     "date": "2026-06-13",
     "title": "The Daily Compass｜每日罗盘",
     "theme": "战争边缘的谈判、无人机战争、文化可见性、运动时尚与未来科技资本",
