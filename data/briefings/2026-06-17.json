@@ -1,0 +1,338 @@
+{
+  "date": "2026-06-17",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "可见性、基础设施、G7峰会、关键矿产、Pride政治、AI治理与制造业",
+  "introChinese": "今天的小报关键词是：visibility and infrastructure（可见性与基础设施）。有些新闻让人被看见，有些新闻让系统背后的结构浮出水面。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "G7峰会支持乌克兰，并讨论减少对中国关键矿产依赖",
+          "summaryChinese": "Reuters 报道，6月15日至17日在法国埃维昂莱班举行的 G7 峰会中，各国领导人重申支持乌克兰的领土完整，并同意加大对俄罗斯的制裁压力。峰会同时讨论了如何减少对中国关键矿产的依赖，因为这些矿产对能源、国防和科技产业都非常重要。AI治理也进入议程，包括透明度、责任归属和技术风险等问题。",
+          "correspondingEnglish": "G7 leaders have reaffirmed their support for Ukraine and agreed to increase pressure on Russia through sanctions. They also discussed how to reduce dependence on China for critical minerals, which are essential for energy, defense and technology industries. AI governance was also part of the agenda, especially questions of transparency, liability and risk.",
+          "englishExpressions": [
+            {
+              "expression": "reaffirm support",
+              "meaningChinese": "重申支持",
+              "example": "G7 leaders reaffirmed their support for Ukraine."
+            },
+            {
+              "expression": "critical minerals",
+              "meaningChinese": "关键矿产",
+              "example": "Critical minerals are essential for batteries and defense technologies."
+            },
+            {
+              "expression": "reduce dependence on",
+              "meaningChinese": "减少对……的依赖",
+              "example": "Countries want to reduce dependence on a single supplier."
+            },
+            {
+              "expression": "AI governance",
+              "meaningChinese": "AI治理",
+              "example": "AI governance requires transparency and accountability."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "美伊协议影响油价，但霍尔木兹海峡航运仍有不确定性",
+          "summaryChinese": "Reuters 今日报道称，油价小幅下跌，因为投资者正在评估美伊和平协议可能带来的影响。市场预期伊朗石油供应可能恢复，但霍尔木兹海峡航运能否完全恢复仍存在不确定性，这限制了油价跌幅。换句话说，协议可以快速改变市场情绪，但真正恢复航运信心需要时间。",
+          "correspondingEnglish": "Oil prices moved slightly lower as investors assessed the possible impact of the U.S.-Iran peace deal. Markets expect that Iranian oil may return to global supply, but uncertainty remains over the full resumption of shipping through the Strait of Hormuz. A political agreement can shift market sentiment quickly, but rebuilding trust in shipping routes may take longer.",
+          "englishExpressions": [
+            {
+              "expression": "market sentiment",
+              "meaningChinese": "市场情绪",
+              "example": "The peace deal improved market sentiment."
+            },
+            {
+              "expression": "resume shipping",
+              "meaningChinese": "恢复航运",
+              "example": "Companies are waiting to resume shipping through the strait."
+            },
+            {
+              "expression": "global supply",
+              "meaningChinese": "全球供应",
+              "example": "Iranian oil may return to global supply."
+            },
+            {
+              "expression": "uncertainty remains",
+              "meaningChinese": "不确定性仍然存在",
+              "example": "Uncertainty remains despite the agreement."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "首尔 Pride：可见性仍然是一种政治行动",
+          "summaryChinese": "The Guardian 报道，首尔举行年度酷儿文化节，数万人走上街头，举起彩虹旗并参与表演和公共活动。韩国目前仍缺乏全面的 LGBTQ+ 法律保护，反歧视法长期受阻；同时，首尔广场近年来也因保守政治阻力无法作为活动核心场地使用。即便如此，参与者仍强调：不要假装我们不存在。",
+          "correspondingEnglish": "Tens of thousands of people joined Seoul’s annual queer culture festival, filling the streets with rainbow flags, performances and public celebration. South Korea still lacks comprehensive legal protections for LGBTQ+ people, and an anti-discrimination law has been delayed for years. In this context, Pride is not only a celebration; it is also a demand to be seen and recognized.",
+          "englishExpressions": [
+            {
+              "expression": "legal protections",
+              "meaningChinese": "法律保护",
+              "example": "LGBTQ+ people still lack full legal protections in many countries."
+            },
+            {
+              "expression": "anti-discrimination law",
+              "meaningChinese": "反歧视法",
+              "example": "Activists are calling for an anti-discrimination law."
+            },
+            {
+              "expression": "a demand to be seen",
+              "meaningChinese": "要求被看见",
+              "example": "Pride can be a demand to be seen in public life."
+            },
+            {
+              "expression": "public celebration",
+              "meaningChinese": "公共庆祝活动",
+              "example": "The festival became a joyful public celebration."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "塞拉利昂第一夫人拒绝明确谴责女性割礼，引发争议",
+          "summaryChinese": "The Guardian 今日报道，塞拉利昂第一夫人 Fatima Maada Bio 否认自己支持女性割礼（FGM），但同时表示，在看到“可靠数据”证明其有害之前，她不会公开谴责这一做法。该回应引发人权组织和反FGM倡议者的强烈不满。这个事件提醒我们：身体政治不只发生在私人领域，也发生在国家权力、传统叙事和公共发言之间。",
+          "correspondingEnglish": "Sierra Leone’s first lady has denied supporting female genital mutilation, but she also said she would not publicly condemn the practice without “reliable data” showing its harms. Her response has angered human rights groups and anti-FGM campaigners. The debate shows how women’s bodies can become a contested site between tradition, state power and public speech.",
+          "englishExpressions": [
+            {
+              "expression": "female genital mutilation (FGM)",
+              "meaningChinese": "女性生殖器切割/女性割礼",
+              "example": "FGM is widely condemned by human rights organizations."
+            },
+            {
+              "expression": "publicly condemn",
+              "meaningChinese": "公开谴责",
+              "example": "Activists urged leaders to publicly condemn the practice."
+            },
+            {
+              "expression": "human rights groups",
+              "meaningChinese": "人权组织",
+              "example": "Human rights groups criticized the statement."
+            },
+            {
+              "expression": "a contested site",
+              "meaningChinese": "争夺/争议发生的场域",
+              "example": "The body becomes a contested site of politics and culture."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Aeon：人类世的“新岩石”提醒我们，自然与人造的边界正在变模糊",
+          "summaryChinese": "Aeon 今日刊发一篇关于“人类世岩石”的文章，讨论某些奇特的新岩石如何因人类活动而出现。它们不是完全自然的，也不是简单的人造物，而是工业、地质、废弃物和时间共同生成的物质。这类文章很适合放进文化栏目，因为它不仅谈科学，也在问：人类活动如何进入地球的身体？",
+          "correspondingEnglish": "A new Aeon essay explores strange rocks that exist because of human activity. These rocks are not purely natural, but they are not simply artificial either. They are formed through the interaction of industry, waste, geology and time. The essay raises a cultural question: how deeply have human actions entered the body of the Earth?",
+          "englishExpressions": [
+            {
+              "expression": "human activity",
+              "meaningChinese": "人类活动",
+              "example": "Human activity has changed geological processes."
+            },
+            {
+              "expression": "not purely natural",
+              "meaningChinese": "并非纯粹自然的",
+              "example": "These materials are not purely natural or artificial."
+            },
+            {
+              "expression": "the Anthropocene",
+              "meaningChinese": "人类世",
+              "example": "The Anthropocene describes an age shaped by human impact."
+            },
+            {
+              "expression": "blur the boundary",
+              "meaningChinese": "模糊边界",
+              "example": "These rocks blur the boundary between nature and culture."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "反资本主义抗议出现在G7峰会现场：全球治理也有街头版本",
+          "summaryChinese": "Reuters 报道，G7峰会期间约有两万人参与反资本主义抗议。抗议者批评 G7 代表的是固化的政治与经济权力、全球不平等和企业过度扩张。部分示威后来演变为冲突，包括破坏联合国办公室和焚烧特斯拉车辆，警方使用催泪瓦斯。这个事件说明，全球治理并不只发生在会议桌上，也发生在街头、媒体画面和公共情绪之中。",
+          "correspondingEnglish": "Around 20,000 people joined anti-capitalist protests during the G7 summit. Protesters criticized the summit as a symbol of entrenched political and economic power, global inequality and corporate excess. Some demonstrations turned violent, leading to clashes with police. The protests show that global governance is not only made in conference rooms; it is also contested in streets and public images.",
+          "englishExpressions": [
+            {
+              "expression": "anti-capitalist protest",
+              "meaningChinese": "反资本主义抗议",
+              "example": "Anti-capitalist protests took place during the summit."
+            },
+            {
+              "expression": "global inequality",
+              "meaningChinese": "全球不平等",
+              "example": "Protesters criticized global inequality."
+            },
+            {
+              "expression": "corporate excess",
+              "meaningChinese": "企业过度扩张/资本过剩",
+              "example": "The movement targets corporate excess."
+            },
+            {
+              "expression": "be contested",
+              "meaningChinese": "被争夺、被质疑",
+              "example": "Global governance is contested by social movements."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Nvidia 押注“AI基础设施”：从软件竞争走向工厂与制造业",
+          "summaryChinese": "AP 今日报道，Nvidia 正试图把 AI 热潮转化为美国制造业复兴。Jensen Huang 领导的 Nvidia 推出重大 AI 基础设施升级，并在德州 Sherman 推动与 AI 数据传输材料相关的制造项目。ABC News 的 AI 页面也同步收录了这条 AP 报道。这个故事很重要，因为它说明 AI 不只是聊天机器人、模型或软件，而是芯片、工厂、能源、劳动力与供应链组成的庞大系统。",
+          "correspondingEnglish": "Nvidia is betting that artificial intelligence can help revive U.S. manufacturing. The company has announced a major upgrade to its AI infrastructure and is connected to manufacturing projects in Texas. The story shows that AI is not only about chatbots, models or software. It also depends on chips, factories, energy, labor and supply chains.",
+          "englishExpressions": [
+            {
+              "expression": "AI infrastructure",
+              "meaningChinese": "AI基础设施",
+              "example": "AI infrastructure includes chips, data centers and power systems."
+            },
+            {
+              "expression": "revive manufacturing",
+              "meaningChinese": "复兴制造业",
+              "example": "Nvidia says AI can help revive manufacturing."
+            },
+            {
+              "expression": "supply chain",
+              "meaningChinese": "供应链",
+              "example": "The AI industry depends on complex supply chains."
+            },
+            {
+              "expression": "manufacturing project",
+              "meaningChinese": "制造业项目",
+              "example": "The company announced a new manufacturing project in Texas."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "美国各州继续推进AI监管，显示联邦与地方之间的政策拉扯",
+          "summaryChinese": "AP 报道，尽管特朗普曾警告各州不要监管人工智能，美国多个州仍在推进自己的AI规则。这说明 AI 治理正在形成一种多层次结构：联邦政府、州政府、科技公司和公众利益团体都在争夺规则制定权。对普通人来说，AI监管不是抽象法律问题，而是关于工作、隐私、安全和责任归属的日常问题。",
+          "correspondingEnglish": "Several U.S. states are moving ahead with their own AI regulations, even after President Trump warned states not to regulate artificial intelligence. This shows that AI governance is becoming a multi-level political struggle. Federal officials, state governments, technology companies and public interest groups are all competing to shape the rules.",
+          "englishExpressions": [
+            {
+              "expression": "move ahead with",
+              "meaningChinese": "继续推进",
+              "example": "States are moving ahead with AI regulations."
+            },
+            {
+              "expression": "multi-level struggle",
+              "meaningChinese": "多层次斗争/博弈",
+              "example": "AI governance has become a multi-level struggle."
+            },
+            {
+              "expression": "public interest groups",
+              "meaningChinese": "公共利益团体",
+              "example": "Public interest groups are calling for stronger protections."
+            },
+            {
+              "expression": "shape the rules",
+              "meaningChinese": "制定/塑造规则",
+              "example": "Tech companies want to shape the rules of AI."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows that power often hides inside systems. A summit is not only a meeting; it is a structure of global influence. AI is not only software; it is built through factories, chips, energy and labor. Visibility is not only about appearing in public; it is about being recognized, protected and taken seriously. To read the news well, we need to look not only at events, but also at the infrastructures behind them.",
+    "chinese": "今天的新闻让我们看到，权力常常隐藏在系统之中。峰会不只是一次会议，它也是全球影响力的结构。AI不只是软件，它由工厂、芯片、能源与劳动共同支撑。可见性也不只是出现在公共空间里，它意味着被承认、被保护、被认真对待。要真正读懂新闻，我们不只要看事件本身，也要看事件背后的基础设施。"
+  },
+  "keywords": [
+    {
+      "word": "visibility",
+      "meaning": "可见性；被看见与被承认",
+      "example": "Visibility can become a form of political power."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑系统运行的结构",
+      "example": "AI infrastructure requires chips, energy and skilled labor."
+    },
+    {
+      "word": "governance",
+      "meaning": "治理；规则制定与管理方式",
+      "example": "AI governance is becoming a global concern."
+    },
+    {
+      "word": "recognition",
+      "meaning": "承认；认可",
+      "example": "Legal recognition can change people’s everyday lives."
+    },
+    {
+      "word": "dependence",
+      "meaning": "依赖",
+      "example": "Many countries want to reduce dependence on critical minerals from one supplier."
+    },
+    {
+      "word": "contested",
+      "meaning": "有争议的；被争夺的",
+      "example": "Public space is often contested by different political groups."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "To read the news well, we need to look not only at events, but also at the infrastructures behind them.",
+    "analysisChinese": "这个句子用 not only ... but also ... 连接两个观察层次：events（事件本身）和 infrastructures behind them（背后的基础设施/结构）。它提醒读者，新闻阅读不只是追踪发生了什么，也要理解支撑事件发生的制度、技术和权力结构。"
+  },
+  "reflection": {
+    "english": "The world is not made only of major events; it is also made of the structures that support them. When we begin to see those structures, we stop being pushed along by the news and start learning how to read the world.",
+    "chinese": "今天的小报最想留下的一句话是：世界不是只由“大事件”组成，也由那些支撑事件的结构组成。当我们开始看见结构，就不只是被新闻推着走，而是在慢慢学会读懂世界。"
+  },
+  "tags": [
+    "global",
+    "G7",
+    "Ukraine",
+    "energy",
+    "critical minerals",
+    "visibility",
+    "gender",
+    "culture",
+    "AI",
+    "technology",
+    "infrastructure",
+    "governance"
+  ],
+  "sources": [
+    {
+      "label": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "Aeon",
+      "url": "https://aeon.co/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "ABC News",
+      "url": "https://abcnews.go.com/"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月17日\n\n今天的小报关键词是：visibility and infrastructure（可见性与基础设施）。有些新闻让人被看见，有些新闻让系统背后的结构浮出水面。"
+}

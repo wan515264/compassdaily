@@ -1,0 +1,270 @@
+{
+  "date": "2026-06-16",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "过渡时期、停火安排、归属与包容、慢阅读、AI基础设施与未来科技乐观",
+  "introChinese": "今天的小报里，一个词反复出现：transition（过渡）。从战争走向谈判，从技术突破走向产业竞争，从个人身份走向群体归属，许多故事都发生在“正在改变，但尚未完成”的阶段。这样的时刻往往最值得观察。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "美伊宣布延长停火并重开霍尔木兹海峡",
+          "summaryChinese": "据《金融时报》、ABC News 与路透社报道，美国与伊朗宣布延长停火安排，并同意重新开放霍尔木兹海峡。油价应声回落，市场普遍将此视为中东局势缓和的重要信号。不过，围绕核计划、地区安全以及后续执行机制的谈判仍将持续。",
+          "correspondingEnglish": "The United States and Iran have agreed to extend a ceasefire and reopen the Strait of Hormuz. The announcement helped lower oil prices and eased concerns about a wider regional conflict. However, negotiations over nuclear issues and long-term security arrangements are expected to continue.",
+          "englishExpressions": [
+            {
+              "expression": "extend a ceasefire",
+              "meaningChinese": "延长停火协议",
+              "example": "Both sides agreed to extend a ceasefire for another period."
+            },
+            {
+              "expression": "ease concerns",
+              "meaningChinese": "缓解担忧",
+              "example": "The agreement eased concerns in global markets."
+            },
+            {
+              "expression": "security arrangements",
+              "meaningChinese": "安全安排",
+              "example": "Future security arrangements remain under discussion."
+            },
+            {
+              "expression": "regional conflict",
+              "meaningChinese": "地区冲突",
+              "example": "Leaders hope to prevent a broader regional conflict."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "G7峰会聚焦能源、外交与全球稳定",
+          "summaryChinese": "随着中东局势出现缓和迹象，七国集团（G7）峰会将更多关注能源价格、国际贸易和地缘政治稳定。分析人士认为，此次峰会将成为观察各国如何协调外交与经济政策的重要窗口。",
+          "correspondingEnglish": "As tensions in the Middle East begin to ease, G7 leaders are focusing on energy security, trade and international stability. The summit is expected to highlight how governments balance diplomatic goals with economic priorities.",
+          "englishExpressions": [
+            {
+              "expression": "energy security",
+              "meaningChinese": "能源安全",
+              "example": "Energy security remains a key issue for many countries."
+            },
+            {
+              "expression": "economic priorities",
+              "meaningChinese": "经济优先事项",
+              "example": "Governments must balance economic priorities with diplomacy."
+            },
+            {
+              "expression": "international stability",
+              "meaningChinese": "国际稳定",
+              "example": "The summit aims to support international stability."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "归属感不仅是情感，也是社会结构的一部分",
+          "summaryChinese": "近期来自文化研究与社会学领域的讨论持续关注“belonging（归属感）”。学者指出，归属感并非单纯个人感受，它与语言、阶级、性别、国籍以及社会制度密切相关。对于性别研究而言，“谁能够被接纳”始终是核心问题之一。",
+          "correspondingEnglish": "Researchers continue to explore the idea of belonging as both a personal feeling and a social condition. Questions about who is accepted, represented and included remain central to discussions of gender, identity and community.",
+          "englishExpressions": [
+            {
+              "expression": "social condition",
+              "meaningChinese": "社会处境",
+              "example": "Belonging is influenced by social conditions."
+            },
+            {
+              "expression": "representation",
+              "meaningChinese": "代表性；呈现",
+              "example": "Representation matters in public life."
+            },
+            {
+              "expression": "inclusion",
+              "meaningChinese": "包容、纳入",
+              "example": "Many institutions are working to improve inclusion."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "世界杯继续推动全球文化交流",
+          "summaryChinese": "世界杯不仅是体育赛事，也成为全球文化传播的平台。从球迷文化到社交媒体内容，再到品牌营销和时尚设计，赛事正在影响人们的日常表达方式。ABC 等媒体指出，大型赛事的文化影响往往持续远超比赛本身。",
+          "correspondingEnglish": "The World Cup continues to shape culture beyond sport. Fan communities, social media trends and fashion influences are spreading across borders, showing how major events can become platforms for global cultural exchange.",
+          "englishExpressions": [
+            {
+              "expression": "cultural exchange",
+              "meaningChinese": "文化交流",
+              "example": "Sports can encourage cultural exchange."
+            },
+            {
+              "expression": "fan community",
+              "meaningChinese": "球迷社群",
+              "example": "The fan community has grown rapidly online."
+            },
+            {
+              "expression": "across borders",
+              "meaningChinese": "跨越国界",
+              "example": "Ideas travel across borders more quickly than ever."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "阅读仍然是一种“慢媒体”体验",
+          "summaryChinese": "BBC 近期文化评论指出，在短视频和即时信息不断增长的环境下，阅读长篇作品仍然具有独特价值。它不仅提供知识，也训练注意力与耐心，让读者能够停留在复杂问题之中，而不是快速滑过。",
+          "correspondingEnglish": "Cultural commentators argue that reading remains valuable in the age of constant digital stimulation. Long-form books encourage reflection and help readers engage with complexity rather than seeking immediate answers.",
+          "englishExpressions": [
+            {
+              "expression": "digital stimulation",
+              "meaningChinese": "数字刺激",
+              "example": "People are surrounded by digital stimulation every day."
+            },
+            {
+              "expression": "long-form books",
+              "meaningChinese": "长篇作品",
+              "example": "Long-form books require sustained attention."
+            },
+            {
+              "expression": "engage with complexity",
+              "meaningChinese": "处理复杂问题",
+              "example": "Good literature helps us engage with complexity."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI竞争正在转向芯片与基础设施",
+          "summaryChinese": "Google 与三星关于下一代 AI 芯片生产的讨论持续受到关注。业内认为，未来 AI 竞争不仅发生在模型层面，更发生在数据中心、能源供应、半导体制造和全球供应链层面。",
+          "correspondingEnglish": "The AI race is increasingly focused on infrastructure. Beyond software and models, companies are investing heavily in chips, energy systems and manufacturing capacity to support future AI development.",
+          "englishExpressions": [
+            {
+              "expression": "manufacturing capacity",
+              "meaningChinese": "制造产能",
+              "example": "Manufacturing capacity has become a strategic resource."
+            },
+            {
+              "expression": "AI infrastructure",
+              "meaningChinese": "AI基础设施",
+              "example": "AI infrastructure requires enormous investment."
+            },
+            {
+              "expression": "semiconductor industry",
+              "meaningChinese": "半导体产业",
+              "example": "The semiconductor industry plays a crucial role in AI."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "SpaceX热潮反映资本市场对未来科技的期待",
+          "summaryChinese": "SpaceX 上市后股价表现强劲，市场将其视为太空基础设施与未来计算能力的重要参与者。同时，多家 AI 企业也获得大规模融资。分析人士认为，这不仅是投资行为，也反映了资本市场对于未来科技叙事的信心。",
+          "correspondingEnglish": "Strong investor interest in SpaceX and AI companies suggests that markets remain optimistic about future technologies. Investors are not only funding current products but also betting on long-term visions of innovation and growth.",
+          "englishExpressions": [
+            {
+              "expression": "investor optimism",
+              "meaningChinese": "投资者乐观情绪",
+              "example": "Investor optimism pushed technology stocks higher."
+            },
+            {
+              "expression": "long-term vision",
+              "meaningChinese": "长期愿景",
+              "example": "The company promotes a long-term vision of innovation."
+            },
+            {
+              "expression": "future growth",
+              "meaningChinese": "未来增长",
+              "example": "Markets are focused on future growth opportunities."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Periods of transition are often uncomfortable because the outcome is uncertain. Yet uncertainty can also create opportunities for learning and change. Whether in politics, technology or personal life, important transformations usually happen gradually before they become visible to everyone.",
+    "chinese": "过渡时期往往令人不安，因为结果尚不确定。但不确定性也可能创造学习与改变的机会。无论是在政治、科技还是个人生活中，重要的转变通常都是先缓慢发生，然后才被所有人看见。"
+  },
+  "keywords": [
+    {
+      "word": "transition",
+      "meaning": "过渡；转变过程",
+      "example": "The country is going through a period of transition."
+    },
+    {
+      "word": "ceasefire",
+      "meaning": "停火协议",
+      "example": "The ceasefire reduced tensions in the region."
+    },
+    {
+      "word": "inclusion",
+      "meaning": "包容、纳入",
+      "example": "Inclusion is essential for healthy communities."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施",
+      "example": "Modern economies rely on digital infrastructure."
+    },
+    {
+      "word": "optimism",
+      "meaning": "乐观情绪",
+      "example": "Investor optimism boosted technology stocks."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Whether in politics, technology or personal life, important transformations usually happen gradually before they become visible to everyone.",
+    "analysisChinese": "这个句子用 Whether in... 列出三个场景：政治、科技和个人生活。important transformations 是主语，happen gradually 表示“逐渐发生”，before they become visible to everyone 强调重要转变往往在被看见之前已经开始。"
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "有时候，世界最重要的变化并不是突然发生的，而是在人们尚未察觉时，已经悄悄开始了。愿我们既能看见新闻里的事件，也能看见事件背后缓慢生长的趋势。"
+  },
+  "tags": [
+    "global",
+    "geopolitics",
+    "energy",
+    "G7",
+    "AI",
+    "technology",
+    "culture",
+    "media",
+    "belonging",
+    "transition",
+    "infrastructure"
+  ],
+  "sources": [
+    {
+      "name": "Financial Times",
+      "url": "https://www.ft.com/"
+    },
+    {
+      "name": "ABC News",
+      "url": "https://www.abc.net.au/news/"
+    },
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.com/"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月16日\n\n今天的小报里，一个词反复出现：transition（过渡）。从战争走向谈判，从技术突破走向产业竞争，从个人身份走向群体归属，许多故事都发生在“正在改变，但尚未完成”的阶段。这样的时刻往往最值得观察。"
+}

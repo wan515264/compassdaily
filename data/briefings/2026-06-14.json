@@ -1,0 +1,266 @@
+{
+  "date": "2026-06-14",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "和平协议悬念、能源安全、归属感、文学阅读、AI芯片与太空资本",
+  "introChinese": "今天的小报里，有关于和平协议是否真的能够落地的悬念，也有关于太空、AI 与资本市场的新想象。阅读新闻时，也许可以思考：真正改变世界的，究竟是协议签署的那一刻，还是漫长谈判与技术积累的过程？",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "美伊协议据称即将签署，但紧张局势仍未完全消退",
+          "summaryChinese": "路透社报道，美国总统特朗普表示，美伊协议有望于周日签署，并称霍尔木兹海峡将重新向国际航运开放。然而，伊朗方面对具体时间表保持谨慎态度。同时，美军日前仍在霍尔木兹海峡附近击落多架伊朗无人机，显示局势虽趋于缓和，但互信尚未完全建立。",
+          "correspondingEnglish": "The United States and Iran appear to be moving closer to a peace agreement. President Trump said a deal could be signed on Sunday, while Iranian officials have remained more cautious. At the same time, military incidents near the Strait of Hormuz show that tensions have not completely disappeared despite ongoing negotiations.",
+          "englishExpressions": [
+            {
+              "expression": "move closer to an agreement",
+              "meaningChinese": "更接近达成协议",
+              "example": "The two countries appear to be moving closer to an agreement."
+            },
+            {
+              "expression": "remain cautious",
+              "meaningChinese": "保持谨慎态度",
+              "example": "Officials remain cautious about the final outcome."
+            },
+            {
+              "expression": "ongoing negotiations",
+              "meaningChinese": "持续进行中的谈判",
+              "example": "The dispute is being addressed through ongoing negotiations."
+            },
+            {
+              "expression": "mutual trust",
+              "meaningChinese": "相互信任",
+              "example": "Mutual trust is often difficult to rebuild after conflict."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "霍尔木兹海峡再次提醒世界能源安全的重要性",
+          "summaryChinese": "围绕霍尔木兹海峡的局势持续受到全球关注。作为世界最重要的石油运输通道之一，其开放与否直接影响能源市场情绪。近期关于协议接近达成的消息一度缓解市场担忧，但分析人士认为，地区稳定仍需长期观察。",
+          "correspondingEnglish": "The Strait of Hormuz remains a critical focus for global energy markets. News suggesting progress in U.S.-Iran negotiations has reduced some concerns, but analysts warn that long-term stability in the region cannot be taken for granted.",
+          "englishExpressions": [
+            {
+              "expression": "energy markets",
+              "meaningChinese": "能源市场",
+              "example": "Energy markets reacted positively to the news."
+            },
+            {
+              "expression": "take for granted",
+              "meaningChinese": "视为理所当然",
+              "example": "Regional stability should not be taken for granted."
+            },
+            {
+              "expression": "critical route",
+              "meaningChinese": "关键通道",
+              "example": "The strait is a critical route for oil shipments."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "“归属感”成为当代文化讨论的重要关键词",
+          "summaryChinese": "在全球政治与经济不确定性增加的背景下，许多文化研究者开始重新关注“归属感（belonging）”这一概念。从性别身份到移民经验，从线上社群到城市生活，人们越来越关心自己如何与他人建立连接，以及如何被社会承认。",
+          "correspondingEnglish": "Many cultural scholars are paying renewed attention to the idea of belonging. In a world shaped by uncertainty and rapid change, questions about identity, community and recognition have become increasingly important.",
+          "englishExpressions": [
+            {
+              "expression": "sense of belonging",
+              "meaningChinese": "归属感",
+              "example": "A strong sense of belonging improves well-being."
+            },
+            {
+              "expression": "social recognition",
+              "meaningChinese": "社会认可",
+              "example": "People often seek social recognition through communities."
+            },
+            {
+              "expression": "community ties",
+              "meaningChinese": "社群联系",
+              "example": "Community ties help people navigate uncertainty."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "文学仍然是连接不同世界的重要桥梁",
+          "summaryChinese": "BBC近期关注2026年值得期待的新书作品，并强调文学在连接不同文化、语言与经验之间的重要作用。在算法推荐盛行的时代，阅读仍然是一种帮助人们理解陌生世界的方式。",
+          "correspondingEnglish": "BBC recently highlighted a number of anticipated books for 2026 and emphasized the role of literature in connecting different cultures and experiences. Even in a highly digital world, reading remains a powerful way to encounter unfamiliar perspectives.",
+          "englishExpressions": [
+            {
+              "expression": "unfamiliar perspectives",
+              "meaningChinese": "陌生的视角",
+              "example": "Books introduce readers to unfamiliar perspectives."
+            },
+            {
+              "expression": "cultural exchange",
+              "meaningChinese": "文化交流",
+              "example": "Literature encourages cultural exchange."
+            },
+            {
+              "expression": "bridge between worlds",
+              "meaningChinese": "连接不同世界的桥梁",
+              "example": "Stories can serve as a bridge between worlds."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "体育赛事继续影响流行文化与时尚表达",
+          "summaryChinese": "世界杯带来的影响已经超出体育领域。品牌、媒体与消费者不断将运动元素转化为日常审美与身份表达的一部分。从球衣到街头穿搭，体育文化正持续塑造全球流行趋势。",
+          "correspondingEnglish": "The influence of the World Cup extends far beyond football itself. Sportswear, fan culture and athletic aesthetics continue to shape fashion trends and popular culture around the world.",
+          "englishExpressions": [
+            {
+              "expression": "athletic aesthetics",
+              "meaningChinese": "运动美学",
+              "example": "Athletic aesthetics have entered luxury fashion."
+            },
+            {
+              "expression": "fan culture",
+              "meaningChinese": "粉丝文化",
+              "example": "Fan culture often influences consumer behavior."
+            },
+            {
+              "expression": "fashion trend",
+              "meaningChinese": "时尚趋势",
+              "example": "Major sporting events can create global fashion trends."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Google 与三星深化 AI 芯片合作讨论",
+          "summaryChinese": "据路透社报道，Google正与三星讨论合作生产下一代 AI 芯片“Icefish”的部分组件。这反映出 AI 竞争正逐渐转向半导体制造能力、能源效率以及供应链管理等更基础的领域。",
+          "correspondingEnglish": "Google is reportedly discussing a partnership with Samsung to manufacture parts of its future AI chip known as Icefish. The development highlights how AI competition increasingly depends on advanced manufacturing and supply-chain strength.",
+          "englishExpressions": [
+            {
+              "expression": "advanced manufacturing",
+              "meaningChinese": "先进制造",
+              "example": "Advanced manufacturing is vital for AI development."
+            },
+            {
+              "expression": "supply-chain strength",
+              "meaningChinese": "供应链实力",
+              "example": "Companies compete through supply-chain strength as well as software."
+            },
+            {
+              "expression": "energy efficiency",
+              "meaningChinese": "能源效率",
+              "example": "Energy efficiency is becoming a key concern in AI systems."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "SpaceX 上市热潮持续，太空与 AI 故事吸引投资者",
+          "summaryChinese": "SpaceX创纪录IPO后，投资者热情依然高涨。路透社报道，大量散户投资者积极参与认购，公司市值已突破2万亿美元。SpaceX不仅被视为航天企业，也被视为未来 AI 基础设施的重要参与者。",
+          "correspondingEnglish": "Investor enthusiasm for SpaceX remains strong after its historic IPO. The company is increasingly seen not only as a space exploration firm but also as a future provider of AI infrastructure and computing capacity.",
+          "englishExpressions": [
+            {
+              "expression": "investor enthusiasm",
+              "meaningChinese": "投资者热情",
+              "example": "Investor enthusiasm remained strong after the IPO."
+            },
+            {
+              "expression": "computing capacity",
+              "meaningChinese": "计算能力",
+              "example": "AI growth requires enormous computing capacity."
+            },
+            {
+              "expression": "historic IPO",
+              "meaningChinese": "具有历史意义的上市",
+              "example": "The company completed a historic IPO this week."
+            },
+            {
+              "expression": "future provider",
+              "meaningChinese": "未来供应者",
+              "example": "The firm hopes to become a future provider of AI services."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "The future is often imagined through technology, but technology alone does not determine what happens next. Political agreements, cultural values and human relationships all shape the direction of change. News stories may focus on dramatic events, yet lasting transformations usually emerge from long periods of negotiation, learning and cooperation.",
+    "chinese": "未来常常通过科技被想象出来，但科技本身并不能决定未来会发生什么。政治协议、文化价值观以及人与人之间的关系，同样塑造着变化的方向。新闻通常聚焦于戏剧性的事件，但真正持久的转变往往来自漫长的协商、学习与合作过程。"
+  },
+  "keywords": [
+    {
+      "word": "belonging",
+      "meaning": "归属感",
+      "example": "People seek belonging through communities and shared experiences."
+    },
+    {
+      "word": "negotiation",
+      "meaning": "协商、谈判",
+      "example": "Successful negotiation often requires patience."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施",
+      "example": "AI systems depend on massive infrastructure."
+    },
+    {
+      "word": "cautious",
+      "meaning": "谨慎的",
+      "example": "Officials remain cautious about the agreement."
+    },
+    {
+      "word": "perspective",
+      "meaning": "视角、观点",
+      "example": "Reading fiction can broaden our perspective."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "News stories may focus on dramatic events, yet lasting transformations usually emerge from long periods of negotiation, learning and cooperation.",
+    "analysisChinese": "这个句子用 yet 形成转折：新闻故事可能关注戏剧性的事件，但持久的转变通常来自更漫长的过程。lasting transformations 表示“持久的转变”，emerge from 表示“从……中逐渐出现”，后面列出 negotiation, learning and cooperation 三个来源。"
+  },
+  "reflection": {
+    "english": "",
+    "chinese": "有些变化发生在头条新闻里，有些变化则悄悄发生在人们重新理解彼此的过程之中。愿今天的阅读，不只让我们知道世界发生了什么，也让我们更理解自己想走向怎样的未来。"
+  },
+  "tags": [
+    "global",
+    "geopolitics",
+    "energy",
+    "AI",
+    "technology",
+    "literature",
+    "culture",
+    "fashion",
+    "belonging",
+    "future"
+  ],
+  "sources": [
+    {
+      "name": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "name": "BBC",
+      "url": "https://www.bbc.com/"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月14日\n\n今天的小报里，有关于和平协议是否真的能够落地的悬念，也有关于太空、AI 与资本市场的新想象。阅读新闻时，也许可以思考：真正改变世界的，究竟是协议签署的那一刻，还是漫长谈判与技术积累的过程？"
+}

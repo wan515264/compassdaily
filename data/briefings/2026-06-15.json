@@ -1,0 +1,336 @@
+{
+  "date": "2026-06-15",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "系统、G7峰会、全球增长、女性创业、女性健康、文化记忆与AI基础设施",
+  "introChinese": "今天的关键词是：systems（系统）。从 G7 峰会到 AI 数据中心，从极端高温到女性创业，很多新闻都在提醒我们：世界不是由单个事件推动的，而是由背后的能源、技术、资本、性别与制度系统共同塑造的。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "G7峰会开幕：乌克兰、中东、关键矿产与AI成为核心议题",
+          "summaryChinese": "6月15日至17日，G7领导人在法国埃维昂莱班举行峰会。Reuters 报道称，峰会将讨论乌克兰战争、中东局势、全球经济失衡、关键矿产供应，以及 AI 治理等议题。关键矿产尤其重要，因为它们关系到电池、国防、半导体和新能源产业，而西方国家正试图降低对中国供应链的依赖。",
+          "correspondingEnglish": "G7 leaders are meeting in Evian-les-Bains, France, from June 15 to 17. The summit is expected to focus on the war in Ukraine, tensions in the Middle East, global economic imbalances, critical minerals and AI governance. Critical minerals are especially important because they are used in batteries, defense technologies, semiconductors and renewable energy systems.",
+          "englishExpressions": [
+            {
+              "expression": "critical minerals",
+              "meaningChinese": "关键矿产",
+              "example": "Critical minerals are essential for batteries and defense technologies."
+            },
+            {
+              "expression": "economic imbalances",
+              "meaningChinese": "经济失衡",
+              "example": "The summit will address global economic imbalances."
+            },
+            {
+              "expression": "reduce dependence on",
+              "meaningChinese": "减少对……的依赖",
+              "example": "Many countries want to reduce dependence on a single supplier."
+            },
+            {
+              "expression": "AI governance",
+              "meaningChinese": "AI治理",
+              "example": "AI governance has become a major topic at global summits."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "世界银行：2026年全球增长预计放缓至2.5%",
+          "summaryChinese": "World Bank 的 2026年6月《全球经济展望》显示，受中东冲突推高能源价格等因素影响，2026年全球经济增长预计将放缓至 2.5%。这类经济预测不是孤立数字，它和能源安全、战争风险、贸易结构、家庭生活成本都有关。对普通人来说，“global growth slows” 往往会通过就业、物价、公共财政和教育机会慢慢传导到日常生活。",
+          "correspondingEnglish": "The World Bank’s June 2026 Global Economic Prospects report projects that global growth will slow to 2.5% in 2026. The slowdown is linked partly to higher energy prices driven by conflict in the Middle East. Economic forecasts may look abstract, but they can affect jobs, prices, public spending and everyday life.",
+          "englishExpressions": [
+            {
+              "expression": "global growth",
+              "meaningChinese": "全球经济增长",
+              "example": "Global growth is expected to slow this year."
+            },
+            {
+              "expression": "energy prices",
+              "meaningChinese": "能源价格",
+              "example": "Higher energy prices can increase living costs."
+            },
+            {
+              "expression": "public spending",
+              "meaningChinese": "公共支出",
+              "example": "Slower growth may put pressure on public spending."
+            },
+            {
+              "expression": "everyday life",
+              "meaningChinese": "日常生活",
+              "example": "Economic changes eventually affect everyday life."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "世界银行关注女性创业：性别差距不是个人努力问题",
+          "summaryChinese": "World Bank 今年发布关于女性创业性别差距的研究，指出女性创业者在全球范围内仍面临制度、金融、人力资本、社会文化等多重障碍。报告强调，改善女性创业环境不仅是“鼓励女性更努力”，而是要改变融资、法律、社会规范和劳动力参与条件。这个议题很适合你的性别研究视角：所谓“机会”，从来不是抽象地摆在那里，而是由制度分配出来的。",
+          "correspondingEnglish": "A World Bank publication on the gender gap in entrepreneurship argues that women entrepreneurs still face institutional, financial, human-capital and social barriers. The issue is not simply about encouraging individual women to work harder. It is also about creating an enabling environment where women can access finance, legal protection, skills and social support.",
+          "englishExpressions": [
+            {
+              "expression": "gender gap",
+              "meaningChinese": "性别差距",
+              "example": "The gender gap in entrepreneurship remains significant."
+            },
+            {
+              "expression": "institutional barriers",
+              "meaningChinese": "制度性障碍",
+              "example": "Institutional barriers can limit women’s economic opportunities."
+            },
+            {
+              "expression": "enabling environment",
+              "meaningChinese": "有利环境",
+              "example": "Policy can create an enabling environment for women entrepreneurs."
+            },
+            {
+              "expression": "access to finance",
+              "meaningChinese": "获得融资的渠道",
+              "example": "Access to finance is crucial for small businesses."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "WHO：女性健康需要生命全程视角，而不只限于生殖健康",
+          "summaryChinese": "WHO 关于女性健康的专题指出，女性健康与全民健康覆盖、健康公平和性别平等密切相关。它不仅包括避孕、fertility care 和安全堕胎等性与生殖健康，也包括青春期、成年、老年阶段的身体与心理健康。WHO 还强调，性别规范、权力关系和结构性不平等会影响女性接触风险、获得照护和被医疗系统回应的方式。",
+          "correspondingEnglish": "WHO emphasizes that women’s health should be understood across the life course, not only through reproductive health. Gender norms, power relations and structural inequalities affect women’s exposure to health risks, access to care and the quality of services they receive. A rights-based approach to women’s health must therefore look at both bodies and social conditions.",
+          "englishExpressions": [
+            {
+              "expression": "life-course approach",
+              "meaningChinese": "生命全程视角",
+              "example": "Women’s health requires a life-course approach."
+            },
+            {
+              "expression": "structural inequality",
+              "meaningChinese": "结构性不平等",
+              "example": "Structural inequality affects access to health care."
+            },
+            {
+              "expression": "rights-based approach",
+              "meaningChinese": "基于权利的方法",
+              "example": "A rights-based approach centers dignity and equality."
+            },
+            {
+              "expression": "access to care",
+              "meaningChinese": "获得照护/医疗服务",
+              "example": "Access to care remains unequal in many places."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Frida Kahlo 热潮再起：艺术旅游也是一种身体与记忆的朝圣",
+          "summaryChinese": "The Guardian 6月15日刊发关于墨西哥城 “Fridamania” 的文化报道，跟随 Frida Kahlo 的生活痕迹进入酒吧、卧室、运河、画室和她完成最后作品的地方。Frida 的形象长期在艺术、时尚、女性主义与旅游消费之间流动：她既是艺术家，也是身体疼痛、欲望、政治身份和视觉符号的集合。读这类文化新闻时，可以注意一个问题：当一个女性艺术家变成全球文化符号，她的复杂性会被保存，还是会被消费文化简化？",
+          "correspondingEnglish": "A Guardian cultural report follows the traces of Frida Kahlo in Mexico City, visiting the places connected to her life, body and art. Kahlo has become a global cultural symbol across art, fashion, feminism and tourism. Yet this popularity also raises a question: when a woman artist becomes an icon, does culture preserve her complexity or turn her into a simplified image?",
+          "englishExpressions": [
+            {
+              "expression": "cultural symbol",
+              "meaningChinese": "文化符号",
+              "example": "Frida Kahlo has become a global cultural symbol."
+            },
+            {
+              "expression": "preserve complexity",
+              "meaningChinese": "保存复杂性",
+              "example": "Good criticism tries to preserve complexity."
+            },
+            {
+              "expression": "turn into an icon",
+              "meaningChinese": "变成偶像/图标式人物",
+              "example": "The artist turned into an icon after her death."
+            },
+            {
+              "expression": "tourism consumption",
+              "meaningChinese": "旅游消费",
+              "example": "Tourism consumption can reshape cultural memory."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "John Maynard Keynes 被搬上舞台：经济思想也可以成为戏剧材料",
+          "summaryChinese": "The Guardian 同日还提到一部新剧重新想象经济学家 John Maynard Keynes 的人生，从 Bloomsbury 到 Whitehall，把私人生活、政治判断和公共政策放在一起看。这个选题很有意思：经济学不只是图表和模型，它也来自具体的人、阶级、情感、战争和制度选择。文化作品有时能把“宏大理论”重新带回人的处境里。",
+          "correspondingEnglish": "A new play reimagines the life of economist John Maynard Keynes, connecting his private world with public policy and political decision-making. The story reminds us that economics is not only about charts and models. It is also shaped by people, class, emotion, war and institutions.",
+          "englishExpressions": [
+            {
+              "expression": "public policy",
+              "meaningChinese": "公共政策",
+              "example": "Economic theories can influence public policy."
+            },
+            {
+              "expression": "political decision-making",
+              "meaningChinese": "政治决策",
+              "example": "The play explores political decision-making during crisis."
+            },
+            {
+              "expression": "charts and models",
+              "meaningChinese": "图表与模型",
+              "example": "Economics is more than charts and models."
+            },
+            {
+              "expression": "human condition",
+              "meaningChinese": "人的处境",
+              "example": "Theatre can bring abstract ideas back to the human condition."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Schneider Electric 与 Foxconn 合作建设下一代AI数据中心基础设施",
+          "summaryChinese": "Reuters 6月15日报道，Schneider Electric 与台湾鸿海科技集团 Foxconn 达成战略合作，将共同开发和扩展下一代 AI 数据中心基础设施。合作重点包括电力、冷却、能源管理、制造和 AI 系统整合，目标是提供可快速部署的 AI 数据中心方案。这个新闻说明：AI 竞争已经不只是“谁的模型更聪明”，而是“谁能支撑模型运行”——包括电力、散热、服务器、制造和供应链。",
+          "correspondingEnglish": "Schneider Electric and Foxconn have announced a partnership to develop infrastructure for next-generation AI data centers. The collaboration will combine manufacturing, power systems, cooling and energy management. This shows that AI competition is no longer only about models. It is also about the physical systems that allow those models to run.",
+          "englishExpressions": [
+            {
+              "expression": "AI data center",
+              "meaningChinese": "AI数据中心",
+              "example": "AI data centers require large amounts of electricity and cooling."
+            },
+            {
+              "expression": "energy management",
+              "meaningChinese": "能源管理",
+              "example": "Energy management is central to AI infrastructure."
+            },
+            {
+              "expression": "physical systems",
+              "meaningChinese": "实体系统",
+              "example": "Digital services depend on physical systems."
+            },
+            {
+              "expression": "ready-to-deploy",
+              "meaningChinese": "可快速部署的",
+              "example": "The company wants to provide ready-to-deploy solutions."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "美国政府AI使用扩大：透明度成为核心问题",
+          "summaryChinese": "The Guardian 的 AI 专栏在6月15日关注美国政府使用 AI 的扩张，并指出缺乏透明度令人担忧。这个议题非常关键：当 AI 被用于公共部门，问题不只是“效率更高”，而是公众是否知道 AI 何时被使用、谁承担责任、错误如何申诉、数据如何被收集。AI 在国家治理中的扩张，正在把技术问题变成民主与问责问题。",
+          "correspondingEnglish": "A Guardian article on June 15 raised concerns about the expanding use of AI by the U.S. government. The key issue is transparency. When AI is used in public administration, citizens need to know when it is being used, who is responsible for decisions, how mistakes can be challenged and how data is collected.",
+          "englishExpressions": [
+            {
+              "expression": "public administration",
+              "meaningChinese": "公共行政",
+              "example": "AI is increasingly used in public administration."
+            },
+            {
+              "expression": "transparency",
+              "meaningChinese": "透明度",
+              "example": "Transparency is essential when governments use AI."
+            },
+            {
+              "expression": "challenge a decision",
+              "meaningChinese": "对决定提出申诉/质疑",
+              "example": "Citizens should be able to challenge automated decisions."
+            },
+            {
+              "expression": "accountability",
+              "meaningChinese": "问责",
+              "example": "AI systems require clear accountability."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows that systems matter. A summit is not only a meeting between leaders; it is also a space where energy, war, trade and technology are negotiated. AI is not only software; it depends on electricity, cooling systems, factories and data centers. Women’s health and entrepreneurship are not only personal issues; they are shaped by institutions, money, law and social norms.",
+    "chinese": "今天的新闻让我们看到，系统很重要。峰会不只是领导人之间的会议，它也是能源、战争、贸易与技术被协商的空间。AI 不只是软件，它依赖电力、冷却系统、工厂和数据中心。女性健康与女性创业也不只是个人问题，它们受到制度、金钱、法律和社会规范的塑造。"
+  },
+  "keywords": [
+    {
+      "word": "system",
+      "meaning": "系统；由多个部分组成并共同运行的结构",
+      "example": "AI is part of a larger technological and economic system."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑系统运行的物质与组织条件",
+      "example": "Data centers are part of AI infrastructure."
+    },
+    {
+      "word": "transparency",
+      "meaning": "透明度；让过程、规则和责任可被看见",
+      "example": "Transparency is necessary in government use of AI."
+    },
+    {
+      "word": "critical minerals",
+      "meaning": "关键矿产；对能源、国防和科技产业重要的矿物资源",
+      "example": "Critical minerals are central to the energy transition."
+    },
+    {
+      "word": "life-course",
+      "meaning": "生命全程的；贯穿不同人生阶段的",
+      "example": "A life-course approach looks at health from adolescence to old age."
+    },
+    {
+      "word": "enabling environment",
+      "meaning": "有利环境；让某类行动或群体发展成为可能的条件",
+      "example": "Women entrepreneurs need an enabling environment."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Women’s health and entrepreneurship are not only personal issues; they are shaped by institutions, money, law and social norms.",
+    "analysisChinese": "这个句子先用 not only personal issues 否定“个人问题”的单一解释，再用 are shaped by 引出更大的结构力量。institutions, money, law and social norms 是并列名词组，适合用来分析社会议题背后的制度、资本、法律和文化规范。"
+  },
+  "reflection": {
+    "english": "Many problems appear to be personal choices, but behind them are systemic arrangements. When we learn to see systems, we can understand the news more clearly and understand why we sometimes feel limited, anxious or longing for freedom.",
+    "chinese": "今天这期小报最想留下的一句话是：很多问题看起来是个人选择，背后却是系统安排。当我们学会看见系统，就更能理解新闻，也更能理解自己为什么会在某些地方感到受限、焦虑，或者渴望自由。"
+  },
+  "tags": [
+    "systems",
+    "global",
+    "G7",
+    "economy",
+    "critical minerals",
+    "AI",
+    "technology",
+    "infrastructure",
+    "gender",
+    "women",
+    "health",
+    "culture",
+    "art",
+    "media"
+  ],
+  "sources": [
+    {
+      "label": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "label": "World Bank",
+      "url": "https://www.worldbank.org/"
+    },
+    {
+      "label": "WHO",
+      "url": "https://www.who.int/"
+    },
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月15日\n\n今天的关键词是：systems（系统）。从 G7 峰会到 AI 数据中心，从极端高温到女性创业，很多新闻都在提醒我们：世界不是由单个事件推动的，而是由背后的能源、技术、资本、性别与制度系统共同塑造的。"
+}
