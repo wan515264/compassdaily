@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-06-22",
+    "title": "Regenerated June 16 briefing",
+    "description": "Rebuilt the June 16 Daily Compass from date-checked UN News and Guardian reports on sovereignty, security, equal pay, specialist care, cultural memory, AI dependence, and data-center pollution.",
+    "type": "content",
+    "relatedDate": "2026-06-16",
+    "link": "briefing.html?date=2026-06-16"
+  },
+  {
+    "date": "2026-06-22",
     "title": "Expanded the verified briefing archive through June 21",
     "description": "Published and refreshed the June 18–21 briefings with date-checked reporting from ABC News, AP, NPR, UN News, and Aeon, including specific source links for every edition.",
     "type": "archive",
