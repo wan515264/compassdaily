@@ -2,66 +2,32 @@
   "date": "2026-06-16",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "权力与基础设施、G7峰会、性别政策、公共记忆、AI工厂与社会规范",
-  "introChinese": "今天的关键词是：power and infrastructure（权力与基础设施）。G7 峰会表面上是外交会议，背后是能源、矿产、战争与 AI 规则；AI 表面上是软件，背后是工厂、电力、芯片与劳动；性别政策表面上是“保护”，背后可能是权利边界的重新划定。",
+  "theme": "主权、照护与叙事权：海地安全、伊朗协议、平等薪酬、文化记忆、AI依赖与数据中心污染",
+  "introChinese": "今天的小报关键词是：sovereignty, care, and narrative power（主权、照护与叙事权）。国家争夺安全与技术自主，劳动者争取被公平估值，文化机构争论历史该如何讲述，而 AI 数据中心则把看似虚拟的技术重新落回土地、能源与空气。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "G7峰会聚焦乌克兰、中东与关键矿产：全球秩序正在重新布线",
-          "summaryChinese": "6月16日，G7峰会继续在法国埃维昂莱班举行。Al Jazeera 报道称，乌克兰总统泽连斯基参与会谈，重点讨论加强乌克兰防空与推动外交；Reuters 也报道，泽连斯基表示 G7 领导人同意“俄罗斯并没有赢得战争”，并讨论对俄罗斯石油、银行和军事生产进一步施压。与此同时，关键矿产、AI治理和中东局势也在峰会议程中，这说明当代外交已经不只是军事与领土问题，也涉及能源、技术、供应链和产业自主。",
-          "correspondingEnglish": "On June 16, G7 leaders continued their summit in Evian-les-Bains, France. Ukrainian President Volodymyr Zelenskiy joined the talks and called for stronger air defense and more diplomatic pressure on Russia. Reuters reported that Zelenskiy said G7 leaders agreed Russia is not winning the war. The summit also covered critical minerals, AI governance and the Middle East, showing that modern diplomacy is increasingly connected to energy, technology and supply chains.",
+          "title": "海地新安全力量对抗帮派：会成为转折点吗？",
+          "summaryChinese": "UN News 报道，海地新的安全力量正在加强对强大帮派的行动。长期政治失灵与武装暴力已经深刻影响首都太子港的日常生活。安全行动能否成为真正的转折点，不只取决于武力，也取决于法治、平民保护、公共服务与政治合法性能否同步恢复。",
+          "correspondingEnglish": "UN News reported that a new security force in Haiti is intensifying operations against powerful gangs. Years of political dysfunction and armed violence have reshaped daily life in Port-au-Prince. Whether this becomes a real turning point depends not only on force, but also on the recovery of the rule of law, civilian protection, public services and political legitimacy.",
           "englishExpressions": [
-            {
-              "expression": "air defense",
-              "meaningChinese": "防空系统",
-              "example": "Ukraine asked for stronger air defense support."
-            },
-            {
-              "expression": "diplomatic pressure",
-              "meaningChinese": "外交压力",
-              "example": "Leaders discussed how to increase diplomatic pressure on Russia."
-            },
-            {
-              "expression": "critical minerals",
-              "meaningChinese": "关键矿产",
-              "example": "Critical minerals are essential for batteries and defense technologies."
-            },
-            {
-              "expression": "supply chains",
-              "meaningChinese": "供应链",
-              "example": "Modern diplomacy is closely linked to supply chains."
-            }
+            { "expression": "turning point", "meaningChinese": "转折点", "example": "The new security force could mark a turning point for Haiti." },
+            { "expression": "rule of law", "meaningChinese": "法治", "example": "Security must be accompanied by the rule of law." },
+            { "expression": "political legitimacy", "meaningChinese": "政治合法性", "example": "Public trust depends on political legitimacy." }
           ],
           "studyNote": ""
         },
         {
-          "title": "反G7抗议升级：街头也在争夺“全球治理”的含义",
-          "summaryChinese": "Reuters 报道，G7峰会期间，约两万人参与反资本主义抗议，部分示威从和平游行演变为冲突，抗议者破坏联合国办公室并焚烧特斯拉车辆，警方使用催泪瓦斯。Al Jazeera 也报道，峰会前夕日内瓦已有大规模抗议，抗议者批评G7国家的政策和全球权力结构。这个事件提醒我们：全球治理不只发生在会议桌上，也发生在街头、媒体画面和公共愤怒之中。",
-          "correspondingEnglish": "Around 20,000 people joined anti-capitalist protests during the G7 summit. Some demonstrations turned violent, with protesters targeting symbols of global institutions and corporate power. Police used tear gas as clashes broke out. The protests show that global governance is not only made by leaders in conference rooms; it is also challenged by people in the streets.",
+          "title": "伊朗称和平协议取决于以色列撤出黎巴嫩",
+          "summaryChinese": "The Guardian 报道，伊朗高级外交官 Abbas Araghchi 表示，美伊和平协议的推进取决于以色列军队撤出本轮冲突中占领的黎巴嫩领土，并称战争尚未完全结束。这说明双边协议无法与地区现实分开：停火文本、军队部署、边境安全和第三方承诺必须能够相互衔接。",
+          "correspondingEnglish": "The Guardian reported that Iran’s top envoy, Abbas Araghchi, said progress on a peace agreement with the United States depended on Israeli forces withdrawing from Lebanese territory occupied during the conflict. He said the war had not fully ended. A bilateral agreement cannot be separated from regional realities, including troop deployments, border security and third-party commitments.",
           "englishExpressions": [
-            {
-              "expression": "anti-capitalist protest",
-              "meaningChinese": "反资本主义抗议",
-              "example": "Anti-capitalist protests took place during the summit."
-            },
-            {
-              "expression": "global governance",
-              "meaningChinese": "全球治理",
-              "example": "Global governance is often contested by social movements."
-            },
-            {
-              "expression": "corporate power",
-              "meaningChinese": "企业权力 / 资本权力",
-              "example": "Protesters criticized the influence of corporate power."
-            },
-            {
-              "expression": "clashes broke out",
-              "meaningChinese": "冲突爆发",
-              "example": "Clashes broke out between protesters and police."
-            }
+            { "expression": "peace agreement", "meaningChinese": "和平协议", "example": "The peace agreement remains dependent on regional conditions." },
+            { "expression": "troop withdrawal", "meaningChinese": "军队撤离", "example": "The envoy called for a troop withdrawal from Lebanon." },
+            { "expression": "regional reality", "meaningChinese": "地区现实", "example": "Diplomatic texts must account for regional realities." }
           ],
           "studyNote": ""
         }
@@ -72,58 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "英国平等薪酬争议：以“保护女性”为名，也可能削弱女性权利",
-          "summaryChinese": "The Guardian 6月16日报道，英国 Reform UK 提出所谓 “women and motherhood protection act”，声称要加强女性权利，但工会批评该方案可能削弱现有平等薪酬保护。争议核心在于：如果只保障“相同工作同酬”，而削弱“同等价值工作同酬”的原则，女性在零售、护理等被长期低估的行业中可能更难维权。这是一个典型的性别研究问题：政策语言可以说“保护女性”，但真正要看它保护的是女性作为完整劳动者的权利，还是仅仅把女性重新框进“母职”角色。",
-          "correspondingEnglish": "A proposed policy by Reform UK claims to strengthen women’s rights, but unions warn that it could weaken existing equal pay protections. The debate focuses on whether women should be protected only when they do identical work, or also when they do work of equal value. This matters because many jobs traditionally done by women, such as care and retail work, have often been undervalued.",
+          "title": "英国工会警告：Farage的平等薪酬方案可能让女性损失收入",
+          "summaryChinese": "The Guardian 报道，英国工会批评 Reform UK 的平等薪酬立法计划，称其可能削弱女性现有权利。争议集中在“相同工作”与“同等价值工作”的区别：护理、零售等女性占比较高的职业即使岗位不同，也可能应当与价值相当的男性主导职业比较。政策是否真正保护女性，需要观察它如何评价长期被低估的劳动。",
+          "correspondingEnglish": "UK unions warned that Reform UK’s proposed changes to equal-pay legislation could cost female workers money and weaken existing rights. The dispute centers on the difference between identical work and work of equal value. Jobs dominated by women, including care and retail work, may be different from male-dominated roles yet still deserve comparison when their value is equivalent.",
           "englishExpressions": [
-            {
-              "expression": "equal pay",
-              "meaningChinese": "平等薪酬",
-              "example": "Equal pay remains a major issue for women workers."
-            },
-            {
-              "expression": "work of equal value",
-              "meaningChinese": "同等价值的工作",
-              "example": "The law protects workers doing work of equal value."
-            },
-            {
-              "expression": "weaken protections",
-              "meaningChinese": "削弱保护",
-              "example": "Unions warned that the proposal could weaken protections."
-            },
-            {
-              "expression": "undervalued work",
-              "meaningChinese": "被低估的劳动",
-              "example": "Care work is often undervalued in the economy."
-            }
+            { "expression": "equal-pay protection", "meaningChinese": "平等薪酬保护", "example": "Unions said the proposal could weaken equal-pay protections." },
+            { "expression": "work of equal value", "meaningChinese": "同等价值的工作", "example": "The law allows comparison between jobs of equal value." },
+            { "expression": "undervalued labor", "meaningChinese": "被低估的劳动", "example": "Care work is often treated as undervalued labor." }
           ],
           "studyNote": ""
         },
         {
-          "title": "英国跨性别权利争议：法律定义与日常生活之间出现裂缝",
-          "summaryChinese": "The Guardian 6月16日报道，多名英国工党议员质疑 EHRC 关于“生理性别”裁决后的指导是否可行。该指导建议跨性别者不应进入与其生活性别相符的单一性别服务，而应使用性别中立替代空间。已有135名议员签署动议，要求政府阻止该指导，担心其可能引发歧视、实际执行困难和医疗等敏感场景中的伤害。这个争议显示：法律定义看似抽象，但会直接落到医院、厕所、更衣室和日常安全感上。",
-          "correspondingEnglish": "A growing number of Labour MPs have questioned whether new guidance from the Equality and Human Rights Commission is workable. The guidance follows a ruling that defines “sex” in the Equality Act as biological sex and suggests that trans people should use gender-neutral alternatives instead of single-sex services aligned with their lived gender. Critics worry that this could increase discrimination and create practical problems in places such as hospitals.",
+          "title": "英国学习障碍专科护士短缺被称为“绝对危机”",
+          "summaryChinese": "The Guardian 报道，英国皇家护理学院警告学习障碍专科护士严重短缺，约150万名脆弱人群可能无法获得适当照护。专科护理常在公共讨论中不够可见，但它需要沟通能力、长期关系和对复杂需求的理解。人员短缺不仅增加等待时间，也可能让患者在整个医疗系统中更难被理解。",
+          "correspondingEnglish": "The Royal College of Nursing described the shortage of learning-disability nurses in the UK as an “absolute crisis”. The Guardian reported that around 1.5 million vulnerable people may not be receiving appropriate care. Specialist nursing requires communication skills, long-term relationships and an understanding of complex needs; shortages can make patients less visible across the health system.",
           "englishExpressions": [
-            {
-              "expression": "biological sex",
-              "meaningChinese": "生理性别",
-              "example": "The ruling defines sex as biological sex."
-            },
-            {
-              "expression": "lived gender",
-              "meaningChinese": "生活中的性别身份",
-              "example": "The guidance may affect people’s lived gender in daily life."
-            },
-            {
-              "expression": "gender-neutral alternative",
-              "meaningChinese": "性别中立替代空间",
-              "example": "Some institutions offer gender-neutral alternatives."
-            },
-            {
-              "expression": "incite discrimination",
-              "meaningChinese": "引发歧视",
-              "example": "Critics fear the policy may incite discrimination."
-            }
+            { "expression": "specialist nurse", "meaningChinese": "专科护士", "example": "Specialist nurses support patients with complex needs." },
+            { "expression": "appropriate care", "meaningChinese": "适当的照护", "example": "Staff shortages can prevent people from receiving appropriate care." },
+            { "expression": "workforce shortage", "meaningChinese": "劳动力短缺；人员短缺", "example": "The health service faces a serious workforce shortage." }
           ],
           "studyNote": ""
         }
@@ -131,61 +63,27 @@
     },
     {
       "id": "art-media",
-      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Obama Presidential Center：总统图书馆变成社区、艺术与记忆空间",
-          "summaryChinese": "The Guardian 6月16日报道，耗资8.5亿美元的 Obama Presidential Center 即将在芝加哥南区开放。它不只是传统总统图书馆，而是包含公共图书馆、篮球场、录音室和30位艺术家作品的综合文化空间。报道提到，这些艺术委托虽然名义上是“非政治”的，但实际上与非裔美国历史、民权传统、芝加哥文化和公共记忆紧密相连。文化空间从来不是中性的：它决定谁的历史被保存，谁的形象被放大，谁的记忆可以进入公共建筑。",
-          "correspondingEnglish": "The Obama Presidential Center in Chicago is expected to open as an $850 million cultural complex. It includes not only museum exhibits, but also a public library, a basketball court, a recording studio and artworks by 30 artists. Although the commissions are described as officially apolitical, they are closely connected to African American heritage, civil rights and Chicago’s cultural memory.",
+          "title": "丘吉尔、孟加拉饥荒与美术馆中的历史争议",
+          "summaryChinese": "The Guardian 报道，艺术家 Helen Cammock 为其在英国国家肖像馆展出的丘吉尔影像作品辩护。她关于丘吉尔与孟加拉饥荒责任的表达被批评为不实，艺术家则表示作品意在开启对话。这场争议显示，公共艺术既可以挑战英雄叙事，也必须面对事实准确性的问题；“引发讨论”不能自动取代证据。",
+          "correspondingEnglish": "Artist Helen Cammock defended a video about Winston Churchill at the National Portrait Gallery after critics challenged its account of his responsibility for the Bengal famine. She said the work was intended to create dialogue. Public art can challenge heroic narratives, but it must also confront questions of factual accuracy. Starting a conversation does not remove the need for evidence.",
           "englishExpressions": [
-            {
-              "expression": "cultural complex",
-              "meaningChinese": "综合文化空间",
-              "example": "The center is designed as a cultural complex."
-            },
-            {
-              "expression": "public memory",
-              "meaningChinese": "公共记忆",
-              "example": "Museums help shape public memory."
-            },
-            {
-              "expression": "civil rights",
-              "meaningChinese": "民权",
-              "example": "The artworks refer to civil rights history."
-            },
-            {
-              "expression": "officially apolitical",
-              "meaningChinese": "官方上非政治的",
-              "example": "The project is officially apolitical, but culturally meaningful."
-            }
+            { "expression": "historical narrative", "meaningChinese": "历史叙事", "example": "The artwork challenges a familiar historical narrative." },
+            { "expression": "factual accuracy", "meaningChinese": "事实准确性", "example": "Public institutions must consider factual accuracy." },
+            { "expression": "create dialogue", "meaningChinese": "开启对话", "example": "The artist said the work was designed to create dialogue." }
           ],
           "studyNote": ""
         },
         {
-          "title": "G7抗议的媒体画面：政治事件如何变成视觉文化",
-          "summaryChinese": "G7抗议不只是政治新闻，也是一场媒体图像事件。Reuters 描述了被焚烧的特斯拉、被破坏的联合国办公室和催泪瓦斯场景；Al Jazeera 的视频报道也捕捉了警方水炮与抗议人群的冲突。这样的画面会迅速进入全球媒体循环，把“全球不平等”“资本权力”“气候焦虑”等抽象议题转化成可见的视觉符号。",
-          "correspondingEnglish": "The anti-G7 protests were not only political events; they also became media images. Burning vehicles, damaged buildings and police tear gas turned abstract ideas such as global inequality and corporate power into visible symbols. In this way, protest becomes part of visual culture as well as political debate.",
+          "title": "Max Mara上海大秀：奢侈品牌如何借用“国潮”语言",
+          "summaryChinese": "The Guardian 报道，Max Mara 在上海举行75周年时装秀，以骆驼色大衣和中国风格元素吸引中国奢侈品消费者。国际品牌拥抱“国潮”，既体现消费市场的重要性，也涉及文化符号由谁选择、如何翻译以及最终由谁获利。文化致敬与商业策略之间的边界，需要观察设计合作、语境和权力关系。",
+          "correspondingEnglish": "Max Mara marked its 75th anniversary with a Shanghai catwalk show that combined its signature camel coats with references to Chinese style. The Guardian described the brand’s effort to appeal to Chinese luxury consumers through the language of guochao. Such projects raise questions about who selects cultural symbols, how they are translated and who profits from them.",
           "englishExpressions": [
-            {
-              "expression": "visual symbol",
-              "meaningChinese": "视觉符号",
-              "example": "The burning car became a visual symbol of anger."
-            },
-            {
-              "expression": "media image",
-              "meaningChinese": "媒体图像",
-              "example": "Protests often become powerful media images."
-            },
-            {
-              "expression": "abstract idea",
-              "meaningChinese": "抽象概念",
-              "example": "Images can make abstract ideas easier to understand."
-            },
-            {
-              "expression": "political debate",
-              "meaningChinese": "政治辩论",
-              "example": "The protest entered wider political debate."
-            }
+            { "expression": "luxury consumer", "meaningChinese": "奢侈品消费者", "example": "The show was designed for Chinese luxury consumers." },
+            { "expression": "cultural reference", "meaningChinese": "文化引用；文化元素", "example": "The collection uses several cultural references." },
+            { "expression": "commercial strategy", "meaningChinese": "商业策略", "example": "Cultural tribute can also function as a commercial strategy." }
           ],
           "studyNote": ""
         }
@@ -193,61 +91,27 @@
     },
     {
       "id": "ai-tech",
-      "heading": "AI 与科技 / AI & Tech",
+      "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Nvidia押注AI工厂：AI竞争进入实体基础设施阶段",
-          "summaryChinese": "AP 6月16日报道，Nvidia CEO Jensen Huang 在德州 Sherman 推动一个与 Coherent 合作的20亿美元 AI 基础设施升级项目。工厂将生产基于磷化铟的激光器，用于芯片之间高速数据传输，并可能将功耗降低最多50%。该项目预计创造约1000个岗位，其中550个属于先进技术岗位。这个新闻很重要，因为它把 AI 从“屏幕里的模型”拉回到实体世界：AI 需要工厂、电力、材料、劳动力和产业政策。",
-          "correspondingEnglish": "Nvidia is promoting a $2 billion AI infrastructure project in Sherman, Texas, in partnership with Coherent. The factory will produce lasers used for high-speed data transfer between AI chips and may reduce power consumption by up to 50%. The project is expected to create about 1,000 jobs, including hundreds of advanced technical roles. The story shows that AI depends on factories, materials, workers and energy systems.",
+          "title": "法国弃用Palantir AI数据工具，转向本土供应商",
+          "summaryChinese": "The Guardian 报道，法国计划以本土公司 ChapsVision 的产品替代 Palantir AI 数据工具。法国总理将这一决定解释为减少对美国控制技术的“战略依赖”。政府数据系统的选择不只是采购问题，也涉及敏感数据、供应链控制、盟友关系和技术主权。",
+          "correspondingEnglish": "France plans to replace Palantir’s AI data tools with technology from domestic provider ChapsVision. The Guardian reported that the government described the move as a way to reduce strategic dependence on US-controlled systems. Choosing government data infrastructure is not merely a procurement decision; it also concerns sensitive data, supply-chain control, alliances and technological sovereignty.",
           "englishExpressions": [
-            {
-              "expression": "AI infrastructure",
-              "meaningChinese": "AI基础设施",
-              "example": "AI infrastructure includes chips, factories and energy systems."
-            },
-            {
-              "expression": "power consumption",
-              "meaningChinese": "电力消耗",
-              "example": "The new technology may reduce power consumption."
-            },
-            {
-              "expression": "advanced technical roles",
-              "meaningChinese": "先进技术岗位",
-              "example": "The project will create advanced technical roles."
-            },
-            {
-              "expression": "high-speed data transfer",
-              "meaningChinese": "高速数据传输",
-              "example": "AI chips require high-speed data transfer."
-            }
+            { "expression": "strategic dependence", "meaningChinese": "战略依赖", "example": "The government wants to reduce strategic dependence on foreign tools." },
+            { "expression": "domestic provider", "meaningChinese": "本土供应商", "example": "France selected a domestic provider for the new system." },
+            { "expression": "technological sovereignty", "meaningChinese": "技术主权", "example": "Public data systems have become an issue of technological sovereignty." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Jensen Huang 称AI时代需要“新的社会规范”",
-          "summaryChinese": "AP 同日专访中，Nvidia CEO Jensen Huang 表示，AI时代需要“新的社会规范”。他认为公众不应只害怕 AI，而应参与和理解它；同时，他也承认 AI 带来失业、国家安全、能源需求和不平等等风险。这个表述非常值得注意：当科技公司开始谈“社会规范”，说明 AI 已经不只是技术产品，而是正在进入教育、劳动、治理和日常伦理。",
-          "correspondingEnglish": "In an AP interview, Nvidia CEO Jensen Huang said that the age of AI requires “new social norms.” He encouraged people to engage with AI rather than only fear it, while also acknowledging concerns about job loss, national security, energy demand and inequality. His comments show that AI is not only a technical product; it is becoming part of work, education, governance and everyday ethics.",
+          "title": "美国司法部支持xAI，介入数据中心污染诉讼",
+          "summaryChinese": "The Guardian 报道，美国司法部要求法官驳回 NAACP 针对 xAI 密西西比数据中心甲烷燃气轮机提起的污染诉讼。争议把 AI 基础设施与环境正义直接连接起来：计算能力依赖能源设备，而污染与健康成本往往由数据中心周边社区承担。AI 的收益和环境代价是否被公平分配，正在成为治理问题。",
+          "correspondingEnglish": "The US Justice Department intervened in support of Elon Musk’s xAI in a pollution lawsuit over methane-gas turbines used at a Mississippi data center. The Guardian reported that the department urged the judge to dismiss the NAACP’s case. The dispute connects AI infrastructure with environmental justice: computing power depends on energy equipment, while nearby communities may bear pollution and health costs.",
           "englishExpressions": [
-            {
-              "expression": "social norms",
-              "meaningChinese": "社会规范",
-              "example": "AI may require new social norms."
-            },
-            {
-              "expression": "engage with AI",
-              "meaningChinese": "参与/理解/使用 AI",
-              "example": "Students need to learn how to engage with AI critically."
-            },
-            {
-              "expression": "energy demand",
-              "meaningChinese": "能源需求",
-              "example": "AI data centers increase energy demand."
-            },
-            {
-              "expression": "everyday ethics",
-              "meaningChinese": "日常伦理",
-              "example": "AI raises questions about everyday ethics."
-            }
+            { "expression": "pollution lawsuit", "meaningChinese": "污染诉讼", "example": "The data center is facing a pollution lawsuit." },
+            { "expression": "methane-gas turbine", "meaningChinese": "甲烷燃气轮机", "example": "The facility uses methane-gas turbines to produce power." },
+            { "expression": "environmental justice", "meaningChinese": "环境正义", "example": "Data-center expansion raises environmental-justice concerns." }
           ],
           "studyNote": ""
         }
@@ -255,82 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s news shows that power is often hidden inside infrastructure. A summit is not only a diplomatic meeting; it is also about energy routes, minerals, sanctions and technologies. AI is not only software; it is built through factories, lasers, electricity and workers. Gender policy is not only legal language; it shapes pay, safety, recognition and everyday access to public life.",
-    "chinese": "今天的新闻让我们看到，权力常常隐藏在基础设施之中。峰会不只是外交会议，它也关乎能源通道、矿产、制裁与技术。AI不只是软件，它由工厂、激光器、电力和劳动者共同建成。性别政策也不只是法律语言，它会塑造薪酬、安全、承认，以及人们进入公共生活的日常机会。"
+    "english": "Today’s stories show that sovereignty is never purely abstract. It appears in security operations, troop withdrawals and the software governments choose for sensitive data. Care is also political: equal-pay rules decide how labor is valued, while nursing shortages determine whether vulnerable patients are understood. Cultural institutions shape public memory through artworks and exhibitions, but dialogue still requires factual responsibility. AI makes these connections especially visible because its infrastructure reaches into energy systems, local environments and national strategy. To ask who controls a system is also to ask who receives its benefits and who carries its costs.",
+    "chinese": "今天的新闻显示，主权从来不是纯粹抽象的概念。它出现在安全行动、军队撤离和政府处理敏感数据时选择的软件中。照护同样具有政治性：平等薪酬规则决定劳动如何被估值，护士短缺则决定脆弱患者能否被理解。文化机构通过艺术与展览塑造公共记忆，但对话仍需承担事实责任。AI 尤其清楚地呈现这些联系，因为其基础设施深入能源系统、地方环境和国家战略。追问谁控制一个系统，也是在追问谁获得收益、谁承担代价。"
   },
   "keywords": [
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑系统运行的物质与组织结构",
-      "example": "AI infrastructure requires electricity, chips and skilled workers."
-    },
-    {
-      "word": "governance",
-      "meaning": "治理；制定规则并管理系统的方式",
-      "example": "AI governance is becoming a global political issue."
-    },
-    {
-      "word": "equal pay",
-      "meaning": "平等薪酬",
-      "example": "Equal pay laws protect workers from gender-based wage discrimination."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被公众看见和承认",
-      "example": "Protests create visibility for social concerns."
-    },
-    {
-      "word": "social norms",
-      "meaning": "社会规范；社会中被认为合适或可接受的行为规则",
-      "example": "New technologies often require new social norms."
-    },
-    {
-      "word": "contested",
-      "meaning": "被争夺的；有争议的",
-      "example": "Public space is often politically contested."
-    }
+    { "word": "sovereignty", "meaning": "主权；国家或群体自主作出决定的能力", "example": "Data infrastructure has become an issue of technological sovereignty." },
+    { "word": "political legitimacy", "meaning": "政治合法性；权力获得社会认可的基础", "example": "Security reform requires political legitimacy." },
+    { "word": "equal pay", "meaning": "平等薪酬；不因性别等因素受到工资歧视", "example": "Unions are defending existing equal-pay protections." },
+    { "word": "factual accuracy", "meaning": "事实准确性", "example": "Public exhibitions should be attentive to factual accuracy." },
+    { "word": "strategic dependence", "meaning": "战略依赖；在关键系统中过度依赖外部供应者", "example": "France wants to reduce strategic dependence on foreign technology." },
+    { "word": "environmental justice", "meaning": "环境正义；公平分配环境收益与污染成本", "example": "AI infrastructure raises questions of environmental justice." }
   ],
   "sentenceLab": {
-    "sentence": "Gender policy is not only legal language; it shapes pay, safety, recognition and everyday access to public life.",
-    "analysisChinese": "这个句子用分号连接解释关系：前半句指出 gender policy 不只是法律语言，后半句说明它会具体影响 pay, safety, recognition and everyday access to public life。这个结构适合用于分析抽象制度如何落到日常生活。"
+    "sentence": "To ask who controls a system is also to ask who receives its benefits and who carries its costs.",
+    "analysisChinese": "句子使用 To ask ... is also to ask ... 的平行结构，把“控制权”与“收益和成本的分配”连接起来。who receives 与 who carries 是两个并列的间接疑问结构。"
   },
   "reflection": {
-    "english": "Many abstract systems eventually land on bodies, labor, space and everyday life. When we learn to read infrastructure, we also learn to see how power operates quietly.",
-    "chinese": "今天这期小报最想留下的一句话是：很多看似抽象的制度，最终都会落到人的身体、劳动、空间和日常生活里。当我们读懂基础设施，也是在读懂权力如何安静地运行。"
+    "english": "Power becomes easier to see when we follow the path of data, care, memory, energy and cost.",
+    "chinese": "今天最想留下的一句话是：沿着数据、照护、记忆、能源与成本的流向追踪，权力就会变得更容易被看见。"
   },
-  "tags": [
-    "power",
-    "infrastructure",
-    "global",
-    "G7",
-    "Ukraine",
-    "critical minerals",
-    "governance",
-    "gender",
-    "equal pay",
-    "trans rights",
-    "culture",
-    "media",
-    "AI",
-    "technology"
-  ],
+  "tags": ["global", "Haiti", "Iran", "security", "gender", "equal pay", "healthcare", "culture", "art", "fashion", "AI", "Palantir", "data centers", "sovereignty", "environmental justice"],
   "sources": [
-    {
-      "label": "Reuters",
-      "url": "https://www.reuters.com/"
-    },
-    {
-      "label": "Al Jazeera",
-      "url": "https://www.aljazeera.com/"
-    },
-    {
-      "label": "The Guardian",
-      "url": "https://www.theguardian.com/"
-    },
-    {
-      "label": "AP News",
-      "url": "https://apnews.com/"
-    }
+    { "label": "UN News — Haiti security force", "url": "https://news.un.org/feed/view/en/story/2026/06/1167732" },
+    { "label": "The Guardian — Iran deal and Lebanon withdrawal", "url": "https://www.theguardian.com/world/2026/jun/16/irans-top-envoy-says-peace-deal-with-the-us-dependent-on-israels-withdrawal-from-lebanon" },
+    { "label": "The Guardian — Equal-pay legislation", "url": "https://www.theguardian.com/politics/2026/jun/16/farages-plan-for-equal-pay-legislation-may-cost-female-workers-money-say-unions" },
+    { "label": "The Guardian — Learning-disability nurse shortage", "url": "https://www.theguardian.com/society/2026/jun/16/uk-learning-disability-nurses-nhs" },
+    { "label": "The Guardian — Churchill artwork dispute", "url": "https://www.theguardian.com/artanddesign/2026/jun/16/artist-helen-cammock-winston-churchill-national-portrait-gallery" },
+    { "label": "The Guardian — Max Mara and guochao", "url": "https://www.theguardian.com/fashion/2026/jun/16/max-mara-woos-china-luxury-brand-consumers" },
+    { "label": "The Guardian — France replaces Palantir tools", "url": "https://www.theguardian.com/world/2026/jun/16/france-ai-data-tools-palantir-chapsvision" },
+    { "label": "The Guardian — xAI data-center pollution lawsuit", "url": "https://www.theguardian.com/technology/2026/jun/16/elon-musk-xai-datacenters-trump-administration" }
   ],
-  "rawText": "推送日期｜2026年6月16日\n\n今天的关键词是：power and infrastructure（权力与基础设施）。G7 峰会表面上是外交会议，背后是能源、矿产、战争与 AI 规则；AI 表面上是软件，背后是工厂、电力、芯片与劳动；性别政策表面上是“保护”，背后可能是权利边界的重新划定。"
+  "rawText": "推送日期｜2026年6月16日\n\n今天的小报关键词是：sovereignty, care, and narrative power（主权、照护与叙事权）。国家争夺安全与技术自主，劳动者争取被公平估值，文化机构争论历史该如何讲述，而 AI 数据中心则把看似虚拟的技术重新落回土地、能源与空气。"
 }
