@@ -1,5 +1,94 @@
 [
   {
+    "date": "2026-06-21",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "预防、余波与可见性：哥伦比亚选举、美伊紧张、照护型父职、和平建设与数字诈骗",
+    "file": "2026-06-21.json",
+    "tags": [
+      "global",
+      "Colombia",
+      "Iran",
+      "election",
+      "peace",
+      "gender",
+      "fatherhood",
+      "caregiving",
+      "Lebanon",
+      "conservation",
+      "media literacy",
+      "verification",
+      "technology",
+      "Cambodia",
+      "scams",
+      "trafficking"
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "抵达、修复与机会：苏丹风险、埃博拉应对、残障体育、文化基础设施与全球南方创新",
+    "file": "2026-06-20.json",
+    "tags": [
+      "global",
+      "Sudan",
+      "Ebola",
+      "public health",
+      "humanitarian access",
+      "disability",
+      "Special Olympics",
+      "Paralympics",
+      "culture",
+      "Kennedy Center",
+      "technology",
+      "Global South",
+      "innovation",
+      "equity"
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "照护、记忆与公平：难民、公共卫生、Juneteenth、文化反仇恨与新闻内容补偿",
+    "file": "2026-06-19.json",
+    "tags": [
+      "global",
+      "refugees",
+      "public health",
+      "Ebola",
+      "gender",
+      "financial inclusion",
+      "Juneteenth",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "fair compensation",
+      "governance"
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "核查、可见性与支持：伊朗协议、气候冲击、Pride、媒体平等、文化记忆与AI语言",
+    "file": "2026-06-18.json",
+    "tags": [
+      "global",
+      "Iran",
+      "climate",
+      "verification",
+      "gender",
+      "LGBTQ",
+      "Pride",
+      "media",
+      "visibility",
+      "culture",
+      "food",
+      "AI",
+      "writing",
+      "governance"
+    ]
+  },
+  {
     "date": "2026-06-17",
     "title": "The Daily Compass｜每日罗盘",
     "theme": "可见性、基础设施、G7峰会、关键矿产、Pride政治、AI治理与制造业",
