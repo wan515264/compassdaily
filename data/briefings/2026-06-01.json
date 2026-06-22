@@ -2,63 +2,55 @@
   "date": "2026-06-01",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "",
-  "introChinese": "",
+  "theme": "公共生活、社会平等、文化表达与技术治理",
+  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "香格里拉对话持续发酵：美国要求亚洲盟友承担更多防务责任",
-          "summaryChinese": "在新加坡举行的香格里拉对话上，美国国防部长 Pete Hegseth 再次强调，面对中国军力扩张，亚洲伙伴应增加国防预算，并减少对美国安全保障的依赖。与此同时，日本、澳大利亚、菲律宾等国家正在加强彼此之间的安全合作网络。",
+          "title": "Guardian报道｜UK’s growing green economy worth more than £100bn a year, research finds",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Net zero industry accounts for more than a million jobs and benefits whole country, according to CBI Economics",
           "englishExpressions": [
             {
-              "expression": "security burden-sharing",
-              "meaningChinese": "安全责任分担",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "defence spending",
-              "meaningChinese": "国防开支",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "strategic deterrence",
-              "meaningChinese": "战略威慑",
-              "example": ""
-            },
-            {
-              "expression": "regional alliance",
-              "meaningChinese": "区域联盟",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
-          "studyNote": "Mini sentence\nCountries are seeking new partnerships amid growing geopolitical uncertainty.\n在不断增加的地缘政治不确定性中，各国正在寻找新的合作伙伴关系。"
+          "studyNote": ""
         },
         {
-          "title": "日本与中国在地区安全议题上继续交锋",
-          "summaryChinese": "日本防卫大臣小泉进次郎在论坛上反驳“中国指责日本重新军事化”的说法，并批评中国军事扩张缺乏透明度。双方围绕台湾、军费与地区秩序等议题持续展开外交角力。",
+          "title": "Guardian报道｜Reform UK support could plateau as it relies on socially conservative views, study finds",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Party could struggle to push ratings as strategy increasingly focuses on views held by minority of voters, research finds",
           "englishExpressions": [
             {
-              "expression": "military buildup",
-              "meaningChinese": "军事扩张",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "regional order",
-              "meaningChinese": "地区秩序",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "security concerns",
-              "meaningChinese": "安全担忧",
-              "example": ""
-            },
-            {
-              "expression": "diplomatic tensions",
-              "meaningChinese": "外交紧张关系",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
           "studyNote": ""
@@ -70,119 +62,151 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "“Microfeminism（微型女性主义）”正在社交媒体走红",
-          "summaryChinese": "《卫报》近期报道了一种被称为“microfeminism”的趋势：女性通过一些细微但刻意的日常行为挑战性别惯例，例如在问候时把女性名字放在前面、优先夸赞女性成就、故意打破默认男性中心的语言习惯。这些行为虽小，却反映出人们对“日常性别结构”的重新思考。",
+          "title": "Guardian报道｜University of Manchester to investigate sexual harassment of female medical students",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "About 20 students report anonymous late-night phone calls from men who ‘intimidated, demeaned and belittled’ them",
           "englishExpressions": [
             {
-              "expression": "everyday sexism",
-              "meaningChinese": "日常性别歧视",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "gender norms",
-              "meaningChinese": "性别规范",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "microfeminism",
-              "meaningChinese": "微型女性主义",
-              "example": ""
-            },
-            {
-              "expression": "to challenge assumptions",
-              "meaningChinese": "挑战既有假设",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
             }
           ],
-          "studyNote": "Study note\n英语里常说：\nSmall acts can challenge larger systems.\n微小行动也能撼动更大的结构。这类表达在社会学、性别研究和文化研究文章里非常常见。"
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "Experimental tablet produces encouraging results in patients with world’s most common forms of disease",
+          "englishExpressions": [
+            {
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
+            },
+            {
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
+            },
+            {
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
+            }
+          ],
+          "studyNote": ""
         }
       ]
     },
     {
       "id": "art-media",
-      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "体育明星越来越成为文化符号，而不仅是运动员",
-          "summaryChinese": "从网球到足球，从红毯到社交媒体，越来越多运动员正在主动经营自己的视觉形象与公共身份。媒体评论指出，如今的体育明星不仅在赛场竞争，也在文化领域参与关于种族、性别、时尚与自我表达的讨论。",
+          "title": "Guardian报道｜Emma Barnett: Fighting Endometriosis review – this woman is not about to be fobbed off",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "The BBC presenter has a horrific illness which leaves her and so many other women in a lifelong hell with no cure in sight. Barnett is at the absolute end of her tether … can she change millions of lives?",
           "englishExpressions": [
             {
-              "expression": "public image",
-              "meaningChinese": "公众形象",
-              "example": ""
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
             },
             {
-              "expression": "cultural influence",
-              "meaningChinese": "文化影响力",
-              "example": ""
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
             },
             {
-              "expression": "personal branding",
-              "meaningChinese": "个人品牌塑造",
-              "example": ""
-            },
-            {
-              "expression": "self-representation",
-              "meaningChinese": "自我呈现",
-              "example": ""
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
             }
           ],
-          "studyNote": "Mini reflection\nModern celebrities are often expected to perform both talent and identity.\n当代名人往往既被期待展示才能，也被期待展示身份认同。"
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜Taylor Swift announces new single for Toy Story 5 soundtrack",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "I Knew It, I Knew You is written with longtime collaborator Jack Antonoff and marks a return to Swift’s country roots",
+          "englishExpressions": [
+            {
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
+            },
+            {
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
+            },
+            {
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
+            }
+          ],
+          "studyNote": ""
         }
       ]
     },
     {
       "id": "ai-tech",
-      "heading": "AI 与科技 / AI & Tech",
+      "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Briefing item",
-          "summaryChinese": "AI 数据中心成为全球竞争焦点\n随着生成式 AI 持续扩张，各国和大型科技企业正在加速建设 AI 数据中心。分析认为，未来 AI 竞争不仅是模型竞争，也将是能源、芯片与算力基础设施的竞争。\n越来越多国家开始讨论如何规范前沿 AI。透明度、风险评估、责任归属等概念频繁出现在政策文件中。学界认为，未来几年“治理（governance）”可能成为 AI 领域最重要的关键词之一。",
+          "title": "Guardian报道｜Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Breach of high-profile accounts raises concerns about reliance on AI for security measures such as passwords",
           "englishExpressions": [
             {
-              "expression": "computing power",
-              "meaningChinese": "算力",
-              "example": ""
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "AI infrastructure",
-              "meaningChinese": "AI基础设施",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "data centre",
-              "meaningChinese": "数据中心",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’",
+          "englishExpressions": [
+            {
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "energy-intensive",
-              "meaningChinese": "高耗能的",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "AI",
-              "meaningChinese": "治理成为新的国际议题",
-              "example": ""
-            },
-            {
-              "expression": "AI governance",
-              "meaningChinese": "AI治理",
-              "example": ""
-            },
-            {
-              "expression": "risk assessment",
-              "meaningChinese": "风险评估",
-              "example": ""
-            },
-            {
-              "expression": "transparency",
-              "meaningChinese": "透明度",
-              "example": ""
-            },
-            {
-              "expression": "regulatory framework",
-              "meaningChinese": "监管框架",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
             }
           ],
           "studyNote": ""
@@ -191,57 +215,94 @@
     }
   ],
   "englishParagraph": {
-    "english": "The stories dominating today’s headlines are not only about power, but also about responsibility. Governments debate military spending, technology companies debate safety standards, and ordinary people debate social norms in their daily lives. Whether in politics, culture, or technology, the central question remains the same: how should power be used, and who should be accountable for its consequences?",
-    "chinese": "今天占据头条的新闻不仅关乎权力，也关乎责任。政府讨论军费支出，科技公司讨论安全标准，而普通人则在日常生活中讨论社会规范。无论是在政治、文化还是科技领域，一个核心问题始终存在：权力应该如何被使用，又该由谁为其后果负责？"
+    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
+    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
   },
   "keywords": [
     {
+      "word": "public life",
+      "meaning": "公共生活",
+      "example": "Technology is becoming part of everyday public life."
+    },
+    {
+      "word": "institution",
+      "meaning": "制度；机构",
+      "example": "Public institutions shape access and responsibility."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被社会看见和承认",
+      "example": "Media coverage can increase public visibility."
+    },
+    {
+      "word": "oversight",
+      "meaning": "监督；监管",
+      "example": "Powerful systems require independent oversight."
+    },
+    {
       "word": "accountability",
-      "meaning": "问责；责任承担",
-      "example": "Public institutions need greater accountability."
-    },
-    {
-      "word": "deterrence",
-      "meaning": "威慑",
-      "example": "The strategy relies on deterrence rather than direct conflict."
-    },
-    {
-      "word": "norm",
-      "meaning": "规范；社会常规",
-      "example": "Social norms change over time."
-    },
-    {
-      "word": "transparency",
-      "meaning": "透明度",
-      "example": "Transparency is essential in AI development."
-    },
-    {
-      "word": "burden-sharing",
-      "meaning": "分担责任",
-      "example": "Allies discussed burden-sharing in regional security."
+      "meaning": "问责；责任归属",
+      "example": "Accountability depends on clear evidence and rules."
     },
     {
       "word": "infrastructure",
-      "meaning": "基础设施",
-      "example": "AI requires enormous digital infrastructure."
+      "meaning": "基础设施；支撑社会运行的系统",
+      "example": "Digital infrastructure influences work and communication."
     }
   ],
   "sentenceLab": {
-    "sentence": "",
-    "analysisChinese": ""
+    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
+    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
   },
   "reflection": {
-    "english": "",
-    "chinese": "世界每天都在变化，但真正值得学习的，往往不是事件本身，而是事件背后那些不断被争论、被重新定义的价值与语言。 🌿"
+    "english": "A daily event becomes easier to understand when we can see the system around it.",
+    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
   },
   "tags": [
-    "AI",
-    "technology",
+    "global",
     "gender",
     "culture",
-    "global",
-    "climate"
+    "art",
+    "media",
+    "AI",
+    "technology",
+    "public life",
+    "systems",
+    "responsibility"
   ],
-  "sources": [],
-  "rawText": "推送日期｜2026年6月1日\n★ Global News｜国际新闻\n1. 香格里拉对话持续发酵：美国要求亚洲盟友承担更多防务责任\n在新加坡举行的香格里拉对话上，美国国防部长 Pete Hegseth 再次强调，面对中国军力扩张，亚洲伙伴应增加国防预算，并减少对美国安全保障的依赖。与此同时，日本、澳大利亚、菲律宾等国家正在加强彼此之间的安全合作网络。\nEnglish key expressions\nsecurity burden-sharing：安全责任分担\ndefence spending：国防开支\nstrategic deterrence：战略威慑\nregional alliance：区域联盟\nMini sentence\nCountries are seeking new partnerships amid growing geopolitical uncertainty.\n在不断增加的地缘政治不确定性中，各国正在寻找新的合作伙伴关系。\n2. 日本与中国在地区安全议题上继续交锋\n日本防卫大臣小泉进次郎在论坛上反驳“中国指责日本重新军事化”的说法，并批评中国军事扩张缺乏透明度。双方围绕台湾、军费与地区秩序等议题持续展开外交角力。\nEnglish key expressions\nmilitary buildup：军事扩张\nregional order：地区秩序\nsecurity concerns：安全担忧\ndiplomatic tensions：外交紧张关系\n★ Gender / Culture｜性别与文化\n“Microfeminism（微型女性主义）”正在社交媒体走红\n《卫报》近期报道了一种被称为“microfeminism”的趋势：女性通过一些细微但刻意的日常行为挑战性别惯例，例如在问候时把女性名字放在前面、优先夸赞女性成就、故意打破默认男性中心的语言习惯。这些行为虽小，却反映出人们对“日常性别结构”的重新思考。\nEnglish key expressions\neveryday sexism：日常性别歧视\ngender norms：性别规范\nmicrofeminism：微型女性主义\nto challenge assumptions：挑战既有假设\nStudy note\n英语里常说：\nSmall acts can challenge larger systems.\n微小行动也能撼动更大的结构。这类表达在社会学、性别研究和文化研究文章里非常常见。\n★ Art / Fashion / Media｜艺术、时尚与媒体\n体育明星越来越成为文化符号，而不仅是运动员\n从网球到足球，从红毯到社交媒体，越来越多运动员正在主动经营自己的视觉形象与公共身份。媒体评论指出，如今的体育明星不仅在赛场竞争，也在文化领域参与关于种族、性别、时尚与自我表达的讨论。\nEnglish key expressions\npublic image：公众形象\ncultural influence：文化影响力\npersonal branding：个人品牌塑造\nself-representation：自我呈现\nMini reflection\nModern celebrities are often expected to perform both talent and identity.\n当代名人往往既被期待展示才能，也被期待展示身份认同。\n★ AI / Tech｜AI与科技\n1. AI 数据中心成为全球竞争焦点\n随着生成式 AI 持续扩张，各国和大型科技企业正在加速建设 AI 数据中心。分析认为，未来 AI 竞争不仅是模型竞争，也将是能源、芯片与算力基础设施的竞争。\nEnglish key expressions\ncomputing power：算力\nAI infrastructure：AI基础设施\ndata centre：数据中心\nenergy-intensive：高耗能的\n2. AI 治理成为新的国际议题\n越来越多国家开始讨论如何规范前沿 AI。透明度、风险评估、责任归属等概念频繁出现在政策文件中。学界认为，未来几年“治理（governance）”可能成为 AI 领域最重要的关键词之一。\nEnglish key expressions\nAI governance：AI治理\nrisk assessment：风险评估\ntransparency：透明度\nregulatory framework：监管框架\n★ One English Paragraph｜一段英文精读\nThe stories dominating today’s headlines are not only about power, but also about responsibility. Governments debate military spending, technology companies debate safety standards, and ordinary people debate social norms in their daily lives. Whether in politics, culture, or technology, the central question remains the same: how should power be used, and who should be accountable for its consequences?\n中文翻译\n今天占据头条的新闻不仅关乎权力，也关乎责任。政府讨论军费支出，科技公司讨论安全标准，而普通人则在日常生活中讨论社会规范。无论是在政治、文化还是科技领域，一个核心问题始终存在：权力应该如何被使用，又该由谁为其后果负责？\n★ Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample Sentence\naccountability\n问责；责任承担\nPublic institutions need greater accountability.\ndeterrence\n威慑\nThe strategy relies on deterrence rather than direct conflict.\nnorm\n规范；社会常规\nSocial norms change over time.\ntransparency\n透明度\nTransparency is essential in AI development.\nburden-sharing\n分担责任\nAllies discussed burden-sharing in regional security.\ninfrastructure\n基础设施\nAI requires enormous digital infrastructure.\n★ Morning Thought｜晨间一句\n世界每天都在变化，但真正值得学习的，往往不是事件本身，而是事件背后那些不断被争论、被重新定义的价值与语言。 🌿"
+  "sources": [
+    {
+      "label": "The Guardian — UK’s growing green economy worth more than £100bn a year, research finds",
+      "url": "https://www.theguardian.com/environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero"
+    },
+    {
+      "label": "The Guardian — Reform UK support could plateau as it relies on socially conservative views, study finds",
+      "url": "https://www.theguardian.com/politics/2026/jun/02/reform-uk-support-could-plateau-relies-on-conservative-views-study-finds"
+    },
+    {
+      "label": "The Guardian — University of Manchester to investigate sexual harassment of female medical students",
+      "url": "https://www.theguardian.com/education/2026/jun/01/university-of-manchester-investigate-sexual-harassment-female-medical-students-anonymous-phone-calls"
+    },
+    {
+      "label": "The Guardian — Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows",
+      "url": "https://www.theguardian.com/society/2026/jun/01/cancer-smart-drug-cells-invisibility-cloak-shrink-tumours-trial"
+    },
+    {
+      "label": "The Guardian — Emma Barnett: Fighting Endometriosis review – this woman is not about to be fobbed off",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/01/emma-barnett-fighting-endometriosis-review-bbc-two-iplayer"
+    },
+    {
+      "label": "The Guardian — Taylor Swift announces new single for Toy Story 5 soundtrack",
+      "url": "https://www.theguardian.com/music/2026/jun/01/taylor-swift-toy-story-5-song-soundtrack"
+    },
+    {
+      "label": "The Guardian — Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
+      "url": "https://www.theguardian.com/technology/2026/jun/01/meta-ai-hack-obama-sephora-instagram"
+    },
+    {
+      "label": "The Guardian — Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
+      "url": "https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月1日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
 }

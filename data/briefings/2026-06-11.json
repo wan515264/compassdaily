@@ -1,5 +1,5 @@
 {
-  "date": "2026-06-02",
+  "date": "2026-06-11",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
   "theme": "公共生活、社会平等、文化表达与技术治理",
@@ -10,9 +10,9 @@
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜One-ton cocaine bust reveals secret US-Mexico tunnel",
+          "title": "Guardian报道｜Jay Clayton: Trump pick has long legal résumé but few intelligence credentials",
           "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Members of Jalisco New Generation cartel used fake retail store in San Diego as front for trafficking drugs, officials say",
+          "correspondingEnglish": "Former SEC chair, who has reportedly socialized and played golf with president, has questioned integrity of US elections",
           "englishExpressions": [
             {
               "expression": "public response",
@@ -33,9 +33,9 @@
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Pentagon appoints convicted January 6 rioter to sensitive counter-terrorism role",
+          "title": "Guardian报道｜Auckland sits near an active faultline, new research suggests, so what next for New Zealand’s biggest city?",
           "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Alarm after Elias Irizarry hired to position in office that manages highly classified military operations",
+          "correspondingEnglish": "The city is exempted from earthquake building rules due to its northerly location, but a study of the Mangatangi Fault has thrown that into question",
           "englishExpressions": [
             {
               "expression": "public response",
@@ -62,9 +62,9 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
+          "title": "Guardian报道｜China has long sought to control women’s bodies. Increasingly, they’re making their own choices",
           "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "NHS bosses giving evidence to public accounts committee admit current position is unacceptable",
+          "correspondingEnglish": "More women are rejecting state pressure over their reproductive choices, amid the devastating legacy of the one-child policy",
           "englishExpressions": [
             {
               "expression": "equal access",
@@ -85,9 +85,9 @@
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Weight-loss drugs may prevent thousands of knee replacements, study suggests",
+          "title": "Guardian报道｜Record number of young people fear long-term unemployment",
           "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Patients with knee arthritis who took medications for at least three years at reduced risk of needing surgery",
+          "correspondingEnglish": "Report says confidence among 16- to 21-year-olds has fallen sharply as they doubt hard work will be rewarded",
           "englishExpressions": [
             {
               "expression": "equal access",
@@ -114,9 +114,9 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜The Vardys review – very bad, very boring and devastating for Wagatha Christie fans",
+          "title": "Guardian报道｜How to Love the World by Ilka Tampke review – a woman is trapped by a fallen tree",
           "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Jamie and Rebekah Vardy’s new reality show will disappoint every single person who tunes in, from football lovers to followers of The Scousetrap. The only possible fun you can have is rolling your eyes at them",
+          "correspondingEnglish": "The stuck narrator records the minutiae of the forest and her harrowing life in a purposeful novel that demands a slow read but doesn’t always reward it",
           "englishExpressions": [
             {
               "expression": "cultural memory",
@@ -137,9 +137,9 @@
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Funny and full of sex: why you should read Proust’s In Search of Lost Time | Letters",
+          "title": "Guardian报道｜This is Rambert review – 100th birthday knees-up is a big leap forward",
           "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Letters: Readers strike an encouraging note for those sceptical of the joys of Proust, saying it has plenty to make it worth perservering",
+          "correspondingEnglish": "The company’s centenary celebration isn’t about nostalgia – this occasionally thrilling triple bill of recent creations showcases some excellent dancers",
           "englishExpressions": [
             {
               "expression": "cultural memory",
@@ -166,9 +166,9 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
+          "title": "Guardian报道｜Lupus patients in England in remission after pioneering NHS trial of GM therapy",
           "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Bank of England says updated imagery will celebrate native wildlife while bolstering anti-counterfeit features",
+          "correspondingEnglish": "Doctors say therapy that genetically modifies person’s T-cells could offer cure for chronic autoimmune disease",
           "englishExpressions": [
             {
               "expression": "digital infrastructure",
@@ -189,9 +189,9 @@
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Trump signs executive order seeking early access to new AI releases",
+          "title": "Guardian报道｜‘Super El Niño’ is officially here, scientists say. What can we expect?",
           "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Under new rules, tech companies will be asked to share AI models with government for review before public release",
+          "correspondingEnglish": "Experts say climate pattern could supercharge extreme weather events and push temperatures to record highs",
           "englishExpressions": [
             {
               "expression": "digital infrastructure",
@@ -272,37 +272,37 @@
   ],
   "sources": [
     {
-      "label": "The Guardian — One-ton cocaine bust reveals secret US-Mexico tunnel",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel"
+      "label": "The Guardian — Jay Clayton: Trump pick has long legal résumé but few intelligence credentials",
+      "url": "https://www.theguardian.com/us-news/2026/jun/11/jay-clayton-dni-profile"
     },
     {
-      "label": "The Guardian — Pentagon appoints convicted January 6 rioter to sensitive counter-terrorism role",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/january-6-rioter-elias-irizarry-counterterrorism"
+      "label": "The Guardian — Auckland sits near an active faultline, new research suggests, so what next for New Zealand’s biggest city?",
+      "url": "https://www.theguardian.com/world/2026/jun/12/auckland-earthquake-mangatangi-fault-new-zealand"
     },
     {
-      "label": "The Guardian — GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
-      "url": "https://www.theguardian.com/society/2026/jun/03/gps-in-england-too-overloaded-to-help-older-people-at-risk-of-falling-say-mps"
+      "label": "The Guardian — China has long sought to control women’s bodies. Increasingly, they’re making their own choices",
+      "url": "https://www.theguardian.com/world/2026/jun/12/china-has-long-sought-to-control-womens-bodies-increasingly-theyre-making-their-own-choices"
     },
     {
-      "label": "The Guardian — Weight-loss drugs may prevent thousands of knee replacements, study suggests",
-      "url": "https://www.theguardian.com/society/2026/jun/02/weight-loss-drugs-could-help-prevent-knee-replacements"
+      "label": "The Guardian — Record number of young people fear long-term unemployment",
+      "url": "https://www.theguardian.com/society/2026/jun/12/young-people-fear-long-term-unemployment-work"
     },
     {
-      "label": "The Guardian — The Vardys review – very bad, very boring and devastating for Wagatha Christie fans",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/02/the-vardys-review-jamie-rebekah-itv"
+      "label": "The Guardian — How to Love the World by Ilka Tampke review – a woman is trapped by a fallen tree",
+      "url": "https://www.theguardian.com/books/2026/jun/12/ilka-tampke-how-to-love-the-world-review-book-novel"
     },
     {
-      "label": "The Guardian — Funny and full of sex: why you should read Proust’s In Search of Lost Time | Letters",
-      "url": "https://www.theguardian.com/books/2026/jun/02/funny-and-full-of-sex-why-you-should-read-proust-in-search-of-lost-time"
+      "label": "The Guardian — This is Rambert review – 100th birthday knees-up is a big leap forward",
+      "url": "https://www.theguardian.com/stage/2026/jun/11/this-is-rambert-review-100th-birthday-dance"
     },
     {
-      "label": "The Guardian — Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
-      "url": "https://www.theguardian.com/business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist"
+      "label": "The Guardian — Lupus patients in England in remission after pioneering NHS trial of GM therapy",
+      "url": "https://www.theguardian.com/science/2026/jun/12/lupus-patients-in-remission-england-nhs-trial-genentically-modified-t-cell-therapy"
     },
     {
-      "label": "The Guardian — Trump signs executive order seeking early access to new AI releases",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review"
+      "label": "The Guardian — ‘Super El Niño’ is officially here, scientists say. What can we expect?",
+      "url": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer"
     }
   ],
-  "rawText": "推送日期｜2026年6月2日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月11日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
 }

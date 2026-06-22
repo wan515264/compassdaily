@@ -2,63 +2,55 @@
   "date": "2026-06-10",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "数字主权、平台权力、性别行动、公共利益与AI未来",
-  "introChinese": "今天这份小报的关键词是：数字主权、平台权力、性别行动、公共利益与AI未来。今天的新闻里，一个有趣的线索反复出现：当技术越来越深入日常生活，人们开始重新讨论“谁掌握规则”以及“谁从技术进步中受益”。",
+  "theme": "公共生活、社会平等、文化表达与技术治理",
+  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "欧盟持续推进“欧洲制造”科技战略",
-          "summaryChinese": "欧盟近期公布“技术主权（Tech Sovereignty）”系列计划，希望加强本土芯片、云计算与人工智能能力，减少对美国大型科技企业的依赖。相关措施包括新的云服务规则、AI发展法案以及半导体产业支持计划。",
+          "title": "Guardian报道｜Police use water cannon against rioters in Northern Ireland",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Force disperses crowd of 300 people who burned truck and reportedly planned to target hotel hosting migrants",
           "englishExpressions": [
             {
-              "expression": "tech sovereignty",
-              "meaningChinese": "技术主权",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "digital autonomy",
-              "meaningChinese": "数字自主",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "critical infrastructure",
-              "meaningChinese": "关键基础设施",
-              "example": ""
-            },
-            {
-              "expression": "reduce reliance on",
-              "meaningChinese": "减少对……的依赖",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
-          "studyNote": "Useful sentence\nEurope wants to strengthen its digital autonomy in strategic sectors.\n欧洲希望在战略领域加强数字自主能力。"
+          "studyNote": ""
         },
         {
-          "title": "北爱尔兰骚乱引发关于移民与社会凝聚力的讨论",
-          "summaryChinese": "在北爱尔兰贝尔法斯特，一起持刀袭击事件后爆发反移民骚乱，多家商铺和住宅遭到攻击。当地政府和社区组织呼吁避免将个别犯罪事件转化为针对移民群体的集体指责。",
+          "title": "Guardian报道｜Brunel’s SS Great Britain site drops historical name in ‘cool’ rebrand",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "New name, Bristol Dockyards, and museum revamp aimed at becoming more rooted in community, says chief executive",
           "englishExpressions": [
             {
-              "expression": "social cohesion",
-              "meaningChinese": "社会凝聚力",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "anti-immigration protest",
-              "meaningChinese": "反移民抗议",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "community tensions",
-              "meaningChinese": "社区紧张关系",
-              "example": ""
-            },
-            {
-              "expression": "collective blame",
-              "meaningChinese": "集体归咎",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
           "studyNote": ""
@@ -70,94 +62,99 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "阿根廷反性别暴力运动迎来第11周年",
-          "summaryChinese": "在阿根廷，“Ni Una Menos（一个也不能少）”运动迎来11周年。全国多地举行示威活动，呼吁政府加强防止针对女性和LGBTQ+群体的暴力政策。该运动已成为拉丁美洲最具影响力的女性主义社会运动之一。",
+          "title": "Guardian报道｜Convicted gang rapist Mohammed Skaf hit with two dozen drug charges in Sydney",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "NSW police say two men and a woman will face court on Thursday over alleged involvement in large-scale drug supply scheme",
           "englishExpressions": [
             {
-              "expression": "gender-based violence",
-              "meaningChinese": "基于性别的暴力",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "feminist movement",
-              "meaningChinese": "女性主义运动",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "public policy",
-              "meaningChinese": "公共政策",
-              "example": ""
-            },
-            {
-              "expression": "social advocacy",
-              "meaningChinese": "社会倡议",
-              "example": ""
-            }
-          ],
-          "studyNote": "Study note\n新闻中常见：\ngender equality（性别平等）\ngender justice（性别正义）\n后者更强调权力结构与资源分配问题。"
-        },
-        {
-          "title": "女性领导力与气候行动受到关注",
-          "summaryChinese": "今年多个国际报告强调，女性领导者正在气候科技、能源转型与社区治理中发挥越来越重要的作用。研究者认为，多元化领导团队有助于提升创新与长期决策能力。",
-          "englishExpressions": [],
-          "studyNote": "Useful phrase\nDiverse leadership can lead to more inclusive solutions.\n多元化领导力能够带来更具包容性的解决方案。"
-        }
-      ]
-    },
-    {
-      "id": "art-media",
-      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
-      "items": [
-        {
-          "title": "“Euro Summer”成为时尚品牌的重要文化现象",
-          "summaryChinese": "随着欧洲夏季旅游旺季到来，众多奢侈品牌在意大利、法国和西班牙推出期间限定空间（pop-ups）、海滩俱乐部与艺术合作项目。时尚正在从单纯销售商品转向创造完整的文化体验。",
-          "englishExpressions": [
-            {
-              "expression": "pop-up experience",
-              "meaningChinese": "快闪体验空间",
-              "example": ""
-            },
-            {
-              "expression": "luxury tourism",
-              "meaningChinese": "奢华旅游",
-              "example": ""
-            },
-            {
-              "expression": "brand activation",
-              "meaningChinese": "品牌活动策划",
-              "example": ""
-            },
-            {
-              "expression": "experiential marketing",
-              "meaningChinese": "体验式营销",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
             }
           ],
           "studyNote": ""
         },
         {
-          "title": "文化消费正在从“拥有”转向“体验”",
-          "summaryChinese": "艺术展览、沉浸式空间、品牌联名与城市节庆活动持续受到年轻世代欢迎。越来越多研究指出，人们购买的不只是产品，而是故事、身份认同和参与感。",
+          "title": "Guardian报道｜A&E patients with non-urgent ailments may be told to come back later under NHS plans",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "NHS bosses urge all hospitals in England to use ‘digital triage’ process to combat overcrowding in emergency services",
           "englishExpressions": [
             {
-              "expression": "immersive experience",
-              "meaningChinese": "沉浸式体验",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "cultural participation",
-              "meaningChinese": "文化参与",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "identity expression",
-              "meaningChinese": "身份表达",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Guardian报道｜Radiohead revenge tragedy Hamlet Hail to the Thief sets London dates",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "Production fusing the band’s sixth album and Shakespeare’s masterpiece will open at the Barbican later this year",
+          "englishExpressions": [
+            {
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
             },
             {
-              "expression": "shared experience",
-              "meaningChinese": "共同体验",
-              "example": ""
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
+            },
+            {
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜We Had a World review – a playwright torn between his warring mother and grandmother",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "Joshua Harmon studies his family’s fraught matriarchal relations in this thoughtful drama",
+          "englishExpressions": [
+            {
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
+            },
+            {
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
+            },
+            {
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
             }
           ],
           "studyNote": ""
@@ -166,96 +163,146 @@
     },
     {
       "id": "ai-tech",
-      "heading": "AI 与科技 / AI & Tech",
+      "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "苹果与欧盟围绕AI功能展开新争议",
-          "summaryChinese": "欧盟委员会表示，苹果未能证明其AI功能延期是由欧盟法规造成的。此前苹果曾表示，由于《数字市场法》（DMA）的互操作性要求，其升级版 Siri AI 在欧洲市场的推出受到影响。欧盟则认为，问题在于苹果尚未提出符合规则的解决方案。",
+          "title": "Guardian报道｜Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Temperatures above 15C ‘very strange’ say scientists, as snow melts and rain falls on glaciers in usually frozen region",
           "englishExpressions": [
             {
-              "expression": "interoperability",
-              "meaningChinese": "互操作性",
-              "example": ""
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "digital regulation",
-              "meaningChinese": "数字监管",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "platform competition",
-              "meaningChinese": "平台竞争",
-              "example": ""
-            },
-            {
-              "expression": "data access",
-              "meaningChinese": "数据访问权",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
             }
           ],
           "studyNote": ""
         },
         {
-          "title": "“AI是否应成为公共事业”引发讨论",
-          "summaryChinese": "路透评论指出，美国政界开始出现一种有趣观点：既然AI可能成为未来社会的重要基础设施，那么公众是否也应分享其创造的价值？这一讨论涉及公共利益、市场竞争与科技治理等问题。",
-          "englishExpressions": [],
-          "studyNote": "Useful sentence\nThe debate is shifting from what AI can do to who benefits from AI.\n讨论的焦点正从AI能做什么，转向谁能从AI中受益。"
+          "title": "Guardian报道｜Mike Ashley’s Frasers makes €1.98bn takeover bid for Hugo Boss",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Fashion and sportswear group, which owns 26% of the German luxury brand, is now seeking full control",
+          "englishExpressions": [
+            {
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
+            },
+            {
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
+            },
+            {
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
+            }
+          ],
+          "studyNote": ""
         }
       ]
     }
   ],
   "englishParagraph": {
-    "english": "Technology is often described as a force that changes society. But technology itself does not make decisions. People, institutions, and governments decide how it is developed, regulated, and used. Whether the issue is artificial intelligence, migration, or gender equality, the most important questions are often about responsibility, participation, and public trust.",
-    "chinese": "人们常把技术描述为改变社会的力量。但技术本身并不会做决定。决定技术如何被开发、监管和使用的，是人、机构和政府。无论讨论的是人工智能、移民还是性别平等，最重要的问题往往都与责任、参与以及公众信任有关。"
+    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
+    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
   },
   "keywords": [
     {
-      "word": "sovereignty",
-      "meaning": "主权；自主控制能力",
-      "example": "Digital sovereignty has become a major issue in Europe."
+      "word": "public life",
+      "meaning": "公共生活",
+      "example": "Technology is becoming part of everyday public life."
     },
     {
-      "word": "interoperability",
-      "meaning": "互操作性；不同系统协同工作的能力",
-      "example": "The law requires greater interoperability between platforms."
+      "word": "institution",
+      "meaning": "制度；机构",
+      "example": "Public institutions shape access and responsibility."
     },
     {
-      "word": "cohesion",
-      "meaning": "凝聚力；团结程度",
-      "example": "Community cohesion is essential during periods of tension."
+      "word": "visibility",
+      "meaning": "可见性；被社会看见和承认",
+      "example": "Media coverage can increase public visibility."
     },
     {
-      "word": "advocacy",
-      "meaning": "倡导；公共行动",
-      "example": "Advocacy groups called for stronger protections for women."
+      "word": "oversight",
+      "meaning": "监督；监管",
+      "example": "Powerful systems require independent oversight."
     },
     {
-      "word": "inclusive",
-      "meaning": "包容性的",
-      "example": "Inclusive leadership can improve decision-making."
+      "word": "accountability",
+      "meaning": "问责；责任归属",
+      "example": "Accountability depends on clear evidence and rules."
     },
     {
-      "word": "public trust",
-      "meaning": "公共信任",
-      "example": "Public trust is crucial for the adoption of new technologies."
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑社会运行的系统",
+      "example": "Digital infrastructure influences work and communication."
     }
   ],
   "sentenceLab": {
-    "sentence": "",
-    "analysisChinese": ""
+    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
+    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
   },
   "reflection": {
-    "english": "",
-    "chinese": "今天的小报留给我们一句话：真正值得关注的，不只是世界发生了什么，也是谁有机会参与决定世界将变成什么样子。 🌿"
+    "english": "A daily event becomes easier to understand when we can see the system around it.",
+    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
   },
   "tags": [
-    "AI",
-    "technology",
+    "global",
     "gender",
     "culture",
-    "global",
-    "climate"
+    "art",
+    "media",
+    "AI",
+    "technology",
+    "public life",
+    "systems",
+    "responsibility"
   ],
-  "sources": [],
-  "rawText": "推送日期｜2026年6月10日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：数字主权、平台权力、性别行动、公共利益与AI未来。今天的新闻里，一个有趣的线索反复出现：当技术越来越深入日常生活，人们开始重新讨论“谁掌握规则”以及“谁从技术进步中受益”。\n🌟 1) Global News｜全球新闻\n欧盟持续推进“欧洲制造”科技战略\n欧盟近期公布“技术主权（Tech Sovereignty）”系列计划，希望加强本土芯片、云计算与人工智能能力，减少对美国大型科技企业的依赖。相关措施包括新的云服务规则、AI发展法案以及半导体产业支持计划。\nEnglish key expressions\nExpression\n中文理解\ntech sovereignty\n技术主权\ndigital autonomy\n数字自主\ncritical infrastructure\n关键基础设施\nreduce reliance on\n减少对……的依赖\nUseful sentence\nEurope wants to strengthen its digital autonomy in strategic sectors.\n欧洲希望在战略领域加强数字自主能力。\n北爱尔兰骚乱引发关于移民与社会凝聚力的讨论\n在北爱尔兰贝尔法斯特，一起持刀袭击事件后爆发反移民骚乱，多家商铺和住宅遭到攻击。当地政府和社区组织呼吁避免将个别犯罪事件转化为针对移民群体的集体指责。\nEnglish key expressions\nExpression\n中文理解\nsocial cohesion\n社会凝聚力\nanti-immigration protest\n反移民抗议\ncommunity tensions\n社区紧张关系\ncollective blame\n集体归咎\n🌟 2) Gender / Culture｜性别与文化\n阿根廷反性别暴力运动迎来第11周年\n在阿根廷，“Ni Una Menos（一个也不能少）”运动迎来11周年。全国多地举行示威活动，呼吁政府加强防止针对女性和LGBTQ+群体的暴力政策。该运动已成为拉丁美洲最具影响力的女性主义社会运动之一。\nEnglish key expressions\nExpression\n中文理解\ngender-based violence\n基于性别的暴力\nfeminist movement\n女性主义运动\npublic policy\n公共政策\nsocial advocacy\n社会倡议\nStudy note\n新闻中常见：\ngender equality（性别平等）\ngender justice（性别正义）\n后者更强调权力结构与资源分配问题。\n女性领导力与气候行动受到关注\n今年多个国际报告强调，女性领导者正在气候科技、能源转型与社区治理中发挥越来越重要的作用。研究者认为，多元化领导团队有助于提升创新与长期决策能力。\nUseful phrase\nDiverse leadership can lead to more inclusive solutions.\n多元化领导力能够带来更具包容性的解决方案。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\n“Euro Summer”成为时尚品牌的重要文化现象\n随着欧洲夏季旅游旺季到来，众多奢侈品牌在意大利、法国和西班牙推出期间限定空间（pop-ups）、海滩俱乐部与艺术合作项目。时尚正在从单纯销售商品转向创造完整的文化体验。\nEnglish key expressions\nExpression\n中文理解\npop-up experience\n快闪体验空间\nluxury tourism\n奢华旅游\nbrand activation\n品牌活动策划\nexperiential marketing\n体验式营销\n文化消费正在从“拥有”转向“体验”\n艺术展览、沉浸式空间、品牌联名与城市节庆活动持续受到年轻世代欢迎。越来越多研究指出，人们购买的不只是产品，而是故事、身份认同和参与感。\nEnglish key expressions\nExpression\n中文理解\nimmersive experience\n沉浸式体验\ncultural participation\n文化参与\nidentity expression\n身份表达\nshared experience\n共同体验\n🌟 4) AI / Tech｜AI 与科技\n苹果与欧盟围绕AI功能展开新争议\n欧盟委员会表示，苹果未能证明其AI功能延期是由欧盟法规造成的。此前苹果曾表示，由于《数字市场法》（DMA）的互操作性要求，其升级版 Siri AI 在欧洲市场的推出受到影响。欧盟则认为，问题在于苹果尚未提出符合规则的解决方案。\nEnglish key expressions\nExpression\n中文理解\ninteroperability\n互操作性\ndigital regulation\n数字监管\nplatform competition\n平台竞争\ndata access\n数据访问权\n“AI是否应成为公共事业”引发讨论\n路透评论指出，美国政界开始出现一种有趣观点：既然AI可能成为未来社会的重要基础设施，那么公众是否也应分享其创造的价值？这一讨论涉及公共利益、市场竞争与科技治理等问题。\nUseful sentence\nThe debate is shifting from what AI can do to who benefits from AI.\n讨论的焦点正从AI能做什么，转向谁能从AI中受益。\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nTechnology is often described as a force that changes society. But technology itself does not make decisions. People, institutions, and governments decide how it is developed, regulated, and used. Whether the issue is artificial intelligence, migration, or gender equality, the most important questions are often about responsibility, participation, and public trust.\n中文翻译\n人们常把技术描述为改变社会的力量。但技术本身并不会做决定。决定技术如何被开发、监管和使用的，是人、机构和政府。无论讨论的是人工智能、移民还是性别平等，最重要的问题往往都与责任、参与以及公众信任有关。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nsovereignty\n主权；自主控制能力\nDigital sovereignty has become a major issue in Europe.\ninteroperability\n互操作性；不同系统协同工作的能力\nThe law requires greater interoperability between platforms.\ncohesion\n凝聚力；团结程度\nCommunity cohesion is essential during periods of tension.\nadvocacy\n倡导；公共行动\nAdvocacy groups called for stronger protections for women.\ninclusive\n包容性的\nInclusive leadership can improve decision-making.\npublic trust\n公共信任\nPublic trust is crucial for the adoption of new technologies.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：真正值得关注的，不只是世界发生了什么，也是谁有机会参与决定世界将变成什么样子。 🌿"
+  "sources": [
+    {
+      "label": "The Guardian — Police use water cannon against rioters in Northern Ireland",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/10/police-use-water-cannon-against-rioters-in-northern-ireland"
+    },
+    {
+      "label": "The Guardian — Brunel’s SS Great Britain site drops historical name in ‘cool’ rebrand",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/11/ss-great-britain-maritime-landmark-rebrand-bristol-dockyards"
+    },
+    {
+      "label": "The Guardian — Convicted gang rapist Mohammed Skaf hit with two dozen drug charges in Sydney",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/11/convicted-gang-rapist-mohammad-skaf-drug-charges-sydney-ntwnfb"
+    },
+    {
+      "label": "The Guardian — A&E patients with non-urgent ailments may be told to come back later under NHS plans",
+      "url": "https://www.theguardian.com/society/2026/jun/10/patients-accident-emergency-non-urgent-ailments-nhs-plans-overcrowding"
+    },
+    {
+      "label": "The Guardian — Radiohead revenge tragedy Hamlet Hail to the Thief sets London dates",
+      "url": "https://www.theguardian.com/stage/2026/jun/11/hamlet-hail-to-the-thief-barbican-london"
+    },
+    {
+      "label": "The Guardian — We Had a World review – a playwright torn between his warring mother and grandmother",
+      "url": "https://www.theguardian.com/stage/2026/jun/10/we-had-a-world-review-hampstead-theatre-london-joshua-harmon"
+    },
+    {
+      "label": "The Guardian — Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
+      "url": "https://www.theguardian.com/environment/2026/jun/10/record-winter-temperatures-in-antarctic-raise-fears-over-speed-of-climate-breakdown"
+    },
+    {
+      "label": "The Guardian — Mike Ashley’s Frasers makes €1.98bn takeover bid for Hugo Boss",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/10/mike-ashley-frasers-198bn-takeover-offer-hugo-boss"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月10日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
 }

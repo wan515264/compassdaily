@@ -2,63 +2,55 @@
   "date": "2026-06-09",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "移民政策、文化遗产、女性领导力、AI能源消耗与全球治理",
-  "introChinese": "今天这份小报的关键词是：移民政策、文化遗产、女性领导力、AI能源消耗与全球治理。今天的新闻提醒我们：许多看似技术或政治的问题，最终都会回到人与社会如何共同生活的问题。",
+  "theme": "公共生活、社会平等、文化表达与技术治理",
+  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "联合国关注全球流离失所人数持续高位",
-          "summaryChinese": "联合国难民机构近期表示，全球因战争、冲突和迫害而被迫流离失所的人数仍接近历史高位。多个地区持续的不稳定局势，使得人道主义援助系统面临巨大压力。",
+          "title": "Guardian报道｜US federal judge blocks Alabama from executing man by nitrogen gas",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Emily C Marks finds method proposed to kill Jeffery Lee violates ban on cruel and unusual punishment",
           "englishExpressions": [
             {
-              "expression": "displaced people",
-              "meaningChinese": "流离失所者",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "humanitarian crisis",
-              "meaningChinese": "人道主义危机",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "forced migration",
-              "meaningChinese": "被迫迁徙",
-              "example": ""
-            },
-            {
-              "expression": "refugee protection",
-              "meaningChinese": "难民保护",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
-          "studyNote": "Useful sentence\nHumanitarian agencies are struggling to meet growing needs.\n人道主义机构正努力应对不断增长的需求。"
+          "studyNote": ""
         },
         {
-          "title": "各国继续讨论移民与边境管理政策",
-          "summaryChinese": "欧洲和北美近期围绕移民管理展开新一轮讨论。支持者强调边境安全与资源管理，批评者则担忧人权保障与庇护制度受到影响。这类争论反映出全球化时代国家责任与国际义务之间的张力。",
+          "title": "Guardian报道｜Trump meets Johnson as outcry over Bill Pulte threatens Fisa renewal",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "President backs Pulte for acting DNI chief despite backlash that puts reauthorization of key surveillance law at risk",
           "englishExpressions": [
             {
-              "expression": "border management",
-              "meaningChinese": "边境管理",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "asylum seekers",
-              "meaningChinese": "寻求庇护者",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "immigration policy",
-              "meaningChinese": "移民政策",
-              "example": ""
-            },
-            {
-              "expression": "human rights obligations",
-              "meaningChinese": "人权义务",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
           "studyNote": ""
@@ -70,55 +62,47 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "联合国呼吁加强女性在气候决策中的参与",
-          "summaryChinese": "联合国多个机构近日强调，女性往往最直接受到气候变化影响，却仍在许多环境决策体系中代表不足。研究显示，提高女性参与度有助于提升社区应对气候风险的能力。",
+          "title": "Guardian报道｜Staff at immigration detention centre wore England flags, report finds",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "Chair of prisons and detention watchdog concerned about intimidating effect as wide-ranging and damning review published",
           "englishExpressions": [
             {
-              "expression": "gender-responsive policy",
-              "meaningChinese": "性别回应型政策",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "climate resilience",
-              "meaningChinese": "气候韧性",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "decision-making process",
-              "meaningChinese": "决策过程",
-              "example": ""
-            },
-            {
-              "expression": "community leadership",
-              "meaningChinese": "社区领导力",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
             }
           ],
-          "studyNote": "Study note\n在国际发展研究中：\nrepresentation 指谁能参与决策；\nparticipation 指如何参与决策；\n两者并不完全相同。"
+          "studyNote": ""
         },
         {
-          "title": "文化机构重新审视“谁的历史被保存”",
-          "summaryChinese": "全球多家博物馆和档案机构持续推进藏品去殖民化（decolonisation）项目，希望纳入更多女性、原住民与边缘群体的历史叙事。文化记忆越来越被视为一个公共议题，而非单纯的学术问题。",
+          "title": "Guardian报道｜Grim reality of prison conditions laid bare in damning report",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "Inmates in England and Wales live among vermin while gangs control entire wings, monitors warn, with failures ‘at risk of becoming normalised’",
           "englishExpressions": [
             {
-              "expression": "cultural heritage",
-              "meaningChinese": "文化遗产",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "historical narrative",
-              "meaningChinese": "历史叙事",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "decolonisation",
-              "meaningChinese": "去殖民化",
-              "example": ""
-            },
-            {
-              "expression": "collective memory",
-              "meaningChinese": "集体记忆",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
             }
           ],
           "studyNote": ""
@@ -127,118 +111,102 @@
     },
     {
       "id": "art-media",
-      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "艺术世界继续关注“公共空间中的艺术”",
-          "summaryChinese": "今年夏季欧洲多地艺术节将作品带出美术馆，进入街道、公园与社区空间。策展人认为，艺术不仅属于机构，也属于日常生活中的公共讨论。",
+          "title": "Guardian报道｜Project a Black Planet review: spits out dreary academic theory where it should sing",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "This exhibition is so in love with the theoretical whimsy of utopian Panafrica that it loses superb artworks in an indigestible intellectual stew",
           "englishExpressions": [
             {
-              "expression": "public art",
-              "meaningChinese": "公共艺术",
-              "example": ""
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
             },
             {
-              "expression": "site-specific work",
-              "meaningChinese": "场域特定作品",
-              "example": ""
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
             },
             {
-              "expression": "community engagement",
-              "meaningChinese": "社区参与",
-              "example": ""
-            },
-            {
-              "expression": "urban space",
-              "meaningChinese": "城市空间",
-              "example": ""
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
             }
           ],
           "studyNote": ""
         },
         {
-          "title": "时尚行业关注可持续生产",
-          "summaryChinese": "越来越多品牌将注意力转向供应链透明度、纺织废弃物回收以及环保材料。时尚报道中的关键词正在从“潮流”逐渐扩展到“责任”。",
+          "title": "Guardian报道｜Best Medicine review – this US remake of Doc Martin is perfect rubbish … and you need it in your life",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "This cosy medical drama does exactly what it sets out to do – soothe viewers’ souls with a celebration of smalltown values and secret goodness. It’s TV where nothing will distress you",
           "englishExpressions": [
             {
-              "expression": "sustainable fashion",
-              "meaningChinese": "可持续时尚",
-              "example": ""
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
             },
             {
-              "expression": "supply chain transparency",
-              "meaningChinese": "供应链透明度",
-              "example": ""
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
             },
             {
-              "expression": "recycled materials",
-              "meaningChinese": "再生材料",
-              "example": ""
-            },
-            {
-              "expression": "ethical production",
-              "meaningChinese": "伦理生产",
-              "example": ""
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
             }
           ],
-          "studyNote": "Mini thought\n时尚不仅创造风格，也反映社会对于劳动、环境和消费的理解。"
+          "studyNote": ""
         }
       ]
     },
     {
       "id": "ai-tech",
-      "heading": "AI 与科技 / AI & Tech",
+      "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Briefing item",
-          "summaryChinese": "AI产业开始面对能源消耗问题\n随着大型模型持续扩张，越来越多研究关注AI系统带来的能源需求。数据中心建设速度不断加快，同时也引发关于电力供应、碳排放和可持续发展的讨论。",
+          "title": "Guardian报道｜Concerns over US company’s gas fracking plan for world’s most intact tropical savanna in WA revealed",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Federal environment department says Black Mountain Energy has provided insufficient data as it seeks to drill 20 gas wells in the Kimberley region",
           "englishExpressions": [
             {
-              "expression": "energy consumption",
-              "meaningChinese": "能源消耗",
-              "example": ""
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "data center expansion",
-              "meaningChinese": "数据中心扩张",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "electricity demand",
-              "meaningChinese": "电力需求",
-              "example": ""
-            },
-            {
-              "expression": "carbon footprint",
-              "meaningChinese": "碳足迹",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
             }
           ],
-          "studyNote": "Useful sentence\nThe growth of AI is increasing demand for energy infrastructure.\nAI的发展正在增加对能源基础设施的需求。"
+          "studyNote": ""
         },
         {
-          "title": "全球AI治理讨论持续推进",
-          "summaryChinese": "各国政府与国际组织仍在探索如何制定AI规则，包括透明度、数据保护、责任归属以及风险评估等问题。未来几年，AI治理可能与技术创新本身同样重要。",
+          "title": "Guardian报道｜Crackdown on tech platforms will go ahead despite US intervention, says No 10",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firms",
           "englishExpressions": [
             {
-              "expression": "AI governance",
-              "meaningChinese": "AI治理",
-              "example": ""
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "risk assessment",
-              "meaningChinese": "风险评估",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "regulatory framework",
-              "meaningChinese": "监管框架",
-              "example": ""
-            },
-            {
-              "expression": "accountability",
-              "meaningChinese": "问责机制",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
             }
           ],
           "studyNote": ""
@@ -247,57 +215,94 @@
     }
   ],
   "englishParagraph": {
-    "english": "Many of today’s challenges cross national borders. Climate change, migration, artificial intelligence, and public health cannot be solved by one country alone. At the same time, different societies often have different priorities and values. The task of global governance is not to eliminate these differences, but to find ways for people to cooperate despite them.",
-    "chinese": "今天许多挑战都跨越国界。气候变化、移民、人工智能和公共卫生问题都无法由单一国家独自解决。与此同时，不同社会又拥有不同的优先事项和价值观。全球治理的任务并不是消除这些差异，而是在差异存在的情况下寻找合作的可能。"
+    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
+    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
   },
   "keywords": [
     {
-      "word": "displacement",
-      "meaning": "流离失所；被迫离开家园",
-      "example": "Conflict has caused large-scale displacement across the region."
+      "word": "public life",
+      "meaning": "公共生活",
+      "example": "Technology is becoming part of everyday public life."
     },
     {
-      "word": "asylum",
-      "meaning": "庇护；政治避难",
-      "example": "The family applied for asylum after fleeing violence."
+      "word": "institution",
+      "meaning": "制度；机构",
+      "example": "Public institutions shape access and responsibility."
     },
     {
-      "word": "resilience",
-      "meaning": "韧性；应对冲击并恢复的能力",
-      "example": "Community resilience is important during climate crises."
+      "word": "visibility",
+      "meaning": "可见性；被社会看见和承认",
+      "example": "Media coverage can increase public visibility."
     },
     {
-      "word": "heritage",
-      "meaning": "遗产；文化遗产",
-      "example": "Museums play a role in preserving cultural heritage."
+      "word": "oversight",
+      "meaning": "监督；监管",
+      "example": "Powerful systems require independent oversight."
     },
     {
       "word": "accountability",
-      "meaning": "问责机制；责任承担",
-      "example": "Experts are calling for greater accountability in AI systems."
+      "meaning": "问责；责任归属",
+      "example": "Accountability depends on clear evidence and rules."
     },
     {
-      "word": "transparency",
-      "meaning": "透明度",
-      "example": "Consumers increasingly demand supply chain transparency."
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑社会运行的系统",
+      "example": "Digital infrastructure influences work and communication."
     }
   ],
   "sentenceLab": {
-    "sentence": "",
-    "analysisChinese": ""
+    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
+    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
   },
   "reflection": {
-    "english": "",
-    "chinese": "今天的小报留给我们一句话：理解世界，并不意味着拥有所有答案，而是学会看见彼此之间的联系。 🌿"
+    "english": "A daily event becomes easier to understand when we can see the system around it.",
+    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
   },
   "tags": [
-    "AI",
-    "technology",
+    "global",
     "gender",
     "culture",
-    "global",
-    "climate"
+    "art",
+    "media",
+    "AI",
+    "technology",
+    "public life",
+    "systems",
+    "responsibility"
   ],
-  "sources": [],
-  "rawText": "推送日期｜2026年6月9日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：移民政策、文化遗产、女性领导力、AI能源消耗与全球治理。今天的新闻提醒我们：许多看似技术或政治的问题，最终都会回到人与社会如何共同生活的问题。\n🌟 1) Global News｜全球新闻\n联合国关注全球流离失所人数持续高位\n联合国难民机构近期表示，全球因战争、冲突和迫害而被迫流离失所的人数仍接近历史高位。多个地区持续的不稳定局势，使得人道主义援助系统面临巨大压力。\nEnglish key expressions\nExpression\n中文理解\ndisplaced people\n流离失所者\nhumanitarian crisis\n人道主义危机\nforced migration\n被迫迁徙\nrefugee protection\n难民保护\nUseful sentence\nHumanitarian agencies are struggling to meet growing needs.\n人道主义机构正努力应对不断增长的需求。\n各国继续讨论移民与边境管理政策\n欧洲和北美近期围绕移民管理展开新一轮讨论。支持者强调边境安全与资源管理，批评者则担忧人权保障与庇护制度受到影响。这类争论反映出全球化时代国家责任与国际义务之间的张力。\nEnglish key expressions\nExpression\n中文理解\nborder management\n边境管理\nasylum seekers\n寻求庇护者\nimmigration policy\n移民政策\nhuman rights obligations\n人权义务\n🌟 2) Gender / Culture｜性别与文化\n联合国呼吁加强女性在气候决策中的参与\n联合国多个机构近日强调，女性往往最直接受到气候变化影响，却仍在许多环境决策体系中代表不足。研究显示，提高女性参与度有助于提升社区应对气候风险的能力。\nEnglish key expressions\nExpression\n中文理解\ngender-responsive policy\n性别回应型政策\nclimate resilience\n气候韧性\ndecision-making process\n决策过程\ncommunity leadership\n社区领导力\nStudy note\n在国际发展研究中：\nrepresentation 指谁能参与决策；\nparticipation 指如何参与决策；\n两者并不完全相同。\n文化机构重新审视“谁的历史被保存”\n全球多家博物馆和档案机构持续推进藏品去殖民化（decolonisation）项目，希望纳入更多女性、原住民与边缘群体的历史叙事。文化记忆越来越被视为一个公共议题，而非单纯的学术问题。\nEnglish key expressions\nExpression\n中文理解\ncultural heritage\n文化遗产\nhistorical narrative\n历史叙事\ndecolonisation\n去殖民化\ncollective memory\n集体记忆\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\n艺术世界继续关注“公共空间中的艺术”\n今年夏季欧洲多地艺术节将作品带出美术馆，进入街道、公园与社区空间。策展人认为，艺术不仅属于机构，也属于日常生活中的公共讨论。\nEnglish key expressions\nExpression\n中文理解\npublic art\n公共艺术\nsite-specific work\n场域特定作品\ncommunity engagement\n社区参与\nurban space\n城市空间\n时尚行业关注可持续生产\n越来越多品牌将注意力转向供应链透明度、纺织废弃物回收以及环保材料。时尚报道中的关键词正在从“潮流”逐渐扩展到“责任”。\nEnglish key expressions\nExpression\n中文理解\nsustainable fashion\n可持续时尚\nsupply chain transparency\n供应链透明度\nrecycled materials\n再生材料\nethical production\n伦理生产\nMini thought\n时尚不仅创造风格，也反映社会对于劳动、环境和消费的理解。\n🌟 4) AI / Tech｜AI 与科技\nAI产业开始面对能源消耗问题\n随着大型模型持续扩张，越来越多研究关注AI系统带来的能源需求。数据中心建设速度不断加快，同时也引发关于电力供应、碳排放和可持续发展的讨论。\nEnglish key expressions\nExpression\n中文理解\nenergy consumption\n能源消耗\ndata center expansion\n数据中心扩张\nelectricity demand\n电力需求\ncarbon footprint\n碳足迹\nUseful sentence\nThe growth of AI is increasing demand for energy infrastructure.\nAI的发展正在增加对能源基础设施的需求。\n全球AI治理讨论持续推进\n各国政府与国际组织仍在探索如何制定AI规则，包括透明度、数据保护、责任归属以及风险评估等问题。未来几年，AI治理可能与技术创新本身同样重要。\nEnglish key expressions\nExpression\n中文理解\nAI governance\nAI治理\nrisk assessment\n风险评估\nregulatory framework\n监管框架\naccountability\n问责机制\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nMany of today’s challenges cross national borders. Climate change, migration, artificial intelligence, and public health cannot be solved by one country alone. At the same time, different societies often have different priorities and values. The task of global governance is not to eliminate these differences, but to find ways for people to cooperate despite them.\n中文翻译\n今天许多挑战都跨越国界。气候变化、移民、人工智能和公共卫生问题都无法由单一国家独自解决。与此同时，不同社会又拥有不同的优先事项和价值观。全球治理的任务并不是消除这些差异，而是在差异存在的情况下寻找合作的可能。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\ndisplacement\n流离失所；被迫离开家园\nConflict has caused large-scale displacement across the region.\nasylum\n庇护；政治避难\nThe family applied for asylum after fleeing violence.\nresilience\n韧性；应对冲击并恢复的能力\nCommunity resilience is important during climate crises.\nheritage\n遗产；文化遗产\nMuseums play a role in preserving cultural heritage.\naccountability\n问责机制；责任承担\nExperts are calling for greater accountability in AI systems.\ntransparency\n透明度\nConsumers increasingly demand supply chain transparency.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：理解世界，并不意味着拥有所有答案，而是学会看见彼此之间的联系。 🌿"
+  "sources": [
+    {
+      "label": "The Guardian — US federal judge blocks Alabama from executing man by nitrogen gas",
+      "url": "https://www.theguardian.com/us-news/2026/jun/09/alabama-execution-judge-ruling"
+    },
+    {
+      "label": "The Guardian — Trump meets Johnson as outcry over Bill Pulte threatens Fisa renewal",
+      "url": "https://www.theguardian.com/us-news/2026/jun/09/trump-johnson-surveillance-law"
+    },
+    {
+      "label": "The Guardian — Staff at immigration detention centre wore England flags, report finds",
+      "url": "https://www.theguardian.com/society/2026/jun/10/staff-immigration-detention-centre-england-flags"
+    },
+    {
+      "label": "The Guardian — Grim reality of prison conditions laid bare in damning report",
+      "url": "https://www.theguardian.com/society/2026/jun/10/grim-reality-of-prison-conditions-laid-bare-in-damning-report"
+    },
+    {
+      "label": "The Guardian — Project a Black Planet review: spits out dreary academic theory where it should sing",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/10/project-a-black-planet-review-barbican-london"
+    },
+    {
+      "label": "The Guardian — Best Medicine review – this US remake of Doc Martin is perfect rubbish … and you need it in your life",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/09/best-medicine-review-us-remake-doc-martin-perfect-rubbish"
+    },
+    {
+      "label": "The Guardian — Concerns over US company’s gas fracking plan for world’s most intact tropical savanna in WA revealed",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/10/wa-fracking-gas-us-company-federal-environment-department-concern"
+    },
+    {
+      "label": "The Guardian — Crackdown on tech platforms will go ahead despite US intervention, says No 10",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月9日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
 }

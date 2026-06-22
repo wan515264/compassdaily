@@ -20,7 +20,7 @@
         <a href="#archive">往期归档<span>Archive</span></a>
         <a href="#about">关于<span>About</span></a>
       </nav>
-      <button class="moon-button" id="themeSwitch" type="button" aria-label="Toggle light and dark theme" aria-pressed="false">
+      <button class="moon-button" id="themeSwitch" type="button" data-theme-toggle aria-label="Toggle light and dark theme" aria-pressed="false">
         <span class="theme-icon" aria-hidden="true">☾</span>
       </button>
     </header>
@@ -73,16 +73,35 @@
         <div class="section-kicker">往期小报 / Archive</div>
         <div class="archive-heading">
           <div>
-            <h2 id="archiveTitle">Library Catalogue</h2>
-            <p>Search by date, theme, or tag.</p>
+            <h2 id="archiveTitle">Magical Archive<br /><span>星历档案</span></h2>
+            <p>Browse past briefings by date.<br />按日期查看过去的小报。</p>
           </div>
           <label class="archive-search">
             <span>Search archive</span>
             <input id="archiveSearch" type="search" placeholder="搜索日期、主题或关键词..." autocomplete="off" />
           </label>
-          <button class="filter-button" type="button" aria-label="筛选归档">筛选 / Filter</button>
         </div>
         <div class="archive-grid" id="archiveList"></div>
+        <button class="archive-expand-button" id="archiveToggle" type="button" hidden>查看全部星历 / View full archive</button>
+      </section>
+
+      <section id="site-notes" class="page-section site-notes-section" aria-labelledby="site-notes-title">
+        <button class="site-notes-toggle" id="siteNotesToggle" type="button" aria-expanded="false" aria-controls="site-notes-content">
+          <span>
+            <span class="eyebrow">Project Ledger</span>
+            <span id="site-notes-title" class="site-notes-heading">Site Notes｜站点札记</span>
+          </span>
+          <span class="site-notes-count" id="siteNotesCount">Loading...</span>
+        </button>
+        <div class="site-notes-content" id="site-notes-content" hidden>
+          <p class="site-notes-subtitle">
+            Recent changes to The Daily Compass.<br />
+            《每日罗盘》的近期更新。
+          </p>
+          <div id="update-log-list" aria-live="polite">
+            <p class="site-notes-empty">Loading updates...</p>
+          </div>
+        </div>
       </section>
 
       <section class="page-section about-section" id="about" aria-labelledby="aboutTitle">

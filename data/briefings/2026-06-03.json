@@ -2,63 +2,55 @@
   "date": "2026-06-03",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "",
-  "introChinese": "",
+  "theme": "公共生活、社会平等、文化表达与技术治理",
+  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "中东局势牵动全球能源市场，油价持续波动",
-          "summaryChinese": "市场正密切关注美国与伊朗之间的最新接触进展。由于霍尔木兹海峡运输安全及地区局势仍存在不确定性，国际油价本周出现上涨。分析人士指出，能源市场如今对地缘政治信号异常敏感。",
+          "title": "Guardian报道｜‘Every year I get new pictures’: the fight to preserve the memory of Tiananmen",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Amid growing censorship at home under the rule of Xi Jinping, efforts to document the massacre of 4 June, 1989, are intensifying abroad",
           "englishExpressions": [
             {
-              "expression": "geopolitical uncertainty",
-              "meaningChinese": "地缘政治不确定性",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "energy markets",
-              "meaningChinese": "能源市场",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "oil supply disruption",
-              "meaningChinese": "石油供应中断",
-              "example": ""
-            },
-            {
-              "expression": "on edge",
-              "meaningChinese": "处于紧张状态",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
-          "studyNote": "Mini sentence\nGlobal markets remain on edge as political developments affect energy supplies."
+          "studyNote": ""
         },
         {
-          "title": "随着政治局势影响能源供应，全球市场仍保持高度警惕。⸻",
-          "summaryChinese": "“风险时代”成为国际治理关键词\n从能源、供应链到安全议题，国际媒体越来越频繁地使用 risk management（风险管理） 这一概念。与过去追求稳定不同，许多国家正转向管理长期不确定性与复杂风险。",
+          "title": "Guardian报道｜Starmer’s chief secretary consoled Mandelson after dismissal as US ambassador, undisclosed texts show",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Darren Jones’s messages include requests for advice on the reshuffle and remarks about former business secretary Jonathan Reynolds",
           "englishExpressions": [
             {
-              "expression": "risk management",
-              "meaningChinese": "风险管理",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "resilience",
-              "meaningChinese": "韧性",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "long-term planning",
-              "meaningChinese": "长期规划",
-              "example": ""
-            },
-            {
-              "expression": "global interconnectedness",
-              "meaningChinese": "全球相互关联性",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
           "studyNote": ""
@@ -70,88 +62,99 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "“法律平等”与“现实平等”之间仍有距离",
-          "summaryChinese": "联合国妇女署（UN Women）今年发布的数据再次引发讨论：尽管过去几十年女性权利取得明显进展，但世界上尚无国家实现对女性与女孩的完全法律平等。专家指出，法律改革之外，文化观念、家庭分工与经济结构同样影响性别平等进程。",
+          "title": "Guardian报道｜Life-prolonging drug for advanced ovarian cancer gets go-ahead in England",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "Elahere is first new drug for chemotherapy-resistant ovarian cancer to be approved by NHS for 20 years",
           "englishExpressions": [
             {
-              "expression": "legal equality",
-              "meaningChinese": "法律平等",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "gender-based barriers",
-              "meaningChinese": "基于性别的障碍",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "structural inequality",
-              "meaningChinese": "结构性不平等",
-              "example": ""
-            },
-            {
-              "expression": "equal opportunities",
-              "meaningChinese": "平等机会",
-              "example": ""
-            }
-          ],
-          "studyNote": "Study note\n英语学术写作里经常区分：\nequality（平等）\nequity（公平）Equality 强调相同待遇；\nEquity 更强调根据现实差异进行资源调整，实现实质公平。⸻"
-        }
-      ]
-    },
-    {
-      "id": "art-media",
-      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
-      "items": [
-        {
-          "title": "Briefing item",
-          "summaryChinese": "CFDA/Vogue Fashion Fund 公布2026年度入围设计师\n美国时尚界重要奖项 CFDA/Vogue Fashion Fund 公布今年10位决赛设计师名单。评论认为，今年入围者展现出更明显的多元文化背景与跨领域创作倾向，反映出当代时尚越来越重视身份、叙事与工艺之间的结合。",
-          "englishExpressions": [
-            {
-              "expression": "emerging designer",
-              "meaningChinese": "新锐设计师",
-              "example": ""
-            },
-            {
-              "expression": "creative vision",
-              "meaningChinese": "创作理念",
-              "example": ""
-            },
-            {
-              "expression": "craftsmanship",
-              "meaningChinese": "工艺精神",
-              "example": ""
-            },
-            {
-              "expression": "cultural storytelling",
-              "meaningChinese": "文化叙事",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
             }
           ],
           "studyNote": ""
         },
         {
-          "title": "影视与时尚的边界持续模糊",
-          "summaryChinese": "Vogue 本周关注多部即将播出的电视剧，指出影视作品正在越来越直接地影响年轻人的穿搭风格与消费选择。角色形象、演员个人风格与社交媒体传播，共同构成新的流行趋势形成机制。",
+          "title": "Guardian报道｜Hospitals in England ranking highly for empathy ‘have better patient outcomes’",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "Research suggests NHS trusts with higher empathy ratings also benefit financially and have improved staff wellbeing",
           "englishExpressions": [
             {
-              "expression": "trend-setting",
-              "meaningChinese": "引领潮流的",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "audience engagement",
-              "meaningChinese": "观众参与度",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "visual identity",
-              "meaningChinese": "视觉身份",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
+            }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Guardian报道｜Savage House review – Claire Foy and Richard E Grant sell it hard in bewigged 18th-century caper",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "The leads are the most watchable thing in this raucous period yarn about a grimy pair of status-obsessed nobles",
+          "englishExpressions": [
+            {
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
             },
             {
-              "expression": "cultural influence",
-              "meaningChinese": "文化影响力",
-              "example": ""
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
+            },
+            {
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜Shia LaBeouf pleads guilty to battery charges over New Orleans bar incident",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "Actor sentenced to probation for incident in which he attacked three men and yelled homophobic slurs, according to witnesses",
+          "englishExpressions": [
+            {
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
+            },
+            {
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
+            },
+            {
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
             }
           ],
           "studyNote": ""
@@ -160,56 +163,50 @@
     },
     {
       "id": "ai-tech",
-      "heading": "AI 与科技 / AI & Tech",
+      "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Briefing item",
-          "summaryChinese": "AI 基础设施竞赛进入新阶段\nAlphabet（Google 母公司）宣布筹集约800亿美元用于AI基础设施建设，引发市场广泛关注。与此同时，数据中心、电力供应与算力需求正成为全球科技产业最核心的话题之一。分析认为，AI竞争已从模型能力扩展到能源与基础设施能力。\n在台北 Computex 期间，Intel CEO Lip-Bu Tan 表示，公司未来将重点布局从个人电脑、边缘AI到数据中心的完整生态系统，而非单纯依赖单一芯片业务。",
+          "title": "Guardian报道｜Colorado governor vetoes block on surveillance pricing as other states push for bans",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers",
           "englishExpressions": [
             {
-              "expression": "AI infrastructure",
-              "meaningChinese": "AI基础设施",
-              "example": ""
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "computing power",
-              "meaningChinese": "算力",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "capital expenditure (capex)",
-              "meaningChinese": "资本支出",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
+            }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜Labour MP sues Elon Musk’s xAI company over fake sexualised images",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures",
+          "englishExpressions": [
+            {
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "data center expansion",
-              "meaningChinese": "数据中心扩建",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "Intel",
-              "meaningChinese": "强调“完整AI生态系统”战略",
-              "example": ""
-            },
-            {
-              "expression": "AI ecosystem",
-              "meaningChinese": "AI生态系统",
-              "example": ""
-            },
-            {
-              "expression": "edge AI",
-              "meaningChinese": "边缘人工智能",
-              "example": ""
-            },
-            {
-              "expression": "full-stack strategy",
-              "meaningChinese": "全栈战略",
-              "example": ""
-            },
-            {
-              "expression": "generational opportunity",
-              "meaningChinese": "时代级机遇",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
             }
           ],
           "studyNote": ""
@@ -218,57 +215,94 @@
     }
   ],
   "englishParagraph": {
-    "english": "A common thread running through today’s news is the importance of infrastructure. Infrastructure is not only physical, such as data centers, energy networks, or transportation systems. It can also be social and cultural, including laws, institutions, and shared values. The systems we build often shape the possibilities available to future generations long after the headlines fade.",
-    "chinese": "今天许多新闻背后有一个共同主题：基础设施的重要性。基础设施不仅是数据中心、能源网络或交通系统这样的物理设施，也包括法律、制度以及共同价值观等社会文化基础设施。我们今天建设的系统，往往会在新闻热度消退之后，继续塑造未来几代人的可能性。\n⸻"
+    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
+    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
   },
   "keywords": [
     {
+      "word": "public life",
+      "meaning": "公共生活",
+      "example": "Technology is becoming part of everyday public life."
+    },
+    {
+      "word": "institution",
+      "meaning": "制度；机构",
+      "example": "Public institutions shape access and responsibility."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被社会看见和承认",
+      "example": "Media coverage can increase public visibility."
+    },
+    {
+      "word": "oversight",
+      "meaning": "监督；监管",
+      "example": "Powerful systems require independent oversight."
+    },
+    {
+      "word": "accountability",
+      "meaning": "问责；责任归属",
+      "example": "Accountability depends on clear evidence and rules."
+    },
+    {
       "word": "infrastructure",
-      "meaning": "基础设施；支撑系统",
-      "example": "AI development requires massive infrastructure investment."
-    },
-    {
-      "word": "resilience",
-      "meaning": "韧性；恢复能力",
-      "example": "Communities need resilience during uncertain times."
-    },
-    {
-      "word": "equity",
-      "meaning": "公平；实质平等",
-      "example": "Equity focuses on fair outcomes rather than identical treatment."
-    },
-    {
-      "word": "craftsmanship",
-      "meaning": "工艺；匠心",
-      "example": "The collection highlights exceptional craftsmanship."
-    },
-    {
-      "word": "ecosystem",
-      "meaning": "生态系统",
-      "example": "Companies are competing to build complete AI ecosystems."
-    },
-    {
-      "word": "interconnectedness",
-      "meaning": "相互关联性",
-      "example": "Global interconnectedness makes local events internationally significant.⸻"
+      "meaning": "基础设施；支撑社会运行的系统",
+      "example": "Digital infrastructure influences work and communication."
     }
   ],
   "sentenceLab": {
-    "sentence": "",
-    "analysisChinese": ""
+    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
+    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
   },
   "reflection": {
-    "english": "",
-    "chinese": "有些变化来自突发事件，有些变化则悄悄发生在制度、语言和技术之中。读新闻时，也别忘了看看那些正在缓慢塑造未来的“基础设施”。 🌿"
+    "english": "A daily event becomes easier to understand when we can see the system around it.",
+    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
   },
   "tags": [
-    "AI",
-    "technology",
+    "global",
     "gender",
     "culture",
-    "global",
-    "climate"
+    "art",
+    "media",
+    "AI",
+    "technology",
+    "public life",
+    "systems",
+    "responsibility"
   ],
-  "sources": [],
-  "rawText": "推送日期｜2026年6月3日\n★ Global News｜国际新闻\n中东局势牵动全球能源市场，油价持续波动\n市场正密切关注美国与伊朗之间的最新接触进展。由于霍尔木兹海峡运输安全及地区局势仍存在不确定性，国际油价本周出现上涨。分析人士指出，能源市场如今对地缘政治信号异常敏感。  ￼\nEnglish key expressions\ngeopolitical uncertainty：地缘政治不确定性\nenergy markets：能源市场\noil supply disruption：石油供应中断\non edge：处于紧张状态\nMini sentence\nGlobal markets remain on edge as political developments affect energy supplies.\n随着政治局势影响能源供应，全球市场仍保持高度警惕。⸻\n“风险时代”成为国际治理关键词\n从能源、供应链到安全议题，国际媒体越来越频繁地使用 risk management（风险管理） 这一概念。与过去追求稳定不同，许多国家正转向管理长期不确定性与复杂风险。  ￼\nEnglish key expressions\nrisk management：风险管理\nresilience：韧性\nlong-term planning：长期规划\nglobal interconnectedness：全球相互关联性\n⸻\n★ Gender / Culture｜性别与文化\n“法律平等”与“现实平等”之间仍有距离\n联合国妇女署（UN Women）今年发布的数据再次引发讨论：尽管过去几十年女性权利取得明显进展，但世界上尚无国家实现对女性与女孩的完全法律平等。专家指出，法律改革之外，文化观念、家庭分工与经济结构同样影响性别平等进程。  ￼\nEnglish key expressions\nlegal equality：法律平等\ngender-based barriers：基于性别的障碍\nstructural inequality：结构性不平等\nequal opportunities：平等机会\nStudy note\n英语学术写作里经常区分：\nequality（平等）\nequity（公平）Equality 强调相同待遇；\nEquity 更强调根据现实差异进行资源调整，实现实质公平。⸻\n★ Art / Fashion / Media｜艺术、时尚与媒体\nCFDA/Vogue Fashion Fund 公布2026年度入围设计师\n美国时尚界重要奖项 CFDA/Vogue Fashion Fund 公布今年10位决赛设计师名单。评论认为，今年入围者展现出更明显的多元文化背景与跨领域创作倾向，反映出当代时尚越来越重视身份、叙事与工艺之间的结合。  ￼\nEnglish key expressions\nemerging designer：新锐设计师\ncreative vision：创作理念\ncraftsmanship：工艺精神\ncultural storytelling：文化叙事\n⸻\n影视与时尚的边界持续模糊\nVogue 本周关注多部即将播出的电视剧，指出影视作品正在越来越直接地影响年轻人的穿搭风格与消费选择。角色形象、演员个人风格与社交媒体传播，共同构成新的流行趋势形成机制。  ￼\nEnglish key expressions\ntrend-setting：引领潮流的\naudience engagement：观众参与度\nvisual identity：视觉身份\ncultural influence：文化影响力\n⸻\n★ AI / Tech｜AI与科技\nAI 基础设施竞赛进入新阶段\nAlphabet（Google 母公司）宣布筹集约800亿美元用于AI基础设施建设，引发市场广泛关注。与此同时，数据中心、电力供应与算力需求正成为全球科技产业最核心的话题之一。分析认为，AI竞争已从模型能力扩展到能源与基础设施能力。  ￼\nEnglish key expressions\nAI infrastructure：AI基础设施\ncomputing power：算力\ncapital expenditure (capex)：资本支出\ndata center expansion：数据中心扩建\n⸻\nIntel 强调“完整AI生态系统”战略\n在台北 Computex 期间，Intel CEO Lip-Bu Tan 表示，公司未来将重点布局从个人电脑、边缘AI到数据中心的完整生态系统，而非单纯依赖单一芯片业务。  ￼\nEnglish key expressions\nAI ecosystem：AI生态系统\nedge AI：边缘人工智能\nfull-stack strategy：全栈战略\ngenerational opportunity：时代级机遇\n⸻\n★ One English Paragraph｜一段英文精读\nA common thread running through today’s news is the importance of infrastructure. Infrastructure is not only physical, such as data centers, energy networks, or transportation systems. It can also be social and cultural, including laws, institutions, and shared values. The systems we build often shape the possibilities available to future generations long after the headlines fade.\n中文翻译\n今天许多新闻背后有一个共同主题：基础设施的重要性。基础设施不仅是数据中心、能源网络或交通系统这样的物理设施，也包括法律、制度以及共同价值观等社会文化基础设施。我们今天建设的系统，往往会在新闻热度消退之后，继续塑造未来几代人的可能性。\n⸻\n★ Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample Sentence\ninfrastructure\n基础设施；支撑系统\nAI development requires massive infrastructure investment.\nresilience\n韧性；恢复能力\nCommunities need resilience during uncertain times.\nequity\n公平；实质平等\nEquity focuses on fair outcomes rather than identical treatment.\ncraftsmanship\n工艺；匠心\nThe collection highlights exceptional craftsmanship.\necosystem\n生态系统\nCompanies are competing to build complete AI ecosystems.\ninterconnectedness\n相互关联性\nGlobal interconnectedness makes local events internationally significant.⸻\n★ Morning Reflection｜晨间小记\n有些变化来自突发事件，有些变化则悄悄发生在制度、语言和技术之中。读新闻时，也别忘了看看那些正在缓慢塑造未来的“基础设施”。 🌿"
+  "sources": [
+    {
+      "label": "The Guardian — ‘Every year I get new pictures’: the fight to preserve the memory of Tiananmen",
+      "url": "https://www.theguardian.com/world/2026/jun/04/tiananmen-square-massacre-preserving-memory"
+    },
+    {
+      "label": "The Guardian — Starmer’s chief secretary consoled Mandelson after dismissal as US ambassador, undisclosed texts show",
+      "url": "https://www.theguardian.com/politics/2026/jun/04/starmer-darren-jones-peter-mandelson-us-ambassador-texts"
+    },
+    {
+      "label": "The Guardian — Life-prolonging drug for advanced ovarian cancer gets go-ahead in England",
+      "url": "https://www.theguardian.com/society/2026/jun/04/elahere-ovarian-cancer-drug-nhs-england"
+    },
+    {
+      "label": "The Guardian — Hospitals in England ranking highly for empathy ‘have better patient outcomes’",
+      "url": "https://www.theguardian.com/society/2026/jun/04/hospitals-nhs-trusts-england-empathy-patient-outcomes-staff-wellbeing"
+    },
+    {
+      "label": "The Guardian — Savage House review – Claire Foy and Richard E Grant sell it hard in bewigged 18th-century caper",
+      "url": "https://www.theguardian.com/film/2026/jun/04/savage-house-review-claire-foy-richard-e-grant"
+    },
+    {
+      "label": "The Guardian — Shia LaBeouf pleads guilty to battery charges over New Orleans bar incident",
+      "url": "https://www.theguardian.com/film/2026/jun/03/shia-labeouf-pleads-guilty-battery-charges-new-orleans"
+    },
+    {
+      "label": "The Guardian — Colorado governor vetoes block on surveillance pricing as other states push for bans",
+      "url": "https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing"
+    },
+    {
+      "label": "The Guardian — Labour MP sues Elon Musk’s xAI company over fake sexualised images",
+      "url": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月3日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
 }

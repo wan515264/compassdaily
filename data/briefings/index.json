@@ -1,140 +1,404 @@
 [
   {
-    "date": "2026-06-10",
+    "date": "2026-06-21",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "数字主权、平台权力、性别行动、公共利益与AI未来",
-    "file": "2026-06-10.json",
+    "theme": "预防、余波与可见性：哥伦比亚选举、美伊紧张、照护型父职、和平建设与数字诈骗",
+    "file": "2026-06-21.json",
     "tags": [
-      "AI",
+      "global",
+      "Colombia",
+      "Iran",
+      "election",
+      "peace",
+      "gender",
+      "fatherhood",
+      "caregiving",
+      "Lebanon",
+      "conservation",
+      "media literacy",
+      "verification",
       "technology",
+      "Cambodia",
+      "scams",
+      "trafficking"
+    ]
+  },
+  {
+    "date": "2026-06-20",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "抵达、修复与机会：苏丹风险、埃博拉应对、残障体育、文化基础设施与全球南方创新",
+    "file": "2026-06-20.json",
+    "tags": [
+      "global",
+      "Sudan",
+      "Ebola",
+      "public health",
+      "humanitarian access",
+      "disability",
+      "Special Olympics",
+      "Paralympics",
+      "culture",
+      "Kennedy Center",
+      "technology",
+      "Global South",
+      "innovation",
+      "equity"
+    ]
+  },
+  {
+    "date": "2026-06-19",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "照护、记忆与公平：难民、公共卫生、Juneteenth、文化反仇恨与新闻内容补偿",
+    "file": "2026-06-19.json",
+    "tags": [
+      "global",
+      "refugees",
+      "public health",
+      "Ebola",
+      "gender",
+      "financial inclusion",
+      "Juneteenth",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "fair compensation",
+      "governance"
+    ]
+  },
+  {
+    "date": "2026-06-18",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "核查、可见性与支持：伊朗协议、气候冲击、Pride、媒体平等、文化记忆与AI语言",
+    "file": "2026-06-18.json",
+    "tags": [
+      "global",
+      "Iran",
+      "climate",
+      "verification",
+      "gender",
+      "LGBTQ",
+      "Pride",
+      "media",
+      "visibility",
+      "culture",
+      "food",
+      "AI",
+      "writing",
+      "governance"
+    ]
+  },
+  {
+    "date": "2026-06-17",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "可见性、基础设施、G7峰会、关键矿产、Pride政治、AI治理与制造业",
+    "file": "2026-06-17.json",
+    "tags": [
+      "global",
+      "G7",
+      "Ukraine",
+      "energy",
+      "critical minerals",
+      "visibility",
       "gender",
       "culture",
+      "AI",
+      "technology",
+      "infrastructure",
+      "governance"
+    ]
+  },
+  {
+    "date": "2026-06-16",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "主权、照护与叙事权：海地安全、伊朗协议、平等薪酬、文化记忆、AI依赖与数据中心污染",
+    "file": "2026-06-16.json",
+    "tags": [
       "global",
-      "climate"
+      "Haiti",
+      "Iran",
+      "security",
+      "gender",
+      "equal pay",
+      "healthcare",
+      "culture",
+      "art",
+      "fashion",
+      "AI",
+      "Palantir",
+      "data centers",
+      "sovereignty",
+      "environmental justice"
+    ]
+  },
+  {
+    "date": "2026-06-15",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
+    "file": "2026-06-15.json",
+    "tags": [
+      "global",
+      "gender",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
+    ]
+  },
+  {
+    "date": "2026-06-14",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
+    "file": "2026-06-14.json",
+    "tags": [
+      "global",
+      "gender",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
+    ]
+  },
+  {
+    "date": "2026-06-13",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
+    "file": "2026-06-13.json",
+    "tags": [
+      "global",
+      "gender",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
+    ]
+  },
+  {
+    "date": "2026-06-12",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
+    "file": "2026-06-12.json",
+    "tags": [
+      "global",
+      "gender",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
+    ]
+  },
+  {
+    "date": "2026-06-11",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
+    "file": "2026-06-11.json",
+    "tags": [
+      "global",
+      "gender",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
+    ]
+  },
+  {
+    "date": "2026-06-10",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
+    "file": "2026-06-10.json",
+    "tags": [
+      "global",
+      "gender",
+      "culture",
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-09",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "移民政策、文化遗产、女性领导力、AI能源消耗与全球治理",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-09.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global",
-      "climate"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-08",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "数字主权、技术依赖、性别暴力、文化空间与未来治理",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-08.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-07",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "技术主权、数字依赖、性别正义、文化空间与AI治理",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-07.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global",
-      "climate"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-06",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "技术主权、AI竞争、文化记忆、性别平等与基础设施政治",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-06.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-05",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "AI 监管、技术主权、性别暴力、艺术可及性、基础设施与社会风险",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-05.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global",
-      "climate"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-04",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "停火谈判、极端高温、性别暴力、文化可及性、AI 基础设施与技术主权",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-04.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global",
-      "climate"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-03",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-03.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global",
-      "climate"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-02",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-02.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global",
-      "climate"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {
     "date": "2026-06-01",
     "title": "The Daily Compass｜每日罗盘",
-    "theme": "",
+    "theme": "公共生活、社会平等、文化表达与技术治理",
     "file": "2026-06-01.json",
     "tags": [
-      "AI",
-      "technology",
+      "global",
       "gender",
       "culture",
-      "global",
-      "climate"
+      "art",
+      "media",
+      "AI",
+      "technology",
+      "public life",
+      "systems",
+      "responsibility"
     ]
   },
   {

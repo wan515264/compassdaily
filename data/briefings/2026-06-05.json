@@ -2,63 +2,55 @@
   "date": "2026-06-05",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "AI 监管、技术主权、性别暴力、艺术可及性、基础设施与社会风险",
-  "introChinese": "今天这份小报的关键词是：AI 监管、技术主权、性别暴力、艺术可及性、基础设施与社会风险。今天的新闻都在提醒我们：所谓“系统”，常常藏在看似单独的事件背后。",
+  "theme": "公共生活、社会平等、文化表达与技术治理",
+  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "中东：美伊停火方案仍在僵持中",
-          "summaryChinese": "路透社报道，伊朗仍在研究一项由美国提出、旨在停止冲突的协议方案；美国方面则表示谈判仍在持续。这个新闻值得关注，不只是因为地区安全，也因为中东局势会牵动能源价格、国际市场和外交联盟。",
+          "title": "Guardian报道｜California governor’s race: DoJ sends in federal observer over slow count",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Experts warn ballot-counting could drag on in primaries for governor, LA mayor and Congress, as Trump claims ‘rigging’",
           "englishExpressions": [
             {
-              "expression": "ceasefire deal",
-              "meaningChinese": "停火协议",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "peace negotiations",
-              "meaningChinese": "和平谈判",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "diplomatic stalemate",
-              "meaningChinese": "外交僵局",
-              "example": ""
-            },
-            {
-              "expression": "regional security",
-              "meaningChinese": "地区安全",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
-          "studyNote": "Useful sentence\nThe proposed ceasefire deal is still under review.\n这项停火协议提案仍在审议中。"
+          "studyNote": ""
         },
         {
-          "title": "欧洲：欧盟继续推动“欧洲制造”的科技政策",
-          "summaryChinese": "欧盟委员会提出新法案，试图扶持本土云计算、AI 和半导体产业，减少对美国大型科技公司的依赖。这类政策背后有一个重要词：tech sovereignty，也就是技术主权。它不仅关乎技术，也关乎谁控制数据、基础设施和公共部门的数字系统。",
+          "title": "Guardian报道｜Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler",
+          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+          "correspondingEnglish": "Case draws nationwide attention amid debate over racial tensions, as defendant is Black and slain student was white",
           "englishExpressions": [
             {
-              "expression": "tech sovereignty",
-              "meaningChinese": "技术主权",
-              "example": ""
+              "expression": "public response",
+              "meaningChinese": "公共回应",
+              "example": "The story prompted a wider public response."
             },
             {
-              "expression": "domestic industry",
-              "meaningChinese": "本土产业",
-              "example": ""
+              "expression": "political pressure",
+              "meaningChinese": "政治压力",
+              "example": "Political pressure continued to shape the debate."
             },
             {
-              "expression": "reduce reliance on",
-              "meaningChinese": "减少对……的依赖",
-              "example": ""
-            },
-            {
-              "expression": "strategic autonomy",
-              "meaningChinese": "战略自主",
-              "example": ""
+              "expression": "international concern",
+              "meaningChinese": "国际关切",
+              "example": "The issue has become a source of international concern."
             }
           ],
           "studyNote": ""
@@ -70,88 +62,99 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "阿根廷：两名少女遇害再次引发反性别暴力愤怒",
-          "summaryChinese": "《卫报》报道，阿根廷两名少女 Agostina Vega 和 Dulce Candia 近日遇害，引发公众愤怒，也再次把该国长期存在的 femicide crisis 推到舆论中心。报道指出，这些案件发生在年度 Ni Una Menos 抗议前后，抗议者批评政府削弱性别暴力防治机制。",
+          "title": "Guardian报道｜Essex woman jailed for life for poisoning baby son with cocktail of drugs",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "Emma Barnett killed her one-year-old after a court ruling he be taken away from her",
           "englishExpressions": [
             {
-              "expression": "gender-based violence",
-              "meaningChinese": "基于性别的暴力",
-              "example": ""
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
             },
             {
-              "expression": "femicide crisis",
-              "meaningChinese": "杀害女性危机",
-              "example": ""
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
             },
             {
-              "expression": "public outrage",
-              "meaningChinese": "公众愤怒",
-              "example": ""
-            },
-            {
-              "expression": "support systems",
-              "meaningChinese": "支持系统 / 援助机制",
-              "example": ""
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
             }
           ],
-          "studyNote": "Study note\nFemicide 不只是 “the murder of a woman”。它强调女性被杀与性别权力结构、厌女文化、亲密关系暴力或制度保护失效之间的联系。\nUseful sentence\nFeminist groups say the cases reveal systemic failures in protecting women and girls.\n女性主义团体表示，这些案件暴露了保护女性和女孩方面的系统性失灵。"
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜Robin Hartwell obituary",
+          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
+          "correspondingEnglish": "Other lives : Music lecturer at Liverpool Hope University with a passion for Stockhausen",
+          "englishExpressions": [
+            {
+              "expression": "equal access",
+              "meaningChinese": "平等机会；平等准入",
+              "example": "Equal access depends on more than formal rules."
+            },
+            {
+              "expression": "social recognition",
+              "meaningChinese": "社会承认",
+              "example": "Social recognition can change everyday experience."
+            },
+            {
+              "expression": "lived experience",
+              "meaningChinese": "切身经验",
+              "example": "Policy debates should include lived experience."
+            }
+          ],
+          "studyNote": ""
         }
       ]
     },
     {
       "id": "art-media",
-      "heading": "艺术、时尚与媒介 / Art, Fashion & Media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "伦敦艺术现场：画廊周与城市文化空间",
-          "summaryChinese": "《卫报》艺术版近期继续关注伦敦的当代艺术展览与画廊活动，其中 London Gallery Weekend 被视为观察城市艺术生态的重要窗口。画廊周不只是“看展”，也能让我们思考：谁能进入文化空间？哪些艺术家被展示？哪些议题被市场吸收？",
+          "title": "Guardian报道｜Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "British actor starred on the West End before finding international fame in the 90s on Buffy the Vampire Slayer",
           "englishExpressions": [
             {
-              "expression": "contemporary art scene",
-              "meaningChinese": "当代艺术生态",
-              "example": ""
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
             },
             {
-              "expression": "gallery weekend",
-              "meaningChinese": "画廊周",
-              "example": ""
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
             },
             {
-              "expression": "cultural access",
-              "meaningChinese": "文化可及性",
-              "example": ""
-            },
-            {
-              "expression": "public engagement",
-              "meaningChinese": "公众参与",
-              "example": ""
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
             }
           ],
-          "studyNote": "Mini thought\n艺术新闻有时不只是关于作品本身，也关于城市如何分配注意力、空间和资源。"
+          "studyNote": ""
         },
         {
-          "title": "时尚作为艺术：Met 展览继续引发讨论",
-          "summaryChinese": "年 Met 相关时尚展览以“fashion as art”为核心，把服装放进更广阔的艺术史与身体政治语境中讨论。这个角度很适合从性别研究视角阅读：衣服既是审美对象，也是身体、阶级、劳动和身份表达的交汇点。",
+          "title": "Guardian报道｜Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger",
+          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+          "correspondingEnglish": "The late actor was a charming and funny father figure, and sometime singer, in the cult TV show, one of his many roles that showed just how much he could do",
           "englishExpressions": [
             {
-              "expression": "fashion as art",
-              "meaningChinese": "作为艺术的时尚",
-              "example": ""
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Art can reshape cultural memory."
             },
             {
-              "expression": "Costume Institute",
-              "meaningChinese": "服装学院 / 服饰研究机构",
-              "example": ""
+              "expression": "creative practice",
+              "meaningChinese": "创作实践",
+              "example": "Creative practice responds to social change."
             },
             {
-              "expression": "visual culture",
-              "meaningChinese": "视觉文化",
-              "example": ""
-            },
-            {
-              "expression": "body politics",
-              "meaningChinese": "身体政治",
-              "example": ""
+              "expression": "public audience",
+              "meaningChinese": "公共观众",
+              "example": "The work invites a broader public audience."
             }
           ],
           "studyNote": ""
@@ -160,110 +163,146 @@
     },
     {
       "id": "ai-tech",
-      "heading": "AI 与科技 / AI & Tech",
+      "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "美国：两党议员提出 AI 监管草案，限制各州单独监管模型开发",
-          "summaryChinese": "路透社报道，美国众议院两名议员提出一项两党 AI 法案草案，试图禁止各州单独监管 AI 模型的开发，例如要求模型发布前测试。不过，各州仍可监管 AI 的具体使用方式。支持者认为全国统一标准有利于创新；批评者则担心它无法充分处理算法偏见、歧视、消费者欺诈和市场集中等问题。",
+          "title": "Guardian报道｜US added 172,000 jobs in May as labor market shows signs of resilience",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran war",
           "englishExpressions": [
             {
-              "expression": "AI regulation",
-              "meaningChinese": "AI 监管",
-              "example": ""
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
             },
             {
-              "expression": "pre-release testing",
-              "meaningChinese": "发布前测试",
-              "example": ""
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
             },
             {
-              "expression": "national framework",
-              "meaningChinese": "全国性框架",
-              "example": ""
-            },
-            {
-              "expression": "algorithmic bias",
-              "meaningChinese": "算法偏见",
-              "example": ""
-            },
-            {
-              "expression": "AI infrastructure boom",
-              "meaningChinese": "AI 基础设施热潮",
-              "example": ""
-            },
-            {
-              "expression": "debt markets",
-              "meaningChinese": "债务市场",
-              "example": ""
-            },
-            {
-              "expression": "data centers",
-              "meaningChinese": "数据中心",
-              "example": ""
-            },
-            {
-              "expression": "capital spending",
-              "meaningChinese": "资本支出",
-              "example": ""
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
             }
           ],
-          "studyNote": "Useful sentence\nThe draft bill reflects a broader struggle over who should regulate AI.\n这项法案草案反映出一个更大的争议：AI 应该由谁来监管？\nAI 基建热潮正在影响金融市场\n路透社分析称，AI 建设热潮不仅推高科技股，也开始影响债券市场。Meta、Oracle 等科技公司今年已在全球债务市场融资约 2500 亿美元，用于支撑数据中心和 AI 基础设施建设。AI 不再只是软件故事，它越来越像能源、地产、金融和供应链共同参与的基础设施故事。"
+          "studyNote": ""
+        },
+        {
+          "title": "Guardian报道｜Alien hunters update guidance on sharing news of possible intelligent life",
+          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
+          "correspondingEnglish": "Experts stress need for transparency while aiming to prevent premature announcements and protect scientists",
+          "englishExpressions": [
+            {
+              "expression": "digital infrastructure",
+              "meaningChinese": "数字基础设施",
+              "example": "Digital infrastructure shapes public life."
+            },
+            {
+              "expression": "public oversight",
+              "meaningChinese": "公共监督",
+              "example": "New technologies require public oversight."
+            },
+            {
+              "expression": "technological change",
+              "meaningChinese": "技术变化",
+              "example": "Technological change creates new social questions."
+            }
+          ],
+          "studyNote": ""
         }
       ]
     }
   ],
   "englishParagraph": {
-    "english": "Today’s news shows that power often appears through infrastructure. AI systems need data centers, chips, electricity, financing, and regulation. Cultural events need galleries, institutions, funding, and audiences. Protection against gender-based violence needs laws, shelters, reporting systems, and political will. To read the news carefully is to ask not only what happened, but also what structures made it possible.",
-    "chinese": "今天的新闻显示，权力常常通过基础设施显现出来。AI 系统需要数据中心、芯片、电力、融资和监管。文化活动需要画廊、机构、资金和观众。防止性别暴力需要法律、庇护所、报告系统和政治意愿。认真阅读新闻，不只是问“发生了什么”，也要问“是什么结构让它成为可能”。"
+    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
+    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
   },
   "keywords": [
     {
-      "word": "ceasefire",
-      "meaning": "停火；冲突双方暂时停止军事行动",
-      "example": "The two sides are still discussing a ceasefire."
+      "word": "public life",
+      "meaning": "公共生活",
+      "example": "Technology is becoming part of everyday public life."
     },
     {
-      "word": "sovereignty",
-      "meaning": "主权；自主控制权",
-      "example": "Tech sovereignty has become a major policy goal in Europe."
+      "word": "institution",
+      "meaning": "制度；机构",
+      "example": "Public institutions shape access and responsibility."
     },
     {
-      "word": "femicide",
-      "meaning": "女性因性别而被杀害，常与结构性暴力相关",
-      "example": "Activists described the case as femicide."
+      "word": "visibility",
+      "meaning": "可见性；被社会看见和承认",
+      "example": "Media coverage can increase public visibility."
+    },
+    {
+      "word": "oversight",
+      "meaning": "监督；监管",
+      "example": "Powerful systems require independent oversight."
+    },
+    {
+      "word": "accountability",
+      "meaning": "问责；责任归属",
+      "example": "Accountability depends on clear evidence and rules."
     },
     {
       "word": "infrastructure",
-      "meaning": "基础设施；支撑系统运行的物质与制度条件",
-      "example": "AI infrastructure requires enormous investment."
-    },
-    {
-      "word": "algorithmic bias",
-      "meaning": "算法偏见；算法系统中 reproduces inequality 的倾向",
-      "example": "Researchers warned that algorithmic bias can deepen discrimination."
-    },
-    {
-      "word": "public outrage",
-      "meaning": "公众愤怒；大规模社会不满",
-      "example": "The murders sparked public outrage across the country."
+      "meaning": "基础设施；支撑社会运行的系统",
+      "example": "Digital infrastructure influences work and communication."
     }
   ],
   "sentenceLab": {
-    "sentence": "",
-    "analysisChinese": ""
+    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
+    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
   },
   "reflection": {
-    "english": "",
-    "chinese": "今天的小报留给我们一句话：真正的新闻阅读，是在事件之外，看见制度、资源和沉默如何共同塑造世界。 🌿"
+    "english": "A daily event becomes easier to understand when we can see the system around it.",
+    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
   },
   "tags": [
-    "AI",
-    "technology",
+    "global",
     "gender",
     "culture",
-    "global",
-    "climate"
+    "art",
+    "media",
+    "AI",
+    "technology",
+    "public life",
+    "systems",
+    "responsibility"
   ],
-  "sources": [],
-  "rawText": "推送日期｜2026年6月5日\n🌟 Morning Daily Brief｜晨间双语小报\n今天这份小报的关键词是：AI 监管、技术主权、性别暴力、艺术可及性、基础设施与社会风险。今天的新闻都在提醒我们：所谓“系统”，常常藏在看似单独的事件背后。\n🌟 1) Global News｜全球新闻\n中东：美伊停火方案仍在僵持中\n路透社报道，伊朗仍在研究一项由美国提出、旨在停止冲突的协议方案；美国方面则表示谈判仍在持续。这个新闻值得关注，不只是因为地区安全，也因为中东局势会牵动能源价格、国际市场和外交联盟。\nEnglish key expressions\nExpression\n中文理解\nceasefire deal\n停火协议\npeace negotiations\n和平谈判\ndiplomatic stalemate\n外交僵局\nregional security\n地区安全\nUseful sentence\nThe proposed ceasefire deal is still under review.\n这项停火协议提案仍在审议中。\n欧洲：欧盟继续推动“欧洲制造”的科技政策\n欧盟委员会提出新法案，试图扶持本土云计算、AI 和半导体产业，减少对美国大型科技公司的依赖。这类政策背后有一个重要词：tech sovereignty，也就是技术主权。它不仅关乎技术，也关乎谁控制数据、基础设施和公共部门的数字系统。\nEnglish key expressions\nExpression\n中文理解\ntech sovereignty\n技术主权\ndomestic industry\n本土产业\nreduce reliance on\n减少对……的依赖\nstrategic autonomy\n战略自主\n🌟 2) Gender / Culture｜性别与文化\n阿根廷：两名少女遇害再次引发反性别暴力愤怒\n《卫报》报道，阿根廷两名少女 Agostina Vega 和 Dulce Candia 近日遇害，引发公众愤怒，也再次把该国长期存在的 femicide crisis 推到舆论中心。报道指出，这些案件发生在年度 Ni Una Menos 抗议前后，抗议者批评政府削弱性别暴力防治机制。\nEnglish key expressions\nExpression\n中文理解\ngender-based violence\n基于性别的暴力\nfemicide crisis\n杀害女性危机\npublic outrage\n公众愤怒\nsupport systems\n支持系统 / 援助机制\nStudy note\nFemicide 不只是 “the murder of a woman”。它强调女性被杀与性别权力结构、厌女文化、亲密关系暴力或制度保护失效之间的联系。\nUseful sentence\nFeminist groups say the cases reveal systemic failures in protecting women and girls.\n女性主义团体表示，这些案件暴露了保护女性和女孩方面的系统性失灵。\n🌟 3) Art / Fashion / Media｜艺术、时尚与媒体\n伦敦艺术现场：画廊周与城市文化空间\n《卫报》艺术版近期继续关注伦敦的当代艺术展览与画廊活动，其中 London Gallery Weekend 被视为观察城市艺术生态的重要窗口。画廊周不只是“看展”，也能让我们思考：谁能进入文化空间？哪些艺术家被展示？哪些议题被市场吸收？\nEnglish key expressions\nExpression\n中文理解\ncontemporary art scene\n当代艺术生态\ngallery weekend\n画廊周\ncultural access\n文化可及性\npublic engagement\n公众参与\nMini thought\n艺术新闻有时不只是关于作品本身，也关于城市如何分配注意力、空间和资源。\n时尚作为艺术：Met 展览继续引发讨论\n2026 年 Met 相关时尚展览以“fashion as art”为核心，把服装放进更广阔的艺术史与身体政治语境中讨论。这个角度很适合从性别研究视角阅读：衣服既是审美对象，也是身体、阶级、劳动和身份表达的交汇点。\nEnglish key expressions\nExpression\n中文理解\nfashion as art\n作为艺术的时尚\nCostume Institute\n服装学院 / 服饰研究机构\nvisual culture\n视觉文化\nbody politics\n身体政治\n🌟 4) AI / Tech｜AI 与科技\n美国：两党议员提出 AI 监管草案，限制各州单独监管模型开发\n路透社报道，美国众议院两名议员提出一项两党 AI 法案草案，试图禁止各州单独监管 AI 模型的开发，例如要求模型发布前测试。不过，各州仍可监管 AI 的具体使用方式。支持者认为全国统一标准有利于创新；批评者则担心它无法充分处理算法偏见、歧视、消费者欺诈和市场集中等问题。\nEnglish key expressions\nExpression\n中文理解\nAI regulation\nAI 监管\npre-release testing\n发布前测试\nnational framework\n全国性框架\nalgorithmic bias\n算法偏见\nUseful sentence\nThe draft bill reflects a broader struggle over who should regulate AI.\n这项法案草案反映出一个更大的争议：AI 应该由谁来监管？\nAI 基建热潮正在影响金融市场\n路透社分析称，AI 建设热潮不仅推高科技股，也开始影响债券市场。Meta、Oracle 等科技公司今年已在全球债务市场融资约 2500 亿美元，用于支撑数据中心和 AI 基础设施建设。AI 不再只是软件故事，它越来越像能源、地产、金融和供应链共同参与的基础设施故事。\nEnglish key expressions\nExpression\n中文理解\nAI infrastructure boom\nAI 基础设施热潮\ndebt markets\n债务市场\ndata centers\n数据中心\ncapital spending\n资本支出\n🌟 5) One English Paragraph｜今日英文段落\nEnglish\nToday’s news shows that power often appears through infrastructure. AI systems need data centers, chips, electricity, financing, and regulation. Cultural events need galleries, institutions, funding, and audiences. Protection against gender-based violence needs laws, shelters, reporting systems, and political will. To read the news carefully is to ask not only what happened, but also what structures made it possible.中文翻译\n今天的新闻显示，权力常常通过基础设施显现出来。AI 系统需要数据中心、芯片、电力、融资和监管。文化活动需要画廊、机构、资金和观众。防止性别暴力需要法律、庇护所、报告系统和政治意愿。认真阅读新闻，不只是问“发生了什么”，也要问“是什么结构让它成为可能”。\n🌟 6) Today’s Keywords｜今日关键词\nKeyword\n中文解释\nExample sentence\nceasefire\n停火；冲突双方暂时停止军事行动\nThe two sides are still discussing a ceasefire.\nsovereignty\n主权；自主控制权\nTech sovereignty has become a major policy goal in Europe.\nfemicide\n女性因性别而被杀害，常与结构性暴力相关\nActivists described the case as femicide.\ninfrastructure\n基础设施；支撑系统运行的物质与制度条件\nAI infrastructure requires enormous investment.\nalgorithmic bias\n算法偏见；算法系统中 reproduces inequality 的倾向\nResearchers warned that algorithmic bias can deepen discrimination.\npublic outrage\n公众愤怒；大规模社会不满\nThe murders sparked public outrage across the country.\n🌟 7) A Soft Closing｜今日收束\n今天的小报留给我们一句话：真正的新闻阅读，是在事件之外，看见制度、资源和沉默如何共同塑造世界。 🌿"
+  "sources": [
+    {
+      "label": "The Guardian — California governor’s race: DoJ sends in federal observer over slow count",
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call"
+    },
+    {
+      "label": "The Guardian — Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler",
+      "url": "https://www.theguardian.com/us-news/2026/jun/05/texas-stabbing-high-school"
+    },
+    {
+      "label": "The Guardian — Essex woman jailed for life for poisoning baby son with cocktail of drugs",
+      "url": "https://www.theguardian.com/uk-news/2026/jun/05/essex-woman-jailed-life-poisoning-baby"
+    },
+    {
+      "label": "The Guardian — Robin Hartwell obituary",
+      "url": "https://www.theguardian.com/education/2026/jun/05/robin-hartwell-obituary"
+    },
+    {
+      "label": "The Guardian — Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-death-buffy-the-vampire-slayer"
+    },
+    {
+      "label": "The Guardian — Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger",
+      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
+    },
+    {
+      "label": "The Guardian — US added 172,000 jobs in May as labor market shows signs of resilience",
+      "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment"
+    },
+    {
+      "label": "The Guardian — Alien hunters update guidance on sharing news of possible intelligent life",
+      "url": "https://www.theguardian.com/science/2026/jun/05/alien-hunters-seti-guidance-signals-intelligent-life"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月5日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
 }

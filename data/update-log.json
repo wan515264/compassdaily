@@ -1,0 +1,186 @@
+[
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 1–15 briefing archive",
+    "description": "Rebuilt 15 complete bilingual editions from date-checked Guardian reporting, with four sections, eight stories, English learning material, and specific source links in every edition.",
+    "type": "archive",
+    "relatedDate": "2026-06-15",
+    "link": "briefing.html?date=2026-06-15"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 16 briefing",
+    "description": "Rebuilt the June 16 Daily Compass from date-checked UN News and Guardian reports on sovereignty, security, equal pay, specialist care, cultural memory, AI dependence, and data-center pollution.",
+    "type": "content",
+    "relatedDate": "2026-06-16",
+    "link": "briefing.html?date=2026-06-16"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Expanded the verified briefing archive through June 21",
+    "description": "Published and refreshed the June 18–21 briefings with date-checked reporting from ABC News, AP, NPR, UN News, and Aeon, including specific source links for every edition.",
+    "type": "archive",
+    "relatedDate": "2026-06-21",
+    "link": "briefing.html?date=2026-06-21"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Published June 21 briefing",
+    "description": "Added the June 21 Daily Compass from verified ABC News, NPR, and UN News reports on elections, diplomacy, caregiving, conservation, peacebuilding, verification, and digital scam compounds.",
+    "type": "briefing",
+    "relatedDate": "2026-06-21",
+    "link": "briefing.html?date=2026-06-21"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Published June 20 briefing",
+    "description": "Added the June 20 Daily Compass from verified ABC News and UN News reports on humanitarian access, public health, disability, cultural infrastructure, and Global South innovation.",
+    "type": "briefing",
+    "relatedDate": "2026-06-20",
+    "link": "briefing.html?date=2026-06-20"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 18 briefing",
+    "description": "Rebuilt the June 18 Daily Compass from verified ABC News, UN News, and Aeon reports on verification, visibility, climate risk, Pride, media equality, culture, and AI language.",
+    "type": "content",
+    "relatedDate": "2026-06-18",
+    "link": "briefing.html?date=2026-06-18"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Published June 19 briefing",
+    "description": "Rebuilt the June 19 Daily Compass from verified ABC News, AP, UN News, and Aeon reports on care, public memory, health, financial inclusion, culture, and fair compensation for journalism.",
+    "type": "briefing",
+    "relatedDate": "2026-06-19",
+    "link": "briefing.html?date=2026-06-19"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Published June 18 briefing",
+    "description": "Added the June 18 Daily Compass briefing on infrastructure, bodies, governance, food insecurity, gender and healthcare debates, participatory art, and AI management.",
+    "type": "briefing",
+    "relatedDate": "2026-06-18",
+    "link": "briefing.html?date=2026-06-18"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Regenerated June 16 briefing",
+    "description": "Rebuilt the June 16 briefing around power and infrastructure, G7 diplomacy, gender policy, public memory, AI factories, and social norms.",
+    "type": "content",
+    "relatedDate": "2026-06-16",
+    "link": "briefing.html?date=2026-06-16"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Regenerated June 15 briefing",
+    "description": "Rebuilt the June 15 briefing around systems, G7 diplomacy, global growth, women’s entrepreneurship, women’s health, cultural memory, and AI data center infrastructure.",
+    "type": "content",
+    "relatedDate": "2026-06-15",
+    "link": "briefing.html?date=2026-06-15"
+  },
+  {
+    "date": "2026-06-17",
+    "title": "Published June 17 briefing",
+    "description": "Added the June 17 Daily Compass briefing on visibility, infrastructure, G7 diplomacy, Pride politics, AI governance, and manufacturing systems.",
+    "type": "briefing",
+    "relatedDate": "2026-06-17",
+    "link": "briefing.html?date=2026-06-17"
+  },
+  {
+    "date": "2026-06-16",
+    "title": "Published June 16 briefing",
+    "description": "Added the June 16 Daily Compass briefing on transition, ceasefire diplomacy, belonging, slow reading, AI infrastructure, and future technology optimism.",
+    "type": "briefing",
+    "relatedDate": "2026-06-16",
+    "link": "briefing.html?date=2026-06-16"
+  },
+  {
+    "date": "2026-06-15",
+    "title": "Published June 15 briefing",
+    "description": "Added the June 15 Daily Compass briefing on peace agreements, infrastructure, belonging, literature, and future imagination.",
+    "type": "briefing",
+    "relatedDate": "2026-06-15",
+    "link": "briefing.html?date=2026-06-15"
+  },
+  {
+    "date": "2026-06-14",
+    "title": "Published June 14 briefing",
+    "description": "Added the June 14 Daily Compass briefing on peace negotiations, belonging, literature, AI chips, and space capital.",
+    "type": "briefing",
+    "relatedDate": "2026-06-14",
+    "link": "briefing.html?date=2026-06-14"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Improved wordbook management",
+    "description": "Simplified the briefing sidebar and added per-item delete controls plus Clear All for the wordbook.",
+    "type": "feature",
+    "relatedDate": "2026-06-13",
+    "link": "briefing.html?date=2026-06-13"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Updated briefing tools and theme support",
+    "description": "Published the June 13 briefing, added TXT export for the wordbook, and synced light/dark theme support across homepage and briefing pages.",
+    "type": "update",
+    "relatedDate": "2026-06-13",
+    "link": "briefing.html?date=2026-06-13"
+  },
+  {
+    "date": "2026-06-13",
+    "title": "Published June 13 briefing",
+    "description": "Added the June 13 Daily Compass briefing to the archive.",
+    "type": "briefing",
+    "relatedDate": "2026-06-13",
+    "link": "briefing.html?date=2026-06-13"
+  },
+  {
+    "date": "2026-06-12",
+    "title": "Added English news entries",
+    "description": "Added corresponding English entries for the news items in the June 12 briefing.",
+    "type": "content",
+    "relatedDate": "2026-06-12",
+    "link": "briefing.html?date=2026-06-12"
+  },
+  {
+    "date": "2026-06-12",
+    "title": "Published June 12 briefing",
+    "description": "Added the June 12 Daily Compass briefing to the archive.",
+    "type": "briefing",
+    "relatedDate": "2026-06-12",
+    "link": "briefing.html?date=2026-06-12"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Added source links",
+    "description": "Added item-level source links to each news item in the June 11 daily briefing.",
+    "type": "content",
+    "relatedDate": "2026-06-11",
+    "link": "briefing.html?date=2026-06-11"
+  },
+  {
+    "date": "2026-06-11",
+    "title": "Updated today’s briefing",
+    "description": "Updated the June 11 briefing content and formatting.",
+    "type": "briefing",
+    "relatedDate": "2026-06-11",
+    "link": "briefing.html?date=2026-06-11"
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Created Magical Archive",
+    "description": "Changed the archive into a compact star-calendar style date index.",
+    "type": "design",
+    "relatedDate": "",
+    "link": "#archive"
+  },
+  {
+    "date": "2026-06-10",
+    "title": "Imported previous briefings",
+    "description": "Imported previous bilingual mini-newspapers into the archive.",
+    "type": "archive",
+    "relatedDate": "",
+    "link": "#archive"
+  }
+]
