@@ -1,0 +1,143 @@
+{
+  "date": "2026-06-21",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "预防、余波与可见性：哥伦比亚选举、美伊紧张、照护型父职、和平建设与数字诈骗",
+  "introChinese": "今天的小报关键词是：prevention, aftermath, and visibility（预防、余波与可见性）。选举结果和军事威胁容易成为头条，但许多真正影响生活的工作发生在头条之外：预防冲突、照护家庭、保护环境、核实公共说法，以及帮助受害者在危机之后重新开始。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "哥伦比亚大选初步结果显示政治路线明显右转",
+          "summaryChinese": "ABC News 与 NPR 报道，初步计票显示获得特朗普支持的右翼律师 Abelardo de la Espriella 可能赢得哥伦比亚总统选举。此次决选受到治安焦虑与持续冲突的影响，两位候选人在武装团体、和平谈判和军事行动等问题上提出截然不同的方向。初步胜利不仅意味着权力更替，也可能重新塑造国家对安全、经济与和平进程的选择。",
+          "correspondingEnglish": "Preliminary results reported by ABC News and NPR indicated that right-wing lawyer Abelardo de la Espriella was likely to win Colombia’s presidential election. The runoff was shaped by security fears and warnings about continuing conflict, with the candidates offering sharply different approaches to armed groups and peace talks. A preliminary victory may reshape the country’s direction on security, the economy and peace.",
+          "englishExpressions": [
+            { "expression": "preliminary result", "meaningChinese": "初步结果", "example": "Preliminary results pointed to a change in political direction." },
+            { "expression": "runoff election", "meaningChinese": "决选；第二轮选举", "example": "Voters chose between two candidates in the runoff election." },
+            { "expression": "peace talks", "meaningChinese": "和平谈判", "example": "The candidates disagreed over the future of peace talks." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "谈判与威胁同时出现：美伊局势仍高度不确定",
+          "summaryChinese": "ABC News 报道伊朗军方表示已准备回应特朗普的进一步威胁；NPR 同日报道，美国副总统 Vance 在瑞士参加与伊朗官员的会谈，而特朗普仍威胁再次发动打击。外交与军事语言同时存在，显示谈判并不等于风险已经消失。真正的降级需要可验证的安排、稳定沟通渠道，以及对地区平民安全的持续保障。",
+          "correspondingEnglish": "ABC News reported that Iran’s military said it was ready to respond amid further threats from President Trump. NPR reported that Vice President Vance was attending talks with Iranian officials in Switzerland while Trump continued to threaten additional strikes. Diplomacy and military threats are unfolding at the same time. Negotiations do not remove risk unless they produce verifiable arrangements, stable communication and protection for civilians.",
+          "englishExpressions": [
+            { "expression": "further strike", "meaningChinese": "进一步打击", "example": "The president threatened further strikes." },
+            { "expression": "attend talks", "meaningChinese": "参加会谈", "example": "Officials attended talks in Switzerland." },
+            { "expression": "de-escalation", "meaningChinese": "局势降级；缓和紧张", "example": "Diplomacy may create a path toward de-escalation." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "父亲调查：从“经济供养者”走向日常照护者",
+          "summaryChinese": "NPR 报道，一项访问数千名父亲的调查发现，许多男性在成为父亲后更积极地拥抱照护角色。传统父职常被定义为提供收入，但换尿布、倾听、陪伴和承担情绪劳动同样塑造家庭关系。当男性被允许成为照护者，性别角色的改变也能为伴侣和孩子创造更平等的家庭空间。",
+          "correspondingEnglish": "NPR reported on a survey of thousands of fathers that found many men embracing a stronger caregiving role after becoming parents. Fatherhood is often defined through financial provision, but listening, daily care, emotional labor and presence also shape family life. When men are encouraged to become caregivers, changing gender roles can create more equal space for partners and children.",
+          "englishExpressions": [
+            { "expression": "caregiving role", "meaningChinese": "照护角色", "example": "Many fathers are embracing a more active caregiving role." },
+            { "expression": "emotional labor", "meaningChinese": "情绪劳动", "example": "Parenting involves practical work and emotional labor." },
+            { "expression": "financial provider", "meaningChinese": "经济供养者", "example": "Fatherhood is about more than being a financial provider." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "黎巴嫩海龟保护先驱Mona Khalil因空袭伤势去世",
+          "summaryChinese": "NPR 报道，黎巴嫩环保人士 Mona Khalil 在以色列空袭其海边住所两周后去世。她被认为推动了黎巴嫩南部保护海龟筑巢地的环保运动。战争造成的损失不仅是即时伤亡和建筑破坏，也包括长期积累的地方知识、社区关系与生态保护能力。",
+          "correspondingEnglish": "NPR reported that Lebanese conservationist Mona Khalil died two weeks after an Israeli airstrike hit her beachside home. She is credited with helping build a conservation movement in southern Lebanon to protect sea-turtle nesting grounds. The losses caused by war include not only immediate casualties and damaged buildings, but also local knowledge, community relationships and environmental stewardship.",
+          "englishExpressions": [
+            { "expression": "conservation movement", "meaningChinese": "自然保护运动", "example": "She helped create a conservation movement in southern Lebanon." },
+            { "expression": "nesting ground", "meaningChinese": "筑巢地；繁殖地", "example": "The project protected sea-turtle nesting grounds." },
+            { "expression": "environmental stewardship", "meaningChinese": "环境守护与管理责任", "example": "War can weaken long-term environmental stewardship." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "冲突总能登上头条，和平预防为何很少被看见？",
+          "summaryChinese": "UN News 介绍联合国和平建设基金时指出，战争经常成为头条，预防战争却很少获得同样关注。和平建设通常发生在危机全面爆发之前，包括支持对话、地方机构和社会信任。这类工作难以用一张戏剧性照片呈现，却提醒媒体与读者：没有发生的灾难，同样可能是公共行动的成果。",
+          "correspondingEnglish": "In an explanation of the UN Peacebuilding Fund, UN News noted that wars regularly make headlines while prevention rarely does. Peacebuilding often takes place before a crisis fully erupts through dialogue, local institutions and social trust. It may not produce a dramatic image, but a disaster that does not happen can also be the result of public action.",
+          "englishExpressions": [
+            { "expression": "make headlines", "meaningChinese": "成为头条新闻", "example": "Armed conflict is more likely to make headlines than prevention." },
+            { "expression": "peacebuilding", "meaningChinese": "和平建设", "example": "Peacebuilding supports dialogue before violence escalates." },
+            { "expression": "preventive action", "meaningChinese": "预防性行动", "example": "Preventive action is difficult to measure but essential." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "倒影池受损说法缺乏证据：公共人物发言仍需核实",
+          "summaryChinese": "NPR 报道，特朗普声称破坏者割破华盛顿倒影池内衬并向水中倒入化学品，同时表示已经有人被捕，但没有为这些说法提供证据。公共地标容易成为政治叙事的舞台，而报道中的“尚无证据”不是无关紧要的附注。它帮助读者区分已经确认的事实、当事人说法和仍待核实的信息。",
+          "correspondingEnglish": "NPR reported that President Trump claimed vandals had damaged the lining of Washington’s Reflecting Pool and poured chemicals into the water, and said arrests had been made. He provided no evidence for the claims. The phrase “without evidence” is not a minor footnote: it helps readers distinguish verified facts, a public figure’s statements and information that still requires confirmation.",
+          "englishExpressions": [
+            { "expression": "provide evidence", "meaningChinese": "提供证据", "example": "The official did not provide evidence for the claim." },
+            { "expression": "public landmark", "meaningChinese": "公共地标", "example": "The Reflecting Pool is a prominent public landmark." },
+            { "expression": "require confirmation", "meaningChinese": "需要核实确认", "example": "Some details still require independent confirmation." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "人工智能与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "柬埔寨打击诈骗园区后，获释外国劳工陷入新的危机",
+          "summaryChinese": "NPR 报道，柬埔寨打击给美国人造成数十亿美元损失的诈骗中心后，数千名外国劳工滞留金边街头。许多人从诈骗园区获释，却缺少住所、证件、回国渠道和持续支持。数字诈骗并不只存在于屏幕上；它常由跨境招募、人口贩运、强迫劳动和金融基础设施共同维持。关闭园区只是第一步，善后机制决定受害者能否真正脱离控制。",
+          "correspondingEnglish": "NPR reported that Cambodia’s crackdown on scam centers has created a secondary crisis, leaving thousands of foreign workers stranded in Phnom Penh. Many people were freed from scam compounds but still lacked shelter, documents, routes home and continuing support. Digital fraud does not exist only on screens; it can be sustained by cross-border recruitment, trafficking, forced labor and financial infrastructure. Closing compounds is only the first step toward recovery.",
+          "englishExpressions": [
+            { "expression": "scam compound", "meaningChinese": "诈骗园区", "example": "Workers were freed from several scam compounds." },
+            { "expression": "secondary crisis", "meaningChinese": "次生危机", "example": "The crackdown created a secondary humanitarian crisis." },
+            { "expression": "forced labor", "meaningChinese": "强迫劳动", "example": "Some online fraud operations depend on forced labor." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Headlines often focus on visible turning points: an election result, a military threat or a police crackdown. Yet the aftermath may matter just as much. Peacebuilding tries to prevent violence before it becomes news. Caregiving changes family life through repeated daily work. Conservation depends on knowledge accumulated over years. Fact-checking separates public claims from verified information. And people released from scam compounds still need shelter, documents and a safe route home. Reading beyond the headline means asking what happened before the event, who remains responsible afterward and which forms of work are easiest to overlook.",
+    "chinese": "头条新闻常聚焦于可见的转折点：选举结果、军事威胁或警方打击行动。但事件的余波同样重要。和平建设试图在暴力成为新闻之前阻止它；照护通过日复一日的劳动改变家庭生活；自然保护依赖多年积累的知识；事实核查帮助区分公开说法与已确认信息；而离开诈骗园区的人仍需要住所、证件和安全返乡渠道。读懂头条之外的世界，就是追问事件之前发生了什么、之后谁仍负有责任，以及哪些劳动最容易被忽略。"
+  },
+  "keywords": [
+    { "word": "aftermath", "meaning": "余波；重大事件发生后持续存在的影响", "example": "The aftermath of a crackdown can create new humanitarian needs." },
+    { "word": "preliminary result", "meaning": "初步结果；尚待最终确认的统计结果", "example": "Preliminary results suggested a political shift." },
+    { "word": "peacebuilding", "meaning": "和平建设；通过制度、对话和社会关系预防冲突", "example": "Peacebuilding rarely receives the same attention as war." },
+    { "word": "caregiving", "meaning": "照护；为他人提供日常身体与情绪支持", "example": "Caregiving is a central part of parenthood." },
+    { "word": "verification", "meaning": "核实；用证据确认说法是否可靠", "example": "Verification helps readers evaluate public claims." },
+    { "word": "scam compound", "meaning": "诈骗园区；组织化实施网络诈骗并常涉及强迫劳动的场所", "example": "Victims may need long-term support after leaving a scam compound." }
+  ],
+  "sentenceLab": {
+    "sentence": "Reading beyond the headline means asking what happened before the event, who remains responsible afterward and which forms of work are easiest to overlook.",
+    "analysisChinese": "means 后接三个并列的间接疑问结构：what happened、who remains responsible 和 which forms of work。它把“深入阅读”具体化为对前因、后果与不可见劳动的连续追问。"
+  },
+  "reflection": {
+    "english": "The work that prevents harm and repairs its aftermath is often the work least likely to become a headline.",
+    "chinese": "今天最想留下的一句话是：那些预防伤害、修复余波的工作，往往也是最不容易成为头条的工作。"
+  },
+  "tags": ["global", "Colombia", "Iran", "election", "peace", "gender", "fatherhood", "caregiving", "Lebanon", "conservation", "media literacy", "verification", "technology", "Cambodia", "scams", "trafficking"],
+  "sources": [
+    { "label": "ABC News — Colombia presidential election", "url": "https://abcnews.com/International/trump-backed-wing-lawyer-appears-win-colombias-presidential/story?id=134082409" },
+    { "label": "NPR — Colombia election preliminary result", "url": "https://www.npr.org/2026/06/21/nx-s1-5865676/delaespriella-colombia-election" },
+    { "label": "ABC News — Iran live updates", "url": "https://abcnews.com/International/live-updates/iran-live-updates-israel-withdraw-lebanon-katz-after/?id=133879236" },
+    { "label": "NPR — US-Iran talks and threats", "url": "https://www.npr.org/2026/06/21/g-s1-129222/us-iran-deal-lebanon-israel-strait-hormuz-jd-vance" },
+    { "label": "NPR — Survey on fathers and caregiving", "url": "https://www.npr.org/2026/06/21/g-s1-128889/a-new-survey-on-dads-found-that-9-out-of-10-had-a-surprising-reaction-to-fatherhood" },
+    { "label": "NPR — Lebanese conservationist Mona Khalil", "url": "https://www.npr.org/2026/06/21/nx-s1-5865705/lebanon-turtle-conservationist-killed-israeli-airstrike" },
+    { "label": "UN News — The Peacebuilding Fund explained", "url": "https://news.un.org/feed/view/en/story/2026/06/1167764" },
+    { "label": "NPR — Reflecting Pool claims", "url": "https://www.npr.org/2026/06/21/nx-s1-5865636/trump-reflecting-pool-dc-vandals-drain-green" },
+    { "label": "NPR — Cambodia scam-compound aftermath", "url": "https://www.npr.org/2026/06/21/g-s1-128624/freed-from-cambodias-scam-compounds-trafficking-victims-face-a-new-crisis" }
+  ],
+  "rawText": "推送日期｜2026年6月21日\n\n今天的小报关键词是：prevention, aftermath, and visibility（预防、余波与可见性）。选举结果和军事威胁容易成为头条，但许多真正影响生活的工作发生在头条之外：预防冲突、照护家庭、保护环境、核实公共说法，以及帮助受害者在危机之后重新开始。"
+}

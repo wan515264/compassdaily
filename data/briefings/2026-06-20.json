@@ -1,0 +1,129 @@
+{
+  "date": "2026-06-20",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "抵达、修复与机会：苏丹风险、埃博拉应对、残障体育、文化基础设施与全球南方创新",
+  "introChinese": "今天的小报关键词是：access, repair, and opportunity（抵达、修复与机会）。危机中的援助能否抵达，残障者能否进入公共舞台，文化机构如何修复，以及创新者能否获得资金，看似不同的问题都指向同一件事：社会如何决定谁有机会继续向前。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "苏丹：安理会警告欧拜伊德面临大规模暴行风险",
+          "summaryChinese": "UN News 报道，联合国安理会对快速支援部队在苏丹北科尔多凡州首府欧拜伊德周边大规模增兵表示严重关切，并警告潜在地面进攻可能带来大规模暴行风险。预警的意义不只在于描述危险，更在于能否促成平民保护、人道准入和及时的国际行动。",
+          "correspondingEnglish": "The UN Security Council expressed alarm over reports of major Rapid Support Forces reinforcements around El Obeid, the capital of Sudan’s North Kordofan state. It warned that a possible ground offensive could create a risk of mass atrocities. An early warning matters only if it leads to civilian protection, humanitarian access and timely international action.",
+          "englishExpressions": [
+            { "expression": "mass atrocity risk", "meaningChinese": "大规模暴行风险", "example": "The Security Council warned of a mass atrocity risk." },
+            { "expression": "ground offensive", "meaningChinese": "地面进攻", "example": "A possible ground offensive threatens civilians in the city." },
+            { "expression": "humanitarian access", "meaningChinese": "人道援助准入", "example": "Aid agencies need safe and reliable humanitarian access." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "刚果（金）埃博拉疫情一个月：扩大后的应对仍然不足",
+          "summaryChinese": "UN News 报道，刚果（金）与乌干达宣布本迪布焦型埃博拉疫情一个月后，病例仍在增加。虽然应对规模已经扩大，但联合国认为现有能力仍不足以控制不断变化的局势。公共卫生中的“扩大响应”不只意味着增加治疗床位，也包括检测、追踪、社区沟通、边境合作和持续资金。",
+          "correspondingEnglish": "One month after the Bundibugyo Ebola outbreak was declared in the Democratic Republic of the Congo and Uganda, case numbers continue to rise. UN News reported that the scaled-up response remains insufficient. Expanding a health response involves more than treatment beds; it also requires testing, tracing, community communication, cross-border cooperation and sustained funding.",
+          "englishExpressions": [
+            { "expression": "scaled-up response", "meaningChinese": "扩大后的应对行动", "example": "The scaled-up response has not yet contained the outbreak." },
+            { "expression": "case numbers", "meaningChinese": "病例数量", "example": "Case numbers continue to rise." },
+            { "expression": "sustained funding", "meaningChinese": "持续稳定的资金", "example": "Emergency health systems require sustained funding." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "2026特奥会：运动员如何重新定义能力与公共舞台",
+          "summaryChinese": "ABC News 在明尼阿波利斯2026年世界特殊奥林匹克运动会开幕前介绍多位参赛运动员。这样的报道不应只把残障运动员塑造成“励志故事”，更值得关注的是训练、竞技、资源与公共可见性。包容不是邀请某些人临时进入舞台，而是让舞台本身能够容纳不同身体和能力。",
+          "correspondingEnglish": "Ahead of the 2026 Special Olympics opening ceremony in Minneapolis, ABC News introduced several participating athletes. These stories should not reduce disabled athletes to inspiration alone. Training, competition, resources and public visibility also matter. Inclusion is not a temporary invitation onto the stage; it means designing the stage for different bodies and abilities.",
+          "englishExpressions": [
+            { "expression": "public visibility", "meaningChinese": "公共可见性", "example": "Major sporting events increase public visibility for disabled athletes." },
+            { "expression": "inclusive design", "meaningChinese": "包容性设计", "example": "Inclusive design considers different bodies and abilities." },
+            { "expression": "reduce someone to", "meaningChinese": "把某人简化为……", "example": "Media should not reduce an athlete to an inspirational story." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "从海豹突击队到残奥赛场：身体变化之后重新训练",
+          "summaryChinese": "ABC News 报道，三个孩子的父亲、前美国海豹突击队第一队成员 David Charbonnet 正在训练，希望获得2028年残奥会参赛资格。这个故事的重点不只是个人意志，也包括身体变化后如何重新理解训练、竞争和身份。康复与适应并不意味着回到原来的自己，也可以是建立新的能力关系。",
+          "correspondingEnglish": "ABC News profiled David Charbonnet, a father of three and former member of Navy SEAL Team 1 who is training to qualify for the 2028 Paralympics. His story is not only about individual determination. It is also about rethinking training, competition and identity after bodily change. Adaptation does not always mean returning to a former self; it can mean building a new relationship with ability.",
+          "englishExpressions": [
+            { "expression": "qualify for", "meaningChinese": "取得……的参赛资格", "example": "He is training to qualify for the Paralympics." },
+            { "expression": "bodily change", "meaningChinese": "身体变化", "example": "Bodily change can reshape a person’s relationship with sport." },
+            { "expression": "individual determination", "meaningChinese": "个人决心", "example": "Access to training matters alongside individual determination." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "肯尼迪中心仍在考虑全面关闭翻修，节目安排尚未确定",
+          "summaryChinese": "ABC News 报道，肯尼迪中心董事会仍在权衡全面关闭翻修，或在施工期间保持部分开放等方案，目前尚未确定未来节目安排。文化基础设施的修复不只是建筑工程：关闭多久、艺术家如何工作、观众是否还能进入，以及谁承担过渡成本，都会改变一个公共文化机构与城市的关系。",
+          "correspondingEnglish": "The Kennedy Center board is still considering options for a full-scale renovation, including a complete closure or remaining open while construction proceeds. Future programming has not yet been set. Repairing cultural infrastructure is not only a construction project. The length of closure, artists’ working conditions, public access and transition costs all shape the institution’s relationship with its city.",
+          "englishExpressions": [
+            { "expression": "full-scale renovation", "meaningChinese": "全面翻修", "example": "The board is considering a full-scale renovation." },
+            { "expression": "remain open", "meaningChinese": "保持开放", "example": "The center may remain open while construction proceeds." },
+            { "expression": "cultural infrastructure", "meaningChinese": "文化基础设施", "example": "Theaters and museums are part of a city’s cultural infrastructure." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "人工智能与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "从疟疾到能源：全球南方的解决方案为何难以获得资金",
+          "summaryChinese": "UN News 报道，许多来自全球南方的创新者正在提出应对疟疾、能源等重大问题的方案，却仍被排除在资金和发展机会之外。创新体系常把技术能力集中在少数资本与机构手中，导致真正理解本地问题的人难以扩大方案。技术公平不仅是让更多人使用产品，也包括谁能获得资金、验证想法并拥有成果。",
+          "correspondingEnglish": "UN News reported that innovators in the Global South are often locked out of funding and opportunity even when they offer solutions to urgent challenges, from malaria to energy. Innovation systems tend to concentrate capital and institutional support in a small number of places. Technology equity is not only about who can use a product; it is also about who can fund an idea, test it and own the result.",
+          "englishExpressions": [
+            { "expression": "be locked out of", "meaningChinese": "被排除在……之外", "example": "Many innovators are locked out of funding opportunities." },
+            { "expression": "local expertise", "meaningChinese": "本地专业知识", "example": "Local expertise is essential for solving regional problems." },
+            { "expression": "technology equity", "meaningChinese": "技术公平", "example": "Technology equity includes access to capital and ownership." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s stories are about who gets the chance to move forward. In Sudan, an early warning must become protection before violence escalates. During an Ebola outbreak, a larger response still fails if resources do not reach communities quickly enough. Disabled athletes show that access is not a favor but part of how public spaces should be designed. Cultural institutions must consider audiences and artists when they repair their buildings. Innovation also depends on access: good ideas cannot solve public problems when their creators are excluded from funding, testing and ownership.",
+    "chinese": "今天的新闻关心的是：谁能够获得继续向前的机会。在苏丹，预警必须在暴力升级前转化为保护；在埃博拉疫情中，如果资源不能及时抵达社区，扩大响应仍可能不足；残障运动员提醒我们，进入公共空间不是恩惠，而应成为设计的一部分；文化机构修复建筑时，也必须考虑观众和艺术家；创新同样依赖机会——如果创造者被排除在资金、测试与所有权之外，再好的想法也难以解决公共问题。"
+  },
+  "keywords": [
+    { "word": "humanitarian access", "meaning": "人道援助准入；救援人员和物资安全抵达危机地区的条件", "example": "Humanitarian access is essential for civilian protection." },
+    { "word": "scaled-up response", "meaning": "扩大后的应对行动", "example": "The outbreak requires a faster scaled-up response." },
+    { "word": "inclusion", "meaning": "包容；让不同人群能够平等参与", "example": "Inclusion should be built into public institutions." },
+    { "word": "adaptation", "meaning": "适应；面对变化建立新的行动方式", "example": "Adaptation can create a new relationship with ability." },
+    { "word": "cultural infrastructure", "meaning": "文化基础设施；剧院、博物馆等支撑公共文化生活的机构与空间", "example": "Cities need accessible cultural infrastructure." },
+    { "word": "technology equity", "meaning": "技术公平；公平获得技术资源、资金和成果的条件", "example": "Technology equity requires more than access to devices." }
+  ],
+  "sentenceLab": {
+    "sentence": "Innovation also depends on access: good ideas cannot solve public problems when their creators are excluded from funding, testing and ownership.",
+    "analysisChinese": "冒号后的内容解释 access 对创新为何重要。be excluded from 表示“被排除在……之外”，后面用 funding、testing 和 ownership 三个并列名词说明创新者需要的完整条件。"
+  },
+  "reflection": {
+    "english": "Opportunity becomes real when institutions make room, move resources and share ownership.",
+    "chinese": "今天最想留下的一句话是：当制度愿意腾出空间、让资源流动并分享成果，机会才不只是一个好听的词。"
+  },
+  "tags": ["global", "Sudan", "Ebola", "public health", "humanitarian access", "disability", "Special Olympics", "Paralympics", "culture", "Kennedy Center", "technology", "Global South", "innovation", "equity"],
+  "sources": [
+    { "label": "UN News — Mass atrocity risk in El Obeid", "url": "https://news.un.org/feed/view/en/story/2026/06/1167773" },
+    { "label": "UN News — Ebola response remains insufficient", "url": "https://news.un.org/feed/view/en/story/2026/06/1167763" },
+    { "label": "ABC News — Meet the Special Olympics athletes", "url": "https://abcnews.com/video/134057472/" },
+    { "label": "ABC News — David Charbonnet trains for the Paralympics", "url": "https://abcnews.com/video/134067412/" },
+    { "label": "ABC News — Kennedy Center renovation options", "url": "https://abcnews.com/Politics/kennedy-center-board-closure-renovation-programming-set/story?id=134051359" },
+    { "label": "UN News — Global South solutions and funding", "url": "https://news.un.org/feed/view/en/story/2026/06/1167759" }
+  ],
+  "rawText": "推送日期｜2026年6月20日\n\n今天的小报关键词是：access, repair, and opportunity（抵达、修复与机会）。危机中的援助能否抵达，残障者能否进入公共舞台，文化机构如何修复，以及创新者能否获得资金，看似不同的问题都指向同一件事：社会如何决定谁有机会继续向前。"
+}

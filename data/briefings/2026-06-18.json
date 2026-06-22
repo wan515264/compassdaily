@@ -1,0 +1,142 @@
+{
+  "date": "2026-06-18",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "核查、可见性与支持：伊朗协议、气候冲击、Pride、媒体平等、文化记忆与AI语言",
+  "introChinese": "今天的小报关键词是：verification, visibility, and support（核查、可见性与支持）。协议需要核查才能变成可信承诺，权利需要可见性才能进入公共讨论，而面对气候、饥饿与身份压力，支持也必须通过制度和资源真正抵达人们。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "美伊初步协议之后：真正困难的是技术核查",
+          "summaryChinese": "ABC News 分析了特朗普政府与奥巴马时期伊朗协议的差异，指出当前安排并不等同于一份完整的核协议。UN News 同日报道，国际原子能机构表示，在初步备忘录签署后可以开始技术工作，并愿意协助双方落实伊朗核计划核查等具体措施。政治文本可以开启谈判，但核查机制决定了承诺能否被信任。",
+          "correspondingEnglish": "ABC News examined the differences between the Trump administration’s Iran agreement and the earlier Obama-era nuclear deal, noting that the current arrangement is not the same kind of agreement. UN News reported that the International Atomic Energy Agency is ready to support technical work, including verification of Iran’s nuclear programme. A political document may open negotiations, but verification determines whether commitments can be trusted.",
+          "englishExpressions": [
+            { "expression": "initial agreement", "meaningChinese": "初步协议", "example": "The parties signed an initial agreement before technical talks began." },
+            { "expression": "verification mechanism", "meaningChinese": "核查机制", "example": "A verification mechanism can make an agreement more credible." },
+            { "expression": "technical work", "meaningChinese": "技术工作；技术层面的落实", "example": "Experts are preparing to begin technical work." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "联合国警告：厄尔尼诺威胁可能加剧脆弱地区的气候冲击",
+          "summaryChinese": "UN News 报道，联合国机构警告极端天气风险正在加速，潜在的厄尔尼诺现象可能进一步冲击已经面临饥饿、流离失所和经济困难的地区。气候事件并不会平均地影响所有人；粮食系统、住房条件、社会保障和援助资金会决定一场天气异常最终是否演变为人道危机。",
+          "correspondingEnglish": "UN agencies warned that extreme-weather risks are intensifying and that a possible El Niño event could bring another major shock to regions already facing hunger, displacement and economic hardship. Climate events do not affect everyone equally. Food systems, housing, social protection and aid funding help determine whether unusual weather becomes a humanitarian crisis.",
+          "englishExpressions": [
+            { "expression": "climate shock", "meaningChinese": "气候冲击", "example": "Vulnerable communities may face another major climate shock." },
+            { "expression": "extreme-weather risk", "meaningChinese": "极端天气风险", "example": "Extreme-weather risks are increasing in several regions." },
+            { "expression": "social protection", "meaningChinese": "社会保障；社会保护", "example": "Strong social protection can reduce the impact of a crisis." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "三代LGBTQ群体谈Pride为何仍然重要",
+          "summaryChinese": "ABC News 邀请来自石墙时代、X世代和Z世代的 LGBTQ 人士，分享他们的个人挣扎与对未来的希望。不同代际面对的语言、法律环境和公共空间并不相同，但 Pride 仍承担着共同功能：让经验被看见，让孤立的人找到社群，也提醒社会权利进步并不会自动永久保存。",
+          "correspondingEnglish": "ABC News brought together LGBTQ people from the Stonewall era, Generation X and Generation Z to discuss their struggles and hopes for the future. The language, legal environment and public spaces available to each generation are different. Yet Pride continues to make experience visible, help people find community and remind society that progress cannot be taken for granted.",
+          "englishExpressions": [
+            { "expression": "across generations", "meaningChinese": "跨越不同代际", "example": "The discussion brought together people from across generations." },
+            { "expression": "find community", "meaningChinese": "找到社群与归属", "example": "Public events can help isolated people find community." },
+            { "expression": "take progress for granted", "meaningChinese": "把进步视为理所当然", "example": "Rights advocates warn us not to take progress for granted." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "从女性不可见到“媒体荒漠”：信息不平等进入人权讨论",
+          "summaryChinese": "UN News 报道，联合国独立专家在日内瓦人权理事会讨论了女性与女孩在媒体中的不可见，以及“媒体荒漠”在 AI 浪潮下进一步扩大的风险。当地方新闻消失、平台分发逻辑不透明或部分群体长期缺席时，信息问题就不只是传播效率问题，也会影响谁能被社会看见、谁能参与公共决策。",
+          "correspondingEnglish": "UN independent experts highlighted the invisibility of women and girls and the growth of “media deserts” during an AI-driven transformation of information. When local reporting disappears, platform distribution is opaque or some groups remain absent from coverage, the problem is not only about communication. It also shapes who is seen and who can participate in public decisions.",
+          "englishExpressions": [
+            { "expression": "media desert", "meaningChinese": "媒体荒漠；缺乏可靠本地新闻的地区", "example": "A media desert leaves communities without reliable local reporting." },
+            { "expression": "remain invisible", "meaningChinese": "持续处于不可见状态", "example": "Some groups remain invisible in mainstream coverage." },
+            { "expression": "public decision-making", "meaningChinese": "公共决策过程", "example": "Reliable information supports public decision-making." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "16块骨头如何改变人类理解尼安德特人的方式",
+          "summaryChinese": "Aeon 发布视频《Neanderthal 1》，回到德国那处发现16块骨骼的遗址，讲述这些遗存如何改变人类对尼安德特人以及自身物种的认识。博物馆、遗址与科学叙事并不是静止地保存过去；新的证据会不断改写“谁属于人类历史”这一问题的答案。",
+          "correspondingEnglish": "An Aeon video returns to the German site where 16 bones helped transform the study of Neanderthals. The discovery changed how people understood both Neanderthals and our own species. Museums, archaeological sites and scientific narratives do not simply preserve a fixed past. New evidence continually reshapes the story of who belongs within human history.",
+          "englishExpressions": [
+            { "expression": "archaeological site", "meaningChinese": "考古遗址", "example": "The archaeological site changed the study of human origins." },
+            { "expression": "rewrite history", "meaningChinese": "改写历史", "example": "A small group of bones helped rewrite history." },
+            { "expression": "human origins", "meaningChinese": "人类起源", "example": "The discovery raised new questions about human origins." }
+          ],
+          "studyNote": ""
+        },
+        {
+          "title": "可持续饮食不必牺牲美味与快乐",
+          "summaryChinese": "UN News 采访厨师 Jaume Biarnés，讨论发酵、风味与未来食物。他强调，“可持续”和“健康”不应该让人失去进食的快乐。这个观点把饮食从道德口号带回日常实践：如果低碳、低浪费的选择能够同时满足味觉、文化和价格需求，它们才更可能成为可持续的生活方式。",
+          "correspondingEnglish": "Chef Jaume Biarnés spoke with UN News about fermentation, flavour and the future of food. He argued that words such as “sustainable” and “healthy” should not remove the joy of eating. Climate-friendly and low-waste choices are more likely to become lasting habits when they also respect taste, culture and affordability.",
+          "englishExpressions": [
+            { "expression": "sustainable gastronomy", "meaningChinese": "可持续美食；可持续餐饮", "example": "Sustainable gastronomy can still be creative and delicious." },
+            { "expression": "low-waste choice", "meaningChinese": "低浪费的选择", "example": "Fermentation can support low-waste food choices." },
+            { "expression": "lasting habit", "meaningChinese": "能够长期保持的习惯", "example": "Affordable changes are more likely to become lasting habits." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "人工智能与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "Aeon：作家对AI的抵抗，是否忽略了人与机器共享的语言？",
+          "summaryChinese": "Aeon 刊登 Martin Puchner 的文章，认为作家对 AI 的强烈抵抗可以理解，但这种抵抗有时遮蔽了人类与语言模型之间一个重要的共同点：二者都在既有语言中重组、回应并创造意义。这个论点并不等于忽略作者权利，而是邀请我们更具体地讨论原创性、影响、训练数据与写作劳动。",
+          "correspondingEnglish": "In an Aeon essay, Martin Puchner argues that writers’ resistance to AI is understandable, but may obscure something humans share with language machines: language itself. The argument does not require us to ignore authors’ rights. Instead, it invites a more specific discussion of originality, influence, training data and the labor of writing.",
+          "englishExpressions": [
+            { "expression": "resistance to AI", "meaningChinese": "对AI的抵抗或反对", "example": "Resistance to AI is especially strong among some writers." },
+            { "expression": "obscure a connection", "meaningChinese": "遮蔽一种联系", "example": "A heated debate can obscure an important connection." },
+            { "expression": "the labor of writing", "meaningChinese": "写作劳动", "example": "AI debates should recognize the labor of writing." }
+          ],
+          "studyNote": ""
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s stories show that public trust is built through more than promises. International agreements need verification. Climate warnings need social protection and reliable funding. Pride remains meaningful because visibility can create community across generations. Media systems shape whose lives enter public discussion, while museums and archaeological evidence continually revise the stories societies tell about humanity. Even debates about AI and writing become clearer when they move beyond simple opposition and ask more precise questions about language, originality and labor. Support becomes credible when institutions can show how their commitments work in practice.",
+    "chinese": "今天的新闻让我们看到，公共信任不能只靠承诺建立。国际协议需要核查，气候预警需要社会保障和稳定资金；Pride 之所以仍然重要，是因为可见性能够跨越代际创造社群；媒体系统决定谁的生活能够进入公共讨论，而博物馆和考古证据则不断改写社会对人类的叙述。即使是 AI 与写作的争论，也只有越过简单对立，具体讨论语言、原创性与劳动，才会变得更清晰。当制度能够说明承诺如何落实，支持才真正可信。"
+  },
+  "keywords": [
+    { "word": "verification", "meaning": "核查；通过证据确认承诺或信息是否真实", "example": "Verification is essential for a credible international agreement." },
+    { "word": "visibility", "meaning": "可见性；被公共空间和制度看见的状态", "example": "Visibility can help marginalized people find community." },
+    { "word": "social protection", "meaning": "社会保障；帮助人们抵御贫困与危机的制度", "example": "Climate shocks increase the need for social protection." },
+    { "word": "media desert", "meaning": "媒体荒漠；缺乏稳定可靠新闻服务的地区", "example": "Local communities suffer when they become media deserts." },
+    { "word": "sustainable gastronomy", "meaning": "可持续美食；兼顾环境、文化和健康的饮食实践", "example": "Sustainable gastronomy should preserve the joy of eating." },
+    { "word": "originality", "meaning": "原创性；思想或表达具有独创性的性质", "example": "AI has reopened debates about originality and authorship." }
+  ],
+  "sentenceLab": {
+    "sentence": "Support becomes credible when institutions can show how their commitments work in practice.",
+    "analysisChinese": "when 引导时间兼条件从句，说明支持在什么情况下获得可信度。work in practice 表示“在实际中发挥作用”，把抽象承诺与可观察的制度落实连接起来。"
+  },
+  "reflection": {
+    "english": "A promise becomes public trust only when people can see how it is verified, shared and sustained.",
+    "chinese": "今天最想留下的一句话是：只有当人们看得见承诺如何被核查、分享并持续落实，承诺才会慢慢变成公共信任。"
+  },
+  "tags": ["global", "Iran", "climate", "verification", "gender", "LGBTQ", "Pride", "media", "visibility", "culture", "food", "AI", "writing", "governance"],
+  "sources": [
+    { "label": "ABC News — Comparing the Trump and Obama Iran deals", "url": "https://abcnews.com/Politics/comparings-trump-obamas-irandeals-knowanalysis/story?id=134014979" },
+    { "label": "UN News — US-Iran technical work and verification", "url": "https://news.un.org/feed/view/en/story/2026/06/1167748" },
+    { "label": "UN News — Climate shocks and El Niño risk", "url": "https://news.un.org/feed/view/en/story/2026/06/1167753" },
+    { "label": "ABC News — Three generations discuss Pride", "url": "https://abcnews.com/video/134006503/" },
+    { "label": "UN News — Media deserts and the invisibility of women", "url": "https://news.un.org/feed/view/en/story/2026/06/1167756" },
+    { "label": "Aeon — Neanderthal 1", "url": "https://aeon.co/videos/the-story-of-the-16-bones-that-upended-how-we-see-our-species" },
+    { "label": "UN News — Sustainable gastronomy", "url": "https://news.un.org/feed/view/en/story/2026/06/1167755" },
+    { "label": "Aeon — Words, words, words", "url": "https://aeon.co/essays/literature-fans-should-welcome-ai-as-a-fellow-wordsmith" }
+  ],
+  "rawText": "推送日期｜2026年6月18日\n\n今天的小报关键词是：verification, visibility, and support（核查、可见性与支持）。协议需要核查才能变成可信承诺，权利需要可见性才能进入公共讨论，而面对气候、饥饿与身份压力，支持也必须通过制度和资源真正抵达人们。"
+}
