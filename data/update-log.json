@@ -1,5 +1,53 @@
 [
   {
+    "date": "2026-06-22",
+    "title": "Expanded the verified briefing archive through June 21",
+    "description": "Published and refreshed the June 18–21 briefings with date-checked reporting from ABC News, AP, NPR, UN News, and Aeon, including specific source links for every edition.",
+    "type": "archive",
+    "relatedDate": "2026-06-21",
+    "link": "briefing.html?date=2026-06-21"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Published June 21 briefing",
+    "description": "Added the June 21 Daily Compass from verified ABC News, NPR, and UN News reports on elections, diplomacy, caregiving, conservation, peacebuilding, verification, and digital scam compounds.",
+    "type": "briefing",
+    "relatedDate": "2026-06-21",
+    "link": "briefing.html?date=2026-06-21"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Published June 20 briefing",
+    "description": "Added the June 20 Daily Compass from verified ABC News and UN News reports on humanitarian access, public health, disability, cultural infrastructure, and Global South innovation.",
+    "type": "briefing",
+    "relatedDate": "2026-06-20",
+    "link": "briefing.html?date=2026-06-20"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 18 briefing",
+    "description": "Rebuilt the June 18 Daily Compass from verified ABC News, UN News, and Aeon reports on verification, visibility, climate risk, Pride, media equality, culture, and AI language.",
+    "type": "content",
+    "relatedDate": "2026-06-18",
+    "link": "briefing.html?date=2026-06-18"
+  },
+  {
+    "date": "2026-06-19",
+    "title": "Published June 19 briefing",
+    "description": "Rebuilt the June 19 Daily Compass from verified ABC News, AP, UN News, and Aeon reports on care, public memory, health, financial inclusion, culture, and fair compensation for journalism.",
+    "type": "briefing",
+    "relatedDate": "2026-06-19",
+    "link": "briefing.html?date=2026-06-19"
+  },
+  {
+    "date": "2026-06-18",
+    "title": "Published June 18 briefing",
+    "description": "Added the June 18 Daily Compass briefing on infrastructure, bodies, governance, food insecurity, gender and healthcare debates, participatory art, and AI management.",
+    "type": "briefing",
+    "relatedDate": "2026-06-18",
+    "link": "briefing.html?date=2026-06-18"
+  },
+  {
     "date": "2026-06-17",
     "title": "Regenerated June 16 briefing",
     "description": "Rebuilt the June 16 briefing around power and infrastructure, G7 diplomacy, gender policy, public memory, AI factories, and social norms.",
