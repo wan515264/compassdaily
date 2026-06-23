@@ -1,5 +1,157 @@
 [
   {
+    "date": "2026-06-23",
+    "title": "整理六月小报归档与移动端阅读体验",
+    "description": "Consolidated the June 1–15 regenerated briefings, added the June 23 briefing, refreshed the archive index, and improved the briefing detail page so English Expression tables become stacked vocabulary cards on mobile without breaking phrases such as preliminary result, runoff election, and peace talks.",
+    "type": "site",
+    "relatedDate": "2026-06-23",
+    "link": "briefing.html?date=2026-06-23"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Published June 23 briefing",
+    "description": "Added the June 23 Daily Compass from eight date-checked Guardian reports on H5N1 bird flu, NSW cost-of-living relief, paraquat regulation, UK political media coverage, musical-theatre software, Hiroshima memory, World Cup algorithmic prediction, and storm-disrupted event infrastructure.",
+    "type": "content",
+    "relatedDate": "2026-06-23",
+    "link": "briefing.html?date=2026-06-23"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Regenerated June 1 briefing",
+    "description": "Rebuilt the June 1 Daily Compass from eight date-checked Guardian reports on the green economy, ICE detention protests, sexual harassment, forced marriage, art authentication, Francoist memory, Meta AI security, and OpenAI child-safety litigation; removed in-story Guardian attribution phrasing.",
+    "type": "content",
+    "relatedDate": "2026-06-01",
+    "link": "briefing.html?date=2026-06-01"
+  },
+  {
+    "date": "2026-06-23",
+    "title": "Regenerated June 2 briefing",
+    "description": "Rebuilt the June 2 Daily Compass from eight date-checked Guardian reports on Lebanon, Ukraine, care systems, gendered violence, memorial architecture, mental-health culture, AI model review, and El Niño warnings; removed in-story Guardian attribution phrasing.",
+    "type": "content",
+    "relatedDate": "2026-06-02",
+    "link": "briefing.html?date=2026-06-02"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Revalidated June 3 briefing sources",
+    "description": "Regenerated the June 3 source record against the approved pool of ABC News, AP, The Guardian, UN News, Aeon, The Conversation, and NPR; retained eight directly verifiable Guardian reports rather than using unverified historical links.",
+    "type": "content",
+    "relatedDate": "2026-06-03",
+    "link": "briefing.html?date=2026-06-03"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 3 briefing",
+    "description": "Rebuilt the June 3 Daily Compass from eight date-checked Guardian reports on hospitals in conflict, Ebola records, military representation, women's photography, feminist art, portraiture, automated welfare, and AI search publishing rules.",
+    "type": "content",
+    "relatedDate": "2026-06-03",
+    "link": "briefing.html?date=2026-06-03"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 4 briefing",
+    "description": "Rebuilt the June 4 Daily Compass from eight date-checked Guardian reports on Ebola response, wildfire smoke, femicide, trans-inclusive public space, Indigenous art, arts education, human-rights safeguards, and exam technology.",
+    "type": "content",
+    "relatedDate": "2026-06-04",
+    "link": "briefing.html?date=2026-06-04"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 5 briefing",
+    "description": "Rebuilt the June 5 Daily Compass from eight date-checked Guardian reports on Gaza infrastructure, ocean monitoring, bodily rights, colonial history, Welsh-language film, AI-generated abuse, and worker protections.",
+    "type": "content",
+    "relatedDate": "2026-06-05",
+    "link": "briefing.html?date=2026-06-05"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 6 briefing",
+    "description": "Rebuilt the June 6 Daily Compass from eight date-checked Guardian reports on hunger, food infrastructure, reproductive autonomy, medical misogyny, ceramics, literary canons, data centers, and AI-generated misinformation.",
+    "type": "content",
+    "relatedDate": "2026-06-06",
+    "link": "briefing.html?date=2026-06-06"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 7 briefing",
+    "description": "Rebuilt the June 7 Daily Compass from eight date-checked Guardian reports on sea rescue, nuclear safety, survivors' demands, housing displacement, wartime literature, theatre ethics, AI shopping scams, and AI investment.",
+    "type": "content",
+    "relatedDate": "2026-06-07",
+    "link": "briefing.html?date=2026-06-07"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 8 briefing",
+    "description": "Rebuilt the June 8 Daily Compass from eight date-checked Guardian reports on oceans, energy infrastructure, gender bias, political sexism, artistic testimony, AI in courts, and election misinformation.",
+    "type": "content",
+    "relatedDate": "2026-06-08",
+    "link": "briefing.html?date=2026-06-08"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 9 briefing",
+    "description": "Rebuilt the June 9 Daily Compass from eight date-checked Guardian reports on pollution measurement, judicial review, equality law, public safety, cultural access, surveillance, and public technology procurement.",
+    "type": "content",
+    "relatedDate": "2026-06-09",
+    "link": "briefing.html?date=2026-06-09"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Replaced a June 10 briefing story",
+    "description": "Replaced the deepfake story with Guardian reporting on risks in the UK stem-cell transplant system and updated the edition’s theme, vocabulary, sources, and sentence analysis.",
+    "type": "content",
+    "relatedDate": "2026-06-10",
+    "link": "briefing.html?date=2026-06-10"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 10 briefing",
+    "description": "Rebuilt the June 10 Daily Compass from eight date-checked Guardian reports on health misinformation, climate migration, racist violence, women’s communities, whistleblowing, art, facial recognition, and deepfakes.",
+    "type": "content",
+    "relatedDate": "2026-06-10",
+    "link": "briefing.html?date=2026-06-10"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 11 briefing",
+    "description": "Rebuilt the June 11 Daily Compass from eight date-checked Guardian reports on conflict, global growth, migration, special education, art, AI safety, and technological narratives.",
+    "type": "content",
+    "relatedDate": "2026-06-11",
+    "link": "briefing.html?date=2026-06-11"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 12 briefing",
+    "description": "Rebuilt the June 12 Daily Compass from eight date-checked Guardian reports on diplomacy, homelessness services, detention, pelvic pain, art, Afghanistan, AI evidence, and data reuse.",
+    "type": "content",
+    "relatedDate": "2026-06-12",
+    "link": "briefing.html?date=2026-06-12"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 13 briefing",
+    "description": "Rebuilt the June 13 Daily Compass from eight date-checked Guardian reports on environmental risk, detention, unpaid care, Pride, queer culture, spaceflight recovery, and child online safety.",
+    "type": "content",
+    "relatedDate": "2026-06-13",
+    "link": "briefing.html?date=2026-06-13"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 14 briefing",
+    "description": "Rebuilt the June 14 Daily Compass from eight date-checked Guardian reports on diplomacy, Ebola, trans expression, environmental health, queer art, data centers, and platform governance.",
+    "type": "content",
+    "relatedDate": "2026-06-14",
+    "link": "briefing.html?date=2026-06-14"
+  },
+  {
+    "date": "2026-06-22",
+    "title": "Regenerated June 15 briefing",
+    "description": "Rebuilt the June 15 Daily Compass from eight date-checked Guardian reports on the Iran peace framework, war costs, institutional misogyny, public memory, art, platform governance, and technology capital.",
+    "type": "content",
+    "relatedDate": "2026-06-15",
+    "link": "briefing.html?date=2026-06-15"
+  },
+  {
     "date": "2026-06-22",
     "title": "Regenerated June 1–15 briefing archive",
     "description": "Rebuilt 15 complete bilingual editions from date-checked Guardian reporting, with four sections, eight stories, English learning material, and specific source links in every edition.",

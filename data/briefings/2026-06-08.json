@@ -2,56 +2,32 @@
   "date": "2026-06-08",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "证据、照护与公共边界：海洋、停电、司法偏见、艺术见证与AI法庭",
+  "introChinese": "今天的小报关键词是：evidence, care, and public limits（证据、照护与公共边界）。海平面数据让缓慢的危机变得可见，古巴停电揭示基础设施如何进入人的睡眠与日常；司法、艺术和人工智能则共同追问：制度怎样听见受伤者，又有哪些责任不能交给技术。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜Kalshi and Polymarket prohibit affiliates from spreading election misinformation",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Prediction market apps ask paid content creators denying election results to remove posts or lose sponsorship",
+          "title": "联合国警告海洋承受“严重压力”，海平面上升速度十年内翻倍",
+          "summaryChinese": "The Guardian 报道，联合国《世界海洋评估》指出，全球海洋正承受污染、工业捕捞和气候危机造成的严重压力，海平面上升速度在十年间翻倍。报告提醒我们，海洋危机不是单一环境指标的变化，而会沿着海岸住房、食物系统和公共财政扩散。缓慢变化一旦被长期测量，就显现为需要全球合作的紧急治理问题。",
+          "correspondingEnglish": "The UN's World Ocean Assessment warns that the oceans are under severe stress from pollution, industrial fishing and the climate crisis. It says the rate of sea-level rise has doubled in a decade. These changes threaten coastal homes, food systems and public budgets, turning long-term measurement into an urgent call for coordinated action.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "sea-level rise", "meaningChinese": "海平面上升", "example": "Sea-level rise threatens many coastal communities."},
+            {"expression": "severe stress", "meaningChinese": "严重压力", "example": "The assessment says the oceans are under severe stress."},
+            {"expression": "coordinated action", "meaningChinese": "协调行动", "example": "A global crisis requires coordinated action."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Child sexual abuse victims in England and Wales to get help to remove online images",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Echo project will help erase images as part of package of support to end ‘prolonged suffering of survivors’",
+          "title": "古巴长期停电：能源危机进入睡眠、做饭与日常安全",
+          "summaryChinese": "The Guardian 报道，在美国石油封锁持续数月后，古巴居民面对反复且漫长的停电，国家电力系统只能勉强提供每天数小时供电。没有电、燃气和稳定睡眠，能源危机不再只是产量或外交数字，而成为家庭保存食物、获得信息和维持健康的日常困难。基础设施失灵时，时间与照护也会被重新分配。",
+          "correspondingEnglish": "Cubans are living through repeated power cuts as the island's electricity system struggles under an oil blockade. Without reliable electricity or gas, families face difficulties cooking, preserving food, sleeping and staying informed. The story shows that an energy crisis is also a crisis of time, care and everyday security.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "power outage", "meaningChinese": "停电", "example": "A prolonged power outage disrupts every part of daily life."},
+            {"expression": "electricity grid", "meaningChinese": "电力网；电力系统", "example": "The electricity grid cannot provide stable power."},
+            {"expression": "everyday security", "meaningChinese": "日常安全感；基本生活保障", "example": "Reliable energy is part of everyday security."}
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Family courts show ‘widespread’ gender bias and victim-blaming, report finds",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Exclusive: Analysis shows 72.5% of 91 judgments in England and Wales contained judicial victim-blaming, with mothers scrutinised more intensely",
+          "title": "报告称英格兰与威尔士家事法庭存在广泛性别偏见与受害者责备",
+          "summaryChinese": "The Guardian 报道，一项对英格兰和威尔士91份家事法庭判决的分析发现，72.5%的判决包含司法层面的受害者责备，母亲受到的审视尤其严格。家事法庭决定照护、接触与儿童安全，但看似中性的判断也可能携带关于“好母亲”与“可信受害者”的性别期待。证据不仅要被提交，也需要在不复制偏见的制度中被倾听。",
+          "correspondingEnglish": "An analysis of 91 family-court judgments in England and Wales found judicial victim-blaming in 72.5% of them, with mothers examined more harshly. Family courts make decisions about care, contact and child safety, yet apparently neutral reasoning may carry gendered expectations. Evidence must be heard through procedures that do not reproduce the bias under examination.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "victim-blaming", "meaningChinese": "受害者责备", "example": "Victim-blaming can distort how evidence is understood."},
+            {"expression": "gender bias", "meaningChinese": "性别偏见", "example": "The report found widespread gender bias in family courts."},
+            {"expression": "family-court judgment", "meaningChinese": "家事法庭判决", "example": "A family-court judgment can shape a child's future."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Pilot ‘hyperlocal’ job support scheme in England shows promising signs of effectiveness",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Government-funded JobsPlus trial in 10 neighbourhoods could be scalable nationwide, evaluation shows",
+          "title": "澳大利亚政界谴责针对维州州长的“ditch the witch”性别攻击",
+          "summaryChinese": "The Guardian 报道，澳大利亚前总理 Julia Gillard 与现任总理 Anthony Albanese 谴责针对维多利亚州州长 Jacinta Allan 的“ditch the witch”广告活动。带有尖帽形象的卡车广告重复了曾用于攻击女性政治家的性别化语言。争议说明，政治批评可以针对政策，但把女性领导者塑造成需要被驱逐的“女巫”，会把权力争论变成对性别身份的惩罚。",
+          "correspondingEnglish": "Julia Gillard and Anthony Albanese have condemned a 'ditch the witch' campaign targeting Victorian premier Jacinta Allan. Mobile billboards use language and imagery with a history of gendered attacks on women in politics. Policy criticism is legitimate, but portraying a woman leader as a witch turns political disagreement into punishment for occupying public power.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "gendered attack", "meaningChinese": "性别化攻击", "example": "A gendered attack targets identity rather than policy."},
+            {"expression": "political criticism", "meaningChinese": "政治批评", "example": "Political criticism should focus on decisions and evidence."},
+            {"expression": "public office", "meaningChinese": "公职", "example": "Women in public office often face unequal scrutiny."}
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Brexit: A Very British Civil War review – TV has no right to be this much of a hoot",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Yes, it’s a documentary on a sobering topic. But when you’ve got an endless stream of blockbuster names spouting irresistible gossip – plus Nigel Farage being a total panto dame – you can’t help but have a ball",
+          "title": "80多位女性与非二元写作者共同创作声援爱泼斯坦受害者的戏剧",
+          "summaryChinese": "The Guardian 介绍实验戏剧 All the Rage：80多位女性与非二元写作者共同写作，以艺术、行动主义与愤怒回应爱泼斯坦案件中受害者逐渐被遗忘的问题。作品拒绝让故事再次围绕有权势的男性和金钱运转，而把多人的声音组织成集体见证。艺术在这里不是案件的装饰，而是一种重新分配注意力的方法。",
+          "correspondingEnglish": "More than 80 women and non-binary writers have created All the Rage, an experimental play responding to the fading attention given to Jeffrey Epstein's victims. The work combines art, activism and anger, shifting the story away from powerful men and money. Its many voices turn performance into a form of collective testimony.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "collective testimony", "meaningChinese": "集体见证；多人共同作证", "example": "The play transforms many voices into collective testimony."},
+            {"expression": "experimental theatre", "meaningChinese": "实验戏剧", "example": "Experimental theatre can challenge familiar ways of telling a story."},
+            {"expression": "shift the focus", "meaningChinese": "转移焦点", "example": "The writers shift the focus back to survivors."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Gareth Southgate: Changing the Game for Young Men review – boys are crying out for help like this",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The former England manager is heartfelt as he spends time with schoolboys in need of a male mentor. But the limitations on what he can change are deeply frustrating",
+          "title": "纪录片《My Memory Is Full of Ghosts》凝视战后霍姆斯的记忆",
+          "summaryChinese": "The Guardian 评论 Anas Zawahri 的纪录片 My Memory Is Full of Ghosts。影片以缓慢的城市影像和居民证词记录遭轰炸后的叙利亚霍姆斯：弹痕、废墟与空街道既是物质破坏，也承载失去亲人和家园的记忆。纪录片没有把废墟变成遥远景观，而让观看者面对战争如何长期留存在城市与人的身体里。",
+          "correspondingEnglish": "Anas Zawahri's documentary My Memory Is Full of Ghosts combines patient images of bomb-damaged Homs with residents' testimony. Ruined buildings and empty streets hold memories of lost people and homes. By refusing to treat destruction as a distant spectacle, the film shows how war remains inside a city and the bodies of those who survive it.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "visual testimony", "meaningChinese": "视觉见证", "example": "The documentary offers visual testimony of a damaged city."},
+            {"expression": "bomb-damaged", "meaningChinese": "遭轰炸破坏的", "example": "The camera moves through bomb-damaged streets."},
+            {"expression": "distant spectacle", "meaningChinese": "遥远的奇观；被置于安全距离观看的景象", "example": "The film refuses to turn suffering into a distant spectacle."}
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "David Lammy to announce trial of AI assistants in crown courts in effort to cut backlog of cases",
+          "title": "英国拟在刑事法庭试用AI法律助手，律师警告技术不能替代经费与人员",
+          "summaryChinese": "The Guardian 报道，英国计划在英格兰和威尔士刑事法庭试用AI法律助手，以缓解积压案件。律师团体提醒，工具或许能协助整理信息，却不能弥补长期缺少法官、律师、法院职员和公共经费的问题。把组织危机描述成技术问题很诱人，但司法速度、准确性与公平最终仍依赖有人承担判断和责任。",
+          "correspondingEnglish": "England and Wales plan to trial AI legal assistants in crown courts to help reduce a backlog of cases. Lawyers say such tools may organize information but cannot replace judges, lawyers, court staff or sustained public funding. A staffing crisis should not be mistaken for a software problem, because justice still requires human judgment and accountability.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "legal assistant", "meaningChinese": "法律助手", "example": "An AI legal assistant may help organize case information."},
+            {"expression": "case backlog", "meaningChinese": "积压案件", "example": "Courts are trying to reduce a serious case backlog."},
+            {"expression": "human judgment", "meaningChinese": "人的判断", "example": "Legal decisions require human judgment and accountability."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜OpenAI confidentially files for initial public offering on US stock market",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "ChatGPT maker expected to be valued at more than $850bn, one of most highly valued listings in market history",
+          "title": "预测市场要求合作创作者删除选举虚假信息",
+          "summaryChinese": "The Guardian 报道，预测市场平台 Kalshi 与 Polymarket 要求受其资助、否认选举结果的内容创作者删除相关帖子，否则终止赞助。事件揭示平台治理中的利益链条：虚假信息不仅由用户自由传播，也可能被联盟营销和注意力经济奖励。平台开始设限很重要，但透明披露合作关系和一致执行规则同样关键。",
+          "correspondingEnglish": "Prediction-market platforms Kalshi and Polymarket have told paid affiliates to remove posts denying election results or lose their sponsorships. The case shows how misinformation can be rewarded through affiliate marketing and the attention economy. Platform rules matter, but so do transparent commercial relationships and consistent enforcement.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "election misinformation", "meaningChinese": "选举虚假信息", "example": "Election misinformation can weaken public trust."},
+            {"expression": "paid affiliate", "meaningChinese": "付费合作推广者", "example": "A paid affiliate should disclose commercial ties."},
+            {"expression": "consistent enforcement", "meaningChinese": "一致执行（规则）", "example": "Platform credibility depends on consistent enforcement."}
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today's news asks what institutions do with evidence. Ocean measurements can turn gradual damage into an urgent public warning. Courts can hear testimony, but bias may shape whose account appears credible. Art can preserve voices that public memory neglects, while AI can organize information without carrying moral responsibility. Evidence matters only when systems are prepared to listen, respond and remain accountable.",
+    "chinese": "今天的新闻追问制度如何对待证据。海洋测量可以把缓慢损害转化为紧急的公共预警；法庭能够听取证词，偏见却可能决定谁的叙述显得可信；艺术保存公共记忆忽略的声音，AI则可以整理信息，却不能承担道德责任。只有当系统愿意倾听、回应并接受问责时，证据才真正有力量。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    {"word": "evidence", "meaning": "证据；支持判断的事实或材料", "example": "Evidence becomes meaningful when institutions respond to it."},
+    {"word": "infrastructure", "meaning": "基础设施；维持社会运行的基本系统", "example": "Electricity infrastructure shapes everyday security."},
+    {"word": "victim-blaming", "meaning": "受害者责备；把伤害责任转嫁给受害者", "example": "Victim-blaming can silence people who report abuse."},
+    {"word": "collective testimony", "meaning": "集体见证；由多人共同形成的叙述或证词", "example": "The performance creates a form of collective testimony."},
+    {"word": "human judgment", "meaning": "人的判断；不能仅由自动系统完成的理解与决定", "example": "Fair justice depends on informed human judgment."},
+    {"word": "accountability", "meaning": "问责；对决定及其后果承担责任", "example": "Technology does not remove the need for accountability."}
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Evidence matters only when systems are prepared to listen, respond and remain accountable.",
+    "analysisChinese": "only when 引导条件状语从句，强调证据发挥作用所需的制度条件。listen、respond 和 remain accountable 构成三个并列动词短语，从倾听到行动再到持续问责，形成递进关系。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "A fact becomes public knowledge only when someone is willing to hear it and responsible enough to act.",
+    "chinese": "今天最想留下的一句话是：事实只有在有人愿意倾听、也有人负责行动时，才会成为真正的公共知识。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["evidence", "care", "public limits", "oceans", "sea-level rise", "Cuba", "energy", "gender bias", "victim-blaming", "political sexism", "collective testimony", "documentary", "AI courts", "misinformation", "accountability"],
   "sources": [
-    {
-      "label": "The Guardian — Kalshi and Polymarket prohibit affiliates from spreading election misinformation",
-      "url": "https://www.theguardian.com/us-news/2026/jun/08/kalshi-polymarket-election-misinformation"
-    },
-    {
-      "label": "The Guardian — Child sexual abuse victims in England and Wales to get help to remove online images",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/child-sexual-abuse-victims-in-england-and-wales-to-get-help-to-remove-online-images"
-    },
-    {
-      "label": "The Guardian — Family courts show ‘widespread’ gender bias and victim-blaming, report finds",
-      "url": "https://www.theguardian.com/law/2026/jun/09/family-courts-widespread-gender-bias-victim-blaming-report"
-    },
-    {
-      "label": "The Guardian — Pilot ‘hyperlocal’ job support scheme in England shows promising signs of effectiveness",
-      "url": "https://www.theguardian.com/society/2026/jun/09/pilot-hyperlocal-job-support-scheme-jobsplus-england"
-    },
-    {
-      "label": "The Guardian — Brexit: A Very British Civil War review – TV has no right to be this much of a hoot",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/08/brexit-a-very-british-civil-war-review-tv-no-right-this-much-of-a-hoot"
-    },
-    {
-      "label": "The Guardian — Gareth Southgate: Changing the Game for Young Men review – boys are crying out for help like this",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/08/gareth-southgate-changing-the-game-for-young-men-review-bbc-iplayer"
-    },
-    {
-      "label": "The Guardian — Plan for AI legal assistants in England and Wales ‘cannot replace funding and staff’, lawyers say",
-      "url": "https://www.theguardian.com/technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff"
-    },
-    {
-      "label": "The Guardian — OpenAI confidentially files for initial public offering on US stock market",
-      "url": "https://www.theguardian.com/technology/2026/jun/08/openai-ipo-files-for-public-stock-market"
-    }
+    {"label": "The Guardian — UN warns of severe stress on oceans as sea-level rise doubles", "url": "https://www.theguardian.com/environment/2026/jun/08/un-world-ocean-assessment-severe-stress-sea-level-rise-doubles-pollution-fishing-climate"},
+    {"label": "The Guardian — Cubans endure electricity and gas shortages amid outages", "url": "https://www.theguardian.com/world/2026/jun/08/cuba-power-outages-electricity"},
+    {"label": "The Guardian — Family courts show widespread gender bias and victim-blaming", "url": "https://www.theguardian.com/law/2026/jun/09/family-courts-widespread-gender-bias-victim-blaming-report"},
+    {"label": "The Guardian — Gillard and Albanese condemn sexist campaign against Victorian premier", "url": "https://www.theguardian.com/world/2026/jun/08/julia-gillard-victorian-premier-jacinta-allan-ditch-the-witch-condemned-ntwnfb"},
+    {"label": "The Guardian — All the Rage brings together more than 80 women and non-binary writers", "url": "https://www.theguardian.com/stage/2026/jun/08/epstein-files-men-money-all-the-rage-guerrilla-play"},
+    {"label": "The Guardian — My Memory Is Full of Ghosts review", "url": "https://www.theguardian.com/film/2026/jun/08/my-memory-is-full-of-ghosts-review-deeply-moving-visual-hymn-for-the-bombed-out-syrian-city-of-homs"},
+    {"label": "The Guardian — AI legal assistants cannot replace funding and staff, lawyers say", "url": "https://www.theguardian.com/technology/2026/jun/09/ai-legal-assistants-england-wales-cannot-replace-funding-staff"},
+    {"label": "The Guardian — Kalshi and Polymarket prohibit affiliates from spreading election misinformation", "url": "https://www.theguardian.com/us-news/2026/jun/08/kalshi-polymarket-election-misinformation"}
   ],
-  "rawText": "推送日期｜2026年6月8日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月8日\n\n今天的小报关键词是：evidence, care, and public limits（证据、照护与公共边界）。\n\n认真读新闻，也是在观察制度如何倾听证据、分配照护并承担责任。"
 }

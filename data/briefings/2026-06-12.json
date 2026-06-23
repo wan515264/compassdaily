@@ -2,56 +2,32 @@
   "date": "2026-06-12",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "证据、照护与数据再利用：美伊谈判、住房资金、拘留抗议、盆腔疼痛、Hockney与军事AI",
+  "introChinese": "今天的小报关键词是：evidence, care, and data reuse（证据、照护与数据再利用）。战争目标需要法律证据，医疗痛苦需要被制度认真识别，而数字时代最隐蔽的问题之一是：我们为了游戏、便利或办案留下的数据，最终会被谁用于什么目的。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜Philippines picks up the pieces after strongest earthquake in decades",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "7.8-magnitude quake hit the southern island of Mindanao killing at least 55 people and leaving a trail of destruction",
+          "title": "美伊和平协议仍未落定，美国打击目标引发法律质疑",
+          "summaryChinese": "The Guardian 报道，特朗普声称美伊协议接近达成，但德黑兰否认协议在即；法律专家同时质疑部分美国打击目标是否可能构成战争罪。外交乐观与法律争议并存，说明结束战争不仅需要政治宣言，也需要查明行动责任。",
+          "correspondingEnglish": "A US-Iran peace agreement remained elusive. President Trump said a deal was close, while Tehran denied that an agreement was imminent. Legal experts also questioned whether some US targets could amount to war crimes. Ending a war requires more than political optimism; it also requires legal scrutiny of how force was used.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "remain elusive", "meaningChinese": "仍难以实现", "example": "A final peace deal remained elusive." },
+            { "expression": "legal scrutiny", "meaningChinese": "法律审查", "example": "Military targets require legal scrutiny." },
+            { "expression": "imminent agreement", "meaningChinese": "即将达成的协议", "example": "Iran denied that an agreement was imminent." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Five Great Reads: the new Pokémon Go, the creative possibilities of dementia, and a stampede for Kate Moss",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Guardian Australia’s weekend wrap of essential reads from the past seven days, selected by Emma Elsworthy",
+          "title": "特朗普政府削减洛杉矶无家可归者服务机构联邦资金",
+          "summaryChinese": "The Guardian 报道，美国住房与城市发展部以涉嫌欺诈为由削减洛杉矶无家可归者服务机构的联邦资金，这是联邦政府与加州最新冲突。反欺诈审查有其必要性，但突然撤资也可能首先影响最依赖住房、外展和心理健康服务的人。",
+          "correspondingEnglish": "Trump administration officials cut federal funding to a Los Angeles homelessness-services agency, alleging fraud. The decision became another clash between the federal government and California. Fraud investigations may be necessary, but abrupt funding cuts can first affect people who depend on housing, outreach and mental-health services.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "federal funding", "meaningChinese": "联邦资金", "example": "The agency lost federal funding." },
+            { "expression": "homelessness service", "meaningChinese": "无家可归者服务", "example": "Homelessness services include housing and outreach." },
+            { "expression": "abrupt funding cut", "meaningChinese": "突然削减资金", "example": "Abrupt funding cuts can interrupt essential care." }
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Blood test can find thousands of genetic conditions in pregnancy, say scientists",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Technique that examines fragments of foetal DNA in mother’s bloodstream could limit need for invasive screening, according to researchers",
+          "title": "近40名女性加入ICE拘留中心绝食抗议",
+          "summaryChinese": "The Guardian 报道，近40名被关押在新泽西 Delaney Hall 的女性加入男性拘留者发起的绝食，并提出以基本人权为基础的诉求。绝食让被隔离的身体成为公共证词，也显示拘留条件、医疗照护和法律程序必须接受外部监督。",
+          "correspondingEnglish": "Nearly 40 women detained at Delaney Hall joined men in a hunger strike and outlined demands rooted in basic human rights. Hunger strikes turn isolated bodies into public testimony. Detention conditions, medical care and legal procedures require independent oversight.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "hunger strike", "meaningChinese": "绝食抗议", "example": "The detained women joined a hunger strike." },
+            { "expression": "detention condition", "meaningChinese": "拘留条件", "example": "The protest focused on detention conditions." },
+            { "expression": "independent oversight", "meaningChinese": "独立监督", "example": "Detention facilities require independent oversight." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Bell hotel in Epping was scene of violent protests after asylum seeker living there sexually assaulted girl and woman",
+          "title": "盆腔疼痛的昂贵代价：延迟诊断与保险缺口",
+          "summaryChinese": "The Guardian 报道，患有外阴阴道疼痛的患者常因诊断延迟和保险缺口花费数千美元。疼痛被长期忽视后，患者容易进入反复检查、自费治疗与不确定建议的循环。医疗成本不仅来自疾病，也来自系统不相信或不能识别某些身体经验。",
+          "correspondingEnglish": "Patients with vulvovaginal and pelvic pain can spend thousands of dollars because of delayed diagnosis and insurance gaps. When pain is not recognized early, people may enter a cycle of repeated tests, private treatment and uncertain advice. Medical costs are produced not only by illness, but also by systems that fail to recognize bodily experience.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "pelvic pain", "meaningChinese": "盆腔疼痛", "example": "Pelvic pain can be difficult to diagnose." },
+            { "expression": "delayed diagnosis", "meaningChinese": "延迟诊断", "example": "Delayed diagnosis increases financial and emotional costs." },
+            { "expression": "insurance gap", "meaningChinese": "保险保障缺口", "example": "Insurance gaps leave patients paying privately." }
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜The Alien Autopsy Scandal review – an exquisite, playful look at how a faked video swept the world",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The story behind the grainy footage of a dummy filled with butcher’s off-cuts is an extraordinarily eccentric and knotty joy – with the hoaxers resembling Scooby-Doo baddies",
+          "title": "英国艺术家David Hockney去世，享年88岁",
+          "summaryChinese": "The Guardian 报道，以泳池、肖像和加州阳光闻名的英国艺术家 David Hockney 去世。他从未停止跨越绘画、摄影、舞台与数字工具，成为当代艺术最重要的创新者之一。其作品提醒我们，风格不是固定标签，也可以是一种持续更新观看方式的能力。",
+          "correspondingEnglish": "David Hockney, the pioneering British artist known for pools, portraits and sunlit California scenes, died aged 88. He continued moving across painting, photography, stage design and digital tools. His career shows that style can be less a fixed label than an ability to keep renewing how the world is seen.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "pioneering artist", "meaningChinese": "开创性艺术家", "example": "Hockney was a pioneering British artist." },
+            { "expression": "break artistic barriers", "meaningChinese": "打破艺术边界", "example": "He continued to break artistic barriers." },
+            { "expression": "digital tool", "meaningChinese": "数字工具", "example": "The artist embraced digital tools late in his career." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜‘Failure was my thing’: Women’s prize winner Virginia Evans on her long journey to success",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The American author received ‘thousands of rejections’ over two decades before finally hitting gold with her first published novel",
+          "title": "Lyse Doucet以阿富汗“人民史”获得女性非虚构写作奖",
+          "summaryChinese": "The Guardian 报道，BBC首席国际记者 Lyse Doucet 凭《The Finest Hotel in Kabul》获得女性非虚构写作奖。她希望这部以普通人经验构成的阿富汗历史，让外界继续关注塔利班对女性的严厉压迫。人民史让宏大政治重新获得面孔、声音与日常细节。",
+          "correspondingEnglish": "BBC chief international correspondent Lyse Doucet won the Women’s prize for nonfiction for The Finest Hotel in Kabul. She hopes the book’s people-centered history will draw attention to the Taliban’s harsh treatment of women. A people’s history gives faces, voices and daily detail back to geopolitical events.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "people’s history", "meaningChinese": "人民史；以普通人经验为中心的历史", "example": "The book presents a people’s history of Afghanistan." },
+            { "expression": "draw attention to", "meaningChinese": "引起对……的关注", "example": "The author hopes to draw attention to Afghan women." },
+            { "expression": "nonfiction prize", "meaningChinese": "非虚构写作奖", "example": "The book won a major nonfiction prize." }
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Palantir loses legal challenge to force Swiss magazine to publish responses",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Data analytics company loses on 22 out of 23 counts in lawsuit disputing how Swiss government rejected firm’s services",
+          "title": "英国警员因涉嫌使用AI生成“证据材料”接受刑事调查",
+          "summaryChinese": "The Guardian 报道，德比郡一名警员因涉嫌使用AI生成证据材料被调离一线并接受调查，这是英国首例已知同类案件。生成式AI进入执法后，错误不再只是内容瑕疵，而可能影响自由与定罪，因此必须保存来源、操作记录和人工核验链条。",
+          "correspondingEnglish": "A Derbyshire police officer was removed from frontline duties and placed under criminal investigation over allegedly AI-generated evidential material. It is believed to be the first known case of its kind in the UK. In policing, synthetic content can affect liberty and prosecution, making provenance, audit logs and human verification essential.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "evidential material", "meaningChinese": "证据材料", "example": "The investigation concerns allegedly generated evidential material." },
+            { "expression": "audit trail", "meaningChinese": "审计轨迹；操作记录链", "example": "AI-assisted evidence needs a complete audit trail." },
+            { "expression": "human verification", "meaningChinese": "人工核验", "example": "Sensitive decisions require human verification." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜How much money did Elon Musk make in SpaceX’s stock market debut?",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "He’s now the world’s first trillionaire, after his rocket and AI company broke IPO records on its way to a $2.1tn valuation",
+          "title": "Pokémon Go位置扫描数据被用于训练军事无人机视觉AI",
+          "summaryChinese": "The Guardian 报道，Pokémon Go玩家提供的位置扫描帮助训练识别和理解物理空间的AI，而相关能力可能用于战区军事无人机。娱乐数据的二次用途说明，同意使用一款游戏并不等于真正理解数据未来会进入哪些系统。",
+          "correspondingEnglish": "Location scans collected through Pokémon Go helped train AI to recognize and interpret physical spaces, technology that could assist military drones in war zones. The secondary use of entertainment data shows that agreeing to play a game is not the same as understanding every future system that may use the resulting data.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "secondary data use", "meaningChinese": "数据二次利用", "example": "Users may not anticipate secondary data use." },
+            { "expression": "location scan", "meaningChinese": "位置扫描", "example": "The game collected location scans from physical spaces." },
+            { "expression": "military application", "meaningChinese": "军事应用", "example": "Civilian data can acquire a military application." }
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today’s stories ask what counts as evidence and who receives care. Military action needs legal scrutiny, while public services can disappear before allegations are fully tested. Hunger strikes and chronic pain turn bodily experience into evidence of institutional failure. Art and nonfiction preserve other forms of testimony. In policing and location-based games, data can travel far beyond its original purpose. Responsible systems must therefore explain where information came from, how it was transformed and who may be harmed by its reuse.",
+    "chinese": "今天的新闻追问什么能够被视为证据，以及谁能够获得照护。军事行动需要法律审查，公共服务却可能在指控得到充分核实前消失；绝食和慢性疼痛让身体经验成为制度失灵的证据；艺术与非虚构写作保存其他形式的证词。在执法和位置游戏中，数据可能远离最初用途。负责任的系统必须说明信息来自哪里、如何被转化，以及二次利用可能伤害谁。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    { "word": "legal scrutiny", "meaning": "法律审查", "example": "Military actions require legal scrutiny." },
+    { "word": "delayed diagnosis", "meaning": "延迟诊断", "example": "Delayed diagnosis can increase the cost of care." },
+    { "word": "testimony", "meaning": "证词；对亲历事件的讲述", "example": "Books and protests can preserve testimony." },
+    { "word": "provenance", "meaning": "来源与流转记录", "example": "Digital evidence requires clear provenance." },
+    { "word": "secondary data use", "meaning": "数据二次利用", "example": "Secondary data use should be explained to users." },
+    { "word": "human verification", "meaning": "人工核验", "example": "AI-generated material needs human verification." }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Agreeing to play a game is not the same as understanding every future system that may use the resulting data.",
+    "analysisChinese": "A is not the same as B 用于区分两种常被混同的行为。that may use the resulting data 是定语从句，修饰 every future system。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "Evidence becomes trustworthy when its origin, transformation and consequences remain visible.",
+    "chinese": "今天最想留下的一句话是：只有当来源、转化过程与后果保持可见，证据才可能获得信任。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["global", "Iran", "homelessness", "gender", "detention", "pelvic pain", "art", "David Hockney", "Afghanistan", "technology", "AI evidence", "Pokémon Go", "data governance"],
   "sources": [
-    {
-      "label": "The Guardian — Philippines picks up the pieces after strongest earthquake in decades",
-      "url": "https://www.theguardian.com/world/2026/jun/13/philippines-earthquake-cleanup-mindanao"
-    },
-    {
-      "label": "The Guardian — Five Great Reads: the new Pokémon Go, the creative possibilities of dementia, and a stampede for Kate Moss",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/12/the-new-pokemon-go-the-creative-possibilities-of-dementia-and-a-stampede-for-kate-moss"
-    },
-    {
-      "label": "The Guardian — Blood test can find thousands of genetic conditions in pregnancy, say scientists",
-      "url": "https://www.theguardian.com/lifeandstyle/2026/jun/12/maternal-blood-test-detect-genetic-conditions-foetus"
-    },
-    {
-      "label": "The Guardian — Asylum seekers removed from Essex hotel targeted by far right as Home Office ends contract",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/12/asylum-seekers-essex-hotel-epping-far-right-home-office-ends-contract"
-    },
-    {
-      "label": "The Guardian — The Alien Autopsy Scandal review – an exquisite, playful look at how a faked video swept the world",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/12/the-alien-autopsy-scandal-review-sky-documentaries"
-    },
-    {
-      "label": "The Guardian — ‘Failure was my thing’: Women’s prize winner Virginia Evans on her long journey to success",
-      "url": "https://www.theguardian.com/books/2026/jun/12/failure-was-my-thing-womens-prize-winner-virginia-evans-on-coping-with-years-of-rejection"
-    },
-    {
-      "label": "The Guardian — Palantir loses legal challenge to force Swiss magazine to publish responses",
-      "url": "https://www.theguardian.com/technology/2026/jun/13/palantir-loses-legal-challenge-to-force-swiss-magazine-to-publish-rejoinders"
-    },
-    {
-      "label": "The Guardian — How much money did Elon Musk make in SpaceX’s stock market debut?",
-      "url": "https://www.theguardian.com/technology/2026/jun/12/elon-musk-spacex-net-worth"
-    }
+    { "label": "The Guardian — US-Iran deal and legal questions", "url": "https://www.theguardian.com/us-news/2026/jun/12/first-thing-us-iran-peace-deal-trump" },
+    { "label": "The Guardian — LA homelessness funding cuts", "url": "https://www.theguardian.com/us-news/2026/jun/12/trump-la-homeless-agency-cuts" },
+    { "label": "The Guardian — Women join ICE hunger strike", "url": "https://www.theguardian.com/us-news/2026/jun/12/delaney-hall-ice-detention-strike" },
+    { "label": "The Guardian — Cost of pelvic pain", "url": "https://www.theguardian.com/wellness/2026/jun/12/pelvic-pain-costly-expense" },
+    { "label": "The Guardian — David Hockney dies", "url": "https://www.theguardian.com/artanddesign/2026/jun/12/artist-david-hockney-dies" },
+    { "label": "The Guardian — Lyse Doucet Women’s prize", "url": "https://www.theguardian.com/books/2026/jun/12/lyse-doucet-womens-prize-for-non-fiction-the-finest-hotel-in-kabul-afghanistan" },
+    { "label": "The Guardian — AI-generated police evidence", "url": "https://www.theguardian.com/technology/2026/jun/12/police-officer-under-criminal-investigation-over-alleged-use-of-ai" },
+    { "label": "The Guardian — Pokémon Go data and military AI", "url": "https://www.theguardian.com/technology/2026/jun/12/pokemon-go-data-trained-ai-that-could-assist-military-drones-in-war-zones" }
   ],
-  "rawText": "推送日期｜2026年6月12日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月12日\n\n今天的小报关键词是：evidence, care, and data reuse（证据、照护与数据再利用）。战争目标需要法律证据，医疗痛苦需要被制度认真识别，而数字时代最隐蔽的问题之一是：我们为了游戏、便利或办案留下的数据，最终会被谁用于什么目的。"
 }

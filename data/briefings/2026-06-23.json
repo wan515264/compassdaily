@@ -1,0 +1,315 @@
+{
+  "date": "2026-06-23",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "预警、成本与自动化边界：禽流感、预算减压、政治更替、文化劳动与算法预测",
+  "sourcePolicy": "本期采用用户指定来源池中可核验发布日期与原文链接的报道；当前环境中可稳定核验的8条来源均为 The Guardian。正文采用直接叙述，来源统一列于文末。",
+  "introChinese": "今天的小报关键词是：“warnings, costs, and automated judgement（预警、成本与自动化判断）”。禽流感进入澳大利亚公共卫生视野，预算政策试图缓冲生活成本，英国政治更替被媒体重新包装，音乐剧现场和足球预测都显示：自动化正在进入文化劳动、体育叙事和公共治理的细节。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "H5N1禽流感进入澳大利亚视野：生物安全成为日常问题",
+          "summaryChinese": "致命 H5N1 禽流感在澳大利亚登陆后，专家提醒公众关注症状、食物安全和家禽/奶牛保护。禽流感听起来像动物疾病，但它很快会进入人的日常：鸡蛋和鸡肉是否安全、养殖场如何防护、政府是否能迅速监测传播。公共卫生的核心并不只是治疗，也包括预警、沟通和生物安全体系。",
+          "correspondingEnglish": "As the deadly H5N1 bird flu virus reaches Australia, experts are explaining symptoms, food safety and biosecurity measures for poultry and dairy cattle. Bird flu may sound like an animal disease, but it quickly enters everyday life through food, farming and public health communication. The key issue is not only treatment, but also warning, monitoring and trust.",
+          "englishExpressions": [
+            {
+              "expression": "bird flu",
+              "meaningChinese": "禽流感",
+              "example": "Bird flu can affect farms, food systems and public health."
+            },
+            {
+              "expression": "biosecurity measures",
+              "meaningChinese": "生物安全措施",
+              "example": "Biosecurity measures are designed to stop the virus from spreading."
+            },
+            {
+              "expression": "public health communication",
+              "meaningChinese": "公共卫生沟通",
+              "example": "Clear public health communication can reduce panic."
+            }
+          ],
+          "studyNote": "biosecurity 指防止有害生物、病毒或疾病进入并扩散的制度和技术措施。"
+        },
+        {
+          "title": "新州预算推出交通费减免：生活成本压力进入财政政治",
+          "summaryChinese": "澳大利亚新南威尔士州预算提出公共交通费用减免和汽车注册费削减，以回应生活成本压力。与此同时，该州预计2026-27财年赤字将恶化至23亿澳元，之后再恢复盈余。预算新闻的重点不只是钱从哪里来，也是谁先感受到通胀、通勤和住房压力，以及政府如何用财政工具把压力重新分配。",
+          "correspondingEnglish": "The New South Wales budget includes public transport fee relief and a cut to car registration costs as the state responds to cost-of-living pressures. The budget also forecasts a worse-than-expected deficit before a later return to surplus. Fiscal policy is not only about numbers. It decides how pressure from transport, inflation and daily expenses is redistributed.",
+          "englishExpressions": [
+            {
+              "expression": "cost-of-living pressures",
+              "meaningChinese": "生活成本压力",
+              "example": "The budget targets cost-of-living pressures."
+            },
+            {
+              "expression": "fee relief",
+              "meaningChinese": "费用减免",
+              "example": "Public transport fee relief can help commuters."
+            },
+            {
+              "expression": "budget deficit",
+              "meaningChinese": "预算赤字",
+              "example": "The state expects a larger budget deficit next year."
+            }
+          ],
+          "studyNote": "relief 在政策语境中常指“减负、纾困、救济”，不只是情绪上的“松一口气”。"
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "百草枯争议：农药监管如何处理身体风险",
+          "summaryChinese": "澳大利亚政治直播中提到，监管机构在帕金森病风险担忧仍然存在的情况下，允许百草枯除草剂继续使用。这个议题提醒我们，化学品监管不是抽象技术判断，而是与农民、工人、食品系统和长期疾病风险相连。身体受到伤害时，问题往往会追溯到更早的许可、评估和风险分配。",
+          "correspondingEnglish": "Australian political coverage noted that paraquat herbicide received regulatory approval despite concerns about possible links to Parkinson’s disease. Chemical regulation is not an abstract technical matter. It connects farmers, workers, food systems and long-term health risk. When bodies are harmed, the question often reaches back to earlier decisions about approval and exposure.",
+          "englishExpressions": [
+            {
+              "expression": "regulatory approval",
+              "meaningChinese": "监管批准",
+              "example": "The herbicide received regulatory approval despite health concerns."
+            },
+            {
+              "expression": "health risk",
+              "meaningChinese": "健康风险",
+              "example": "Workers may face long-term health risk from chemical exposure."
+            },
+            {
+              "expression": "chemical exposure",
+              "meaningChinese": "化学品暴露",
+              "example": "Chemical exposure is often unevenly distributed."
+            }
+          ],
+          "studyNote": "exposure 在公共卫生和环境新闻中常指暴露于污染物、病毒、风险或暴力之中。"
+        },
+        {
+          "title": "英国报纸聚焦首相辞职：政治更替如何被媒体叙事化",
+          "summaryChinese": "英国首相 Keir Starmer 辞职以及 Andy Burnham 预计接任，成为英国多家报纸头版焦点。媒体标题把复杂的政治更替压缩成简短、有冲击力的短语，让读者快速理解“谁失势、谁上场、国家将如何转向”。政治从来不只是制度流程，也是一场关于解释权和公众情绪的叙事竞争。",
+          "correspondingEnglish": "UK front pages focused on Keir Starmer’s resignation as prime minister and Andy Burnham’s expected rise. Newspaper headlines compress a complex political transition into sharp phrases about who has lost power, who is coming in and where the country may turn next. Politics is not only an institutional process. It is also a competition over narrative and public emotion.",
+          "englishExpressions": [
+            {
+              "expression": "political transition",
+              "meaningChinese": "政治过渡；政治更替",
+              "example": "Headlines framed the political transition as a dramatic turning point."
+            },
+            {
+              "expression": "front page",
+              "meaningChinese": "报纸头版",
+              "example": "The resignation dominated the front pages."
+            },
+            {
+              "expression": "public emotion",
+              "meaningChinese": "公众情绪",
+              "example": "Media coverage can shape public emotion during a crisis."
+            }
+          ],
+          "studyNote": "front pages 常用复数，指多家报纸头版对同一事件的呈现。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "音乐剧乐池被软件压缩：文化劳动正在被重新计价",
+          "summaryChinese": "KeyComp 等音乐软件正在缩小音乐剧现场乐队规模，百老汇虽禁止某些做法，但新一代工具仍在改变演出制作。音乐家失去工作，留下的人也可能承担更多声部和技术压力。这条新闻让“自动化替代劳动”变得很具体：不是机器完全取代人，而是先让一个人被要求完成更多人的声音。",
+          "correspondingEnglish": "A new generation of music software, including KeyComp, is shrinking musical theatre orchestras. Musicians are losing jobs, while those who remain may be stretched across more parts and technical demands. Automation in culture does not always mean replacing every human. Sometimes it means asking fewer people to produce the sound of many.",
+          "englishExpressions": [
+            {
+              "expression": "musical theatre orchestra",
+              "meaningChinese": "音乐剧现场乐队；乐池乐队",
+              "example": "Software is changing the size of the musical theatre orchestra."
+            },
+            {
+              "expression": "cultural labor",
+              "meaningChinese": "文化劳动",
+              "example": "Cultural labor is often hidden behind the final performance."
+            },
+            {
+              "expression": "automation pressure",
+              "meaningChinese": "自动化压力",
+              "example": "Automation pressure can reduce jobs without removing the need for skill."
+            }
+          ],
+          "studyNote": "be stretched further 表示人手更少、任务更多、压力被进一步拉大。"
+        },
+        {
+          "title": "广岛幸存者回忆录重现：档案如何让创伤重新发声",
+          "summaryChinese": "广岛原爆幸存者 Kiyoshi Tanimoto 于1947年写下的回忆录，在美国档案中沉寂多年后被发现，并计划于8月出版、改编成电影。失而复得的文本不仅补充历史细节，也让幸存者以自己的语言重新进入公共记忆。档案有时像安静的房间，里面存放着尚未被社会真正听见的证词。",
+          "correspondingEnglish": "A lost memoir written in 1947 by Hiroshima survivor Kiyoshi Tanimoto has been found after decades in a US archive. It will be published in August and adapted for film. The rediscovered text adds historical detail, but more importantly it returns a survivor’s own voice to public memory. Archives can hold testimonies that society has not yet fully heard.",
+          "englishExpressions": [
+            {
+              "expression": "survivor memoir",
+              "meaningChinese": "幸存者回忆录",
+              "example": "The survivor memoir was found decades later."
+            },
+            {
+              "expression": "public memory",
+              "meaningChinese": "公共记忆",
+              "example": "The memoir brings a survivor’s voice back into public memory."
+            },
+            {
+              "expression": "historical testimony",
+              "meaningChinese": "历史证词",
+              "example": "Historical testimony can challenge official narratives."
+            }
+          ],
+          "studyNote": "testimony 比 statement 更强调见证、证词和亲历经验。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "人工智能与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "“超级计算机”预测澳大利亚队晋级：体育报道进入算法叙事",
+          "summaryChinese": "世界杯小组赛形势报道中，算法预测显示澳大利亚队即使小负巴拉圭，也可能晋级32强。体育新闻过去依赖积分、净胜球和专家判断，如今越来越常用“超级计算机”把不确定性包装成概率故事。算法预测并不等于命运，但它会影响球迷期待、媒体标题和球队压力。",
+          "correspondingEnglish": "A World Cup permutations story says a supercomputer predicts that Australia can still progress even with a narrow defeat against Paraguay. Sports coverage increasingly turns uncertainty into probability narratives. Algorithmic prediction is not destiny, but it can shape fan expectations, media headlines and pressure on teams.",
+          "englishExpressions": [
+            {
+              "expression": "supercomputer prediction",
+              "meaningChinese": "超级计算机预测",
+              "example": "A supercomputer prediction shaped the match preview."
+            },
+            {
+              "expression": "probability narrative",
+              "meaningChinese": "概率叙事",
+              "example": "Probability narratives make uncertainty feel measurable."
+            },
+            {
+              "expression": "fan expectations",
+              "meaningChinese": "球迷期待",
+              "example": "Predictions can raise fan expectations before a match."
+            }
+          ],
+          "studyNote": "permutations 在体育语境中指小组出线或排名的各种可能组合。"
+        },
+        {
+          "title": "法国对伊拉克比赛因风暴延迟两小时：大型赛事也依赖气候基础设施",
+          "summaryChinese": "法国队在世界杯小组赛中3比0战胜伊拉克，但比赛中场因风暴延迟两小时。极端天气把大型体育赛事的基础设施推到前台：球场排水、观众疏散、转播安排、球员安全和赛程管理都必须同时运转。现代体育不只是竞技表演，也是一套面对气候不确定性的城市系统。",
+          "correspondingEnglish": "France beat Iraq 3-0 in a World Cup group match after a two-hour storm delay. The interruption pushed event infrastructure into view: stadium drainage, crowd safety, broadcasting, player protection and scheduling all had to work together. Modern sport is not only a performance. It is also an urban system under climate uncertainty.",
+          "englishExpressions": [
+            {
+              "expression": "storm delay",
+              "meaningChinese": "因风暴造成的延误",
+              "example": "The match resumed after a two-hour storm delay."
+            },
+            {
+              "expression": "event infrastructure",
+              "meaningChinese": "赛事基础设施",
+              "example": "Event infrastructure must protect crowds during severe weather."
+            },
+            {
+              "expression": "climate uncertainty",
+              "meaningChinese": "气候不确定性",
+              "example": "Climate uncertainty is becoming part of event planning."
+            }
+          ],
+          "studyNote": "infrastructure 不只指道路桥梁，也可指支撑赛事、媒体、医疗和公共安全运行的一整套系统。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows how warnings and predictions shape public life before a crisis is fully visible. Bird flu depends on biosecurity and clear communication. A budget tries to turn economic pressure into targeted relief. Media headlines turn political transition into a story people can quickly feel. Software, archives, algorithms and storm systems all remind us that culture and technology are not separate from governance. They organize labor, memory, risk and expectation.",
+    "chinese": "今天的新闻让我们看到，在危机完全显形之前，预警和预测已经在塑造公共生活。禽流感依赖生物安全与清晰沟通；预算试图把经济压力转化为有针对性的减负；媒体标题把政治更替变成公众能够迅速感受到的故事。软件、档案、算法和风暴系统共同提醒我们，文化与技术并不脱离治理，它们组织劳动、记忆、风险和期待。"
+  },
+  "keywords": [
+    {
+      "word": "biosecurity",
+      "meaning": "生物安全；防止疾病或有害生物进入、传播的制度和措施",
+      "example": "Biosecurity measures can protect farms and food systems."
+    },
+    {
+      "word": "cost-of-living pressure",
+      "meaning": "生活成本压力；日常开支上涨给个人或家庭造成的负担",
+      "example": "The budget introduced relief for cost-of-living pressure."
+    },
+    {
+      "word": "regulatory approval",
+      "meaning": "监管批准；由监管机构允许某产品或做法继续使用",
+      "example": "Regulatory approval can become controversial when health risks remain."
+    },
+    {
+      "word": "cultural labor",
+      "meaning": "文化劳动；艺术、媒体、演出等文化生产中的劳动",
+      "example": "Software is changing how cultural labor is valued."
+    },
+    {
+      "word": "public memory",
+      "meaning": "公共记忆；社会共同记住和讲述历史的方式",
+      "example": "A survivor memoir can reshape public memory."
+    },
+    {
+      "word": "algorithmic prediction",
+      "meaning": "算法预测；用计算模型估计未来结果或概率",
+      "example": "Algorithmic prediction is increasingly common in sports reporting."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Algorithmic prediction is not destiny, but it can shape fan expectations, media headlines and pressure on teams.",
+    "analysisChinese": "这个句子先用 is not destiny 降低算法预测的绝对性，再用 but 引出它真实产生的社会影响。shape 后面并列三个宾语：fan expectations, media headlines and pressure on teams，说明预测会影响情绪、叙事和行动压力。"
+  },
+  "reflection": {
+    "english": "A prediction is never just about the future; it changes how people behave in the present.",
+    "chinese": "今天最想留下的一句话是：预测从来不只是关于未来，它也会改变人们在当下的行动方式。"
+  },
+  "tags": [
+    "bird flu",
+    "H5N1",
+    "biosecurity",
+    "NSW budget",
+    "cost of living",
+    "paraquat",
+    "health risk",
+    "Starmer",
+    "media",
+    "musical theatre",
+    "cultural labor",
+    "Hiroshima",
+    "public memory",
+    "World Cup",
+    "algorithmic prediction",
+    "climate infrastructure"
+  ],
+  "sources": [
+    {
+      "label": "The Guardian — Can I get sick from bird flu? What are the symptoms, and are chicken and eggs safe to eat?",
+      "url": "https://www.theguardian.com/world/2026/jun/23/bird-flu-deadly-h5n1-virus-australia-humans-symptoms-chicken-eggs-safety"
+    },
+    {
+      "label": "The Guardian — Public transport fee relief and car rego cut by $100 in NSW budget targeting cost-of-living pressures",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/23/nsw-budget-2026-public-transport-road-toll-cap-cost-of-living-pressures-daniel-mookhey"
+    },
+    {
+      "label": "The Guardian — Australia politics live: Jim Chalmers hails ‘important day for tax reform’; paraquat herbicide gets regulator green light despite Parkinson’s fears",
+      "url": "https://www.theguardian.com/australia-news/live/2026/jun/23/australia-politics-live-nsw-queensland-budget-capital-gains-tax-negative-gearing-ndis-senate-question-time-labor-coalition-anthony-albanese-angus-taylor-ntwnfb"
+    },
+    {
+      "label": "The Guardian — ‘It all ends in Keirs’: what the papers say about Starmer’s resignation",
+      "url": "https://www.theguardian.com/media/2026/jun/23/uk-prime-minister-keir-starmer-resignation-andy-burnham-media-response-papers"
+    },
+    {
+      "label": "The Guardian — Banned on Broadway, a new generation of music software is shrinking musical theatre orchestras",
+      "url": "https://www.theguardian.com/music/2026/jun/23/keycomp-replacing-musicians-musical-theatre-pit-orchestra-players"
+    },
+    {
+      "label": "The Guardian — Lost memoir of Hiroshima survivor found after decades in US archive",
+      "url": "https://www.theguardian.com/books/2026/jun/23/lost-memoir-of-hiroshima-survivor-found-after-decades-in-us-archive"
+    },
+    {
+      "label": "The Guardian — World Cup Group D permutations: supercomputer says Socceroos will progress",
+      "url": "https://www.theguardian.com/football/2026/jun/23/world-cup-group-d-permutations-socceroos-paraguay"
+    },
+    {
+      "label": "The Guardian — Two-hour storm break fails to stop France as Mbappé and Dembélé prove too good for Iraq",
+      "url": "https://www.theguardian.com/football/2026/jun/23/france-iraq-world-cup-group-i-match-report"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月23日\n\n今天的小报关键词是：“warnings, costs, and automated judgement（预警、成本与自动化判断）”。禽流感进入澳大利亚公共卫生视野，预算政策试图缓冲生活成本，英国政治更替被媒体重新包装，音乐剧现场和足球预测都显示：自动化正在进入文化劳动、体育叙事和公共治理的细节。\n\n★ 1. Global News｜全球新闻\n\nH5N1禽流感进入澳大利亚视野：生物安全成为日常问题\n新州预算推出交通费减免：生活成本压力进入财政政治\n\n★ 2. Gender / Culture｜性别与文化\n\n百草枯争议：农药监管如何处理身体风险\n英国报纸聚焦首相辞职：政治更替如何被媒体叙事化\n\n★ 3. Art / Fashion / Media｜艺术、时尚与媒体\n\n音乐剧乐池被软件压缩：文化劳动正在被重新计价\n广岛幸存者回忆录重现：档案如何让创伤重新发声\n\n★ 4. AI / Tech｜人工智能与科技\n\n“超级计算机”预测澳大利亚队晋级：体育报道进入算法叙事\n法国对伊拉克比赛因风暴延迟两小时：大型赛事也依赖气候基础设施\n\n★ Closing Thought｜今日收束\n\n预测从来不只是关于未来，它也会改变人们在当下的行动方式。"
+}

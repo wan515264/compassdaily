@@ -2,56 +2,32 @@
   "date": "2026-06-07",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "保护、见证与责任缺口：海上救援、幸存者、战时文学与AI承诺",
+  "introChinese": "今天的小报关键词是：protection, testimony, and accountability gaps（保护、见证与责任缺口）。海上遇难与核设施袭击检验国际安全承诺，幸存者要求制度追查伤害网络，文学与戏剧保存无法被简化的证词，而AI产业则要求我们区分技术能力、商业承诺与真实责任。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Cockroach Janta party began as online joke but is growing into one of the most unexpected challenges to country’s rightwing government",
+          "title": "移民船在马耳他附近倾覆，意大利救援人员寻获10具遗体",
+          "summaryChinese": "The Guardian 报道，一艘据称从利比亚出发、载有约60人的船只在马耳他附近倾覆，意大利救援人员寻获10具遗体，约48人获救。地中海移民路线把边境政策、海上搜救与人的生命放在同一片水域。新闻中的人数并不只是统计，而是在提醒我们：救援能力、协调速度和安全通道会直接决定谁能抵达。",
+          "correspondingEnglish": "Italian rescuers recovered 10 bodies after a migrant boat capsized near Malta, while about 48 people were rescued alive. The vessel reportedly left Libya carrying around 60 passengers. The tragedy shows how border policy, search-and-rescue capacity and access to safe routes can determine who survives a sea crossing.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "migrant boat", "meaningChinese": "移民船只", "example": "The migrant boat reportedly left the coast of Libya."},
+            {"expression": "search-and-rescue operation", "meaningChinese": "搜救行动", "example": "A rapid search-and-rescue operation can save lives."},
+            {"expression": "safe route", "meaningChinese": "安全通道；安全路线", "example": "People need access to a safe route across borders."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Ex-CIA official accused of stealing $40m in gold bars reportedly created fake spy program",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "David Rush, who was arrested in May, stole millions from US government through ‘special access program’, officials say",
+          "title": "俄罗斯无人机击中切尔诺贝利乏核燃料储存建筑",
+          "summaryChinese": "The Guardian 报道，一架俄罗斯无人机击中切尔诺贝利附近一座储存乏核燃料的建筑。乌克兰总统泽连斯基称袭击是蓄意行为。即使没有立即出现大规模泄漏，核设施受到攻击仍会制造跨越国界与世代的风险：战争中的一枚武器，可能触及长期封存、持续监测和国际共同维护的安全系统。",
+          "correspondingEnglish": "A Russian drone struck a building storing spent nuclear fuel near Chornobyl, according to Ukrainian authorities. Even without an immediate large-scale release, an attack on nuclear infrastructure creates risks that can cross borders and generations. A single military strike can threaten systems designed for long-term containment and monitoring.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "spent nuclear fuel", "meaningChinese": "乏核燃料；使用后的核燃料", "example": "Spent nuclear fuel requires secure long-term storage."},
+            {"expression": "nuclear infrastructure", "meaningChinese": "核基础设施", "example": "Nuclear infrastructure must be protected during conflict."},
+            {"expression": "cross-border risk", "meaningChinese": "跨境风险", "example": "Radiation can create a serious cross-border risk."}
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Record number of people waiting for NHS diagnostic tests in England",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "One in five of the 1.92m patients on list wait longer than six weeks for tests such as CT and MRI scans, analysis shows",
+          "title": "Mohamed Al Fayed 性侵幸存者要求调查可能存在的人口贩运网络",
+          "summaryChinese": "The Guardian 报道，遭已故哈罗德百货前老板 Mohamed Al Fayed 侵害的幸存者呼吁开展人口贩运调查。她们认为，如果只把案件理解为一个有权势者的个人行为，就可能看不见招募、控制、协助和掩盖伤害的更大网络。追责不仅是确认谁实施了侵害，也要查清哪些机构和人员使侵害能够长期持续。",
+          "correspondingEnglish": "Survivors of alleged abuse by former Harrods owner Mohamed Al Fayed are calling for a trafficking investigation. They argue that focusing on one powerful individual may hide a wider network of recruitment, control, assistance and concealment. Accountability requires examining not only who committed harm, but also which people and institutions allowed it to continue.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "trafficking investigation", "meaningChinese": "人口贩运调查", "example": "Survivors are calling for a full trafficking investigation."},
+            {"expression": "survivors' group", "meaningChinese": "幸存者团体", "example": "The survivors' group wants the wider network examined."},
+            {"expression": "institutional complicity", "meaningChinese": "机构共谋；机构对伤害的协助或纵容", "example": "The inquiry should consider possible institutional complicity."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from London councils",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Charities say people are being forced to choose between streets and accommodation hundreds of miles from support networks",
+          "title": "伦敦地方政府被指将脆弱家庭非法安置到数百英里外",
+          "summaryChinese": "The Guardian 报道，伦敦部分地方政府被指把脆弱家庭安置到远离原社区数百英里的住所，其中包括逃离虐待的女性。搬迁可能切断学校、医疗、亲友与专业支持网络，把“提供一间住房”变成新的孤立。照护政策不能只计算床位，也必须考虑地点、关系和当事人的安全需求。",
+          "correspondingEnglish": "London councils have been accused of moving vulnerable families hundreds of miles away, including women fleeing abuse. Relocation can sever access to schools, healthcare, relatives and specialist support. Providing a room is not the same as providing safety: housing policy must also consider place, relationships and continuity of care.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "vulnerable family", "meaningChinese": "脆弱家庭；处于高风险处境的家庭", "example": "A vulnerable family may depend on nearby support services."},
+            {"expression": "flee abuse", "meaningChinese": "逃离虐待", "example": "Some women were moved while trying to flee abuse."},
+            {"expression": "support network", "meaningChinese": "支持网络", "example": "Long-distance relocation can break a vital support network."}
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Tony awards 2026: full list of winners",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "This year’s Tony awards saw wins for John Lithgow, Laurie Metcalf, Joshua Henry and Lesley Manville",
+          "title": "基辅在空袭警报中举办文学节，前线书写成为公共记忆",
+          "summaryChinese": "The Guardian 报道，乌克兰首都基辅举办 Book Arsenal 文学节，访客在空袭警报仍然存在的情况下进入展场，战争回忆录与前线写作成为核心内容。文学节不只是暂时逃离战争的文化活动，也让士兵、记者和普通人的经验进入公共记忆。写作不能阻止导弹，却能抵抗战争把具体生命压缩成数字。",
+          "correspondingEnglish": "Kyiv hosted the Book Arsenal literary festival while air-raid alerts remained part of daily life. Frontline memoirs and wartime writing took center stage, bringing the experiences of soldiers, journalists and civilians into public memory. Literature cannot stop a missile, but it can resist the reduction of individual lives to statistics.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "literary festival", "meaningChinese": "文学节", "example": "The literary festival continued despite air-raid alerts."},
+            {"expression": "frontline memoir", "meaningChinese": "前线回忆录", "example": "A frontline memoir preserves personal experience of war."},
+            {"expression": "public memory", "meaningChinese": "公共记忆", "example": "Books help shape public memory after conflict."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Ruth Artmonsky obituary",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Other lives: Co-founder of the psychometric testing consultancy SHL who went to write books about art and design",
+          "title": "Milo Rau 把审判搬上舞台，如今其艺术伦理本身受到审视",
+          "summaryChinese": "The Guardian 介绍瑞士导演 Milo Rau：他长期以戏剧重演对采矿公司、政治迫害和性暴力的审判，但邀请科技亿万富翁 Peter Thiel 参与维也纳项目后引发争议。事件提出一个尖锐问题：艺术家可以模拟法庭、召集对立者，却不能自动免于自己建立的道德标准。参与的边界、权力差距与策展责任同样需要被公开解释。",
+          "correspondingEnglish": "Swiss director Milo Rau has turned tribunals involving political persecution, mining companies and sexual violence into theatre. His invitation to tech billionaire Peter Thiel for a Vienna project has now placed Rau's own moral judgment under scrutiny. Art can stage conflict, but participation, power differences and curatorial responsibility still require explanation.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "moral judgment", "meaningChinese": "道德判断", "example": "The director's moral judgment is now under scrutiny."},
+            {"expression": "power imbalance", "meaningChinese": "权力不平衡", "example": "Participation does not erase a power imbalance."},
+            {"expression": "curatorial responsibility", "meaningChinese": "策展责任", "example": "Provocative programming still carries curatorial responsibility."}
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Survivors of abuse by Mohamed Al Fayed call for trafficking investigation",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Without it the ‘true scale’ of former Harrods owner’s alleged network will stay hidden, says survivors’ group",
+          "title": "仿冒购物网站被AI推荐，消费者因信任答案而受骗",
+          "summaryChinese": "The Guardian 报道，一些消费者因ChatGPT推荐仿冒购物网站而遭遇诈骗。这些网站复制真实商店的外观，使AI生成的推荐看起来更可信。事件说明，流畅答案不是验证结果：当系统把不可靠链接包装成建议时，平台、搜索机制与用户之间的信任链会迅速断裂。购物前仍需核查域名、公司资料和独立评价。",
+          "correspondingEnglish": "Consumers have lost money after ChatGPT recommended cloned shopping websites that appeared genuine. A fluent answer can make an unverified link seem trustworthy, but presentation is not proof. The case exposes a fragile chain of trust among AI systems, search results and users, and shows why domains, company records and independent reviews still need checking.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "cloned website", "meaningChinese": "仿冒网站；复制正规网站外观的网站", "example": "A cloned website can look almost identical to a real store."},
+            {"expression": "verify a link", "meaningChinese": "核查链接", "example": "Always verify a link before entering payment details."},
+            {"expression": "consumer trust", "meaningChinese": "消费者信任", "example": "Incorrect recommendations can damage consumer trust."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Richard Scolyer, acclaimed melanoma researcher who tried experimental treatment on his own brain cancer – obituary",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Pathologist and athlete who was Australian of the year in 2024 underwent a bold experimental treatment after devastating brain cancer diagnosis",
+          "title": "AI热潮六张图：投入数十亿，回报仍大多停留在假设",
+          "summaryChinese": "The Guardian 以六张图梳理AI产业：资本支出与消费者使用快速增长，但大规模投资能否转化为稳定收益仍不确定。数据中心、芯片和能源需求是真实成本，未来生产力和利润却仍包含大量预测。理解AI热潮需要同时阅读采用率与资产负担，避免把“增长很快”直接等同于“商业模式已经成立”。",
+          "correspondingEnglish": "The Guardian used six charts to examine the AI boom. Capital spending and consumer adoption are rising rapidly, but reliable returns remain uncertain. Data centers, chips and energy create immediate costs, while many productivity and profit claims still depend on forecasts. Fast growth does not by itself prove that a durable business model exists.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "capital expenditure", "meaningChinese": "资本支出", "example": "AI infrastructure requires enormous capital expenditure."},
+            {"expression": "hypothetical return", "meaningChinese": "假设性回报；尚未实现的预期收益", "example": "Investors are comparing real costs with a hypothetical return."},
+            {"expression": "consumer adoption", "meaningChinese": "消费者采用率", "example": "Consumer adoption is growing faster than before."}
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today's stories reveal gaps between promises and protection. A border promises order but may fail people at sea. Housing offers shelter but can remove families from the relationships that keep them safe. Art preserves testimony, yet must examine its own use of power. AI promises useful answers and economic growth, but trust depends on verification, transparency and responsibility when systems get things wrong.",
+    "chinese": "今天的新闻揭示了承诺与保护之间的缺口。边境承诺秩序，却可能让人在海上失去救援；住房提供遮蔽，却可能把家庭带离维持安全的关系网络；艺术保存证词，也必须审视自身如何使用权力；AI承诺有用答案和经济增长，但信任仍取决于核查、透明度，以及系统出错时由谁负责。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    {"word": "protection", "meaning": "保护；使人免于伤害的制度或行动", "example": "Protection requires more than a written promise."},
+    {"word": "accountability gap", "meaning": "责任缺口；伤害发生但责任无法落实的状态", "example": "Survivors are trying to close an accountability gap."},
+    {"word": "support network", "meaning": "支持网络；提供情感或实际帮助的人与机构", "example": "Relocation may separate a family from its support network."},
+    {"word": "testimony", "meaning": "证词；对亲历事件的陈述", "example": "Literature can preserve testimony during war."},
+    {"word": "verification", "meaning": "核查；确认信息或对象是否真实", "example": "AI recommendations still require verification."},
+    {"word": "hypothetical return", "meaning": "假设性回报；尚未实现的预期收益", "example": "Real spending should not be confused with a hypothetical return."}
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "A fluent answer can make an unverified link seem trustworthy, but presentation is not proof.",
+    "analysisChinese": "make + 宾语 + 动词原形构成使役结构，seem trustworthy 描述链接产生的可信印象。but 连接外观与证据之间的转折；presentation is not proof 是简短有力的判断，适合用于媒体素养讨论。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "A promise becomes protection only when responsibility survives the moment something goes wrong.",
+    "chinese": "今天最想留下的一句话是：只有当事情出错后责任仍然存在，承诺才真正成为保护。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["protection", "testimony", "accountability", "migration", "sea rescue", "Chornobyl", "nuclear safety", "survivors", "trafficking", "housing", "Kyiv", "literature", "theatre", "AI scams", "AI investment", "verification"],
   "sources": [
-    {
-      "label": "The Guardian — ‘What if all cockroaches came together?’ The youth movement threatening to shake up India’s politics",
-      "url": "https://www.theguardian.com/world/2026/jun/08/cockroach-janta-party-youth-movement-india-politics"
-    },
-    {
-      "label": "The Guardian — Ex-CIA official accused of stealing $40m in gold bars reportedly created fake spy program",
-      "url": "https://www.theguardian.com/us-news/2026/jun/07/david-rush-cia-gold-bars-fake-spy-program"
-    },
-    {
-      "label": "The Guardian — Record number of people waiting for NHS diagnostic tests in England",
-      "url": "https://www.theguardian.com/society/2026/jun/07/record-number-of-people-waiting-for-nhs-diagnostic-tests-in-england"
-    },
-    {
-      "label": "The Guardian — ‘I was crying and shaking’: vulnerable people face ‘inhumane’ ultimatums from London councils",
-      "url": "https://www.theguardian.com/society/2026/jun/07/homeless-face-inhumane-ultimatums-by-london-councils"
-    },
-    {
-      "label": "The Guardian — Tony awards 2026: full list of winners",
-      "url": "https://www.theguardian.com/stage/2026/jun/07/tony-awards-2026-full-list-of-winners"
-    },
-    {
-      "label": "The Guardian — Ruth Artmonsky obituary",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/07/ruth-artmonsky-obituary"
-    },
-    {
-      "label": "The Guardian — Survivors of abuse by Mohamed Al Fayed call for trafficking investigation",
-      "url": "https://www.theguardian.com/business/2026/jun/08/survivors-abuse-mohamed-al-fayed-harrods-trafficking-investigation"
-    },
-    {
-      "label": "The Guardian — Richard Scolyer, acclaimed melanoma researcher who tried experimental treatment on his own brain cancer – obituary",
-      "url": "https://www.theguardian.com/science/2026/jun/08/richard-scolyer-melanoma-researcher-experimental-treatment-brain-cancer-obituary"
-    }
+    {"label": "The Guardian — Italian rescuers recover 10 bodies after migrant boat capsizes off Malta", "url": "https://www.theguardian.com/world/2026/jun/07/italian-rescuers-recover-10-bodies-after-migrant-boat-capsizes-off-malta"},
+    {"label": "The Guardian — Russian drone hits spent-nuclear-fuel storage building near Chornobyl", "url": "https://www.theguardian.com/world/2026/jun/07/russian-drone-hits-building-spent-nuclear-fuel-chornobyl"},
+    {"label": "The Guardian — Survivors of abuse by Mohamed Al Fayed call for trafficking investigation", "url": "https://www.theguardian.com/business/2026/jun/08/survivors-abuse-mohamed-al-fayed-harrods-trafficking-investigation"},
+    {"label": "The Guardian — Vulnerable families moved hundreds of miles away by London councils", "url": "https://www.theguardian.com/society/2026/jun/07/vulnerable-families-illegally-dumped-hundreds-miles-away-london-councils"},
+    {"label": "The Guardian — Kyiv hosts literary festival amid war", "url": "https://www.theguardian.com/world/2026/jun/07/kyiv-hosts-literary-festival-amid-ukraine-war-book-arsenal"},
+    {"label": "The Guardian — Milo Rau turned tribunals into theatre; now his judgment is on trial", "url": "https://www.theguardian.com/stage/2026/jun/07/milo-rau-turned-tribunals-into-theatre-now-his-own-moral-judgement-is-on-trial"},
+    {"label": "The Guardian — Cloned shopping sites recommended by ChatGPT lead to scams", "url": "https://www.theguardian.com/money/2026/jun/07/ai-chatgpt-shopping-scams-fake-websites"},
+    {"label": "The Guardian — The AI boom explained with six charts", "url": "https://www.theguardian.com/technology/2026/jun/07/billions-spent-hypothetical-returns-the-ai-boom-explained-with-six-charts"}
   ],
-  "rawText": "推送日期｜2026年6月7日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月7日\n\n今天的小报关键词是：protection, testimony, and accountability gaps（保护、见证与责任缺口）。\n\n认真读新闻，也是在检验承诺出错之后，责任是否仍然存在。"
 }

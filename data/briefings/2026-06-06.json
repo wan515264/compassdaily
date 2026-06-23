@@ -2,56 +2,32 @@
   "date": "2026-06-06",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "生存系统、身体自主与可信度：饥饿、医疗经验、文化记忆与AI伪造",
+  "introChinese": "今天的小报关键词是：survival systems, bodily autonomy, and credibility（生存系统、身体自主与可信度）。饥饿与食品供应揭示社会如何维持基本生活，医疗与生殖选择追问谁有权解释身体经验，文化产业保存共同记忆，而数据中心和AI伪造内容则要求我们重新审视资源成本与信息信任。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜How Xavier Becerra turned around his campaign to be California’s governor",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "In late March, his polling hovered near 3%, but in a stunning reversal Becerra has advanced to the general election",
+          "title": "旱灾、洪水与援助削减交叠，650多万索马里人面临严重饥饿",
+          "summaryChinese": "The Guardian 报道，旱灾与洪水迫使大量索马里人离开家园，但迁入营地后饥饿仍然跟随他们。冲突、气候危机与援助削减共同把650多万人推向严重粮食不安全边缘。流离失所并不意味着抵达安全地带：如果供水、食物、医疗与资金不能持续，营地只是把危机从一个地点搬到另一个地点。",
+          "correspondingEnglish": "Drought and floods have displaced families across Somalia, but hunger has followed them into camps. Conflict, the climate crisis and cuts to aid have pushed more than 6.5 million people toward severe food insecurity. Displacement is not the same as safety when water, food, healthcare and reliable funding remain unavailable.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "severe food insecurity", "meaningChinese": "严重粮食不安全", "example": "Millions of people face severe food insecurity."},
+            {"expression": "displacement camp", "meaningChinese": "流离失所者营地", "example": "A displacement camp still needs reliable food and water."},
+            {"expression": "aid cut", "meaningChinese": "援助削减", "example": "An aid cut can quickly deepen a humanitarian crisis."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Judge dismisses Kennedy Center suit against musician who canceled",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Lawyer for Chuck Redd, who pulled out after Trump renamed center, called case ‘political retribution’",
+          "title": "英国食品供应被要求列为“紧迫国家优先事项”",
+          "summaryChinese": "The Guardian 报道，英国冷链与物流行业警告，燃料短缺、网络攻击和极端天气正在威胁食品供应，政府应把供应韧性列为紧迫国家优先事项。超市货架看似日常，背后却依赖仓储、电力、运输、数据和劳动者连续协作。粮食安全不仅是农业产量，也取决于整条基础设施链能否承受冲击。",
+          "correspondingEnglish": "Britain's cold-storage and logistics sector has warned that fuel shortages, cyber-attacks and extreme weather could disrupt food supplies. It wants food resilience treated as an immediate national priority. A supermarket shelf depends on warehouses, electricity, transport, data and labor, so food security is also an infrastructure question.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "food supply chain", "meaningChinese": "食品供应链", "example": "A food supply chain depends on transport and cold storage."},
+            {"expression": "national priority", "meaningChinese": "国家优先事项", "example": "The industry wants resilience treated as a national priority."},
+            {"expression": "withstand disruption", "meaningChinese": "承受中断或冲击", "example": "Essential systems must be able to withstand disruption."}
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Palestinian baby shot dead by Israeli troops in occupied West Bank",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "The seven-month-old, Sam Fahd Abu Haikal, was in his mother’s arms when soldiers fired on family in Hebron",
+          "title": "美国部分诊所将提供“以防万一”的提前备用堕胎药",
+          "summaryChinese": "The Guardian 报道，Planned Parenthood 将在华盛顿州和夏威夷部分诊所允许患者在尚未怀孕时提前获得药物流产药物。支持者认为这能在法律环境快速变化、就医距离较远时扩大早期选择；相关实践也涉及用药指导、保存和后续照护。生殖自主不仅是抽象权利，也取决于时间、地点和药物能否实际获得。",
+          "correspondingEnglish": "Some Planned Parenthood clinics in Washington and Hawaii will offer abortion pills in advance, before a patient is pregnant. Supporters say early access can protect options when laws change quickly or clinics are far away. Reproductive autonomy depends not only on a legal right, but also on timing, location, medical guidance and practical access.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "advance provision", "meaningChinese": "提前提供；预先配给", "example": "Advance provision can reduce delays in time-sensitive care."},
+            {"expression": "abortion pill", "meaningChinese": "药物流产药物", "example": "An abortion pill should be used with clear medical guidance."},
+            {"expression": "reproductive autonomy", "meaningChinese": "生殖自主权", "example": "Reproductive autonomy includes meaningful access to care."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Suit filed against controversial planned Stratos datacenter project in Utah",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Plan backed by Shark Tank’s Kevin O’Leary had footprint reduced but concerns remain over its health impacts",
+          "title": "反思医疗厌女：女性不应被当作自身经验的“不可靠证人”",
+          "summaryChinese": "The Guardian 评论文章回顾妇科医学中创新、权威与身体侵犯彼此纠缠的历史，指出女性对疼痛和症状的描述长期容易受到怀疑。医学证据很重要，但临床判断不能从否定患者经验开始。反对医疗厌女并非拒绝专业知识，而是要求专业权威把倾听、知情同意和治疗选择纳入可靠医疗。",
+          "correspondingEnglish": "A Guardian essay examines how innovation, authority and violation have been intertwined in the history of gynecology. Women's accounts of pain and symptoms have often been treated as unreliable. Challenging medical misogyny does not reject expertise; it asks medicine to make listening, informed consent and treatment choice part of trustworthy care.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "medical misogyny", "meaningChinese": "医疗厌女；医疗体系中的性别歧视", "example": "Medical misogyny can affect how pain is assessed."},
+            {"expression": "informed consent", "meaningChinese": "知情同意", "example": "Informed consent is essential before treatment."},
+            {"expression": "patient testimony", "meaningChinese": "患者陈述；患者对自身经验的讲述", "example": "Patient testimony is a valuable part of clinical evidence."}
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜At 92, Liz Hicklin embarked on a standup career: ‘I didn’t think about ageing until I was over 90’",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Ninety-five-year-old Liz Hicklin may be the oldest ‘sit-down standup’ comedian in Australia. But that’s only part of her extraordinary life story",
+          "title": "英国陶瓷业争取更多支持，保护工业传统与地方技能",
+          "summaryChinese": "The Guardian 报道，英国陶瓷企业欢迎政府提供1.2亿英镑支持，同时警告能源成本与工厂关闭仍威胁这一行业。陶瓷既是商品，也是斯托克等地区长期积累的工艺、就业与地方身份。保护文化遗产不能只保存博物馆里的成品，也要维持仍在生产、传授和更新技艺的人与设施。",
+          "correspondingEnglish": "Britain's ceramics industry has welcomed a £120m support package but says high energy costs and further closures still threaten the sector. Ceramics are products, yet they also carry local skills, jobs and identity. Protecting cultural heritage means supporting the people, kilns and workplaces where a living craft is still practiced and renewed.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "ceramics industry", "meaningChinese": "陶瓷产业", "example": "The ceramics industry combines manufacturing with cultural heritage."},
+            {"expression": "living craft", "meaningChinese": "活态工艺；仍在实践和传承的技艺", "example": "A living craft depends on skilled workers and apprentices."},
+            {"expression": "industrial heritage", "meaningChinese": "工业遗产", "example": "Industrial heritage includes factories, skills and communities."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Virginia Gay: ‘Shakespeare’s most overrated play? Hamlet. Too long’",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The actor and director on Disney villains, the sexy power of the melt emoji, and shattering a glass globe over the audience during Calamity Jane",
+          "title": "三千名读者票选百部小说：文学经典由谁共同形成",
+          "summaryChinese": "The Guardian 邀请约三千名世界各地读者票选最喜爱的百部小说，形成一份不同于作家与评论家榜单的读者版本。榜单当然不能给文学价值下最终结论，却能显示哪些作品跨越地域与世代持续进入私人生活。经典并非只由学院和奖项决定，也在阅读、推荐、重读和公共讨论中不断重写。",
+          "correspondingEnglish": "About 3,000 Guardian readers around the world voted for their favorite novels, producing a list different from earlier choices by authors and critics. A ranking cannot settle literary value, but it can show which books continue to enter private lives across places and generations. A canon is repeatedly reshaped through reading, recommendation and public discussion.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "reader poll", "meaningChinese": "读者投票", "example": "The reader poll drew responses from around the world."},
+            {"expression": "literary canon", "meaningChinese": "文学经典体系", "example": "A literary canon changes as new readers join the conversation."},
+            {"expression": "public discussion", "meaningChinese": "公共讨论", "example": "Public discussion can renew interest in older books."}
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Personal loans booming as cost of living drives Australians to borrow record amounts",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "National debt helpline calls have increased alongside growth in new personal loans, which charged an average 9% interest in March",
+          "title": "纽约州拟暂时禁止新建大型数据中心，讨论AI基础设施的资源代价",
+          "summaryChinese": "The Guardian 报道，纽约州一项法案拟暂停批准功率超过20兆瓦的超大规模数据中心，使该州可能成为美国首个采取此类措施的州。提案关注电力、水资源、社区成本与气候目标。AI看似存在于云端，实际却占用土地和公共能源；是否继续扩张，应让受影响社区参与决定。",
+          "correspondingEnglish": "New York could become the first U.S. state to impose a temporary ban on new hyperscale data centers above 20 megawatts. The proposal raises questions about electricity, water, community costs and climate goals. AI may appear to live in the cloud, but its infrastructure occupies land and consumes public resources.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "temporary moratorium", "meaningChinese": "临时暂停；暂缓令", "example": "Lawmakers proposed a temporary moratorium on large projects."},
+            {"expression": "hyperscale data center", "meaningChinese": "超大规模数据中心", "example": "A hyperscale data center can require enormous amounts of power."},
+            {"expression": "resource footprint", "meaningChinese": "资源足迹；系统消耗资源的规模", "example": "Communities want the industry's resource footprint measured."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜UK’s fragile heirloom: ceramics sector calls for more help to save ‘vital industry’",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Brands such as Portmeirion in Stoke welcome £120m package but seek further support to avert fresh closures",
+          "title": "AI伪造纳米比亚总统演讲走红：虚假内容为何表达了真实政治渴望",
+          "summaryChinese": "The Guardian 报道，一段被错误归于纳米比亚总统、谴责外国剥削的演讲其实由AI生成，却仍在非洲与加勒比地区广泛流传。它之所以被相信，不只是因为技术逼真，也因为内容回应了公众对有道德勇气的领导者的渴望。识别伪造不能止于贴上“假”标签，还要理解真实不满为何让它获得传播动力。",
+          "correspondingEnglish": "An AI-generated speech falsely attributed to Namibia's president has circulated widely across Africa and the Caribbean. Its message condemning foreign exploitation resonated with real demands for morally courageous leadership. Detecting a fake is essential, but understanding its appeal also requires asking which genuine frustrations gave it momentum.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "AI-generated speech", "meaningChinese": "AI生成的演讲", "example": "The AI-generated speech was attributed to the wrong person."},
+            {"expression": "false attribution", "meaningChinese": "错误归属；把内容错误归于某人", "example": "False attribution can make fabricated content appear authoritative."},
+            {"expression": "gain momentum", "meaningChinese": "获得传播势头；发展加速", "example": "The video gained momentum because its message felt familiar."}
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today's stories show that survival depends on systems people rarely see in full. Food moves through farms, warehouses, roads and aid budgets. Bodily autonomy depends on law, medicine and whether patients are believed. Culture survives through both skilled work and shared reading. AI also has a hidden material and political life: it consumes resources and can give fabricated words the authority of a real leader.",
+    "chinese": "今天的新闻显示，生存依赖许多人无法完整看见的系统。食物穿过农田、仓库、道路和援助预算；身体自主取决于法律、医疗以及患者是否被相信；文化通过熟练劳动与共同阅读延续；AI同样拥有隐藏的物质与政治生命——它消耗资源，也能让虚构话语获得真实领导者的权威。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    {"word": "survival system", "meaning": "生存系统；维持食物、能源、健康等基本生活的系统", "example": "A food network is a vital survival system."},
+    {"word": "food insecurity", "meaning": "粮食不安全；无法稳定获得足够食物", "example": "Conflict and aid cuts can worsen food insecurity."},
+    {"word": "bodily autonomy", "meaning": "身体自主权；对自身身体与医疗作决定的权利", "example": "Meaningful healthcare protects bodily autonomy."},
+    {"word": "living craft", "meaning": "活态工艺；仍在生产和传承的技艺", "example": "Industrial support can help preserve a living craft."},
+    {"word": "resource footprint", "meaning": "资源足迹；一项活动所消耗资源的总体规模", "example": "AI has a growing energy and water resource footprint."},
+    {"word": "false attribution", "meaning": "错误归属；把内容错误地归于某人", "example": "Verification can expose false attribution."}
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "AI may appear to live in the cloud, but its infrastructure occupies land and consumes public resources.",
+    "analysisChinese": "may appear to 表示“看起来似乎”，但不确认表象为真。but 引出物质现实；occupies 和 consumes 是并列谓语，将抽象的云端服务具体化为土地与公共资源消耗。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "What looks abstract—a right, a tradition or an AI system—always rests on material conditions and human trust.",
+    "chinese": "今天最想留下的一句话是：看似抽象的权利、传统或AI系统，始终建立在物质条件与人的信任之上。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["survival systems", "food insecurity", "Somalia", "food supply", "bodily autonomy", "abortion access", "medical misogyny", "ceramics", "literary canon", "data centers", "resources", "AI misinformation", "credibility"],
   "sources": [
-    {
-      "label": "The Guardian — How Xavier Becerra turned around his campaign to be California’s governor",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/how-xavier-becerra-turned-campaign-california-governor"
-    },
-    {
-      "label": "The Guardian — Judge dismisses Kennedy Center suit against musician who canceled",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/judge-dismisses-kennedy-center-musician"
-    },
-    {
-      "label": "The Guardian — Palestinian baby shot dead by Israeli troops in occupied West Bank",
-      "url": "https://www.theguardian.com/world/2026/jun/06/palestinian-baby-shot-dead-israeli-troops-occupied-west-bank"
-    },
-    {
-      "label": "The Guardian — Suit filed against controversial planned Stratos datacenter project in Utah",
-      "url": "https://www.theguardian.com/us-news/2026/jun/06/stratos-datacenter-utah-suit"
-    },
-    {
-      "label": "The Guardian — At 92, Liz Hicklin embarked on a standup career: ‘I didn’t think about ageing until I was over 90’",
-      "url": "https://www.theguardian.com/culture/2026/jun/07/liz-hicklin-92-year-old-oldest-standup-comedian-interview-life-story"
-    },
-    {
-      "label": "The Guardian — Virginia Gay: ‘Shakespeare’s most overrated play? Hamlet. Too long’",
-      "url": "https://www.theguardian.com/culture/2026/jun/07/australian-actor-director-virginia-gay-interview-shakespeare-hamlet"
-    },
-    {
-      "label": "The Guardian — Personal loans booming as cost of living drives Australians to borrow record amounts",
-      "url": "https://www.theguardian.com/business/2026/jun/07/personal-loans-record-highs-australia-debt-borrowing-cost-of-living"
-    },
-    {
-      "label": "The Guardian — UK’s fragile heirloom: ceramics sector calls for more help to save ‘vital industry’",
-      "url": "https://www.theguardian.com/business/2026/jun/06/uk-ceramics-industry-support-package-revival-portmeirion-stoke"
-    }
+    {"label": "The Guardian — Drought and floods displaced Somalis, but hunger followed", "url": "https://www.theguardian.com/global-development/2026/jun/06/somalia-drought-floods-hunger-displaced-camps-war-aid"},
+    {"label": "The Guardian — UK food supply should be an immediate national priority", "url": "https://www.theguardian.com/business/2026/jun/06/ministers-uk-food-supply-immediate-national-priority-trade-body-urges"},
+    {"label": "The Guardian — Planned Parenthood to offer advance abortion pills at some clinics", "url": "https://www.theguardian.com/world/2026/jun/06/advance-abortion-pill-planned-parenthood"},
+    {"label": "The Guardian — Women cannot be treated as unreliable witnesses of their own experience", "url": "https://www.theguardian.com/commentisfree/2026/jun/07/medical-misogyny-women-experiences"},
+    {"label": "The Guardian — UK ceramics sector calls for more help", "url": "https://www.theguardian.com/business/2026/jun/06/uk-ceramics-industry-support-package-revival-portmeirion-stoke"},
+    {"label": "The Guardian — Readers choose their top 100 novels", "url": "https://www.theguardian.com/books/2026/jun/06/move-over-middlemarch-readers-top-100-novels"},
+    {"label": "The Guardian — New York could temporarily ban large data centers", "url": "https://www.theguardian.com/us-news/2026/jun/06/new-york-datacenter-temporary-ban"},
+    {"label": "The Guardian — AI-faked presidential speech reveals a leadership vacuum", "url": "https://www.theguardian.com/global-development/2026/jun/06/african-leader-speech-decolonisation-ai-generated-fake-president-namibia-africa-caribbean"}
   ],
-  "rawText": "推送日期｜2026年6月6日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月6日\n\n今天的小报关键词是：survival systems, bodily autonomy, and credibility（生存系统、身体自主与可信度）。\n\n认真读新闻，也是在寻找抽象权利、文化与技术背后的物质条件。"
 }

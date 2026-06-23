@@ -222,7 +222,10 @@ function renderBriefing(briefing) {
   const sections = (briefing.sections || []).map(renderSection).join("");
 
   const sources = (briefing.sources || [])
-    .map((source) => `<a class="source-link" href="${source.url}" target="_blank" rel="noreferrer">${source.name}</a>`)
+    .map((source) => {
+      const sourceText = source.name || source.label || source.title || source.url;
+      return `<a class="source-link" href="${source.url}" target="_blank" rel="noreferrer">${sourceText}</a>`;
+    })
     .join("");
   const vocabulary = briefing.vocabulary || briefing.keywords || [];
   const englishParagraph = briefing.englishParagraph?.english

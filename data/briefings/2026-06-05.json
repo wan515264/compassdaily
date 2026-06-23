@@ -2,56 +2,32 @@
   "date": "2026-06-05",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "可见性、同意与制度责任：环境监测、身体权利、历史重建与AI伤害",
+  "introChinese": "今天的小报关键词是：visibility, consent, and institutional responsibility（可见性、同意与制度责任）。加沙的物资短缺与海洋监测说明，社会必须先看见风险才能回应；生殖权利与警察搜身把同意落到身体；艺术重建被掩埋的历史，而AI治理则追问系统造成伤害后由谁负责。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜California governor’s race: DoJ sends in federal observer over slow count",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Experts warn ballot-counting could drag on in primaries for governor, LA mayor and Congress, as Trump claims ‘rigging’",
+          "title": "燃气、机油和零件短缺使加沙基本服务逐步停转",
+          "summaryChinese": "The Guardian 报道，在食物与药品已经稀缺的情况下，燃气、发动机油和备用零件短缺正使加沙的救护车、面包店、供水与其他基本服务逼近停摆。人道危机不只表现为某种物资“没有了”，还会沿着互相依赖的设备和服务扩散。一辆车无法启动，可能意味着伤者无法送医、食物无法运输、供水设施无人维修。",
+          "correspondingEnglish": "Shortages of gas, engine oil and spare parts are pushing emergency services, bakeries and water supplies in Gaza toward collapse. A humanitarian crisis spreads through connected systems: when a vehicle cannot run, an injured person may not reach hospital, food may not be delivered and water equipment may remain unrepaired. Infrastructure failure multiplies the effect of every missing item.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "spare-parts shortage", "meaningChinese": "备用零件短缺", "example": "A spare-parts shortage can shut down essential vehicles."},
+            {"expression": "essential service", "meaningChinese": "基本公共服务", "example": "Water supply is an essential service."},
+            {"expression": "grind to a halt", "meaningChinese": "逐渐完全停顿", "example": "Without fuel, transport can grind to a halt."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Case draws nationwide attention amid debate over racial tensions, as defendant is Black and slain student was white",
+          "title": "科学家警告：削减美国海洋监测系统将使全球天气预报“盲飞”",
+          "summaryChinese": "The Guardian 报道，科学家反对特朗普政府拆除美国海洋观测系统的计划，称这会严重降低天气预测准确度。浮标、卫星和长期数据看似远离日常生活，却支撑风暴预警、航运和气候研究。取消监测不会让风险消失，只会让社会更晚发现风险，并削弱公共机构提前行动的能力。",
+          "correspondingEnglish": "Scientists warn that plans to dismantle parts of the U.S. ocean-observation system would severely reduce the accuracy of weather forecasts. Buoys, satellites and long-term records support storm warnings, shipping and climate research. Ending observation does not remove danger; it makes danger harder to see and leaves institutions less able to act early.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "ocean-observation system", "meaningChinese": "海洋观测系统", "example": "An ocean-observation system supports accurate forecasts."},
+            {"expression": "weather prediction", "meaningChinese": "天气预测", "example": "Reliable data improves weather prediction."},
+            {"expression": "fly blind", "meaningChinese": "盲目行动；在缺乏信息时作决定", "example": "Without monitoring data, emergency planners may be flying blind."}
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Essex woman jailed for life for poisoning baby son with cocktail of drugs",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Emma Barnett killed her one-year-old after a court ruling he be taken away from her",
+          "title": "非洲“家庭价值”宪章草案被批威胁女性与LGBTQ+权利",
+          "summaryChinese": "The Guardian 报道，人权组织批评一份以“非洲家庭价值”为名的宪章草案。草案把性与生殖健康权利描述为对家庭的威胁，可能削弱女性、女孩和LGBTQ+群体已有的保护。“家庭”可以意味着照护与归属，但当它被写成单一规范时，也可能成为限制身体自主和排除多样生活的政治工具。",
+          "correspondingEnglish": "Rights groups have condemned a draft African charter on 'family values' as regressive and dangerous. The document presents sexual and reproductive health and rights as threats to the family. Family can represent care and belonging, but a single official definition may also be used to restrict bodily autonomy and exclude diverse lives.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "family-values charter", "meaningChinese": "“家庭价值”宪章", "example": "Rights groups criticized the proposed family-values charter."},
+            {"expression": "reproductive rights", "meaningChinese": "生殖权利", "example": "Reproductive rights include access to health information and care."},
+            {"expression": "regressive policy", "meaningChinese": "倒退性政策", "example": "A regressive policy can remove existing protections."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Robin Hartwell obituary",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Other lives : Music lecturer at Liverpool Hope University with a passion for Stockhausen",
+          "title": "澳大利亚法院认定警方非法脱衣搜查女性，当事人有理由担心被说成撒谎",
+          "summaryChinese": "The Guardian 报道，新南威尔士州就音乐节非法脱衣搜查集体诉讼寻求上诉许可。法官此前认定，一名女性有合理理由认为警员不会相信她的反对，甚至会说她撒谎。案件说明，在权力极不对等的现场，沉默或配合不等于自由同意；身体搜查必须受到清晰法律、记录和独立救济的约束。",
+          "correspondingEnglish": "A court found that a woman illegally strip-searched by New South Wales police reasonably feared officers would call her a liar. The state is seeking permission to appeal the class-action decision. In a setting with a severe power imbalance, silence or compliance is not the same as free consent, and bodily searches require strict legal safeguards.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "strip search", "meaningChinese": "脱衣搜查", "example": "A strip search is a serious intrusion on bodily privacy."},
+            {"expression": "power imbalance", "meaningChinese": "权力不平衡", "example": "A power imbalance can make genuine consent impossible."},
+            {"expression": "legal safeguard", "meaningChinese": "法律保障措施", "example": "Police powers require strong legal safeguards."}
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "British actor starred on the West End before finding international fame in the 90s on Buffy the Vampire Slayer",
+          "title": "柏林展览以数字取证重建纳米比亚鲨鱼岛被遗忘的种族灭绝",
+          "summaryChinese": "The Guardian 介绍柏林展览 Fractured Lifeworlds。研究者与艺术家利用数字建模、档案和现场证据，重建德国殖民统治下纳米比亚鲨鱼岛集中营的历史，至少三千名赫雷罗和纳马人在那里死亡。取证式展览不只是复原地点，也揭示殖民暴力如何改变景观，并持续影响后代对土地与死者的关系。",
+          "correspondingEnglish": "A Berlin exhibition uses digital modeling, archives and site evidence to reconstruct the history of the German colonial concentration camp on Shark Island, Namibia, where at least 3,000 Herero and Nama people died. The forensic approach shows how violence scarred both a landscape and a community, and how historical reconstruction can support demands for recognition.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "forensic exhibition", "meaningChinese": "取证式展览", "example": "The forensic exhibition combines archives with digital reconstruction."},
+            {"expression": "colonial violence", "meaningChinese": "殖民暴力", "example": "The landscape still carries evidence of colonial violence."},
+            {"expression": "historical recognition", "meaningChinese": "历史承认", "example": "Historical recognition matters to descendants and communities."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The late actor was a charming and funny father figure, and sometime singer, in the cult TV show, one of his many roles that showed just how much he could do",
+          "title": "希腊悲剧《伊菲革涅亚》成为威尔士语后工业电影",
+          "summaryChinese": "The Guardian 报道，舞台剧 Iphigenia in Splott 被改编为威尔士语电影 Effi o Flaenau，故事从卡迪夫转移到后工业矿业小镇。创作者坚持不用英语拍摄，使古希腊牺牲叙事与当地紧缩政策、阶级经验和语言身份相遇。改编不只是把旧故事换一个背景，而是让一种常被边缘化的语言成为现代经验的完整载体。",
+          "correspondingEnglish": "The acclaimed play Iphigenia in Splott has been adapted into the Welsh-language film Effi o Flaenau and relocated to a post-industrial mining town. The filmmakers refused to make it in English, bringing Greek tragedy together with austerity, class and local identity. Adaptation becomes a way for a marginalized language to carry contemporary experience on its own terms.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "Welsh-language film", "meaningChinese": "威尔士语电影", "example": "The Welsh-language film places local speech at its center."},
+            {"expression": "post-industrial town", "meaningChinese": "后工业城镇", "example": "The story is set in a post-industrial town."},
+            {"expression": "cultural adaptation", "meaningChinese": "文化改编", "example": "A cultural adaptation can give an old story new political meaning."}
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜US added 172,000 jobs in May as labor market shows signs of resilience",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Government figures show unemployment rate at 4.3% amid rising inflation and economic uncertainty from Iran war",
+          "title": "更多受害者拟起诉xAI，指Grok生成贬损性性化内容",
+          "summaryChinese": "The Guardian 报道，在英国议员 Jess Asato 的测试案件之后，更多当事人寻求起诉 Elon Musk 的xAI，指控Grok生成未经同意的贬损性性化内容。生成式AI降低了制作伪造图像的门槛，却不能降低平台的责任。有效治理需要预防机制、快速删除、证据保存和可使用的申诉途径，而不能只在伤害扩散后道歉。",
+          "correspondingEnglish": "More claimants are seeking to sue Elon Musk's xAI over demeaning sexualized material allegedly created by Grok, following a test case brought by Labour MP Jess Asato. Generative AI can lower the cost of producing abusive images, but it does not lower a platform's duty of care. Prevention, rapid removal, evidence preservation and accessible redress are all necessary.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "sexualized material", "meaningChinese": "性化内容", "example": "The claim concerns sexualized material created without consent."},
+            {"expression": "duty of care", "meaningChinese": "注意义务；防止可预见伤害的责任", "example": "A platform has a duty of care toward its users."},
+            {"expression": "accessible redress", "meaningChinese": "可获得的救济渠道", "example": "Victims need fast and accessible redress."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Alien hunters update guidance on sharing news of possible intelligent life",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Experts stress need for transparency while aiming to prevent premature announcements and protect scientists",
+          "title": "英国政府承诺让AI“为劳动者服务”，自动化责任进入政策议程",
+          "summaryChinese": "The Guardian 报道，英国科技大臣 Liz Kendall 表示，政府将帮助因自动化失去或改变工作的劳动者，让AI“为劳动者服务”。真正的检验不在口号，而在培训由谁支付、收入中断如何保障、员工能否参与技术部署，以及生产率收益如何分配。技术转型若只把风险交给个人，便不能称为公平转型。",
+          "correspondingEnglish": "UK technology secretary Liz Kendall has promised to make AI 'work for the workers' and support people whose jobs are displaced by automation. The test lies in policy details: who pays for training, how income is protected, whether employees help shape deployment and how productivity gains are shared. A fair transition cannot leave individuals carrying all the risk.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "job displacement", "meaningChinese": "岗位替代；工作因技术变化而消失", "example": "Automation may lead to job displacement in some sectors."},
+            {"expression": "worker participation", "meaningChinese": "劳动者参与", "example": "Worker participation can improve technology decisions."},
+            {"expression": "fair transition", "meaningChinese": "公平转型", "example": "A fair transition shares both costs and benefits."}
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today's stories show why visibility must be connected to responsibility. Monitoring makes environmental danger visible, while testimony reveals harm to bodies and communities. Art can reconstruct histories that institutions neglected. AI systems create new forms of work and abuse, but neither innovation nor scale removes the need for consent, prevention and redress. Seeing a problem is only the beginning of public action.",
+    "chinese": "今天的新闻说明，可见性必须与责任连接。监测让环境危险可见，证词揭示身体与社区受到的伤害，艺术重建被制度忽视的历史；AI系统创造新的工作方式与侵害形式，但创新和规模都不能取消同意、预防与救济的必要。看见问题，只是公共行动的开始。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    {"word": "visibility", "meaning": "可见性；问题被社会看见和认识的程度", "example": "Public data can increase the visibility of environmental risk."},
+    {"word": "consent", "meaning": "同意；在充分信息与自由条件下作出的许可", "example": "Compliance under pressure is not genuine consent."},
+    {"word": "institutional responsibility", "meaning": "制度责任；机构对决定和伤害承担的责任", "example": "Institutional responsibility continues after a failure is discovered."},
+    {"word": "historical reconstruction", "meaning": "历史重建；利用证据重新呈现过去", "example": "Digital tools can support historical reconstruction."},
+    {"word": "duty of care", "meaning": "注意义务；采取合理措施防止伤害的责任", "example": "Technology companies have a duty of care."},
+    {"word": "fair transition", "meaning": "公平转型；让技术或经济转型的成本与收益合理分配", "example": "Workers should help design a fair transition."}
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Ending observation does not remove danger; it makes danger harder to see and leaves institutions less able to act early.",
+    "analysisChinese": "动名词短语 Ending observation 作主语。分号连接因果紧密的两个独立分句；make + 宾语 + 形容词比较结构与 leave + 宾语 + 补语并列，说明停止监测造成的双重后果。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "Visibility matters most when it leads to consent, protection and a clear path to accountability.",
+    "chinese": "今天最想留下的一句话是：可见性最重要的意义，是把我们带向同意、保护与清晰的问责路径。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["visibility", "consent", "institutional responsibility", "Gaza", "ocean monitoring", "reproductive rights", "strip search", "Namibia", "colonial history", "Welsh language", "Grok", "AI harms", "workers", "fair transition"],
   "sources": [
-    {
-      "label": "The Guardian — California governor’s race: DoJ sends in federal observer over slow count",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/california-primary-election-races-too-close-to-call"
-    },
-    {
-      "label": "The Guardian — Texas murder trial under way with 19-year-old accused of stabbing fellow high schooler",
-      "url": "https://www.theguardian.com/us-news/2026/jun/05/texas-stabbing-high-school"
-    },
-    {
-      "label": "The Guardian — Essex woman jailed for life for poisoning baby son with cocktail of drugs",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/05/essex-woman-jailed-life-poisoning-baby"
-    },
-    {
-      "label": "The Guardian — Robin Hartwell obituary",
-      "url": "https://www.theguardian.com/education/2026/jun/05/robin-hartwell-obituary"
-    },
-    {
-      "label": "The Guardian — Anthony Head, Buffy the Vampire Slayer and Ted Lasso actor, dies aged 72",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-death-buffy-the-vampire-slayer"
-    },
-    {
-      "label": "The Guardian — Anthony Head brought gravitas to Buffy and everything else he touched | Jesse Hassenger",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/05/anthony-head-buffy-remembrance"
-    },
-    {
-      "label": "The Guardian — US added 172,000 jobs in May as labor market shows signs of resilience",
-      "url": "https://www.theguardian.com/business/2026/jun/05/us-jobs-market-unemployment"
-    },
-    {
-      "label": "The Guardian — Alien hunters update guidance on sharing news of possible intelligent life",
-      "url": "https://www.theguardian.com/science/2026/jun/05/alien-hunters-seti-guidance-signals-intelligent-life"
-    }
+    {"label": "The Guardian — Shortages of gas, oil and spare parts grind Gaza to a halt", "url": "https://www.theguardian.com/world/2026/jun/05/shortage-gas-oil-spare-parts-grinding-gaza-halt"},
+    {"label": "The Guardian — Scientists warn against dismantling US ocean monitoring", "url": "https://www.theguardian.com/environment/2026/jun/05/trump-plan-ocean-monitoring-system-concern-scientists"},
+    {"label": "The Guardian — African family-values charter condemned by rights groups", "url": "https://www.theguardian.com/global-development/2026/jun/05/ghana-african-charter-family-values-gender-women-sex-lgbtq-reproductive-rights"},
+    {"label": "The Guardian — Woman illegally strip-searched by NSW police feared being called a liar", "url": "https://www.theguardian.com/australia-news/2026/jun/05/woman-illegally-strip-searched-by-police-music-festival-court-case-ntwnfb"},
+    {"label": "The Guardian — Reconstructing the site of Namibia's forgotten genocide", "url": "https://www.theguardian.com/artanddesign/2026/jun/05/namibia-shark-island-herero-nama-genocide-fractured-lifeworlds-spore-initiative-berlin-forensic"},
+    {"label": "The Guardian — How Iphigenia became a Welsh-language film", "url": "https://www.theguardian.com/film/2026/jun/05/how-greek-myth-iphigenia-became-welsh-language-film-iphigenia-in-splott-effi-o-blaenau"},
+    {"label": "The Guardian — New claimants seek to sue xAI over sexualized Grok material", "url": "https://www.theguardian.com/technology/2026/jun/05/grok-ai-elon-musk-jess-asato-labour-mp-lawsuit"},
+    {"label": "The Guardian — Labour says it will make AI work for workers", "url": "https://www.theguardian.com/technology/2026/jun/05/labour-will-make-ai-work-for-workers-liz-kendall"}
   ],
-  "rawText": "推送日期｜2026年6月5日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月5日\n\n今天的小报关键词是：visibility, consent, and institutional responsibility（可见性、同意与制度责任）。\n\n认真读新闻，也是在追问：问题被看见之后，谁必须行动。"
 }

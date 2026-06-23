@@ -2,56 +2,32 @@
   "date": "2026-06-14",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "边界、身体与公共责任：乌克兰外交、埃博拉、跨性别表达、环境健康、酷儿艺术与平台治理",
+  "introChinese": "今天的小报关键词是：boundaries, bodies, and public responsibility（边界、身体与公共责任）。外交划定战争与和平的边界，法律和平台决定哪些表达能够进入公共空间，而污染、疾病与数据中心则提醒我们：系统最终总会落到具体身体与地方环境上。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜Anger among Iranian hardliners at terms of deal agreed with US",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Those in favour forced to defend themselves against claims the terms amount to capitulation",
+          "title": "特朗普与普京通话，称愿协助结束乌克兰战争",
+          "summaryChinese": "The Guardian 报道，特朗普在与普京一次被形容为“友好而坦率”的通话中表示，美国准备帮助结束乌克兰战争，并谈及美伊协议进展。高层通话能够释放外交信号，但真正的和平仍需乌克兰参与、可执行的安全安排与透明谈判。",
+          "correspondingEnglish": "President Trump reportedly told Vladimir Putin that the United States was prepared to help end the war in Ukraine. The call was described as friendly and frank and also covered the approaching US-Iran agreement. High-level diplomacy can signal intent, but peace still requires Ukrainian participation, enforceable security arrangements and transparent negotiations.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "high-level diplomacy", "meaningChinese": "高层外交", "example": "High-level diplomacy can reopen communication." },
+            { "expression": "security arrangement", "meaningChinese": "安全安排", "example": "A settlement requires credible security arrangements." },
+            { "expression": "transparent negotiation", "meaningChinese": "透明谈判", "example": "Affected countries should participate in transparent negotiations." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜‘Reeks of corruption’: protesters rally as Trump hosts UFC event on his birthday",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Demonstrations took off in Washington and across US as Trump throws first private, for-profit sporting event ever held on White House grounds",
+          "title": "刚果（金）埃博拉疫情持续：资金短缺与虚假信息加剧风险",
+          "summaryChinese": "The Guardian 报道，刚果（金）埃博拉疫情已有超过670例确诊和135人死亡，疫情仍未得到控制。资金不足、恐惧和虚假信息共同削弱应对。公共卫生不仅需要药物与床位，也依赖社区信任、可靠信息和持续投入。",
+          "correspondingEnglish": "More than 670 Ebola cases and over 135 deaths had been confirmed in the Democratic Republic of the Congo, and the outbreak remained uncontrolled. Funding shortfalls, fear and disinformation complicated the response. Public health depends not only on treatment, but also on community trust, reliable information and sustained investment.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "funding shortfall", "meaningChinese": "资金缺口", "example": "Funding shortfalls weakened the outbreak response." },
+            { "expression": "contain an outbreak", "meaningChinese": "控制疫情", "example": "Health workers are trying to contain the outbreak." },
+            { "expression": "community trust", "meaningChinese": "社区信任", "example": "Community trust is essential during a health emergency." }
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜UK hypermobility sufferers wait up to 21 years for diagnosis, study suggests",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Awareness of disorders such as hypermobile Ehlers-Danlos syndrome is low among British healthcare professionals",
+          "title": "悬挂跨性别Pride旗帜的优胜美地护林员诉讼被驳回",
+          "summaryChinese": "The Guardian 报道，一名因在优胜美地国家公园悬挂跨性别 Pride 旗而被解雇的前护林员，其针对美国政府的言论自由诉讼被联邦法官驳回。案件没有直接裁定表达本身，而是要求其遵循公务员改革法程序，显示权利诉求也会受到制度路径约束。",
+          "correspondingEnglish": "A federal judge dismissed a lawsuit brought by a former Yosemite ranger who was fired after hanging a trans Pride flag in the national park. The judge said the former ranger had to follow the process established by the Civil Service Reform Act. The case shows how rights claims can depend on procedural routes as well as substantive freedoms.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "free-speech claim", "meaningChinese": "言论自由诉求", "example": "The ranger brought a free-speech claim against the government." },
+            { "expression": "procedural route", "meaningChinese": "程序路径", "example": "The court required a different procedural route." },
+            { "expression": "public expression", "meaningChinese": "公共表达", "example": "Symbols can become forms of public expression." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Labour MP Lauren Edwards to bring assisted dying bill back to the Commons",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "MP for Rochester and Strood to use private member’s bill to put issue before MPs again after it was blocked by the Lords",
+          "title": "美国母乳样本发现干扰激素的危险化学物质",
+          "summaryChinese": "The Guardian 报道，西雅图母亲的母乳样本中发现干扰激素的化学物质，专家称这反映广泛而系统性的污染。母乳污染不能被归咎于个人选择；空气、食品、消费品和产业监管共同决定暴露水平，环境健康也因此具有明显的性别维度。",
+          "correspondingEnglish": "Hormone-disrupting chemicals were found in breast-milk samples from mothers in Seattle. Experts said the findings pointed to a widespread and systemic problem of chemical contamination. Exposure cannot be reduced to individual choice; air, food, consumer products and industrial regulation all shape environmental health.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "hormone-disrupting chemical", "meaningChinese": "干扰激素的化学物质", "example": "Researchers detected hormone-disrupting chemicals in the samples." },
+            { "expression": "systemic contamination", "meaningChinese": "系统性污染", "example": "The study points to systemic contamination." },
+            { "expression": "environmental health", "meaningChinese": "环境健康", "example": "Environmental health is shaped by public regulation." }
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Free Nelson Mandela review – this gripping documentary pulls no punches",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "A revelatory look at the sprawling tale of the decades-long struggle against apartheid. It’s a nuanced tale that brutally emphasises the personal cost of Mandela’s resistance",
+          "title": "David Hockney如何以日常亲密挑战恐同文化",
+          "summaryChinese": "The Guardian 讨论 David Hockney 如何不依赖直接性化的图像，而是通过美、亲密与欲望的重新组织挑战恐同观念。《A Bigger Splash》等作品后来进入海报、家居与无数酷儿家庭，显示艺术也能通过日常陪伴形成文化认同。",
+          "correspondingEnglish": "The Guardian examined how David Hockney challenged homophobia by reshaping ideas of beauty, intimacy and desire rather than relying only on explicitly sexual imagery. Works such as A Bigger Splash entered posters, domestic objects and many queer homes, showing how art can build identity through everyday presence.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "queer visibility", "meaningChinese": "酷儿可见性", "example": "Hockney’s work expanded queer visibility." },
+            { "expression": "reshape intimacy", "meaningChinese": "重新塑造亲密关系的表达", "example": "The paintings reshape ideas of intimacy." },
+            { "expression": "everyday presence", "meaningChinese": "日常存在", "example": "Art gains cultural power through everyday presence." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The pop star’s first tour in seven years brought the house down with emotive ballads and clubby bangers delivered with saucy wit",
+          "title": "Anish Kapoor：不服从为何是艺术创作的核心",
+          "summaryChinese": "The Guardian 在 Anish Kapoor 伦敦生涯回顾展开幕前访问其工作室。Kapoor 谈到争议、审查与“不服从”，认为伟大艺术不能只满足既有规则。艺术中的不服从不是拒绝责任，而是用形式与感官打开被习惯封闭的问题。",
+          "correspondingEnglish": "Ahead of Anish Kapoor’s career-spanning London exhibition, the artist spoke about controversy, censorship and why disobedience is central to making great art. Artistic disobedience does not have to mean avoiding responsibility; it can use form and sensation to reopen questions that convention has closed.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "career-spanning exhibition", "meaningChinese": "覆盖整个创作生涯的展览", "example": "The gallery presents a career-spanning exhibition." },
+            { "expression": "artistic disobedience", "meaningChinese": "艺术上的不服从", "example": "Kapoor describes artistic disobedience as creatively necessary." },
+            { "expression": "challenge convention", "meaningChinese": "挑战惯例", "example": "Powerful art can challenge convention." }
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Alternative singer and internet personality among six who died when two helicopters collided over Rio de Janeiro",
+          "title": "乔治亚州数据中心威胁河流，居民推动公投",
+          "summaryChinese": "The Guardian 报道，乔治亚州 Coweta 县一座数据中心可能威胁当地河流，居民正推动公投挑战相关决定。AI与云计算看似无形，却需要大量土地、水、电力和冷却设施。地方居民是否拥有决定权，是技术基础设施治理的核心。",
+          "correspondingEnglish": "Residents of Coweta county, Georgia, are seeking a referendum over a data center that they say threatens local rivers. AI and cloud computing may appear intangible, but they require land, water, electricity and cooling systems. Whether local communities have decision-making power is central to infrastructure governance.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "local referendum", "meaningChinese": "地方公投", "example": "Residents are seeking a local referendum." },
+            { "expression": "water-intensive infrastructure", "meaningChinese": "高耗水基础设施", "example": "Data centers can become water-intensive infrastructure." },
+            { "expression": "community consent", "meaningChinese": "社区同意", "example": "Large projects should consider community consent." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Running a small business has become almost impossible | Letter",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Letter: Rosie Wolfenden says that under the current tax system, and with rising costs, traditional business models are no longer viable",
+          "title": "X被指纵容种族主义仇恨内容",
+          "summaryChinese": "The Guardian 报道，X未删除针对英国政治人物的种族主义帖子，被批评为让仇恨发布者获得“有罪不罚”的空间。平台治理不只取决于是否有规则，也取决于规则如何执行、谁获得保护，以及商业激励是否压倒公共安全。",
+          "correspondingEnglish": "X was accused of giving racists impunity after refusing to remove posts containing slurs against UK politicians. Platform governance depends not only on published rules, but also on consistent enforcement, who receives protection and whether commercial incentives override public safety.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "hate speech", "meaningChinese": "仇恨言论", "example": "Platforms need clear policies on hate speech." },
+            { "expression": "content enforcement", "meaningChinese": "内容规则执行", "example": "Rules mean little without consistent content enforcement." },
+            { "expression": "act with impunity", "meaningChinese": "不受惩罚地行事", "example": "Critics said abusive users could act with impunity." }
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today’s stories show that boundaries are never merely lines. Diplomatic boundaries determine who participates in peace. Legal procedures shape how public expression is defended. Chemical exposure and disease move across bodies and communities, while art challenges the boundaries of beauty, intimacy and convention. Digital platforms and data centers create another set of borders around speech, water and local decision-making. Public responsibility begins when institutions recognize that their rules and infrastructure produce consequences beyond their immediate walls.",
+    "chinese": "今天的新闻显示，边界从来不只是线条。外交边界决定谁能参与和平，法律程序塑造公共表达如何得到保护；化学暴露与疾病穿过身体和社区，艺术则挑战美、亲密与惯例的界限；数字平台和数据中心又围绕言论、水资源与地方决策制造新的边界。当机构承认其规则与基础设施会在自身围墙之外产生后果时，公共责任才真正开始。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    { "word": "boundary", "meaning": "边界；划分权利、空间或责任的界线", "example": "Technology can redraw social and political boundaries." },
+    { "word": "community trust", "meaning": "社区信任", "example": "Disease control depends on community trust." },
+    { "word": "environmental health", "meaning": "环境健康；环境条件对人体健康的影响", "example": "Chemical exposure is an environmental-health issue." },
+    { "word": "queer visibility", "meaning": "酷儿可见性", "example": "Art can expand queer visibility in everyday life." },
+    { "word": "community consent", "meaning": "社区同意；地方居民对项目的知情参与", "example": "Infrastructure projects should seek community consent." },
+    { "word": "content enforcement", "meaning": "内容规则执行", "example": "Platform safety depends on consistent content enforcement." }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Public responsibility begins when institutions recognize that their rules and infrastructure produce consequences beyond their immediate walls.",
+    "analysisChinese": "when 引导条件兼时间从句；that 引导 recognize 的宾语从句。beyond their immediate walls 是比喻，表示制度影响会超出机构自身的物理与组织边界。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "A boundary becomes ethical only when it accounts for the bodies, communities and environments on both sides of it.",
+    "chinese": "今天最想留下的一句话是：只有当边界愿意看见两侧的身体、社区与环境，它才可能成为一条合乎伦理的边界。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["global", "Ukraine", "Ebola", "health", "gender", "trans rights", "environmental health", "art", "David Hockney", "Anish Kapoor", "technology", "data centers", "platform governance", "hate speech"],
   "sources": [
-    {
-      "label": "The Guardian — Anger among Iranian hardliners at terms of deal agreed with US",
-      "url": "https://www.theguardian.com/world/2026/jun/14/iranian-hardliners-in-vociferous-push-to-reject-proposed-peace-deal-with-us"
-    },
-    {
-      "label": "The Guardian — ‘Reeks of corruption’: protesters rally as Trump hosts UFC event on his birthday",
-      "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-ufc-fight-white-house-protest"
-    },
-    {
-      "label": "The Guardian — UK hypermobility sufferers wait up to 21 years for diagnosis, study suggests",
-      "url": "https://www.theguardian.com/society/2026/jun/15/uk-hypermobility-sufferers-wait-diagnosis-study-ehlers-danlos"
-    },
-    {
-      "label": "The Guardian — Labour MP Lauren Edwards to bring assisted dying bill back to the Commons",
-      "url": "https://www.theguardian.com/society/2026/jun/14/assisted-dying-bill-return-commons-lauren-edwards"
-    },
-    {
-      "label": "The Guardian — Free Nelson Mandela review – this gripping documentary pulls no punches",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/14/free-nelson-mandela-review-channel-4"
-    },
-    {
-      "label": "The Guardian — Ariana Grande review - glittering hits and powerhouse vocals in stunning return to stage",
-      "url": "https://www.theguardian.com/music/2026/jun/14/ariana-grande-eternal-sunshine-tour-review-la"
-    },
-    {
-      "label": "The Guardian — US musician Oliver Tree, 32, killed in helicopter crash in Brazil",
-      "url": "https://www.theguardian.com/world/2026/jun/14/musician-oliver-tree-32-killed-in-helicopter-crash-in-brazil"
-    },
-    {
-      "label": "The Guardian — Running a small business has become almost impossible | Letter",
-      "url": "https://www.theguardian.com/business/2026/jun/14/running-a-small-business-has-become-almost-impossible"
-    }
+    { "label": "The Guardian — Trump-Putin call on Ukraine", "url": "https://www.theguardian.com/us-news/2026/jun/14/trump-putin-call-ukraine-russia-iran-war" },
+    { "label": "The Guardian — DRC Ebola outbreak", "url": "https://www.theguardian.com/world/2026/jun/14/drcs-ebola-outbreak-become-the-most-deadly-yet" },
+    { "label": "The Guardian — Yosemite ranger trans Pride lawsuit", "url": "https://www.theguardian.com/us-news/2026/jun/14/lawsuit-dismissed-yosemite-ranger-trans-pride-flag" },
+    { "label": "The Guardian — Chemicals in breast milk", "url": "https://www.theguardian.com/us-news/2026/jun/14/breast-milk-research-chemicals" },
+    { "label": "The Guardian — David Hockney and queer life", "url": "https://www.theguardian.com/artanddesign/2026/jun/14/david-hockney-gay-queer-sexualised-imagery-celebration" },
+    { "label": "The Guardian — Anish Kapoor interview", "url": "https://www.theguardian.com/culture/2026/jun/14/anish-kapoor-hayward-gallery-interview" },
+    { "label": "The Guardian — Georgia data center and local rivers", "url": "https://www.theguardian.com/us-news/2026/jun/14/coweta-county-georgia-datacenter" },
+    { "label": "The Guardian — X and racist hate posts", "url": "https://www.theguardian.com/technology/2026/jun/14/x-racists-impunity-hate-posts" }
   ],
-  "rawText": "推送日期｜2026年6月14日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月14日\n\n今天的小报关键词是：boundaries, bodies, and public responsibility（边界、身体与公共责任）。外交划定战争与和平的边界，法律和平台决定哪些表达能够进入公共空间，而污染、疾病与数据中心则提醒我们：系统最终总会落到具体身体与地方环境上。"
 }

@@ -2,58 +2,59 @@
   "date": "2026-06-01",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "抗议、身体与数据边界：绿色经济、移民拘押、性别暴力、艺术记忆与AI风险",
+  "sourcePolicy": "本期仅采用用户指定来源池中可核验发布日期与原文链接的报道；8条来源均为 The Guardian。正文采用直接叙述，来源统一列于文末。",
+  "introChinese": "今天的小报关键词是：“protest, bodies, and data boundaries（抗议、身体与数据边界）”。绿色经济被量化为就业与产业，移民拘押引发街头抗议，性别暴力和医疗忽视继续进入公共讨论，艺术在追索失踪者与重估作品归属，而 AI 风险则落在账号安全、儿童保护和国家数据边界上。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜UK’s growing green economy worth more than £100bn a year, research finds",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Net zero industry accounts for more than a million jobs and benefits whole country, according to CBI Economics",
+          "title": "英国绿色经济年价值超过1000亿英镑：气候转型成为产业现实",
+          "summaryChinese": "最新研究估算，英国净零产业每年价值超过1000亿英镑，相关就业超过100万个，并且收益分布到全国多个地区。气候政策常被说成成本或约束，但这类数据把它重新放进产业、就业和地方经济的框架里。绿色转型不只是环保议题，也是在决定未来哪些地区、技能和劳动会被投资。",
+          "correspondingEnglish": "New research estimates that the UK’s net zero economy is worth more than £100bn a year and supports over one million jobs. The findings place climate policy inside a wider debate about industry, employment and regional development. The green transition is not only an environmental issue. It is also a question of where investment, skills and future work will go.",
           "englishExpressions": [
             {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
+              "expression": "green economy",
+              "meaningChinese": "绿色经济",
+              "example": "The green economy is becoming a major source of jobs."
             },
             {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
+              "expression": "net zero industry",
+              "meaningChinese": "净零产业",
+              "example": "Net zero industry can support regional development."
             },
             {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
+              "expression": "regional development",
+              "meaningChinese": "区域发展",
+              "example": "Regional development depends on where new investment flows."
             }
           ],
-          "studyNote": ""
+          "studyNote": "worth more than... a year 是财经新闻常见结构，用来表达某行业或市场的年度规模。"
         },
         {
-          "title": "Guardian报道｜Reform UK support could plateau as it relies on socially conservative views, study finds",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Party could struggle to push ratings as strategy increasingly focuses on views held by minority of voters, research finds",
+          "title": "新泽西ICE拘押设施外抗议持续：拘押制度进入街头政治",
+          "summaryChinese": "新泽西 Delaney Hall 移民拘押设施外的冲突持续，数名抗议者被捕。现场抗议与设施内的绝食和劳动行动相互呼应，凸显移民拘押不是封闭在建筑里的行政程序，而是会牵动社区、劳工、健康条件和警察权力的公共议题。一个拘押中心既是边境政策的延伸，也是城市中的政治现场。",
+          "correspondingEnglish": "Several protesters were arrested outside the Delaney Hall ICE facility in New Jersey as clashes continued. The protests followed reports of hunger and labor strikes inside the facility. Immigration detention is not only an administrative process hidden inside a building. It connects border policy with community politics, working conditions, health and policing.",
           "englishExpressions": [
             {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
+              "expression": "detention facility",
+              "meaningChinese": "拘押设施",
+              "example": "Protests continued outside the detention facility."
             },
             {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
+              "expression": "hunger strike",
+              "meaningChinese": "绝食抗议",
+              "example": "A hunger strike drew attention to conditions inside the facility."
             },
             {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
+              "expression": "border policy",
+              "meaningChinese": "边境政策",
+              "example": "Border policy can reshape local community life."
             }
           ],
-          "studyNote": ""
+          "studyNote": "facility 是新闻中很常见的模糊词，可以指设施、机构、中心；具体含义要看前面的限定词。"
         }
       ]
     },
@@ -62,50 +63,50 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜University of Manchester to investigate sexual harassment of female medical students",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "About 20 students report anonymous late-night phone calls from men who ‘intimidated, demeaned and belittled’ them",
+          "title": "曼彻斯特大学调查女医学生遭性骚扰：校园安全与专业权力",
+          "summaryChinese": "曼彻斯特大学启动调查，约20名女医学生报告称，她们深夜接到匿名男性电话，对方以羞辱、恐吓和贬低的方式骚扰她们。医学教育通常被想象为高度专业化的训练空间，但这起事件提醒我们，性骚扰会穿过校园、宿舍、电话和职业等级结构，让学习环境变成不安全的空间。",
+          "correspondingEnglish": "The University of Manchester is investigating reports that about 20 female medical students received anonymous late-night calls from men who allegedly intimidated, demeaned and belittled them. Medical education is often imagined as a professional training space, but harassment can move through phones, campuses and hierarchies, turning learning environments into unsafe spaces.",
           "englishExpressions": [
             {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
+              "expression": "sexual harassment",
+              "meaningChinese": "性骚扰",
+              "example": "The university opened an investigation into sexual harassment."
             },
             {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
+              "expression": "learning environment",
+              "meaningChinese": "学习环境",
+              "example": "A safe learning environment is essential for students."
             },
             {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
+              "expression": "professional hierarchy",
+              "meaningChinese": "职业等级结构",
+              "example": "Professional hierarchy can make complaints harder to raise."
             }
           ],
-          "studyNote": ""
+          "studyNote": "intimidate, demean and belittle 三个动词层层递进，分别指恐吓、贬低人格、轻视羞辱。"
         },
         {
-          "title": "Guardian报道｜Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Experimental tablet produces encouraging results in patients with world’s most common forms of disease",
+          "title": "伊拉克少女拒绝强迫婚姻后被杀：家庭暴力如何被文化合理化",
+          "summaryChinese": "一名15岁伊拉克少女因拒绝与表亲结婚而被杀害。她的一名女性亲属讲述了事件经过，并表达对其他被迫早婚女孩的担忧。这个故事最沉重的部分在于，暴力不只是一个人的行为，也可能被家族、习俗和沉默共同支撑。当身体自主被剥夺，婚姻就不再是家庭事务，而是人权问题。",
+          "correspondingEnglish": "A 15-year-old girl in Iraq was killed after refusing to marry her cousin. A female relative described what happened and voiced fears for other girls forced into early marriage. The most painful part is that violence can be supported by family approval, custom and silence. When bodily autonomy is denied, marriage is no longer a private family matter. It becomes a human rights issue.",
           "englishExpressions": [
             {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
+              "expression": "forced marriage",
+              "meaningChinese": "强迫婚姻",
+              "example": "Forced marriage violates bodily autonomy."
             },
             {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
+              "expression": "bodily autonomy",
+              "meaningChinese": "身体自主权",
+              "example": "Bodily autonomy means having control over one’s own body."
             },
             {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
+              "expression": "family approval",
+              "meaningChinese": "家庭认可；家族支持",
+              "example": "Family approval can sometimes hide coercion."
             }
           ],
-          "studyNote": ""
+          "studyNote": "bodily autonomy 是性别与人权写作中的核心表达，常用于婚姻、生育、医疗和性暴力议题。"
         }
       ]
     },
@@ -114,50 +115,50 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Emma Barnett: Fighting Endometriosis review – this woman is not about to be fobbed off",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The BBC presenter has a horrific illness which leaves her and so many other women in a lifelong hell with no cure in sight. Barnett is at the absolute end of her tether … can she change millions of lives?",
+          "title": "卢西安·弗洛伊德早期肖像首次展出：艺术归属也需要证据",
+          "summaryChinese": "一幅曾被卢西安·弗洛伊德本人否认的早期肖像《黑围巾男子》，在新的证据支持下被认证为其学生时代作品，并首次公开展出。艺术史并不是一条已经固定的时间线，它也会因档案、技术鉴定和市场机制而被改写。谁画了这幅画，关系到的不只是作者名字，也包括价值、记忆和权威。",
+          "correspondingEnglish": "An early portrait once denied by Lucian Freud has been authenticated and shown publicly for the first time. New evidence suggests that Man in a Black Scarf was painted while Freud was a student. Art history is not a fixed timeline. It can be rewritten by archives, technical examination and the art market. Authorship shapes value, memory and authority.",
           "englishExpressions": [
             {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
+              "expression": "art authentication",
+              "meaningChinese": "艺术品认证",
+              "example": "Art authentication can change a painting’s history and value."
             },
             {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
+              "expression": "early portrait",
+              "meaningChinese": "早期肖像",
+              "example": "The early portrait was shown for the first time."
             },
             {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
+              "expression": "authorship",
+              "meaningChinese": "作者身份；创作归属",
+              "example": "Authorship matters in both art history and the market."
             }
           ],
-          "studyNote": ""
+          "studyNote": "authorship 不只是“作者”，还包括作品归属、责任、权威和解释权。"
         },
         {
-          "title": "Guardian报道｜Taylor Swift announces new single for Toy Story 5 soundtrack",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "I Knew It, I Knew You is written with longtime collaborator Jack Antonoff and marks a return to Swift’s country roots",
+          "title": "西班牙家庭寻找佛朗哥镇压中失踪的父亲：摄影作为创伤档案",
+          "summaryChinese": "摄影记者 Roberto Palomo 用五年时间追索曾祖父在佛朗哥镇压中失踪的经历，记录遗骸寻找、身份确认和创伤记忆如何影响后代。这样的摄影不是简单再现过去，而是把家庭沉默、国家暴力和代际记忆放在同一个画面里。照片让失踪者重新拥有位置，也让历史不再只属于官方档案。",
+          "correspondingEnglish": "Photojournalist Roberto Palomo spent five years tracing the story of his great-grandfather, who disappeared during Francoist repression. The project documents the search for remains, the process of recovery and the effects of traumatic memory on descendants. Photography here is not just a record of the past. It gives the disappeared a place in the present.",
           "englishExpressions": [
             {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
+              "expression": "traumatic memory",
+              "meaningChinese": "创伤记忆",
+              "example": "Traumatic memory can shape families across generations."
             },
             {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
+              "expression": "photo essay",
+              "meaningChinese": "摄影专题；图片报道",
+              "example": "The photo essay follows a family’s search for answers."
             },
             {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
+              "expression": "official archive",
+              "meaningChinese": "官方档案",
+              "example": "Personal testimony can challenge the official archive."
             }
           ],
-          "studyNote": ""
+          "studyNote": "the disappeared 常用于拉美、西班牙等政治暴力语境，指被国家或武装力量强迫失踪的人。"
         }
       ]
     },
@@ -166,109 +167,115 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Breach of high-profile accounts raises concerns about reliance on AI for security measures such as passwords",
+          "title": "黑客利用Meta AI客服机器人入侵高关注账号：自动化客服变成安全入口",
+          "summaryChinese": "黑客诱骗 Meta 的 AI 支持机器人，入侵包括奥巴马白宫 Instagram 账号在内的高关注账户。事件暴露一个新风险：当平台把密码、身份验证和账号恢复交给自动化系统，攻击者也会寻找自动化流程中的漏洞。AI 不只是聊天工具，它正在成为数字安全链条的一环，任何一环失守都会放大风险。",
+          "correspondingEnglish": "Hackers tricked Meta’s AI support bot and infiltrated high-profile Instagram accounts, including an Obama White House account. The breach raises concerns about using AI in security processes such as passwords and account recovery. AI is not only a chat tool. It is becoming part of the digital security chain, and weak points in that chain can amplify risk.",
           "englishExpressions": [
             {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
+              "expression": "support bot",
+              "meaningChinese": "客服机器人；支持机器人",
+              "example": "A support bot can become a target for attackers."
             },
             {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
+              "expression": "account recovery",
+              "meaningChinese": "账号恢复",
+              "example": "Account recovery systems must be protected from abuse."
             },
             {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
+              "expression": "security breach",
+              "meaningChinese": "安全漏洞；安全入侵事件",
+              "example": "The security breach affected high-profile accounts."
             }
           ],
-          "studyNote": ""
+          "studyNote": "breach 可以指数据泄露、安全入侵，也可以指违反协议或法律。"
         },
         {
-          "title": "Guardian报道｜Florida lawsuit accuses OpenAI of ignoring safety warnings and putting children at risk",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "State sues maker of ChatGPT and CEO Sam Altman, alleging company ‘allowed a dangerous product to reach millions’",
+          "title": "佛州起诉OpenAI：儿童安全成为AI产品责任焦点",
+          "summaryChinese": "佛罗里达州起诉 OpenAI 及其首席执行官，指控公司忽视安全警告，让可能危及儿童的产品进入数百万用户手中。OpenAI 面对的争议说明，AI 产品责任已经不只是“模型是否好用”，而是包括未成年人保护、风险提示、企业内部警告是否被重视，以及监管者如何界定伤害。",
+          "correspondingEnglish": "Florida sued OpenAI and its chief executive, alleging that the company ignored safety warnings and allowed a dangerous product to reach millions of users. The dispute shows that AI product responsibility is no longer only about whether a model works well. It also includes child safety, risk warnings, internal accountability and how regulators define harm.",
           "englishExpressions": [
             {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
+              "expression": "safety warning",
+              "meaningChinese": "安全警告",
+              "example": "The lawsuit says safety warnings were ignored."
             },
             {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
+              "expression": "child safety",
+              "meaningChinese": "儿童安全",
+              "example": "Child safety is becoming central to AI regulation."
             },
             {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
+              "expression": "product responsibility",
+              "meaningChinese": "产品责任",
+              "example": "AI companies face growing questions about product responsibility."
             }
           ],
-          "studyNote": ""
+          "studyNote": "product responsibility 比 product safety 更宽，既包括安全，也包括设计、警示、监管和损害责任。"
         }
       ]
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today’s news shows that systems become political when they decide whose body, data or memory is protected. A green economy is measured in jobs and investment. A detention facility turns border policy into local protest. Harassment and forced marriage reveal how power enters intimate life. Art can reopen disputed histories, while AI systems now affect security, childhood and corporate accountability.",
+    "chinese": "今天的新闻让我们看到，当一个系统决定谁的身体、数据或记忆受到保护时，它就变成了政治问题。绿色经济被就业和投资衡量；拘押设施把边境政策变成地方抗议；性骚扰和强迫婚姻揭示权力如何进入亲密生活；艺术能够重新打开有争议的历史，而 AI 系统如今已经影响安全、儿童保护和企业问责。"
   },
   "keywords": [
     {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
+      "word": "green economy",
+      "meaning": "绿色经济；以低碳、环保和可持续产业为核心的经济活动",
+      "example": "The green economy can create jobs across different regions."
     },
     {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
+      "word": "detention facility",
+      "meaning": "拘押设施；用于关押或临时拘留人员的机构",
+      "example": "Protesters gathered outside the detention facility."
     },
     {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
+      "word": "bodily autonomy",
+      "meaning": "身体自主权；个人对自身身体和选择的控制权",
+      "example": "Forced marriage is a violation of bodily autonomy."
     },
     {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
+      "word": "authorship",
+      "meaning": "作者身份；作品归属与解释权",
+      "example": "Authorship can change how a painting is valued."
     },
     {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
+      "word": "security breach",
+      "meaning": "安全入侵；安全漏洞事件",
+      "example": "A security breach exposed weaknesses in account recovery."
     },
     {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
+      "word": "product responsibility",
+      "meaning": "产品责任；企业对产品风险、伤害和设计后果承担的责任",
+      "example": "AI product responsibility includes child safety and warnings."
     }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Systems become political when they decide whose body, data or memory is protected.",
+    "analysisChinese": "这个句子用 become political 表达“进入政治领域 / 具有权力后果”。whose body, data or memory is protected 是宾语从句中的名词性结构，强调保护对象本身就体现权力分配。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "Protection is never neutral when some people must fight to be included in it.",
+    "chinese": "今天最想留下的一句话是：当有些人必须努力争取才会被保护时，保护本身就从来不是中性的。"
   },
   "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
+    "green economy",
+    "net zero",
+    "ICE detention",
+    "protest",
+    "sexual harassment",
+    "forced marriage",
+    "bodily autonomy",
+    "Lucian Freud",
+    "art authentication",
+    "Francoist repression",
+    "photo essay",
+    "Meta AI",
+    "security breach",
+    "OpenAI",
+    "child safety",
+    "product responsibility"
   ],
   "sources": [
     {
@@ -276,24 +283,24 @@
       "url": "https://www.theguardian.com/environment/2026/jun/02/uk-green-economy-worth-more-than-100bn-a-year-net-zero"
     },
     {
-      "label": "The Guardian — Reform UK support could plateau as it relies on socially conservative views, study finds",
-      "url": "https://www.theguardian.com/politics/2026/jun/02/reform-uk-support-could-plateau-relies-on-conservative-views-study-finds"
+      "label": "The Guardian — Several protesters arrested at New Jersey ICE facility as clashes continue",
+      "url": "https://www.theguardian.com/us-news/2026/jun/01/new-jersey-ice-detention-center-protests"
     },
     {
       "label": "The Guardian — University of Manchester to investigate sexual harassment of female medical students",
       "url": "https://www.theguardian.com/education/2026/jun/01/university-of-manchester-investigate-sexual-harassment-female-medical-students-anonymous-phone-calls"
     },
     {
-      "label": "The Guardian — Smart drug that strips cancer cells of ‘invisibility cloak’ can shrink tumours by 30%, trial shows",
-      "url": "https://www.theguardian.com/society/2026/jun/01/cancer-smart-drug-cells-invisibility-cloak-shrink-tumours-trial"
+      "label": "The Guardian — ‘My 15-year-old relative was killed for refusing to marry her cousin. My family celebrated by dancing in the street’",
+      "url": "https://www.theguardian.com/global-development/2026/jun/01/kawthar-al-husayjawi-killed-refusing-forced-marriage-marry-family-celebrated-iraq"
     },
     {
-      "label": "The Guardian — Emma Barnett: Fighting Endometriosis review – this woman is not about to be fobbed off",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/01/emma-barnett-fighting-endometriosis-review-bbc-two-iplayer"
+      "label": "The Guardian — Early portrait denied by Lucian Freud shown for first time after authentication",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/01/early-portrait-denied-lucian-freud-man-in-black-scarf-authentication"
     },
     {
-      "label": "The Guardian — Taylor Swift announces new single for Toy Story 5 soundtrack",
-      "url": "https://www.theguardian.com/music/2026/jun/01/taylor-swift-toy-story-5-song-soundtrack"
+      "label": "The Guardian — Family’s 90-year search for answers after father vanished in Francoist uprising – photo essay",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/01/spain-family-answers-search-franco-uprising-disappeared-photo-essay"
     },
     {
       "label": "The Guardian — Hackers trick Meta AI support bot to infiltrate Obama White House Instagram account",
@@ -304,5 +311,5 @@
       "url": "https://www.theguardian.com/technology/2026/jun/01/florida-lawsuit-openai-sam-altman"
     }
   ],
-  "rawText": "推送日期｜2026年6月1日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月1日\n\n今天的小报关键词是：“protest, bodies, and data boundaries（抗议、身体与数据边界）”。绿色经济被量化为就业与产业，移民拘押引发街头抗议，性别暴力和医疗忽视继续进入公共讨论，艺术在追索失踪者与重估作品归属，而 AI 风险则落在账号安全、儿童保护和国家数据边界上。\n\n★ 1. Global News｜全球新闻\n\n英国绿色经济年价值超过1000亿英镑：气候转型成为产业现实\n新泽西ICE拘押设施外抗议持续：拘押制度进入街头政治\n\n★ 2. Gender / Culture｜性别与文化\n\n曼彻斯特大学调查女医学生遭性骚扰：校园安全与专业权力\n伊拉克少女拒绝强迫婚姻后被杀：家庭暴力如何被文化合理化\n\n★ 3. Art / Fashion / Media｜艺术、时尚与媒体\n\n卢西安·弗洛伊德早期肖像首次展出：艺术归属也需要证据\n西班牙家庭寻找佛朗哥镇压中失踪的父亲：摄影作为创伤档案\n\n★ 4. AI / Tech｜人工智能与科技\n\n黑客利用Meta AI客服机器人入侵高关注账号：自动化客服变成安全入口\n佛州起诉OpenAI：儿童安全成为AI产品责任焦点\n\n★ Closing Thought｜今日收束\n\n当有些人必须努力争取才会被保护时，保护本身就从来不是中性的。"
 }

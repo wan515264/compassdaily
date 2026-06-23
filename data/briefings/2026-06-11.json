@@ -2,56 +2,32 @@
   "date": "2026-06-11",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "信任、照护与技术叙事：美伊交火、全球增长、移民家庭、特殊教育、空间艺术与AI安全",
+  "introChinese": "今天的小报关键词是：trust, care, and technological narratives（信任、照护与技术叙事）。战争与通胀削弱公共信任，签证和教育制度决定谁能获得稳定生活，而AI公司内部的安全争议提醒我们：关于技术未来的故事，往往也在决定今天谁有权提出质疑。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜Jay Clayton: Trump pick has long legal résumé but few intelligence credentials",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Former SEC chair, who has reportedly socialized and played golf with president, has questioned integrity of US elections",
+          "title": "美伊再度交火，停火被称为“几乎失去意义”",
+          "summaryChinese": "The Guardian 报道，在谈判停滞与特朗普进一步威胁后，美国与伊朗再次互相发动攻击。伊朗表示美方行动使停火“几乎失去意义”。当军事行动与谈判同时推进，沟通渠道、事实核查和对平民影响的评估尤其重要。",
+          "correspondingEnglish": "The United States and Iran traded strikes after President Trump threatened Tehran over stalled talks. Iran said the US attacks had made the ceasefire practically meaningless. When military action and negotiation continue at the same time, communication, factual verification and assessment of civilian harm become especially important.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "stalled talks", "meaningChinese": "停滞的谈判", "example": "The strikes followed a period of stalled talks." },
+            { "expression": "trade fire", "meaningChinese": "相互交火", "example": "The two sides traded fire again." },
+            { "expression": "civilian harm", "meaningChinese": "对平民造成的伤害", "example": "Diplomacy should reduce the risk of civilian harm." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Auckland sits near an active faultline, new research suggests, so what next for New Zealand’s biggest city?",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "The city is exempted from earthquake building rules due to its northerly location, but a study of the Mangatangi Fault has thrown that into question",
+          "title": "世界银行：全球增长降至疫情以来最低水平",
+          "summaryChinese": "The Guardian 报道，世界银行把2026年全球增长预测下调至2.5%，并预计中东战争将推高通胀。增长放缓并不会平均影响所有人；食品、能源和借贷成本上升时，低收入家庭与财政空间有限的国家通常承受更大压力。",
+          "correspondingEnglish": "The World Bank said global growth was slowing to its lowest level since the pandemic. Its forecast for 2026 was reduced to 2.5%, while inflation was expected to rise because of the Middle East war. Slower growth is unevenly distributed, with low-income households and fiscally constrained countries often carrying greater pressure.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "downgrade a forecast", "meaningChinese": "下调预测", "example": "The World Bank downgraded its growth forecast." },
+            { "expression": "fiscally constrained", "meaningChinese": "财政空间受限的", "example": "Fiscally constrained countries have fewer policy options." },
+            { "expression": "inflationary pressure", "meaningChinese": "通胀压力", "example": "War increased inflationary pressure." }
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜China has long sought to control women’s bodies. Increasingly, they’re making their own choices",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "More women are rejecting state pressure over their reproductive choices, amid the devastating legacy of the one-child policy",
+          "title": "孕妇收到“回国”信，担忧与未出生孩子和家人分离",
+          "summaryChinese": "The Guardian 报道，苏格兰一名孕妇护理工作者在英国签证收紧后收到内政部“回国”通知，担心与丈夫、女儿及未出生孩子分离。移民政策不是抽象边境管理，它会进入怀孕、照护关系与儿童安全感，制造持续的不确定性。",
+          "correspondingEnglish": "A pregnant care worker in Scotland feared separation from her unborn child and family after receiving Home Office letters telling her to leave the UK. The visa clampdown left her stressed and uncertain about her husband and daughter. Immigration policy reaches into pregnancy, care relationships and children’s sense of security.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "visa clampdown", "meaningChinese": "签证收紧行动", "example": "The family was affected by a visa clampdown." },
+            { "expression": "family separation", "meaningChinese": "家庭分离", "example": "The policy created a risk of family separation." },
+            { "expression": "care worker", "meaningChinese": "照护工作者", "example": "She works in Scotland as a care worker." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Record number of young people fear long-term unemployment",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Report says confidence among 16- to 21-year-olds has fallen sharply as they doubt hard work will be rewarded",
+          "title": "英格兰超过五分之一学生有特殊教育需求",
+          "summaryChinese": "The Guardian 报道，英格兰超过五分之一学生被认定有特殊教育需求，接受额外支持的儿童人数大幅增加，学校、家庭与地方政府承受更大压力。需求增加不必然意味着儿童“问题更多”，也可能反映识别改善；关键在于资源是否同步增长。",
+          "correspondingEnglish": "More than one in five pupils in England now have special educational needs. The number of children receiving additional support has risen sharply, increasing pressure on schools, families and councils. Higher recorded need may reflect better recognition, but recognition matters only when resources grow with it.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "special educational needs", "meaningChinese": "特殊教育需求", "example": "More pupils are receiving support for special educational needs." },
+            { "expression": "additional support", "meaningChinese": "额外支持", "example": "Schools need funding to provide additional support." },
+            { "expression": "better recognition", "meaningChinese": "更好的识别与承认", "example": "Rising numbers may partly reflect better recognition." }
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜How to Love the World by Ilka Tampke review – a woman is trapped by a fallen tree",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The stuck narrator records the minutiae of the forest and her harrowing life in a purposeful novel that demands a slow read but doesn’t always reward it",
+          "title": "Barbara Hepworth：色彩如何进入雕塑的身体",
+          "summaryChinese": "The Guardian 评论伦敦 Courtauld 的 Hepworth色彩展，指出她以琴弦般的线条和蓝色创造康沃尔海浪感。展览挑战“现代雕塑天然是单色”的想象，提醒观众材料、颜色与空间从来共同构成观看经验。",
+          "correspondingEnglish": "A Courtauld exhibition examines Barbara Hepworth’s use of color. Her elegant sculptures, harp-like strings and areas of blue evoke the breakers of St Ives. The show challenges the assumption that modern sculpture is naturally monochrome and shows how material, color and space work together.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "monochrome sculpture", "meaningChinese": "单色雕塑", "example": "The exhibition challenges the idea of monochrome sculpture." },
+            { "expression": "spatial experience", "meaningChinese": "空间体验", "example": "Color changes the viewer’s spatial experience." },
+            { "expression": "evoke the sea", "meaningChinese": "唤起海洋意象", "example": "Blue surfaces evoke the sea." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜This is Rambert review – 100th birthday knees-up is a big leap forward",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The company’s centenary celebration isn’t about nostalgia – this occasionally thrilling triple bill of recent creations showcases some excellent dancers",
+          "title": "Bettina：一个房间如何容纳数十年的艺术宇宙",
+          "summaryChinese": "The Guardian 报道，隐居艺术家 Bettina 数十年在纽约Chelsea Hotel房间里填满作品，甚至睡在走廊躺椅上。部分作品首次在格拉斯哥展出。她的房间模糊了工作室、住宅与装置的边界，也让保存问题变得格外复杂。",
+          "correspondingEnglish": "The reclusive artist Bettina spent decades filling every surface of her Chelsea Hotel room with artworks, eventually sleeping on a lawn chair in the hallway. Some works are now being displayed in Glasgow for the first time. Her room blurred the boundaries between home, studio and installation.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "reclusive artist", "meaningChinese": "隐居艺术家", "example": "Bettina was known as a reclusive artist." },
+            { "expression": "site-specific archive", "meaningChinese": "与特定地点紧密相连的档案", "example": "The apartment became a site-specific archive." },
+            { "expression": "blur the boundary", "meaningChinese": "模糊边界", "example": "The room blurred the boundary between art and life." }
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Lupus patients in England in remission after pioneering NHS trial of GM therapy",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Doctors say therapy that genetically modifies person’s T-cells could offer cure for chronic autoimmune disease",
+          "title": "xAI工程师称因提出Grok安全担忧而遭解雇",
+          "summaryChinese": "The Guardian 报道，前xAI工程师 Devin Kim 起诉公司，称自己因试图为Grok聊天机器人加入安全机制而被非法解雇。内部安全人员能否提出异议，是AI治理的基础；如果纠错会带来职业惩罚，公开承诺就很难转化为真实保护。",
+          "correspondingEnglish": "Former xAI engineer Devin Kim alleged that he was illegally fired after trying to implement safety mechanisms for the Grok chatbot. The ability of internal experts to raise concerns is foundational to AI governance. If correction carries professional punishment, public safety commitments are difficult to trust.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "safety mechanism", "meaningChinese": "安全机制", "example": "The engineer tried to implement safety mechanisms." },
+            { "expression": "raise a concern", "meaningChinese": "提出担忧", "example": "Employees should be able to raise safety concerns." },
+            { "expression": "whistleblower protection", "meaningChinese": "举报人保护", "example": "AI companies need credible whistleblower protection." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜‘Super El Niño’ is officially here, scientists say. What can we expect?",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Experts say climate pattern could supercharge extreme weather events and push temperatures to record highs",
+          "title": "“AI绝对主义”正在破坏我们理解未来的方式",
+          "summaryChinese": "The Guardian 评论指出，AI讨论常被两种绝对叙事占据：技术必然毁灭世界，或必然释放无限生产力。两种说法都把仍可选择的政策、商业模式和社会规范伪装成不可避免的未来。更成熟的技术讨论需要保留不确定性与集体行动空间。",
+          "correspondingEnglish": "A Guardian analysis argues that AI debate is dominated by two absolutist stories: inevitable apocalypse or boundless productivity. Both narratives can make policy choices, business models and social norms appear unavoidable. A more mature discussion must preserve uncertainty and the possibility of collective action.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "AI absolutism", "meaningChinese": "AI绝对主义", "example": "AI absolutism reduces a complex debate to two extremes." },
+            { "expression": "inevitable future", "meaningChinese": "不可避免的未来", "example": "Technology does not create one inevitable future." },
+            { "expression": "collective action", "meaningChinese": "集体行动", "example": "Collective action can shape how technology develops." }
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Trust weakens when institutions describe choices as inevitable. War is not beyond legal judgment. Immigration rules are not separate from family life. Special educational needs require resources, not only recognition. Art shows how color and space can overturn familiar assumptions. AI companies also make choices about safety, employment and public narratives. When those choices are hidden behind claims of necessity or technological destiny, accountability becomes harder. Public trust grows when people can question decisions without being ignored, separated or punished.",
+    "chinese": "当机构把选择描述成不可避免时，信任就会削弱。战争并非不受法律判断，移民规则也无法与家庭生活分开；特殊教育需求需要资源，而不只是识别。艺术展示色彩与空间如何推翻熟悉假设，AI公司同样在安全、雇佣与公共叙事上作出选择。当这些选择被“必要性”或“技术命运”遮蔽时，问责会更加困难。只有人们能够提出质疑而不被忽略、分离或惩罚，公共信任才会增长。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    { "word": "public trust", "meaning": "公共信任", "example": "Transparent decisions can strengthen public trust." },
+    { "word": "family separation", "meaning": "家庭分离", "example": "Visa policy can create a risk of family separation." },
+    { "word": "special educational needs", "meaning": "特殊教育需求", "example": "Schools need resources for special educational needs." },
+    { "word": "spatial experience", "meaning": "空间体验", "example": "Sculpture changes our spatial experience." },
+    { "word": "whistleblower protection", "meaning": "举报人保护", "example": "Safety teams need whistleblower protection." },
+    { "word": "AI absolutism", "meaning": "AI绝对主义；把AI未来描述为唯一必然结果", "example": "AI absolutism hides political and social choices." }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Public trust grows when people can question decisions without being ignored, separated or punished.",
+    "analysisChinese": "when 引导条件从句；without being 后接三个并列过去分词 ignored、separated、punished，强调提出质疑所需的制度安全。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "A future remains democratic only when people retain the right to question how it is being built.",
+    "chinese": "今天最想留下的一句话是：只有当人们仍保有追问未来如何被建造的权利，未来才可能保持民主。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["global", "Iran", "economy", "gender", "migration", "education", "art", "Barbara Hepworth", "Bettina", "technology", "xAI", "Grok", "AI safety", "public trust"],
   "sources": [
-    {
-      "label": "The Guardian — Jay Clayton: Trump pick has long legal résumé but few intelligence credentials",
-      "url": "https://www.theguardian.com/us-news/2026/jun/11/jay-clayton-dni-profile"
-    },
-    {
-      "label": "The Guardian — Auckland sits near an active faultline, new research suggests, so what next for New Zealand’s biggest city?",
-      "url": "https://www.theguardian.com/world/2026/jun/12/auckland-earthquake-mangatangi-fault-new-zealand"
-    },
-    {
-      "label": "The Guardian — China has long sought to control women’s bodies. Increasingly, they’re making their own choices",
-      "url": "https://www.theguardian.com/world/2026/jun/12/china-has-long-sought-to-control-womens-bodies-increasingly-theyre-making-their-own-choices"
-    },
-    {
-      "label": "The Guardian — Record number of young people fear long-term unemployment",
-      "url": "https://www.theguardian.com/society/2026/jun/12/young-people-fear-long-term-unemployment-work"
-    },
-    {
-      "label": "The Guardian — How to Love the World by Ilka Tampke review – a woman is trapped by a fallen tree",
-      "url": "https://www.theguardian.com/books/2026/jun/12/ilka-tampke-how-to-love-the-world-review-book-novel"
-    },
-    {
-      "label": "The Guardian — This is Rambert review – 100th birthday knees-up is a big leap forward",
-      "url": "https://www.theguardian.com/stage/2026/jun/11/this-is-rambert-review-100th-birthday-dance"
-    },
-    {
-      "label": "The Guardian — Lupus patients in England in remission after pioneering NHS trial of GM therapy",
-      "url": "https://www.theguardian.com/science/2026/jun/12/lupus-patients-in-remission-england-nhs-trial-genentically-modified-t-cell-therapy"
-    },
-    {
-      "label": "The Guardian — ‘Super El Niño’ is officially here, scientists say. What can we expect?",
-      "url": "https://www.theguardian.com/environment/2026/apr/13/el-nino-explainer"
-    }
+    { "label": "The Guardian — US and Iran trade fire", "url": "https://www.theguardian.com/us-news/2026/jun/11/first-thing-us-iran-trade-strikes-trump-threatens-tehran-stalled-talks" },
+    { "label": "The Guardian — World Bank global growth forecast", "url": "https://www.theguardian.com/business/2026/jun/11/global-growth-slow-lowest-level-pandemic-world-bank" },
+    { "label": "The Guardian — Pregnant care worker visa case", "url": "https://www.theguardian.com/uk-news/2026/jun/11/woman-fears-separated-unborn-baby-home-office-sends-go-home-letters-husband-daughter" },
+    { "label": "The Guardian — Special educational needs", "url": "https://www.theguardian.com/education/2026/jun/11/pupils-england-special-educational-needs" },
+    { "label": "The Guardian — Hepworth in Colour", "url": "https://www.theguardian.com/artanddesign/2026/jun/11/barbara-hepworth-in-colour-review-courtauld-london-st-ives-cornish" },
+    { "label": "The Guardian — Bettina’s Chelsea Hotel art", "url": "https://www.theguardian.com/artanddesign/2026/jun/11/bettina-chelsea-hotel-new-york-glasgow" },
+    { "label": "The Guardian — xAI engineer safety lawsuit", "url": "https://www.theguardian.com/technology/2026/jun/11/elon-musk-engineer-fired-grok-lawsuit" },
+    { "label": "The Guardian — AI absolutism", "url": "https://www.theguardian.com/technology/2026/jun/11/ai-absolutism-apocalyptic-future" }
   ],
-  "rawText": "推送日期｜2026年6月11日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月11日\n\n今天的小报关键词是：trust, care, and technological narratives（信任、照护与技术叙事）。战争与通胀削弱公共信任，签证和教育制度决定谁能获得稳定生活，而AI公司内部的安全争议提醒我们：关于技术未来的故事，往往也在决定今天谁有权提出质疑。"
 }

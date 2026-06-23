@@ -2,56 +2,32 @@
   "date": "2026-06-15",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "和平框架、权利与文化记忆：美伊协议、战争成本、反厌女行动、艺术朝圣、平台治理与科技资本",
+  "introChinese": "今天的小报关键词是：frameworks, memory, and accountability（框架、记忆与问责）。和平协议提供结束战争的框架，但战争成本仍由具体的人承担；大学与平台需要回答如何保护弱势群体；艺术与公共记忆则不断追问，谁的经验值得被保存、讲述与重新理解。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜It’s common to hear there’s ‘no money’ in healthcare. But sometimes it’s management that’s lacking | Ranjana Srivastava",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "A report into Melbourne’s Cohealth showed systemic problems were left unaddressed for a decade, while ideas from clinicians went ignored",
+          "title": "美伊达成结束战争的框架性和平协议",
+          "summaryChinese": "The Guardian 报道，美国与伊朗达成框架性和平协议，特朗普称霍尔木兹海峡将作为协议的一部分重新开放。框架协议能够改变市场与外交预期，但它仍需具体时间表、核查机制和地区安全安排才能转化为稳定和平。",
+          "correspondingEnglish": "The United States and Iran reached a framework peace agreement intended to end the war. President Trump said the Strait of Hormuz would reopen as part of the expected agreement. A framework can change diplomatic and market expectations, but lasting peace still requires timelines, verification and regional security arrangements.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "framework agreement", "meaningChinese": "框架性协议", "example": "The two countries reached a framework agreement." },
+            { "expression": "reopen the strait", "meaningChinese": "重新开放海峡", "example": "The deal may reopen the strait to shipping." },
+            { "expression": "lasting peace", "meaningChinese": "持久和平", "example": "Verification is essential for lasting peace." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Alaska rules Dan Sullivan cannot run against Dan Sullivan in key Senate race",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Elections chief says bid by ex-teacher to challenge senator with same name was filed ‘to confuse or mislead’ voters",
+          "title": "战争的全球成本：伤亡、能源与贫困同时累积",
+          "summaryChinese": "The Guardian 统计美国与以色列对伊朗战争造成的全球代价，包括数以千计的生命损失，以及可能令数百万人陷入贫困的经济冲击。战争成本不会停留在战场，它会通过油价、粮食、航运、财政支出与家庭生活向外扩散。",
+          "correspondingEnglish": "The Guardian examined the global cost of the US-Israel war against Iran, from thousands of lives lost to an economic shock that could push millions into poverty. The costs of war do not remain on the battlefield; they move through energy prices, food, shipping, public budgets and household life.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "economic shock", "meaningChinese": "经济冲击", "example": "The war created a major economic shock." },
+            { "expression": "push people into poverty", "meaningChinese": "使人们陷入贫困", "example": "Higher prices may push more families into poverty." },
+            { "expression": "global cost", "meaningChinese": "全球代价", "example": "The report examines the global cost of the conflict." }
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Most Australians under 25 have never used newspapers or radio as a source of news, survey finds",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "But overall interest in news has increased, particularly among women and young people, 2026 Digital News Report finds",
+          "title": "剑桥大学被指纵容厌女与职场霸凌",
+          "summaryChinese": "The Guardian 报道，一名教授在劳动法庭上指控剑桥大学天文研究所有长期厌女历史，员工亦受到不当对待。精英机构的声望不能替代内部问责；当权力高度集中、投诉机制失效时，正式平等并不能保证真实工作环境中的安全。",
+          "correspondingEnglish": "The University of Cambridge was accused in an employment tribunal of tolerating misogyny and bullying. A professor alleged that the Institute of Astronomy had a poor history of misogyny and that staff had been mistreated. Institutional prestige cannot replace internal accountability or a safe working environment.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "employment tribunal", "meaningChinese": "劳动法庭", "example": "The allegations were heard by an employment tribunal." },
+            { "expression": "institutional accountability", "meaningChinese": "机构问责", "example": "Prestigious institutions still require accountability." },
+            { "expression": "safe working environment", "meaningChinese": "安全的工作环境", "example": "Employees have a right to a safe working environment." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜King tides along California coast prompt advisories following two deaths",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "A five-year-old girl was swept away and a woman was pulled into the water, prompting authorities to urge precaution",
+          "title": "寻找失踪儿子50年：阿根廷人权活动家Taty Almeida去世",
+          "summaryChinese": "The Guardian 报道，阿根廷活动家 Lidia “Taty” Almeida 去世。她为寻找在军政府时期失踪的儿子坚持行动50年，并成为每周游行的五月广场母亲组织领导者。母职在这里不仅是私人身份，也成为保存证词、挑战国家暴力的公共政治力量。",
+          "correspondingEnglish": "Argentinian activist Lidia “Taty” Almeida, who spent 50 years searching for her disappeared son, has died. She became a leader of the Mothers of Plaza de Mayo, whose members marched every week. In this history, motherhood became a public force for preserving testimony and confronting state violence.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "the disappeared", "meaningChinese": "被强迫失踪者", "example": "Families continued searching for the disappeared." },
+            { "expression": "preserve testimony", "meaningChinese": "保存证词", "example": "The movement helped preserve testimony about state violence." },
+            { "expression": "public grief", "meaningChinese": "公共哀悼", "example": "Her death prompted an outpouring of public grief." }
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Bonnie Tyler out of coma but remains in intensive care in Portugal",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Welsh singer, best known for 1983 hit Total Eclipse of the Heart, had emergency intestinal surgery in May",
+          "title": "追寻Frida Kahlo：艺术旅游如何制造文化朝圣",
+          "summaryChinese": "The Guardian 在大型泰特展前走访墨西哥城，追寻 Frida Kahlo 生活、康复与创作的空间。从酒吧、病床到工作室，艺术家的身体经验被转化为城市文化地图。这样的旅行既能深化理解，也可能把复杂人生压缩成可消费的传奇。",
+          "correspondingEnglish": "Ahead of a major Tate exhibition, a Guardian writer followed Frida Kahlo’s life and work through Mexico City: the bar she visited, the bed where she recovered and the studio where she painted. Art tourism can deepen historical understanding, but it can also turn a complex life into a consumable legend.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "cultural pilgrimage", "meaningChinese": "文化朝圣", "example": "Visitors make a cultural pilgrimage to places linked to the artist." },
+            { "expression": "creative legacy", "meaningChinese": "创作遗产", "example": "The exhibition revisits Kahlo’s creative legacy." },
+            { "expression": "consumable legend", "meaningChinese": "可被消费的传奇", "example": "Tourism can turn a complex life into a consumable legend." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜OnlyFans: Inside the Machine review – monumentally grim and unsexy TV",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Amber Haque’s preposterously bleak film shows how hordes of men have turned the ethical answer to sex work into a sleazy nightmare – and how big tech is turning a blind eye. Sound familiar?",
+          "title": "Anish Kapoor回顾展：血、宗教与死亡进入美术馆",
+          "summaryChinese": "The Guardian 评论 Anish Kapoor 在伦敦 Hayward Gallery 的展览，作品以血红色材料、洞穴般的黑暗和献祭意象迫使观众面对宗教与死亡。这类强烈视觉艺术并不提供舒适答案，而是让身体感受成为理解抽象观念的入口。",
+          "correspondingEnglish": "A Guardian review of Anish Kapoor’s Hayward Gallery exhibition describes blood-red materials, cavernous darkness and images of sacrifice. The show confronts religion and mortality through an intense physical experience. Such art does not offer comfortable answers; it uses bodily sensation as an entry into abstract ideas.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "bodily sensation", "meaningChinese": "身体感受", "example": "The installation works through bodily sensation." },
+            { "expression": "confront mortality", "meaningChinese": "直面死亡", "example": "The exhibition asks viewers to confront mortality." },
+            { "expression": "immersive exhibition", "meaningChinese": "沉浸式展览", "example": "The gallery presents an immersive exhibition." }
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "G7 told ‘we will stand with Ukraine for as long as it takes’, with Russia’s finance networks and shadow fleet targeted",
+          "title": "佛州起诉TikTok：儿童保护与平台设计进入法律战",
+          "summaryChinese": "The Guardian 报道，佛罗里达州总检察长起诉 TikTok，指控平台违反该州儿童社交媒体禁令，让儿童接触有害性内容和成瘾性功能。争议核心不只是未成年人是否使用平台，也包括推荐系统、产品设计与企业责任如何共同塑造风险。",
+          "correspondingEnglish": "Florida’s attorney general sued TikTok, alleging that the platform violated the state’s child social-media ban by exposing children to harmful sexual content and addictive features. The dispute concerns not only whether minors use a platform, but also how recommendation systems, product design and corporate responsibility shape risk.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "addictive feature", "meaningChinese": "成瘾性功能", "example": "The lawsuit challenges the platform’s addictive features." },
+            { "expression": "recommendation system", "meaningChinese": "推荐系统", "example": "Recommendation systems shape what young users see." },
+            { "expression": "corporate responsibility", "meaningChinese": "企业责任", "example": "The case raises questions about corporate responsibility." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Oil prices hit three-month low and markets reach record high amid Iran deal breakthrough",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Donald Trump posts ‘Let the oil flow’ as US-Iran peace deal sparks immediate drop for Brent crude",
+          "title": "澳大利亚亿万富豪投资SpaceX：科技资本继续集中",
+          "summaryChinese": "The Guardian 报道，澳大利亚矿业亿万富豪 Gina Rinehart 对 Elon Musk 的 SpaceX 作出“重大投资”，并称这反映她对其发展方向的信心。太空、AI 与通信基础设施越来越依赖少数私人资本，这既加速创新，也让所有权、公共利益和监管变得更加重要。",
+          "correspondingEnglish": "Australian mining billionaire Gina Rinehart has made what she called a significant investment in Elon Musk’s SpaceX. The investment followed the company’s record-breaking public offering. Space, AI and communications infrastructure increasingly depend on concentrated private capital, raising questions about ownership, public interest and oversight.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "significant investment", "meaningChinese": "重大投资", "example": "The billionaire announced a significant investment in SpaceX." },
+            { "expression": "private capital", "meaningChinese": "私人资本", "example": "Advanced infrastructure increasingly depends on private capital." },
+            { "expression": "concentrated ownership", "meaningChinese": "集中的所有权", "example": "Concentrated ownership can create governance risks." }
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today’s stories show why frameworks matter, but also why they are never enough by themselves. A peace agreement must become verifiable security. Workplace equality requires institutions that respond to complaints. Public memory survives because people continue to preserve testimony. Art turns bodies, places and mortality into shared questions. Digital platforms and private space companies also need frameworks of responsibility, because product design and concentrated ownership shape risks far beyond a single company.",
+    "chinese": "今天的新闻显示，框架很重要，但框架本身永远不够。和平协议必须转化为可核查的安全，职场平等需要机构认真回应投诉，公共记忆则依靠人们持续保存证词。艺术把身体、地点和死亡转化为共同问题；数字平台和私人太空公司同样需要责任框架，因为产品设计与集中的所有权会制造远超单一公司的风险。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    { "word": "framework agreement", "meaning": "框架性协议；确定基本方向、仍待落实细节的协议", "example": "The countries announced a framework agreement." },
+    { "word": "accountability", "meaning": "问责；明确并追究责任", "example": "Institutional accountability requires transparent procedures." },
+    { "word": "public memory", "meaning": "公共记忆；社会共同保存和讲述过去的方式", "example": "Activists helped preserve public memory." },
+    { "word": "cultural pilgrimage", "meaning": "文化朝圣；前往与艺术家或文化历史相关地点的旅行", "example": "The museum has become a site of cultural pilgrimage." },
+    { "word": "platform design", "meaning": "平台设计；决定用户如何使用和接收内容的产品机制", "example": "Platform design can influence young users’ behavior." },
+    { "word": "concentrated ownership", "meaning": "集中所有权；资源由少数主体控制", "example": "Concentrated ownership requires stronger oversight." }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "A peace agreement must become verifiable security.",
+    "analysisChinese": "must become 表示抽象承诺需要转化为实际状态。verifiable security 指能够通过事实、核查机制和持续观察加以确认的安全，而不是只存在于协议文字中的安全。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "A framework becomes trustworthy only when people can see how responsibility, evidence and power move through it.",
+    "chinese": "今天最想留下的一句话是：只有当人们看得见责任、证据与权力如何在框架中运作，框架才会真正获得信任。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["global", "Iran", "peace", "war costs", "gender", "misogyny", "Argentina", "public memory", "art", "Frida Kahlo", "Anish Kapoor", "technology", "TikTok", "SpaceX", "platform governance"],
   "sources": [
-    {
-      "label": "The Guardian — It’s common to hear there’s ‘no money’ in healthcare. But sometimes it’s management that’s lacking | Ranjana Srivastava",
-      "url": "https://www.theguardian.com/australia-news/commentisfree/2026/jun/16/healthcare-funding-no-money-comments-management-lacking"
-    },
-    {
-      "label": "The Guardian — Alaska rules Dan Sullivan cannot run against Dan Sullivan in key Senate race",
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/dan-sullivan-alaska-primary-election-ballot"
-    },
-    {
-      "label": "The Guardian — Most Australians under 25 have never used newspapers or radio as a source of news, survey finds",
-      "url": "https://www.theguardian.com/media/2026/jun/16/digital-news-australia-2026-newspapers-radio-tv-social-media-tiktok-facebook-instagram"
-    },
-    {
-      "label": "The Guardian — King tides along California coast prompt advisories following two deaths",
-      "url": "https://www.theguardian.com/us-news/2026/jun/15/king-tides-warning-california-coast"
-    },
-    {
-      "label": "The Guardian — Bonnie Tyler out of coma but remains in intensive care in Portugal",
-      "url": "https://www.theguardian.com/music/2026/jun/15/bonnie-tyler-out-of-coma-intensive-care-portugal"
-    },
-    {
-      "label": "The Guardian — OnlyFans: Inside the Machine review – monumentally grim and unsexy TV",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/15/onlyfans-inside-the-machine-review-monumentally-grim-and-unsexy-tv"
-    },
-    {
-      "label": "The Guardian — Starmer vows new sanctions on Russia and nuclear energy support for Ukraine",
-      "url": "https://www.theguardian.com/world/2026/jun/15/starmer-g7-sanctions-russia-nuclear-energy-support-ukraine"
-    },
-    {
-      "label": "The Guardian — Oil prices hit three-month low and markets reach record high amid Iran deal breakthrough",
-      "url": "https://www.theguardian.com/business/2026/jun/15/oil-prices-fall-strait-of-hormuz-reopening-hopes-iran-us-peace-deal"
-    }
+    { "label": "The Guardian — US and Iran framework peace deal", "url": "https://www.theguardian.com/us-news/2026/jun/15/first-thing-us-and-iran-reach-framework-peace-deal-to-end-war" },
+    { "label": "The Guardian — Global cost of the Iran war", "url": "https://www.theguardian.com/world/2026/jun/15/tallying-the-global-cost-of-the-us-israel-war-against-iran" },
+    { "label": "The Guardian — Cambridge misogyny tribunal", "url": "https://www.theguardian.com/education/2026/jun/15/university-of-cambridge-accused-of-tolerating-misogyny-and-bullying-in-tribunal" },
+    { "label": "The Guardian — Taty Almeida", "url": "https://www.theguardian.com/world/2026/jun/15/argentine-activist-taty-almeida-dies-disappeared" },
+    { "label": "The Guardian — Frida Kahlo in Mexico City", "url": "https://www.theguardian.com/artanddesign/2026/jun/15/frida-kahlo-mexico-city-tate-fridamania" },
+    { "label": "The Guardian — Anish Kapoor review", "url": "https://www.theguardian.com/artanddesign/2026/jun/15/anish-kapoor-review-hayward-gallery" },
+    { "label": "The Guardian — Florida TikTok lawsuit", "url": "https://www.theguardian.com/us-news/2026/jun/15/florida-sues-tiktok-teen-social-media-access-law" },
+    { "label": "The Guardian — Gina Rinehart invests in SpaceX", "url": "https://www.theguardian.com/australia-news/2026/jun/15/gina-rinehart-invests-elon-musks-spacex" }
   ],
-  "rawText": "推送日期｜2026年6月15日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月15日\n\n今天的小报关键词是：frameworks, memory, and accountability（框架、记忆与问责）。和平协议提供结束战争的框架，但战争成本仍由具体的人承担；大学与平台需要回答如何保护弱势群体；艺术与公共记忆则不断追问，谁的经验值得被保存、讲述与重新理解。"
 }

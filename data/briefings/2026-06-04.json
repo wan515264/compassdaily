@@ -2,56 +2,32 @@
   "date": "2026-06-04",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "安全边界、公共空间与技术责任：疫情、空气、性别暴力、文化参与与人权审查",
+  "introChinese": "今天的小报关键词是：safeguards, public space, and technological responsibility（安全保障、公共空间与技术责任）。冲突与野火使健康风险扩散，性别暴力和公共设施规则决定谁能安全出现，艺术项目扩大参与，而微软与学校面对的新技术问题都指向同一个要求：能力越强，保障措施越要清晰。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜Trump claims Bill Pulte will investigate ‘rigged elections’ in temporary intelligence role",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Pulte, who is the director of the Federal Housing Finance Agency, is a staunch loyalist of the president",
+          "title": "刚果（金）东部武装袭击造成30人死亡，并阻碍埃博拉应对",
+          "summaryChinese": "The Guardian 报道，刚果（金）北基伍省遭遇被指与“伊斯兰国”有关联的武装袭击，至少30人死亡，三名埃博拉患者逃离诊所。暴力不仅直接夺走生命，也会破坏隔离、追踪、治疗和社区信任，使传染病控制更加困难。公共卫生从来不是与安全局势分开的技术工作，它依赖医护人员能够抵达、患者愿意留下、信息可以持续流动。",
+          "correspondingEnglish": "Rebel attacks in eastern Democratic Republic of the Congo have killed 30 people and disrupted the Ebola response in North Kivu. Three patients reportedly fled clinics amid the violence. Conflict damages more than buildings: it interrupts isolation, contact tracing, treatment and community trust, showing that public health depends on basic security.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "Ebola response", "meaningChinese": "埃博拉应对工作", "example": "Violence has disrupted the regional Ebola response."},
+            {"expression": "contact tracing", "meaningChinese": "接触者追踪", "example": "Contact tracing helps contain an infectious disease."},
+            {"expression": "hamper relief efforts", "meaningChinese": "阻碍救援工作", "example": "Armed attacks can hamper relief efforts."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Pam Bondi claims Todd Blanche was ‘in charge’ of ‘entire release’ of Epstein files",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Blanche, whom Trump plans to nominate to replace ex-attorney general, served as Bondi’s deputy at DoJ",
+          "title": "研究称野火烟雾逆转美国臭氧空气质量改善",
+          "summaryChinese": "The Guardian 报道，一项研究发现，自2015年以来，野火烟雾抵消了美国多年降低地面臭氧污染的努力。气候变化加剧火灾，使污染跨越州界并进入远离火场的社区。空气治理不能只控制城市工厂和车辆排放，也需要把森林管理、气候政策与公共健康预警连接起来。",
+          "correspondingEnglish": "A study finds that wildfire smoke has reversed years of U.S. progress in reducing ground-level ozone since 2015. Smoke can travel far beyond a fire zone and expose distant communities to unhealthy air. Air-quality policy must therefore connect emissions rules with forest management, climate action and public-health warnings.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "wildfire smoke", "meaningChinese": "野火烟雾", "example": "Wildfire smoke can travel across several states."},
+            {"expression": "ground-level ozone", "meaningChinese": "地面臭氧", "example": "Ground-level ozone can damage lungs."},
+            {"expression": "reverse progress", "meaningChinese": "逆转进展", "example": "More frequent fires may reverse progress on clean air."}
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Girl, 5, traumatised after physician associate wrongly prescribed vaginal pessary, report finds",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Mother, who thought daughter was being examined by GP, says girl began to bleed and scream in pain after device inserted",
+          "title": "阿根廷两名少女遇害，再次引发对持续女性杀害危机的愤怒",
+          "summaryChinese": "The Guardian 报道，阿根廷两名分别14岁和17岁的少女接连遇害，社会再次关注该国持续的女性杀害危机。“femicide”并非只是指受害者为女性，而是强调性别权力、亲密关系暴力与制度失灵如何共同造成可预防的死亡。真正的回应需要风险预警、庇护资源、调查能力与司法执行同时运作。",
+          "correspondingEnglish": "The murders of two teenage girls, aged 14 and 17, have renewed outrage over Argentina's continuing femicide crisis. The term femicide points to the gendered power, intimate-partner violence and institutional failures behind preventable deaths. Prevention requires warning systems, shelters, effective investigation and reliable enforcement working together.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "femicide crisis", "meaningChinese": "女性杀害危机；因性别而针对女性的杀害问题", "example": "Activists demand action on the femicide crisis."},
+            {"expression": "preventable death", "meaningChinese": "可预防的死亡", "example": "Early intervention may stop a preventable death."},
+            {"expression": "protective measure", "meaningChinese": "保护措施", "example": "A protective measure must be enforced quickly."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜‘I wouldn’t flinch’: Burnham on social care, markets, Brexit – and the prospect of a general election",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Exclusive: Greater Manchester mayor sets out his priorities before Makerfield byelection – and what might happen after the vote",
+          "title": "伦敦Hampstead Heath泳池将继续实行跨性别包容政策",
+          "summaryChinese": "The Guardian 报道，经过公众咨询后，Hampstead Heath的Kenwood女士泳池与Highgate男士泳池将维持现有政策，允许跨性别者按照性别身份使用设施。争议说明，公共空间规则不只是门口的一张告示，也关乎安全、尊严和归属。制定包容政策需要听取不同使用者意见，同时避免把少数群体本身描述成风险。",
+          "correspondingEnglish": "Hampstead Heath's bathing ponds will remain trans-inclusive after a public consultation supported the existing rules. Trans people will continue to use the women's or men's ponds according to their gender identity. Rules for public space shape safety, dignity and belonging, so consultation should address real concerns without treating a minority group as the danger itself.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "trans-inclusive policy", "meaningChinese": "跨性别包容政策", "example": "The ponds will keep their trans-inclusive policy."},
+            {"expression": "public consultation", "meaningChinese": "公众咨询", "example": "A public consultation gathered views from local users."},
+            {"expression": "sense of belonging", "meaningChinese": "归属感", "example": "Inclusive public spaces can strengthen a sense of belonging."}
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜The Ruiners by Ellena Savage review – a playful and subversive take on Great Expectations",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "In her sharp and intellectual first novel, the author finds tragic comedy in socialism, inequality and the flawed ways we connect as the world burns",
+          "title": "“我们共享天空与星辰”：北美原住民艺术重新讨论人与土地",
+          "summaryChinese": "The Guardian 介绍约克郡雕塑公园展览 Hold This Earth，这是英国迄今规模最大的北美原住民艺术展之一。艺术家通过雕塑、装置与材料讨论殖民历史、生态危机和人类在自然中的位置。作品拒绝把原住民文化固定为过去，而把知识、土地关系与当代艺术放在同一个现在时中。",
+          "correspondingEnglish": "Hold This Earth at Yorkshire Sculpture Park presents the largest display of Native North American art yet seen in Britain. Through sculpture, installation and material practice, artists examine colonial history, ecological crisis and humanity's place in nature. The exhibition refuses to confine Indigenous culture to the past and presents it as living contemporary knowledge.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "Indigenous art", "meaningChinese": "原住民艺术", "example": "Indigenous art carries living knowledge about land."},
+            {"expression": "ecological relationship", "meaningChinese": "生态关系", "example": "The exhibition explores our ecological relationship with the planet."},
+            {"expression": "living knowledge", "meaningChinese": "活态知识；持续被实践和更新的知识", "example": "Tradition can remain a form of living knowledge."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Original Abba members celebrate expansion of London education programme",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Benny Andersson and Anni-Frid Lyngstad appeared at performance of Abba Voyage for schoolchildren",
+          "title": "ABBA成员庆祝伦敦音乐教育项目扩大，让学生进入表演现场",
+          "summaryChinese": "The Guardian 报道，ABBA成员Benny Andersson与Anni-Frid Lyngstad出席ABBA Voyage为学生举办的演出，庆祝相关伦敦教育项目扩大。文化参与并不只来自课堂讲解，也来自年轻人实际进入剧场、接触制作过程和想象自己可以属于舞台。教育项目把商业演出转化为一种更广泛的公共文化资源。",
+          "correspondingEnglish": "ABBA members Benny Andersson and Anni-Frid Lyngstad celebrated the expansion of a London education program with a performance of ABBA Voyage for schoolchildren. Cultural participation grows when young people can enter a theatre, encounter production work and imagine themselves as part of the stage. An education program can turn a commercial show into a wider public resource.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "education programme", "meaningChinese": "教育项目", "example": "The education programme gives students access to live performance."},
+            {"expression": "cultural participation", "meaningChinese": "文化参与", "example": "Affordable events can widen cultural participation."},
+            {"expression": "live performance", "meaningChinese": "现场表演", "example": "For some students, it was their first live performance."}
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Microsoft to tighten human rights measures after inquiry into Israel’s use of its tech",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Announcement seeks to close a difficult chapter for the company after the Guardian revealed its platform was used in mass surveillance of Palestinians",
+          "title": "微软在巴勒斯坦人大规模监控争议后收紧人权措施",
+          "summaryChinese": "The Guardian 报道，在调查其技术被用于大规模监控巴勒斯坦人的情况后，微软宣布加强人权审查措施。企业提供云端和数据基础设施时，不能只把用途视为客户责任。真正有效的尽职调查需要在签约前识别风险、持续审计实际用途，并在发现侵害时暂停服务和公开说明。",
+          "correspondingEnglish": "Microsoft says it will strengthen human-rights measures after an inquiry into Israel's use of its technology for mass surveillance of Palestinians. A cloud provider cannot treat every use as solely the customer's responsibility. Effective due diligence requires risk checks before contracts, continuing audits and action when abuse is discovered.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "human-rights measure", "meaningChinese": "人权保障措施", "example": "The company promised stronger human-rights measures."},
+            {"expression": "mass surveillance", "meaningChinese": "大规模监控", "example": "Mass surveillance can threaten privacy and civil rights."},
+            {"expression": "due diligence", "meaningChinese": "尽职调查；交易前后的风险审查", "example": "Technology contracts require serious human-rights due diligence."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜SpaceX will get off the ground – but a descent from a silly valuation must follow | Nils Pratley",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Investors will buy into the market-leading tech and cult of Musk despite a price that is defying gravity",
+          "title": "智能眼镜与耳机增加学校考试作弊风险，监管机构拟加强检查",
+          "summaryChinese": "The Guardian 报道，英格兰考试监管机构Ofqual警告，智能眼镜和微型耳机可能使GCSE、AS与A-level考试作弊更难发现，学校或需加强考前检查。可穿戴设备让信息获取更加隐形，也迫使教育制度重新平衡隐私、无障碍需求与考试公平。规则需要针对具体能力，而不是笼统惩罚所有使用辅助设备的学生。",
+          "correspondingEnglish": "England's exam regulator Ofqual warns that smart glasses and small earpieces may make cheating harder to detect in GCSE, AS and A-level exams. Wearable technology creates new challenges for exam integrity, privacy and accessibility. Safeguards should target specific capabilities without unfairly excluding students who rely on assistive devices.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "smart glasses", "meaningChinese": "智能眼镜", "example": "Smart glasses can display information without a visible screen."},
+            {"expression": "exam integrity", "meaningChinese": "考试诚信", "example": "Schools need fair rules to protect exam integrity."},
+            {"expression": "assistive device", "meaningChinese": "辅助设备", "example": "Some students depend on an assistive device."}
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today's stories ask what a safeguard must do. It should keep healthcare functioning during conflict, warn communities about polluted air and protect people from gendered violence. It should also make public space and culture accessible without turning minorities into threats. In technology, a safeguard must follow power from design to deployment, because responsibility does not end when a product is sold.",
+    "chinese": "今天的新闻追问保障措施究竟应当做什么。它应让医疗在冲突中继续运作，向社区预警污染空气，并保护人们免受性别暴力；它也应让公共空间与文化更可进入，而不是把少数群体变成威胁。在技术领域，保障必须从设计一路跟随到部署，因为产品售出并不意味着责任结束。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    {"word": "safeguard", "meaning": "保障措施；用于防止伤害的规则或机制", "example": "A safeguard should address a predictable risk."},
+    {"word": "public health response", "meaning": "公共卫生应对", "example": "Conflict can interrupt a public health response."},
+    {"word": "femicide", "meaning": "女性杀害；因性别而针对女性的杀害", "example": "Preventing femicide requires coordinated institutions."},
+    {"word": "public space", "meaning": "公共空间；供社会成员共同使用的场所", "example": "Rules shape who feels welcome in public space."},
+    {"word": "due diligence", "meaning": "尽职调查；识别、预防和处理风险的审查过程", "example": "Human-rights due diligence should continue after a contract is signed."},
+    {"word": "exam integrity", "meaning": "考试诚信；考试过程公平可靠的状态", "example": "New devices create challenges for exam integrity."}
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "A cloud provider cannot treat every use as solely the customer's responsibility.",
+    "analysisChinese": "treat A as B 表示“把A视为B”。cannot 明确否定企业完全转移责任的做法；solely 强调“仅仅、完全”，使句子聚焦平台与客户之间不能被简单切割的共同责任。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "A safeguard is credible only when it protects people before harm, not merely explains failure afterward.",
+    "chinese": "今天最想留下的一句话是：保障措施只有在伤害发生前保护人，而不只是事后解释失败时，才真正可信。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["safeguards", "public space", "Ebola", "DRC", "wildfire smoke", "air quality", "femicide", "trans inclusion", "Indigenous art", "arts education", "Microsoft", "human rights", "surveillance", "smart glasses", "exam integrity"],
   "sources": [
-    {
-      "label": "The Guardian — Trump claims Bill Pulte will investigate ‘rigged elections’ in temporary intelligence role",
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/trump-bill-pulte-national-intelligence"
-    },
-    {
-      "label": "The Guardian — Pam Bondi claims Todd Blanche was ‘in charge’ of ‘entire release’ of Epstein files",
-      "url": "https://www.theguardian.com/us-news/2026/jun/04/pam-bondi-epstein-transcript"
-    },
-    {
-      "label": "The Guardian — Girl, 5, traumatised after physician associate wrongly prescribed vaginal pessary, report finds",
-      "url": "https://www.theguardian.com/society/2026/jun/05/girl-traumatised-vaginal-pessary-gp-associate-report"
-    },
-    {
-      "label": "The Guardian — ‘I wouldn’t flinch’: Burnham on social care, markets, Brexit – and the prospect of a general election",
-      "url": "https://www.theguardian.com/politics/2026/jun/04/i-wouldnt-flinch-burnham-on-social-care-markets-brexit-and-the-prospect-of-a-general-election"
-    },
-    {
-      "label": "The Guardian — The Ruiners by Ellena Savage review – a playful and subversive take on Great Expectations",
-      "url": "https://www.theguardian.com/books/2026/jun/05/the-ruiners-book-review-novel-author-ellena-savage"
-    },
-    {
-      "label": "The Guardian — Original Abba members celebrate expansion of London education programme",
-      "url": "https://www.theguardian.com/music/2026/jun/04/original-abba-members-celebrate-launch-of-expanded-education-programme-in-london"
-    },
-    {
-      "label": "The Guardian — Microsoft to tighten human rights measures after inquiry into Israel’s use of its tech",
-      "url": "https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech"
-    },
-    {
-      "label": "The Guardian — SpaceX will get off the ground – but a descent from a silly valuation must follow | Nils Pratley",
-      "url": "https://www.theguardian.com/science/2026/jun/04/spacex-get-off-ground-descent-silly-valuation-must-follow"
-    }
+    {"label": "The Guardian — Rebel attacks in eastern DRC hamper Ebola response", "url": "https://www.theguardian.com/global-development/2026/jun/04/allied-democratic-forces-adf-rebel-attacks-massacre-eastern-drc-ebola-response"},
+    {"label": "The Guardian — Wildfire smoke reverses US ozone-air-quality progress", "url": "https://www.theguardian.com/us-news/2026/jun/04/wildfire-smoke-air-quality-ozone"},
+    {"label": "The Guardian — Argentina shaken after two teenage girls murdered", "url": "https://www.theguardian.com/world/2026/jun/04/argentina-teen-girls-murdered-femicide-crisis"},
+    {"label": "The Guardian — Hampstead Heath ponds remain trans-inclusive", "url": "https://www.theguardian.com/society/2026/jun/04/hampstead-heath-ponds-trans-inclusive-public-consultation"},
+    {"label": "The Guardian — Indigenous American artists challenge our relationship to nature", "url": "https://www.theguardian.com/artanddesign/2026/jun/04/hold-this-earth-indigenous-american-artists-yorkshire-sculpture-park"},
+    {"label": "The Guardian — ABBA members celebrate expanded London education programme", "url": "https://www.theguardian.com/music/2026/jun/04/original-abba-members-celebrate-launch-of-expanded-education-programme-in-london"},
+    {"label": "The Guardian — Microsoft tightens human-rights measures after surveillance inquiry", "url": "https://www.theguardian.com/technology/2026/jun/04/microsoft-to-tighten-human-rights-measures-after-inquiry-into-israels-use-of-its-tech"},
+    {"label": "The Guardian — Smart glasses may worsen exam cheating, Ofqual says", "url": "https://www.theguardian.com/education/2026/jun/04/smartglasses-earpieces-exam-cheating-schools-ofqual-england"}
   ],
-  "rawText": "推送日期｜2026年6月4日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月4日\n\n今天的小报关键词是：safeguards, public space, and technological responsibility（安全保障、公共空间与技术责任）。\n\n认真读新闻，也是在检查强大制度是否配备了同样强大的保障。"
 }

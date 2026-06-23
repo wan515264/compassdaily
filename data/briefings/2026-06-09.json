@@ -2,56 +2,32 @@
   "date": "2026-06-09",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "测量、权利、准入与监控：从空气传感器到公共技术合同",
+  "introChinese": "今天的小报关键词是：measurement, rights, access, and surveillance（测量、权利、准入与监控）。空气质量需要被测量，身体安全需要法律承认，阅读机会取决于价格与传播，而监控技术的扩张则要求公共机构说明谁在收集数据、为了什么目的。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜US federal judge blocks Alabama from executing man by nitrogen gas",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Emily C Marks finds method proposed to kill Jeffery Lee violates ban on cruel and unusual punishment",
+          "title": "洛杉矶社区用传感器绘制街区空气污染",
+          "summaryChinese": "The Guardian 报道，洛杉矶 Pacoima 社区正在建立超本地空气质量监测网络，传感器被安装在住宅、办公室，甚至居民随身携带的包上。当地长期承受高速公路、机场和工业设施叠加的污染。项目希望把居民的日常感受转化为可用于健康研究和政策倡议的数据，也提醒我们：看不见的环境风险，往往首先需要被社区自己测量。",
+          "correspondingEnglish": "Residents in Pacoima, one of Los Angeles's most polluted neighborhoods, are building a hyperlocal air-quality network. Sensors placed on homes, offices and even bags can reveal how pollution changes from one street to another. The project turns lived experience into evidence and gives the community stronger tools for demanding healthier infrastructure.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "air-quality sensor", "meaningChinese": "空气质量传感器", "example": "An air-quality sensor can reveal pollution at street level."},
+            {"expression": "hyperlocal data", "meaningChinese": "超本地数据；精确到小范围社区的数据", "example": "Hyperlocal data can show differences between nearby streets."},
+            {"expression": "environmental burden", "meaningChinese": "环境负担", "example": "Some communities carry a heavier environmental burden than others."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Trump meets Johnson as outcry over Bill Pulte threatens Fisa renewal",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "President backs Pulte for acting DNI chief despite backlash that puts reauthorization of key surveillance law at risk",
+          "title": "美国联邦法官阻止阿拉巴马州使用氮气执行死刑",
+          "summaryChinese": "The Guardian 报道，一名美国联邦法官阻止阿拉巴马州以氮气缺氧方式处决 Jeffery Lee，认定该州提出的执行方案违反美国宪法对残酷和非常刑罚的禁止。案件把死刑争议带回一个具体问题：当国家掌握剥夺生命的权力时，司法审查如何评估痛苦、证据与人的尊严。",
+          "correspondingEnglish": "A U.S. federal judge blocked Alabama from executing Jeffery Lee by nitrogen gas. The judge found that the proposed method violated the constitutional ban on cruel and unusual punishment. The ruling shows how judicial review can place limits on state power when bodily suffering and human dignity are at stake.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "judicial review", "meaningChinese": "司法审查", "example": "Judicial review can limit the exercise of state power."},
+            {"expression": "cruel and unusual punishment", "meaningChinese": "残酷和非常刑罚", "example": "The Constitution prohibits cruel and unusual punishment."},
+            {"expression": "state power", "meaningChinese": "国家权力", "example": "Courts examine how state power affects individual rights."}
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Staff at immigration detention centre wore England flags, report finds",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Chair of prisons and detention watchdog concerned about intimidating effect as wide-ranging and damning review published",
+          "title": "英国平等法保护引发关于“常识”与权利的争论",
+          "summaryChinese": "The Guardian 报道，英国保守党领袖 Kemi Badenoch 就《平等法》的保护范围发表讲话，将部分改革主张描述为恢复“常识”。争议显示，“常识”并不是中性的语言：它可能简化复杂的法律保护，也可能决定哪些群体的经验被视为合理。讨论平等法时，需要区分政治口号、现行法律与实际生活中的歧视风险。",
+          "correspondingEnglish": "A debate over Britain's Equality Act has focused on claims about restoring 'common sense' to legal protections. Yet common sense is not a neutral standard: it can hide disagreements about whose experiences count and which risks deserve recognition. Clear discussion requires separating political language from existing law and its effects on everyday life.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "legal protection", "meaningChinese": "法律保护", "example": "Legal protection should be clear and enforceable."},
+            {"expression": "common-sense claim", "meaningChinese": "诉诸“常识”的主张", "example": "A common-sense claim may conceal a political choice."},
+            {"expression": "protected characteristic", "meaningChinese": "受法律保护的特征", "example": "The law covers several protected characteristics."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Grim reality of prison conditions laid bare in damning report",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Inmates in England and Wales live among vermin while gangs control entire wings, monitors warn, with failures ‘at risk of becoming normalised’",
+          "title": "英国男子因新法下的列车性骚扰罪首次被判刑",
+          "summaryChinese": "The Guardian 报道，一名男子因在伦敦列车上骚扰乘客而被判刑，成为英国相关新法律实施后的首宗判刑案例。案件说明，公共交通中的性骚扰不再只被当作令人不适的个人遭遇，而开始被法律明确命名和追责。规则能否真正改变日常安全，还取决于举报机制、执法培训和公众对边界的共同理解。",
+          "correspondingEnglish": "A man has received the first sentence under a new law covering sexual harassment on public transport in Britain. The case gives a legal name to behavior that was often dismissed as merely uncomfortable. Lasting change, however, also depends on reporting systems, trained staff and a shared understanding of personal boundaries.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "sexual harassment", "meaningChinese": "性骚扰", "example": "Sexual harassment can make public transport feel unsafe."},
+            {"expression": "public transport", "meaningChinese": "公共交通", "example": "Everyone should be able to use public transport safely."},
+            {"expression": "set a legal precedent", "meaningChinese": "确立法律先例", "example": "The first sentence may set a legal precedent."}
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Project a Black Planet review: spits out dreary academic theory where it should sing",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "This exhibition is so in love with the theoretical whimsy of utopian Panafrica that it loses superb artworks in an indigestible intellectual stew",
+          "title": "大都会博物馆“Musical Bodies”：乐器也是身体关系的历史",
+          "summaryChinese": "The Guardian 介绍纽约大都会艺术博物馆展览 Musical Bodies。展览跨越约四千年的音乐史，观察身体如何演奏、触碰和赋予乐器意义。它没有把乐器只当作玻璃柜中的物件，而是讨论呼吸、动作、仪式与身份如何共同制造声音。博物馆在这里成为理解身体与技术关系的场所。",
+          "correspondingEnglish": "The Metropolitan Museum of Art's exhibition Musical Bodies explores about 4,000 years of relationships between people and instruments. Rather than treating instruments as silent objects, it considers breath, touch, movement, ritual and identity. The exhibition presents music as something created through the meeting of bodies, materials and social life.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "musical instrument", "meaningChinese": "乐器", "example": "A musical instrument becomes meaningful through performance."},
+            {"expression": "embodied experience", "meaningChinese": "具身经验；通过身体获得的经验", "example": "Music is an embodied experience shaped by breath and movement."},
+            {"expression": "material culture", "meaningChinese": "物质文化", "example": "Museums use material culture to tell social histories."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Best Medicine review – this US remake of Doc Martin is perfect rubbish … and you need it in your life",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "This cosy medical drama does exactly what it sets out to do – soothe viewers’ souls with a celebration of smalltown values and secret goodness. It’s TV where nothing will distress you",
+          "title": "Booker Prize 推出一英镑短篇读物，回应成人阅读率下降",
+          "summaryChinese": "The Guardian 报道，Booker Prize 推出售价一英镑的 Quick Read 短篇小说集，希望让更多成年人接触高质量文学。这个项目回应英国成人阅读率下降，也把文化准入落到价格、篇幅和分发渠道上。阅读推广不只是告诉人们“应该读书”，还要降低时间、金钱和信心上的门槛。",
+          "correspondingEnglish": "The Booker Prize has launched a one-pound Quick Read collection to widen access to high-quality fiction. The project responds to falling adult reading rates by addressing practical barriers such as price, length and confidence. Encouraging reading requires more than praise for books; it also requires formats that fit people's lives.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "widen access", "meaningChinese": "扩大准入；让更多人能够获得", "example": "Low-cost editions can widen access to literature."},
+            {"expression": "reading rate", "meaningChinese": "阅读率", "example": "The project responds to a decline in the adult reading rate."},
+            {"expression": "practical barrier", "meaningChinese": "现实障碍", "example": "Price can be a practical barrier to cultural participation."}
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Concerns over US company’s gas fracking plan for world’s most intact tropical savanna in WA revealed",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Federal environment department says Black Mountain Energy has provided insufficient data as it seeks to drill 20 gas wells in the Kimberley region",
+          "title": "五大湖拟部署军用监控无人机，引发公共边界担忧",
+          "summaryChinese": "The Guardian 报道，美国有关机构计划在五大湖地区使用军用级监控无人机。支持者强调边境与水域监测能力，批评者则担心设备收集的数据、飞行范围和使用目的缺少足够透明度。当高性能监控工具进入民用空间，问题不只是它能看多远，也是谁授权、谁保存信息，以及公众如何提出异议。",
+          "correspondingEnglish": "Plans to use military-grade surveillance drones over the Great Lakes have raised questions about privacy and public accountability. Supporters point to stronger monitoring of borders and waterways, while critics want clearer limits on flight areas, data collection and information storage. A powerful sensor needs rules that are as visible as its capabilities.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "surveillance drone", "meaningChinese": "监控无人机", "example": "A surveillance drone can observe a wide area from the air."},
+            {"expression": "data collection", "meaningChinese": "数据收集", "example": "Public agencies should explain the purpose of data collection."},
+            {"expression": "civilian space", "meaningChinese": "民用空间", "example": "Military technology requires clear limits in civilian space."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Crackdown on tech platforms will go ahead despite US intervention, says No 10",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "US embassy came out against UK’s proposed under-16 social media ban, which would affect American firms",
+          "title": "Palantir 就伦敦警察技术合同受阻起诉市长",
+          "summaryChinese": "The Guardian 报道，数据技术公司 Palantir 因伦敦市长 Sadiq Khan 阻止其获得大都会警察厅合同而提起诉讼。争议把公共采购、企业声誉、数据治理和民主授权放到同一张桌上。警方是否采用某项技术，不能只看效率与价格，也需要审视供应商、数据用途、监督机制和公众信任。",
+          "correspondingEnglish": "Palantir has sued London mayor Sadiq Khan after he blocked the company from receiving a Metropolitan police contract. The dispute connects public procurement with data governance, corporate reputation and democratic authority. Choosing police technology involves more than cost and efficiency; it also requires scrutiny of vendors, data use and public trust.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "public procurement", "meaningChinese": "公共采购", "example": "Public procurement should be transparent and accountable."},
+            {"expression": "police contract", "meaningChinese": "警方合同", "example": "The company challenged the decision over a police contract."},
+            {"expression": "vendor scrutiny", "meaningChinese": "对供应商的审查", "example": "Sensitive technology requires careful vendor scrutiny."}
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today's stories show that visibility is never only about seeing. Sensors can make pollution measurable, while law can make harassment and bodily suffering recognizable. Affordable books can open cultural doors, but surveillance systems can also extend the power to watch. The central question is therefore not whether information exists, but who gathers it, who can use it and which rights limit that power.",
+    "chinese": "今天的新闻显示，可见性从来不只是“看见”。传感器让污染变得可测量，法律让骚扰与身体痛苦得到承认；低价图书可以打开文化之门，监控系统却也可能扩张观看他人的权力。因此，核心问题不只是信息是否存在，而是谁收集信息、谁能够使用，以及哪些权利可以限制这种权力。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    {"word": "measurement", "meaning": "测量；把现象转化为可比较的数据", "example": "Environmental measurement can support community action."},
+    {"word": "judicial review", "meaning": "司法审查；法院审查公权力是否合法", "example": "Judicial review protects rights by examining state decisions."},
+    {"word": "legal protection", "meaning": "法律保护", "example": "Legal protection matters only when people can use it."},
+    {"word": "cultural access", "meaning": "文化准入；接触和参与文化的机会", "example": "Price affects cultural access."},
+    {"word": "surveillance", "meaning": "监控；持续观察和收集信息", "example": "Surveillance requires strict limits and public oversight."},
+    {"word": "public procurement", "meaning": "公共采购；政府或公共机构购买商品与服务", "example": "Public procurement decisions should earn public trust."}
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "The central question is not whether information exists, but who gathers it, who can use it and which rights limit that power.",
+    "analysisChinese": "句子用 not ... but ... 把焦点从“信息是否存在”转向权力关系。whether、who 和 which 引导三个名词性从句；后半句的并列结构依次追问收集者、使用者与权力边界。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "Making something visible can protect people, but the power to see must itself remain visible.",
+    "chinese": "今天最想留下的一句话是：让问题变得可见可以保护人，但观看他人的权力本身也必须保持可见。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["measurement", "rights", "access", "surveillance", "air pollution", "judicial review", "Equality Act", "harassment", "museums", "reading", "drones", "public procurement", "data governance"],
   "sources": [
-    {
-      "label": "The Guardian — US federal judge blocks Alabama from executing man by nitrogen gas",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/alabama-execution-judge-ruling"
-    },
-    {
-      "label": "The Guardian — Trump meets Johnson as outcry over Bill Pulte threatens Fisa renewal",
-      "url": "https://www.theguardian.com/us-news/2026/jun/09/trump-johnson-surveillance-law"
-    },
-    {
-      "label": "The Guardian — Staff at immigration detention centre wore England flags, report finds",
-      "url": "https://www.theguardian.com/society/2026/jun/10/staff-immigration-detention-centre-england-flags"
-    },
-    {
-      "label": "The Guardian — Grim reality of prison conditions laid bare in damning report",
-      "url": "https://www.theguardian.com/society/2026/jun/10/grim-reality-of-prison-conditions-laid-bare-in-damning-report"
-    },
-    {
-      "label": "The Guardian — Project a Black Planet review: spits out dreary academic theory where it should sing",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/10/project-a-black-planet-review-barbican-london"
-    },
-    {
-      "label": "The Guardian — Best Medicine review – this US remake of Doc Martin is perfect rubbish … and you need it in your life",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/09/best-medicine-review-us-remake-doc-martin-perfect-rubbish"
-    },
-    {
-      "label": "The Guardian — Concerns over US company’s gas fracking plan for world’s most intact tropical savanna in WA revealed",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/10/wa-fracking-gas-us-company-federal-environment-department-concern"
-    },
-    {
-      "label": "The Guardian — Crackdown on tech platforms will go ahead despite US intervention, says No 10",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/09/crackdown-on-tech-platforms-will-go-ahead-despite-us-intervention-says-no-10"
-    }
+    {"label": "The Guardian — LA neighborhood builds a hyperlocal air-pollution sensor network", "url": "https://www.theguardian.com/us-news/2026/jun/09/pacoima-pollution-air-sensors-monitoring"},
+    {"label": "The Guardian — US federal judge blocks Alabama nitrogen-gas execution", "url": "https://www.theguardian.com/us-news/2026/jun/09/alabama-execution-judge-ruling"},
+    {"label": "The Guardian — Equality Act protections and claims of common sense", "url": "https://www.theguardian.com/law/2026/jun/09/equality-act-protections-common-sense-kemi-badenoch"},
+    {"label": "The Guardian — Passenger receives first sentence under new train-harassment law", "url": "https://www.theguardian.com/world/2026/jun/09/passenger-david-stroud-london-train-harassment-sentence"},
+    {"label": "The Guardian — Met museum's Musical Bodies exhibition", "url": "https://www.theguardian.com/artanddesign/2026/jun/09/met-museum-musical-bodies-exhibition"},
+    {"label": "The Guardian — Booker Prize launches one-pound Quick Read", "url": "https://www.theguardian.com/books/2026/jun/09/booker-prize-quick-read-adult-reading-rates"},
+    {"label": "The Guardian — Military surveillance drones planned for the Great Lakes", "url": "https://www.theguardian.com/us-news/2026/jun/09/great-lakes-military-surveillance-drones"},
+    {"label": "The Guardian — Palantir sues Sadiq Khan over blocked Met contract", "url": "https://www.theguardian.com/uk-news/2026/jun/09/palantir-sue-khan-blocked-met-contract"}
   ],
-  "rawText": "推送日期｜2026年6月9日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月9日\n\n今天的小报关键词是：measurement, rights, access, and surveillance（测量、权利、准入与监控）。\n\n认真读新闻，也是在追问：谁有权测量、命名、观看和决定。"
 }

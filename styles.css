@@ -1855,6 +1855,7 @@ main,
   margin-top: 12px;
   margin-bottom: 14px;
   overflow-x: auto;
+  max-width: 100%;
 }
 
 .expression-table {
@@ -1929,7 +1930,9 @@ main,
   text-align: left;
   text-decoration: none;
   white-space: normal;
-  overflow-wrap: anywhere;
+  overflow-wrap: normal;
+  word-break: normal;
+  hyphens: none;
   cursor: pointer;
 }
 
@@ -1984,11 +1987,13 @@ main,
   display: flex;
   flex-wrap: wrap;
   gap: 8px;
+  min-width: 0;
 }
 
 .item-source-pill {
   display: inline-flex;
   align-items: center;
+  max-width: 100%;
   min-height: 30px;
   padding: 0.28rem 0.66rem;
   border: 1px solid rgba(197, 154, 87, 0.34);
@@ -1999,6 +2004,8 @@ main,
   font-weight: 800;
   line-height: 1.3;
   text-decoration: none;
+  white-space: normal;
+  overflow-wrap: break-word;
   transition: 160ms ease;
 }
 
@@ -2126,6 +2133,11 @@ main,
   font-weight: 800;
 }
 
+.source-link {
+  max-width: 100%;
+  overflow-wrap: break-word;
+}
+
 .text-button {
   padding: 0;
   border: 0;
@@ -2169,6 +2181,7 @@ main,
 }
 
 .wordbook-actions button {
+  max-width: 100%;
   padding: 0.42rem 0.72rem;
   border: 1px solid var(--border);
   border-radius: 999px;
@@ -2197,6 +2210,7 @@ main,
   border-radius: 16px;
   background: var(--card-bg);
   color: var(--ink);
+  min-width: 0;
 }
 
 .wordbook-item-main {
@@ -2207,7 +2221,9 @@ main,
   display: block;
   margin-bottom: 4px;
   color: var(--ink);
-  overflow-wrap: anywhere;
+  overflow-wrap: break-word;
+  word-break: normal;
+  hyphens: none;
 }
 
 .wordbook-item span,
@@ -2382,13 +2398,63 @@ main,
 
 }
 
-@media (max-width: 680px) {
+@media (max-width: 700px) {
+  body::after {
+    opacity: 0.42;
+  }
+
   .site-nav,
   .site-footer,
   .app-header {
     align-items: flex-start;
     display: flex;
     flex-direction: column;
+  }
+
+  .site-nav,
+  main,
+  .site-footer,
+  .app-header,
+  .detail-shell {
+    width: min(100%, calc(100% - 20px));
+  }
+
+  .app-header {
+    padding: 20px 0 16px;
+  }
+
+  .header-actions {
+    width: 100%;
+  }
+
+  .detail-shell {
+    grid-template-columns: 1fr;
+    gap: 16px;
+    margin-top: 16px;
+    margin-bottom: 28px;
+  }
+
+  .detail-card {
+    padding: 0.5rem;
+  }
+
+  .briefing-subblock,
+  .detail-section {
+    padding: 0.65rem;
+  }
+
+  .briefing-item {
+    padding: 0.65rem;
+    border-radius: 14px;
+  }
+
+  .detail-side,
+  .briefing-sidebar {
+    margin-top: 0.25rem;
+  }
+
+  .panel-block {
+    padding: 1rem;
   }
 
   .brand-sigil {
@@ -2476,40 +2542,151 @@ main,
     width: 100%;
   }
 
-  .expression-table,
-  .expression-table thead,
-  .expression-table tbody,
-  .expression-table tr,
-  .expression-table th,
-  .expression-table td {
+  .expression-table-wrap {
+    overflow: visible;
+  }
+
+  .expression-table {
     display: block;
+    width: 100%;
+    min-width: 0;
+    table-layout: auto;
+    border: 0;
+    border-radius: 0;
+    background: transparent;
+    overflow: visible;
   }
 
   .expression-table thead {
     display: none;
   }
 
+  .expression-table tbody {
+    display: grid;
+    width: 100%;
+    gap: 0.85rem;
+  }
+
   .expression-table tr {
-    padding: 12px 0;
-    border-top: 1px solid rgba(197, 154, 87, 0.18);
+    display: block;
+    width: 100%;
+    padding: 0.95rem;
+    border: 1px solid var(--border);
+    border-radius: 16px;
+    background: var(--card-bg);
   }
 
   .expression-table tr:first-child {
-    border-top: 0;
+    border-top: 1px solid var(--border);
   }
 
   .expression-table td {
-    display: grid;
-    grid-template-columns: minmax(96px, 0.38fr) 1fr;
-    gap: 10px;
-    padding: 7px 12px;
-    border-top: 0;
+    display: block;
+    width: 100%;
+    padding: 0;
+    border: 0;
+    color: var(--ink);
+    text-align: left;
+    line-height: 1.55;
+    white-space: normal;
+    overflow-wrap: normal;
+    word-break: normal;
+    hyphens: none;
+  }
+
+  .expression-table.no-example th:nth-child(1),
+  .expression-table.no-example td:nth-child(1),
+  .expression-table.no-example th:nth-child(2),
+  .expression-table.no-example td:nth-child(2),
+  .expression-table.has-example th:nth-child(1),
+  .expression-table.has-example td:nth-child(1),
+  .expression-table.has-example th:nth-child(2),
+  .expression-table.has-example td:nth-child(2),
+  .expression-table.has-example th:nth-child(3),
+  .expression-table.has-example td:nth-child(3) {
+    width: 100%;
+  }
+
+  .expression-table td + td {
+    margin-top: 0.75rem;
   }
 
   .expression-table td::before {
     content: attr(data-label);
+    display: block;
+    margin-bottom: 0.25rem;
     color: var(--gold);
+    font-size: 0.78rem;
     font-weight: 800;
+    letter-spacing: 0.04em;
+  }
+
+  .expression-table td:nth-child(1)::before {
+    content: "English Expression";
+  }
+
+  .expression-table td:nth-child(2)::before {
+    content: "中文理解";
+  }
+
+  .expression-table.has-example td:nth-child(3)::before {
+    content: "Example";
+  }
+
+  .keyword-table td:nth-child(1)::before {
+    content: "Keyword";
+  }
+
+  .keyword-table td:nth-child(2)::before {
+    content: "中文解释";
+  }
+
+  .keyword-table td:nth-child(3)::before {
+    content: "Example sentence";
+  }
+
+  .expression-term {
+    display: block;
+    width: 100%;
+    color: var(--gold);
+    font-weight: 700;
+    font-size: 1.05rem;
+    white-space: normal;
+    overflow-wrap: normal;
+    word-break: normal;
+    hyphens: none;
+  }
+
+  .link-group,
+  .item-source-list,
+  .tag-row,
+  .word-actions,
+  .wordbook-actions {
+    flex-wrap: wrap;
+    min-width: 0;
+  }
+
+  .article-footer,
+  .source-link,
+  .text-button,
+  .wordbook-item,
+  .wordbook-item-main,
+  .wordbook-item strong,
+  .wordbook-item span,
+  .word-sentence,
+  .item-source-pill {
+    max-width: 100%;
+  }
+
+  .wordbook-item {
+    padding: 0.9rem 2.8rem 0.9rem 0.9rem;
+  }
+
+  .wordbook-actions button,
+  .item-source-pill,
+  .source-link {
+    white-space: normal;
+    overflow-wrap: break-word;
   }
 }
 

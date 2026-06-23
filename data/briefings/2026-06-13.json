@@ -2,56 +2,32 @@
   "date": "2026-06-13",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "被困、被看见与重新启动：空气污染、无指控拘留、照护者债务、首尔Pride、酷儿喜剧与航天安全",
+  "introChinese": "今天的小报关键词是：visibility, vulnerability, and recovery（可见性、脆弱性与恢复）。火灾让城市空气成为公共风险，无薪照护者被福利系统困在债务中，Pride让身份进入街道，而科技与文化机构则必须回答：一次失败或长期忽视之后，如何真正重新开始。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜Blaze at 1m-sq-ft California warehouse rages into third day: ‘We’re struggling’",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Fire at medical supplier Medline in Tracy, city of more than 100,000 residents, is affecting the air quality",
+          "title": "加州大型仓库火灾持续三天，空气质量受到影响",
+          "summaryChinese": "The Guardian 报道，加州 Tracy 一座约100万平方英尺的医疗用品仓库大火进入第三天，消防人员仍难以控制，超过10万居民城市的空气质量受到影响。工业火灾不是孤立的建筑事故，它会通过烟雾、物流中断和公共卫生风险扩散到整个社区。",
+          "correspondingEnglish": "A fire at a one-million-square-foot medical-supply warehouse in Tracy, California, continued into a third day. Firefighters said they were struggling to contain it, and air quality was affected across a city of more than 100,000 residents. Industrial fires can spread risk through smoke, disrupted logistics and public-health pressure.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "contain a fire", "meaningChinese": "控制火势", "example": "Firefighters struggled to contain the fire." },
+            { "expression": "air-quality warning", "meaningChinese": "空气质量警告", "example": "Officials issued an air-quality warning." },
+            { "expression": "industrial accident", "meaningChinese": "工业事故", "example": "An industrial accident can affect an entire community." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Tommy Robinson detained at Heathrow under counter-terrorism laws",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Police stop comes after far-right activist rose to further prominence on social media amid racial tensions in Britain",
+          "title": "巴勒斯坦裔美国女大学生被以色列军方无指控拘留",
+          "summaryChinese": "The Guardian 报道，20岁的大学生 Sama Safi 与巴勒斯坦女子国家足球队成员一同被以色列士兵拘捕，目前未受到正式指控。无指控拘留使个人难以了解证据、准备辩护或判断何时获释，也让法律程序本身成为人权问题。",
+          "correspondingEnglish": "Palestinian American university student Sama Safi, 20, was arrested by Israeli soldiers along with members of the Palestinian women’s national soccer team and held without charge. Detention without charge limits a person’s ability to examine evidence, prepare a defense or know when release may come.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "held without charge", "meaningChinese": "未经指控而被拘留", "example": "The student was held without charge." },
+            { "expression": "due process", "meaningChinese": "正当法律程序", "example": "Human-rights groups called for due process." },
+            { "expression": "prepare a defense", "meaningChinese": "准备辩护", "example": "A detainee needs access to evidence to prepare a defense." }
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜‘There was a lot of blood in the water’: paddleboarder rescues woman after ‘shocking’ Coogee shark attack",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Charlie Verco managed to grab hold of the woman and bring her back to shore after the Sydney shark attack on Saturday",
+          "title": "英国福利系统仍让无薪照护者累积债务",
+          "summaryChinese": "The Guardian 报道，英国就业与养老金部在已收到停止付款请求后，仍继续向部分无薪照护者发放补助，随后又追讨所谓多付款项。照护者本已承担大量无报酬劳动，行政失误却把责任与债务转嫁给他们，显示系统复杂性本身也会制造伤害。",
+          "correspondingEnglish": "The UK Department for Work and Pensions continued allowing unpaid carers to accumulate debts even after being told about overpayments. One carer repeatedly asked for payments to stop but received the benefit for another six months. Administrative complexity can transfer institutional mistakes onto people already performing large amounts of unpaid labor.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "unpaid carer", "meaningChinese": "无薪照护者", "example": "Unpaid carers provide essential daily support." },
+            { "expression": "benefit overpayment", "meaningChinese": "福利金多付", "example": "The department later demanded repayment of the benefit overpayment." },
+            { "expression": "administrative burden", "meaningChinese": "行政负担", "example": "Complex rules create an administrative burden for families." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜UK government announces £132.5m after-school clubs package",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Funding for extracurricular activities comes as ministers prepare to introduce social media restrictions for under-16s",
+          "title": "首尔街头被Pride色彩填满：不要假装我们不存在",
+          "summaryChinese": "The Guardian 报道，首尔Pride活动让参与者能够公开表达身份。一名参与者表示，这是许多人一年中唯一感到可以真正做自己的时刻。在法律保护仍不充分的环境中，庆典不仅是欢乐，也是一种要求被看见、被承认的政治行动。",
+          "correspondingEnglish": "Seoul filled its streets with Pride color as LGBTQ+ people gathered for a rare moment of open self-expression. One attendee said it was the one time of year when people felt they could truly show who they were. Where legal protections remain limited, celebration also becomes a demand for recognition.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "open self-expression", "meaningChinese": "公开的自我表达", "example": "Pride creates space for open self-expression." },
+            { "expression": "legal protection", "meaningChinese": "法律保护", "example": "Many communities still lack adequate legal protection." },
+            { "expression": "demand recognition", "meaningChinese": "要求获得承认", "example": "Public visibility can become a demand for recognition." }
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Lydia Lunch: ‘There won’t be a funeral. You’ll never find my body’",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The Teenage Jesus and the Jerks frontwoman shares her hatred of sandwiches and pop culture, plus her wish to evaporate and return to ‘the ether’",
+          "title": "David Hockney改变艺术的十种方式",
+          "summaryChinese": "The Guardian 回顾 David Hockney 如何推动风景画、打破单点透视、塑造洛杉矶视觉风格，并拥抱iPad创作与舞台设计。他的影响力来自不断更换媒介，而不是固守一种标志风格。技术在这里不是艺术的替代者，而是重新组织观看的方法。",
+          "correspondingEnglish": "The Guardian identified 10 ways David Hockney changed art: transforming landscape painting, challenging one-point perspective, creating the Los Angeles look, embracing iPads and designing stage sets. His influence came from moving across media rather than protecting a single signature style.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "one-point perspective", "meaningChinese": "单点透视", "example": "Hockney challenged traditional one-point perspective." },
+            { "expression": "move across media", "meaningChinese": "跨越不同媒介", "example": "The artist continued to move across media." },
+            { "expression": "visual language", "meaningChinese": "视觉语言", "example": "His work created a recognizable visual language." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Rosamund Pike keeps cool after phone alarm interrupts performance",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Disruption during performance of Inter Alia comes weeks after Pike berated audience member for texting during play",
+          "title": "Drag喜剧《Stop! That! Train!》想成为所有人的电影",
+          "summaryChinese": "The Guardian 采访Drag喜剧《Stop! That! Train!》的导演与演员。创作者强调这不是只为《RuPaul’s Drag Race》粉丝制作的作品，而是借鉴《Airplane!》式荒诞喜剧面向更广泛观众。酷儿文化不必总被放在解释身份的位置，也可以单纯制造笑声与流行娱乐。",
+          "correspondingEnglish": "The director and drag-queen actors behind Stop! That! Train! described it as a comedy for everyone, not only Drag Race fans. The film gives an Airplane!-style parody a deliberately queer and chaotic twist. Queer culture does not always have to explain identity; it can also create mainstream laughter and entertainment.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "madcap parody", "meaningChinese": "疯狂荒诞的戏仿", "example": "The film is designed as a madcap parody." },
+            { "expression": "broader audience", "meaningChinese": "更广泛的观众", "example": "The creators hope to reach a broader audience." },
+            { "expression": "queer comedy", "meaningChinese": "酷儿喜剧", "example": "Queer comedy can thrive without explaining itself." }
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Bran flakes could be classed as junk food under new healthy eating guidelines",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "UK government wants to update rules to include naturally occurring ‘free sugars’ when determining what is unhealthy",
+          "title": "Blue Origin称爆炸后年内将恢复飞行，NASA任务等待验证",
+          "summaryChinese": "The Guardian 报道，Blue Origin 表示在发射台爆炸后计划于年内恢复飞行。NASA的Artemis III任务需要该公司相关能力，因此复飞不只是商业公司自身进度，也关系到公共太空计划。恢复运行需要公开事故原因、修正措施和可验证的安全测试。",
+          "correspondingEnglish": "Blue Origin said it expected to fly again this year after an explosion on the launchpad. NASA needs the company’s technology for Artemis III, making the recovery important to a public space program as well as a private company. A credible return requires an explanation of the failure, corrective action and verifiable safety testing.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "return to flight", "meaningChinese": "恢复飞行", "example": "The company plans to return to flight this year." },
+            { "expression": "corrective action", "meaningChinese": "纠正措施", "example": "Engineers must document the corrective action." },
+            { "expression": "safety validation", "meaningChinese": "安全验证", "example": "The next launch will be a major safety validation." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜One Stop shop worker sacked after trying to tackle suspected shoplifter",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Convenience store employee Eileen Fox, 56, said suspect ‘banged into metal stand’ but no one was injured in incident",
+          "title": "儿童网络安全倡导者：大型科技需要自己的“烟草时刻”",
+          "summaryChinese": "The Guardian 采访导演、上议院议员和网络安全倡导者 Beeban Kidron。她认为大型科技公司向儿童提供有害产品却长期逃避责任，需要像烟草行业一样面对明确的健康证据与监管转折。儿童安全不能只依赖家长设置，也必须进入产品设计与法律责任。",
+          "correspondingEnglish": "Film director, peer and online-safety campaigner Beeban Kidron argued that big technology needs its own “tobacco moment”. She said companies had placed harmful products in children’s hands while failing to prevent abuse. Child safety cannot depend only on parental controls; it must be built into product design and legal responsibility.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "online safety", "meaningChinese": "网络安全", "example": "Kidron has campaigned for stronger online safety." },
+            { "expression": "safety by design", "meaningChinese": "设计即安全；在产品设计阶段纳入安全", "example": "Children’s platforms should adopt safety by design." },
+            { "expression": "regulatory turning point", "meaningChinese": "监管转折点", "example": "Public evidence can create a regulatory turning point." }
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today’s stories focus on what happens when people or institutions become trapped. Smoke traps a city inside an industrial emergency. Detention without charge traps a person outside ordinary legal protection. Administrative mistakes trap carers in debt. Pride creates visibility against social erasure, while comedy and visual art open new routes into public culture. In technology, recovery requires more than restarting a rocket or changing a parental setting; it requires evidence, safer design and institutions willing to accept responsibility.",
+    "chinese": "今天的新闻关注人或机构被困住时会发生什么。烟雾让一座城市陷入工业紧急状态，无指控拘留让个人被排除在普通法律保护之外，行政错误让照护者陷入债务。Pride以可见性对抗社会抹除，喜剧与视觉艺术则打开进入公共文化的新路径。在科技领域，恢复不能只是重新发射火箭或调整家长设置，它还需要证据、更安全的设计，以及愿意承担责任的机构。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    { "word": "visibility", "meaning": "可见性；被社会看见与承认", "example": "Pride increases public visibility for LGBTQ+ communities." },
+    { "word": "due process", "meaning": "正当法律程序", "example": "Detention without charge raises due-process concerns." },
+    { "word": "administrative burden", "meaning": "行政负担", "example": "Complex benefit rules create an administrative burden." },
+    { "word": "visual language", "meaning": "视觉语言", "example": "Artists build a visual language across different media." },
+    { "word": "safety validation", "meaning": "安全验证", "example": "A return to flight requires safety validation." },
+    { "word": "safety by design", "meaning": "设计即安全；在设计阶段纳入保护机制", "example": "Children’s apps should follow safety-by-design principles." }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Recovery requires more than restarting a rocket or changing a parental setting.",
+    "analysisChinese": "requires more than 表示“需要的不只是……”。两个动名词短语 restarting a rocket 和 changing a parental setting 并列，指出表面修复与结构性恢复之间的差别。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "Recovery begins when visibility leads to evidence, protection and responsibility.",
+    "chinese": "今天最想留下的一句话是：当可见性能够进一步带来证据、保护与责任，恢复才真正开始。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["global", "California", "Palestine", "due process", "gender", "caregiving", "Seoul Pride", "art", "David Hockney", "drag", "technology", "Blue Origin", "NASA", "online safety"],
   "sources": [
-    {
-      "label": "The Guardian — Blaze at 1m-sq-ft California warehouse rages into third day: ‘We’re struggling’",
-      "url": "https://www.theguardian.com/us-news/2026/jun/13/california-warehouse-fire-tracy"
-    },
-    {
-      "label": "The Guardian — Tommy Robinson detained at Heathrow under counter-terrorism laws",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/13/tommy-robinson-detained-at-heathrow-under-counter-terrorism-laws"
-    },
-    {
-      "label": "The Guardian — ‘There was a lot of blood in the water’: paddleboarder rescues woman after ‘shocking’ Coogee shark attack",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/14/there-was-a-lot-of-blood-in-the-water-paddeboarder-rescues-woman-after-shocking-coogee-shark-attack"
-    },
-    {
-      "label": "The Guardian — UK government announces £132.5m after-school clubs package",
-      "url": "https://www.theguardian.com/education/2026/jun/13/uk-government-announces-1325m-after-school-clubs-package"
-    },
-    {
-      "label": "The Guardian — Lydia Lunch: ‘There won’t be a funeral. You’ll never find my body’",
-      "url": "https://www.theguardian.com/culture/2026/jun/14/lydia-lunch-interview-10-chaotic-questions"
-    },
-    {
-      "label": "The Guardian — Rosamund Pike keeps cool after phone alarm interrupts performance",
-      "url": "https://www.theguardian.com/film/2026/jun/13/rosamund-pike-keeps-cool-phone-alarm-interrupts-performance-inter-alia"
-    },
-    {
-      "label": "The Guardian — Bran flakes could be classed as junk food under new healthy eating guidelines",
-      "url": "https://www.theguardian.com/business/2026/jun/13/bran-flakes-classed-junk-food-uk-guidelines-to-promote-healthy-eating"
-    },
-    {
-      "label": "The Guardian — One Stop shop worker sacked after trying to tackle suspected shoplifter",
-      "url": "https://www.theguardian.com/business/2026/jun/13/one-stop-shop-worker-sacked-after-trying-to-tackle-suspected-shoplifter"
-    }
+    { "label": "The Guardian — California warehouse fire", "url": "https://www.theguardian.com/us-news/2026/jun/13/california-warehouse-fire-tracy" },
+    { "label": "The Guardian — Palestinian American student detained", "url": "https://www.theguardian.com/us-news/2026/jun/13/palestinian-held-sama-safi-israeli-military" },
+    { "label": "The Guardian — Unpaid carers and benefit debts", "url": "https://www.theguardian.com/society/2026/jun/13/revealed-dwp-still-allowing-unpaid-carers-to-run-up-debts-despite-being-told-about-overpayments" },
+    { "label": "The Guardian — Seoul Pride", "url": "https://www.theguardian.com/world/2026/jun/13/seoul-pride-festival" },
+    { "label": "The Guardian — David Hockney changed art", "url": "https://www.theguardian.com/artanddesign/2026/jun/13/10-ways-david-hockney-changed-art-la-ipads-perspective" },
+    { "label": "The Guardian — Stop! That! Train!", "url": "https://www.theguardian.com/film/2026/jun/13/stop-that-train-film-drag-comedy" },
+    { "label": "The Guardian — Blue Origin return to flight", "url": "https://www.theguardian.com/science/2026/jun/13/jeff-bezos-blue-origin-nasa-aretemis" },
+    { "label": "The Guardian — Beeban Kidron and big tech", "url": "https://www.theguardian.com/film/2026/jun/13/beeban-kidron-interview-baroness-big-tech-online-child-abuse" }
   ],
-  "rawText": "推送日期｜2026年6月13日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月13日\n\n今天的小报关键词是：visibility, vulnerability, and recovery（可见性、脆弱性与恢复）。火灾让城市空气成为公共风险，无薪照护者被福利系统困在债务中，Pride让身份进入街道，而科技与文化机构则必须回答：一次失败或长期忽视之后，如何真正重新开始。"
 }

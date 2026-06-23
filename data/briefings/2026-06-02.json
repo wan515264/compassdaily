@@ -2,58 +2,59 @@
   "date": "2026-06-02",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "停火、照护与预警系统：战争压力、公共服务、文化再解释与AI审查",
+  "sourcePolicy": "本期仅采用用户指定来源池中可核验发布日期与原文链接的报道；8条来源均为 The Guardian。正文采用直接叙述，来源统一列于文末。",
+  "introChinese": "今天的小报关键词是：“ceasefire, care, and review systems（停火、照护与审查系统）”。战争没有停在外交措辞里，而是落在城市、医院和防空系统上；照护危机暴露公共服务的承压；文化作品不断重写记忆；AI 与气候预警则提醒我们，技术系统正在成为治理的一部分。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜One-ton cocaine bust reveals secret US-Mexico tunnel",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Members of Jalisco New Generation cartel used fake retail store in San Diego as front for trafficking drugs, officials say",
+          "title": "以色列空袭黎巴嫩南部：停火努力下的现实裂缝",
+          "summaryChinese": "以色列军方对黎巴嫩南部发动数十次空袭，并向纳巴提耶等地发布疏散警告。袭击发生在美国试图稳住停火安排的背景下，显示外交语言与地面安全之间仍有巨大距离。对普通居民来说，“停火”不是抽象协议，而是能否上学、开店、住在家中、相信明天不会被迫撤离的日常条件。",
+          "correspondingEnglish": "Israeli warplanes carried out dozens of strikes in southern Lebanon and issued evacuation warnings for parts of the region. The attacks came as Washington tried to shore up a fragile ceasefire. For civilians, a ceasefire is not only a diplomatic term. It is a condition for staying home, keeping schools open and trusting that everyday life can continue.",
           "englishExpressions": [
             {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
+              "expression": "shore up a ceasefire",
+              "meaningChinese": "稳住、支撑停火安排",
+              "example": "Diplomats tried to shore up a ceasefire after renewed airstrikes."
             },
             {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
+              "expression": "evacuation warning",
+              "meaningChinese": "疏散警告",
+              "example": "An evacuation warning forced residents to leave their homes."
             },
             {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
+              "expression": "fragile peace",
+              "meaningChinese": "脆弱的和平",
+              "example": "The strikes exposed how fragile peace can be."
             }
           ],
-          "studyNote": ""
+          "studyNote": "shore up 常用于政治、经济和安全语境，表示“加固一个已经不稳的东西”。"
         },
         {
-          "title": "Guardian报道｜Pentagon appoints convicted January 6 rioter to sensitive counter-terrorism role",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Alarm after Elias Irizarry hired to position in office that manages highly classified military operations",
+          "title": "俄罗斯袭击乌克兰多城后，泽连斯基要求美国提供导弹",
+          "summaryChinese": "俄罗斯对基辅、第聂伯罗、哈尔科夫等乌克兰城市发动袭击，造成至少18人死亡、数十人受伤，一些人被困在倒塌建筑下。乌克兰总统泽连斯基要求美国提供更多导弹，以应对防空系统短缺。这个新闻把战争中的一个核心问题推到前台：现代城市的生存越来越依赖防空、能源、救援和国际军援这些看不见但决定性的基础设施。",
+          "correspondingEnglish": "After Russian strikes hit several Ukrainian cities, President Volodymyr Zelenskyy asked the United States for more missiles. At least 18 people were killed, dozens were injured and others were trapped under collapsed buildings. The story shows how urban survival in wartime depends on air defence, emergency response and international military support.",
           "englishExpressions": [
             {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
+              "expression": "air defence system",
+              "meaningChinese": "防空系统",
+              "example": "The city depends on its air defence system during missile attacks."
             },
             {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
+              "expression": "collapsed building",
+              "meaningChinese": "倒塌建筑",
+              "example": "Rescuers searched for survivors under a collapsed building."
             },
             {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
+              "expression": "military support",
+              "meaningChinese": "军事支持",
+              "example": "Ukraine asked for more military support from allies."
             }
           ],
-          "studyNote": ""
+          "studyNote": "urban survival 强调城市不是背景板，而是由防空、医院、交通和救援共同维持的生存系统。"
         }
       ]
     },
@@ -62,50 +63,50 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "NHS bosses giving evidence to public accounts committee admit current position is unacceptable",
+          "title": "英国全科医生过载：老年人跌倒预防被挤出照护系统",
+          "summaryChinese": "英国议会委员会听证中，NHS 管理者承认，全科医生工作量过重，难以为有跌倒风险的老年人提供足够预防性帮助。跌倒听起来像个人身体问题，但它也反映照护系统的安排：谁能提前得到评估，谁只能等到受伤后才进入医院，谁的脆弱被当成“日常老化”而不是公共责任。",
+          "correspondingEnglish": "NHS leaders told MPs that general practitioners in England are too overloaded to give enough support to older people at risk of falling. Falls may look like individual accidents, but they also reveal how care systems decide who receives prevention, who waits until injury and whose vulnerability is treated as a public responsibility.",
           "englishExpressions": [
             {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
+              "expression": "at risk of falling",
+              "meaningChinese": "有跌倒风险",
+              "example": "Older people at risk of falling need early support."
             },
             {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
+              "expression": "preventive care",
+              "meaningChinese": "预防性照护",
+              "example": "Preventive care can reduce hospital admissions."
             },
             {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
+              "expression": "care system",
+              "meaningChinese": "照护系统",
+              "example": "A strained care system often reacts too late."
             }
           ],
-          "studyNote": ""
+          "studyNote": "preventive care 不只是医疗词，也可用于讨论教育、公共安全和社会政策中的“提前介入”。"
         },
         {
-          "title": "Guardian报道｜Weight-loss drugs may prevent thousands of knee replacements, study suggests",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Patients with knee arthritis who took medications for at least three years at reduced risk of needing surgery",
+          "title": "澳大利亚部长为多封品格推荐信道歉：性暴力案件中的公共信任",
+          "summaryChinese": "澳大利亚维多利亚州一名部长承认，她曾为33人写过品格推荐信，其中包括一名袭击女性的出租车司机、被指家庭暴力的男性和伊朗政权支持者。她表示后悔，并称不会再写这类推荐信。争议的重点不只是个人判断失误，而是公共人物的背书如何影响司法、受害者信任和社会对性暴力的严肃程度。",
+          "correspondingEnglish": "A Victorian minister said she regretted writing character references for several people, including a taxi driver who assaulted women and men accused of domestic violence. The controversy is not only about personal judgment. It is also about how public endorsement can affect justice, survivor trust and the seriousness with which gendered violence is treated.",
           "englishExpressions": [
             {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
+              "expression": "character reference",
+              "meaningChinese": "品格推荐信",
+              "example": "A character reference can influence how a court views a person."
             },
             {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
+              "expression": "public endorsement",
+              "meaningChinese": "公开背书",
+              "example": "Public endorsement carries special responsibility."
             },
             {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
+              "expression": "gendered violence",
+              "meaningChinese": "性别化暴力",
+              "example": "Gendered violence requires institutional seriousness."
             }
           ],
-          "studyNote": ""
+          "studyNote": "gendered violence 指与性别权力结构有关的暴力，不只是“发生在女性身上的暴力”。"
         }
       ]
     },
@@ -114,50 +115,50 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜The Vardys review – very bad, very boring and devastating for Wagatha Christie fans",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Jamie and Rebekah Vardy’s new reality show will disappoint every single person who tunes in, from football lovers to followers of The Scousetrap. The only possible fun you can have is rolling your eyes at them",
+          "title": "芝加哥奥巴马总统图书馆争议：纪念建筑如何塑造权力形象",
+          "summaryChinese": "芝加哥正在建设的奥巴马总统图书馆被形容为大胆、昂贵、近乎无窗的纪念性建筑。它位于一个低收入社区之上，引发关于公共空间、城市更新、政治遗产和建筑语言的讨论。纪念建筑从来不只是“存放历史”的容器，它也会把某种权力形象永久化，并改变周围居民与城市空间的关系。",
+          "correspondingEnglish": "The Obama Presidential Center in Chicago has drawn attention for its bold, expensive and nearly windowless design. Built near a low-income area, it raises questions about public space, urban renewal, political legacy and architectural power. A memorial building does not simply store history. It also gives a lasting shape to authority.",
           "englishExpressions": [
             {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
+              "expression": "presidential library",
+              "meaningChinese": "总统图书馆；总统档案纪念机构",
+              "example": "A presidential library can shape how a leader is remembered."
             },
             {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
+              "expression": "political legacy",
+              "meaningChinese": "政治遗产",
+              "example": "Architecture can turn political legacy into physical space."
             },
             {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
+              "expression": "urban renewal",
+              "meaningChinese": "城市更新",
+              "example": "Urban renewal can bring investment and displacement."
             }
           ],
-          "studyNote": ""
+          "studyNote": "legacy 在新闻中常指政治人物、制度或事件留下的长期影响。"
         },
         {
-          "title": "Guardian报道｜Funny and full of sex: why you should read Proust’s In Search of Lost Time | Letters",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Letters: Readers strike an encouraging note for those sceptical of the joys of Proust, saying it has plenty to make it worth perservering",
+          "title": "《移魂女郎》被重新搬上舞台：年轻女性危机如何被一代代重写",
+          "summaryChinese": "Susanna Kaysen 的回忆录《Girl, Interrupted》长期影响着关于年轻女性心理危机的文化想象。新的舞台改编试图把这部作品带给新一代观众，也让人重新思考：当社会讲述“失控的女孩”“脆弱的女孩”时，是在理解她们，还是在把痛苦变成可消费的类型？",
+          "correspondingEnglish": "A new stage version of Girl, Interrupted brings Susanna Kaysen’s memoir to a new generation. The work has shaped cultural ideas about young women in crisis. Its return invites a sharper question: when society tells stories about troubled girls, is it trying to understand them, or turning distress into a familiar genre?",
           "englishExpressions": [
             {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
+              "expression": "young women in crisis",
+              "meaningChinese": "处于危机中的年轻女性",
+              "example": "The play revisits stories of young women in crisis."
             },
             {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
+              "expression": "stage adaptation",
+              "meaningChinese": "舞台改编",
+              "example": "The stage adaptation brings the memoir to new audiences."
             },
             {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
+              "expression": "cultural imagination",
+              "meaningChinese": "文化想象",
+              "example": "Popular stories shape the cultural imagination of mental health."
             }
           ],
-          "studyNote": ""
+          "studyNote": "turn distress into a genre 是一个很有用的批评句式：把痛苦变成一种可重复消费的叙事类型。"
         }
       ]
     },
@@ -166,143 +167,149 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Bank of England says updated imagery will celebrate native wildlife while bolstering anti-counterfeit features",
+          "title": "特朗普签署AI行政令：政府希望提前审看新模型",
+          "summaryChinese": "美国总统特朗普签署行政令，要求科技公司在向公众发布新的 AI 模型之前，自愿与政府共享模型供审查。支持者会把这看作安全评估，批评者则可能担心政府过度介入创新和言论环境。AI 治理正在从公司内部的产品管理，进入国家安全、审查权力和公共透明度的交叉地带。",
+          "correspondingEnglish": "President Donald Trump signed an executive order seeking early government access to new AI releases. Tech companies would be asked to share models for review before public launch. Supporters may frame this as safety assessment, while critics may worry about state influence over innovation and speech. AI governance is moving into the space between security, oversight and transparency.",
           "englishExpressions": [
             {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
+              "expression": "executive order",
+              "meaningChinese": "行政令",
+              "example": "The executive order asks companies to share new AI models for review."
             },
             {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
+              "expression": "model review",
+              "meaningChinese": "模型审查",
+              "example": "Model review may become part of AI governance."
             },
             {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
+              "expression": "public launch",
+              "meaningChinese": "公开发布",
+              "example": "The company delayed the public launch of its AI system."
             }
           ],
-          "studyNote": ""
+          "studyNote": "review 在科技政策里可以是“评估”，也可能接近“审查”，具体语气取决于权力关系。"
         },
         {
-          "title": "Guardian报道｜Trump signs executive order seeking early access to new AI releases",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Under new rules, tech companies will be asked to share AI models with government for review before public release",
+          "title": "联合国预警厄尔尼诺或将回归：气候预测也是公共基础设施",
+          "summaryChinese": "联合国机构预警，厄尔尼诺现象可能在9月前形成，并有较高概率加强极端天气。气候预警不是遥远的科学消息，它会影响农业、粮价、水资源、救灾预算和公共卫生准备。一个社会能否听懂并使用预警，往往决定灾害来临前还有多少行动空间。",
+          "correspondingEnglish": "A UN agency warned that El Niño may return before September, increasing the risk of extreme weather. Climate forecasting is not distant science. It shapes agriculture, food prices, water management, disaster budgets and public health planning. Whether a society can understand and act on warnings often determines how much room it has before a crisis arrives.",
           "englishExpressions": [
             {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
+              "expression": "climate forecasting",
+              "meaningChinese": "气候预测",
+              "example": "Climate forecasting helps governments prepare for extreme weather."
             },
             {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
+              "expression": "extreme weather",
+              "meaningChinese": "极端天气",
+              "example": "El Niño can increase the risk of extreme weather."
             },
             {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
+              "expression": "early warning",
+              "meaningChinese": "早期预警",
+              "example": "Early warning gives communities time to prepare."
             }
           ],
-          "studyNote": ""
+          "studyNote": "early warning 常用于气候、公共卫生、冲突和金融风险语境。"
         }
       ]
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today’s news shows how much public life depends on systems that are often noticed only when they fail. A ceasefire becomes real only when civilians can stay home. Care becomes real only when older people receive help before they fall. Cultural memory becomes real through buildings, books and performances that decide what deserves attention. Technology becomes real when AI models and climate warnings are reviewed, trusted and acted upon.",
+    "chinese": "今天的新闻让我们看到，公共生活依赖许多平时不容易被注意到的系统，而这些系统常常是在失灵时才显形。停火只有在平民能够留在家中时才变得真实；照护只有在老年人跌倒前就得到帮助时才变得真实；文化记忆通过建筑、书写和表演决定什么值得被看见；技术则在AI模型与气候预警被审查、被信任并被行动化时，真正进入公共生活。"
   },
   "keywords": [
     {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
+      "word": "ceasefire",
+      "meaning": "停火；交战方停止军事行动的安排",
+      "example": "A ceasefire matters most when civilians can safely return home."
     },
     {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
+      "word": "preventive care",
+      "meaning": "预防性照护；在问题恶化前提供支持",
+      "example": "Preventive care can reduce avoidable injuries."
     },
     {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
+      "word": "public endorsement",
+      "meaning": "公开背书；具有公共影响力的人或机构给予支持",
+      "example": "Public endorsement can affect trust in the justice system."
     },
     {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
+      "word": "political legacy",
+      "meaning": "政治遗产；政治人物或制度留下的长期影响",
+      "example": "A building can turn political legacy into public space."
     },
     {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
+      "word": "model review",
+      "meaning": "模型审查；对AI模型发布前的安全、风险或合规检查",
+      "example": "Model review is becoming part of AI governance."
     },
     {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
+      "word": "early warning",
+      "meaning": "早期预警；在危机发生前提供风险信号",
+      "example": "Early warning systems give communities time to prepare."
     }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "A ceasefire becomes real only when civilians can stay home.",
+    "analysisChinese": "这个句子用 becomes real 表达“从纸面概念变成现实经验”。only when 引导条件从句，强调衡量停火不能只看协议文本，还要看平民是否真的能安全生活。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "A system is most visible when someone has to depend on it.",
+    "chinese": "今天最想留下的一句话是：一个系统最清楚的样子，往往出现在有人不得不依赖它的时候。"
   },
   "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
+    "ceasefire",
+    "Lebanon",
+    "Ukraine",
+    "air defence",
+    "care system",
+    "older people",
+    "gendered violence",
+    "public endorsement",
+    "architecture",
+    "political legacy",
+    "Girl Interrupted",
+    "mental health",
+    "AI governance",
+    "model review",
+    "El Nino",
+    "early warning"
   ],
   "sources": [
     {
-      "label": "The Guardian — One-ton cocaine bust reveals secret US-Mexico tunnel",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/san-diego-drug-tunnel"
+      "label": "The Guardian — Israel strikes southern Lebanon despite Trump’s effort to shore up ceasefire",
+      "url": "https://www.theguardian.com/world/2026/jun/02/israel-strikes-southern-lebanon-despite-trump-ceasefire"
     },
     {
-      "label": "The Guardian — Pentagon appoints convicted January 6 rioter to sensitive counter-terrorism role",
-      "url": "https://www.theguardian.com/us-news/2026/jun/02/january-6-rioter-elias-irizarry-counterterrorism"
+      "label": "The Guardian — Zelenskyy asks Trump to send missiles after Russian strikes across Ukraine",
+      "url": "https://www.theguardian.com/world/2026/jun/02/ukraine-war-russia-air-raids-strike-kyiv-dnipro-kharkiv"
     },
     {
       "label": "The Guardian — GPs in England too ‘overloaded’ to help older people at risk of falling, say MPs",
       "url": "https://www.theguardian.com/society/2026/jun/03/gps-in-england-too-overloaded-to-help-older-people-at-risk-of-falling-say-mps"
     },
     {
-      "label": "The Guardian — Weight-loss drugs may prevent thousands of knee replacements, study suggests",
-      "url": "https://www.theguardian.com/society/2026/jun/02/weight-loss-drugs-could-help-prevent-knee-replacements"
+      "label": "The Guardian — Victorian minister regrets character references for taxi driver who assaulted women, DV accused men and Iran regime supporter",
+      "url": "https://www.theguardian.com/australia-news/2026/jun/02/victorian-minister-under-fire-for-writing-33-character-references-including-for-taxi-driver-who-assaulted-women-ntwnfb"
     },
     {
-      "label": "The Guardian — The Vardys review – very bad, very boring and devastating for Wagatha Christie fans",
-      "url": "https://www.theguardian.com/tv-and-radio/2026/jun/02/the-vardys-review-jamie-rebekah-itv"
+      "label": "The Guardian — ‘Like a Klingon prison’: inside Barack Obama’s audacious, near-windowless, $850m presidential library",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/02/klingon-prison-barack-obamas-presidential-library-chicago"
     },
     {
-      "label": "The Guardian — Funny and full of sex: why you should read Proust’s In Search of Lost Time | Letters",
-      "url": "https://www.theguardian.com/books/2026/jun/02/funny-and-full-of-sex-why-you-should-read-proust-in-search-of-lost-time"
-    },
-    {
-      "label": "The Guardian — Puffins, dolphins and bumblebees in running to feature on new UK banknotes",
-      "url": "https://www.theguardian.com/business/2026/jun/03/puffins-dolphins-bumblebees-new-uk-banknotes-shortlist"
+      "label": "The Guardian — ‘All the girls were in there for shit that is pretty normal’: the show reinventing Girl, Interrupted for a new generation",
+      "url": "https://www.theguardian.com/stage/2026/jun/02/girl-interrupted-show-reinvention-new-generation"
     },
     {
       "label": "The Guardian — Trump signs executive order seeking early access to new AI releases",
       "url": "https://www.theguardian.com/us-news/2026/jun/02/trump-executive-order-ai-voluntary-review"
+    },
+    {
+      "label": "The Guardian — Prepare for imminent return of El Niño, UN warns",
+      "url": "https://www.theguardian.com/environment/2026/jun/02/prepare-for-imminent-return-of-el-nino-un-warns"
     }
   ],
-  "rawText": "推送日期｜2026年6月2日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月2日\n\n今天的小报关键词是：“ceasefire, care, and review systems（停火、照护与审查系统）”。战争没有停在外交措辞里，而是落在城市、医院和防空系统上；照护危机暴露公共服务的承压；文化作品不断重写记忆；AI 与气候预警则提醒我们，技术系统正在成为治理的一部分。\n\n★ 1. Global News｜全球新闻\n\n以色列空袭黎巴嫩南部：停火努力下的现实裂缝\n俄罗斯袭击乌克兰多城后，泽连斯基要求美国提供导弹\n\n★ 2. Gender / Culture｜性别与文化\n\n英国全科医生过载：老年人跌倒预防被挤出照护系统\n澳大利亚部长为多封品格推荐信道歉：性暴力案件中的公共信任\n\n★ 3. Art / Fashion / Media｜艺术、时尚与媒体\n\n芝加哥奥巴马总统图书馆争议：纪念建筑如何塑造权力形象\n《移魂女郎》被重新搬上舞台：年轻女性危机如何被一代代重写\n\n★ 4. AI / Tech｜人工智能与科技\n\n特朗普签署AI行政令：政府希望提前审看新模型\n联合国预警厄尔尼诺或将回归：气候预测也是公共基础设施\n\n★ Closing Thought｜今日收束\n\n一个系统最清楚的样子，往往出现在有人不得不依赖它的时候。"
 }

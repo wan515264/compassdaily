@@ -2,56 +2,32 @@
   "date": "2026-06-10",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "theme": "误识别、保护与反叙事：麻疹、气候难民、移民照护工、女性社群、举报写作与医疗基础设施",
+  "introChinese": "今天的小报关键词是：misrecognition, protection, and counter-narratives（误识别、保护与反叙事）。虚假信息会削弱疫苗信任，移民与少数群体容易被制度和算法错误识别，而艺术、社群与举报写作则尝试重新讲述被遮蔽的经验。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜Police use water cannon against rioters in Northern Ireland",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Force disperses crowd of 300 people who burned truck and reportedly planned to target hotel hosting migrants",
+          "title": "美国麻疹病例突破2000例，接近数十年来最严重疫情",
+          "summaryChinese": "The Guardian 报道，美国2026年麻疹病例已超过2000例。疫苗接种率下降与虚假信息推动疫情扩散，联邦公共卫生削减又削弱地方应对能力。公共卫生风险不只来自病毒，也来自信任与基础设施的持续流失。",
+          "correspondingEnglish": "US measles cases passed 2,000 in 2026 as the outbreak approached the worst level in decades. Falling vaccination rates and misinformation were driving transmission, while federal public-health cuts hampered state responses. Disease spreads through biological exposure, but also through weakened trust and infrastructure.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "vaccination rate", "meaningChinese": "疫苗接种率", "example": "Falling vaccination rates increased the risk of outbreaks." },
+            { "expression": "public-health cut", "meaningChinese": "公共卫生削减", "example": "Public-health cuts weakened local response capacity." },
+            { "expression": "health misinformation", "meaningChinese": "健康虚假信息", "example": "Health misinformation can reduce vaccine confidence." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Brunel’s SS Great Britain site drops historical name in ‘cool’ rebrand",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "New name, Bristol Dockyards, and museum revamp aimed at becoming more rooted in community, says chief executive",
+          "title": "气候冲击最严重的国家，也最受美国入境限制影响",
+          "summaryChinese": "The Guardian 分析发现，美国限制入境的39个国家中，多数也是环境脆弱性最高的国家。气候冲击迫使人们迁移，但边境制度并未把气候风险充分视为保护理由。气候正义也包括人们在失去家园后是否拥有安全移动的权利。",
+          "correspondingEnglish": "A Guardian analysis found that most of the 39 countries facing US entry restrictions were also among those most vulnerable to environmental shocks. Climate disruption can force people to move, yet border systems rarely treat climate risk as a basis for protection. Climate justice also concerns the right to move safely after losing a home.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            { "expression": "climate refugee", "meaningChinese": "气候难民", "example": "Climate refugees often lack clear legal protection." },
+            { "expression": "entry restriction", "meaningChinese": "入境限制", "example": "The policy introduced new entry restrictions." },
+            { "expression": "environmental vulnerability", "meaningChinese": "环境脆弱性", "example": "Many restricted countries face high environmental vulnerability." }
           ],
           "studyNote": ""
         }
@@ -62,48 +38,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Convicted gang rapist Mohammed Skaf hit with two dozen drug charges in Sydney",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "NSW police say two men and a woman will face court on Thursday over alleged involvement in large-scale drug supply scheme",
+          "title": "贝尔法斯特移民照护工被暴徒困在家中",
+          "summaryChinese": "The Guardian 报道，两名照护工作者在贝尔法斯特种族主义骚乱中被困家中，附近房屋起火令她们担心自己成为下一个目标。她们为社区提供必要照护，却在下班后因身份与肤色面临暴力，揭示“关键劳动者”身份并不能自动带来安全。",
+          "correspondingEnglish": "Two migrant care workers described being trapped at home by a racist mob in Belfast as fires spread through neighboring houses. They feared they would be targeted next. Their experience shows that being described as an essential worker does not automatically provide safety outside the workplace.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "racist riot", "meaningChinese": "种族主义骚乱", "example": "The care workers were trapped during racist riots." },
+            { "expression": "essential worker", "meaningChinese": "关键劳动者", "example": "Care workers are often described as essential workers." },
+            { "expression": "targeted violence", "meaningChinese": "针对性暴力", "example": "Minority communities faced targeted violence." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜A&E patients with non-urgent ailments may be told to come back later under NHS plans",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "NHS bosses urge all hospitals in England to use ‘digital triage’ process to combat overcrowding in emergency services",
+          "title": "美国女性走进巫术静修营，对抗男性权威与宗教孤立",
+          "summaryChinese": "The Guardian 报道，越来越多美国女性前往爱尔兰森林等地参加巫术静修，寻找“姐妹情谊”与精神社群。参与者曾被称为歇斯底里或妖魔化，如今主动使用“女巫”身份，既是灵性实践，也是在重新书写女性知识与权威。",
+          "correspondingEnglish": "Women from the United States are attending witchcraft retreats in Ireland and elsewhere to form covens and communities of sisterhood. Participants described being demonized or called hysterical. Reclaiming the identity of the witch can be both a spiritual practice and a way to rewrite ideas about women’s knowledge and authority.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            { "expression": "spiritual isolation", "meaningChinese": "精神孤立", "example": "The retreats respond to spiritual isolation." },
+            { "expression": "reclaim an identity", "meaningChinese": "重新认领一种身份", "example": "Participants reclaim an identity once used against women." },
+            { "expression": "sisterhood", "meaningChinese": "女性团结；姐妹情谊", "example": "The retreat offers a sense of sisterhood." }
           ],
           "studyNote": ""
         }
@@ -114,48 +66,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Radiohead revenge tragedy Hamlet Hail to the Thief sets London dates",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Production fusing the band’s sixth album and Shakespeare’s masterpiece will open at the Barbican later this year",
+          "title": "Meta举报人被迫沉默后，回忆录销量反而飙升",
+          "summaryChinese": "The Guardian 报道，Meta前员工 Sarah Wynn-Williams 在Hay文学节一小时活动中保持沉默后，其回忆录《Careless People》销量增长超过300%。法律或商业限制试图阻断发言时，沉默本身也可能成为强烈的媒体画面，引导公众寻找被压制的文本。",
+          "correspondingEnglish": "Sales of Meta whistleblower Sarah Wynn-Williams’s memoir Careless People rose by more than 300% after she remained silent throughout an hour-long Hay festival appearance. When legal or commercial limits restrict speech, silence itself can become a media image that sends audiences toward the suppressed text.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "whistleblower memoir", "meaningChinese": "举报人回忆录", "example": "The whistleblower memoir became a bestseller." },
+            { "expression": "enforced silence", "meaningChinese": "被强制的沉默", "example": "Enforced silence can attract public attention." },
+            { "expression": "sales surge", "meaningChinese": "销量激增", "example": "The book experienced a major sales surge." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜We Had a World review – a playwright torn between his warring mother and grandmother",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Joshua Harmon studies his family’s fraught matriarchal relations in this thoughtful drama",
+          "title": "格拉斯哥国际艺术节：在混乱世界中携带愤怒",
+          "summaryChinese": "The Guardian 评论格拉斯哥国际艺术节，特别关注 David Wojnarowicz 临终时为昔日恋人拍摄的照片，以及关于身体、死亡和社会排斥的作品。艺术节把愤怒转化为档案与观看关系，让私人伤痛进入共同历史。",
+          "correspondingEnglish": "A Guardian review of Glasgow International highlighted David Wojnarowicz’s deathbed photographs of a former lover and other works about bodies, mortality and social exclusion. The festival turns rage into archives and encounters, allowing private grief to enter shared history.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            { "expression": "private grief", "meaningChinese": "私人悲痛", "example": "The photographs transform private grief into public memory." },
+            { "expression": "social exclusion", "meaningChinese": "社会排斥", "example": "The exhibition confronts social exclusion." },
+            { "expression": "visual archive", "meaningChinese": "视觉档案", "example": "The artwork functions as a visual archive." }
           ],
           "studyNote": ""
         }
@@ -166,48 +94,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Temperatures above 15C ‘very strange’ say scientists, as snow melts and rain falls on glaciers in usually frozen region",
+          "title": "AI人脸识别错误导致佛州男子在家中被捕",
+          "summaryChinese": "The Guardian 报道，佛州男子 Robert Dillon 因AI人脸识别错误被警方在家中逮捕，而犯罪地点距其住所约300英里。自动匹配不应被当作独立证据；当算法输出进入执法系统，人工复核、证据交叉验证和申诉渠道必须先于拘捕。",
+          "correspondingEnglish": "A Florida lawsuit alleges that Robert Dillon was arrested at home because of an AI facial-recognition error, even though he lived 300 miles from the crime scene. Automated matching should not be treated as independent proof. Human review, corroborating evidence and appeal mechanisms should precede arrest.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "facial-recognition error", "meaningChinese": "人脸识别错误", "example": "A facial-recognition error led police to the wrong person." },
+            { "expression": "corroborating evidence", "meaningChinese": "佐证证据", "example": "Police should seek corroborating evidence." },
+            { "expression": "automated match", "meaningChinese": "自动匹配结果", "example": "An automated match is not proof of guilt." }
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Mike Ashley’s Frasers makes €1.98bn takeover bid for Hugo Boss",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Fashion and sportswear group, which owns 26% of the German luxury brand, is now seeking full control",
+          "title": "英国干细胞移植系统被指基础设施不足，可能危及生命",
+          "summaryChinese": "The Guardian 报道，英国议员小组认为现有干细胞移植系统因基础设施和规划不足而“不适合实际需要”，少数族裔患者面临的风险尤其突出。先进疗法能否挽救生命，不只取决于实验室突破，也取决于供体登记、配型、运输和医院能力是否协调运行。",
+          "correspondingEnglish": "A report by UK parliamentarians warned that the stem-cell transplant system may be putting lives at risk because of weak infrastructure and planning. Patients from minority groups were described as particularly vulnerable. Advanced treatment depends not only on scientific discovery, but also on donor registries, matching, transport and hospital capacity.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            { "expression": "stem-cell transplant", "meaningChinese": "干细胞移植", "example": "Some patients depend on a stem-cell transplant." },
+            { "expression": "donor registry", "meaningChinese": "供体登记系统", "example": "A diverse donor registry improves matching." },
+            { "expression": "hospital capacity", "meaningChinese": "医院承载能力", "example": "Treatment access depends on hospital capacity." }
           ],
           "studyNote": ""
         }
@@ -215,94 +119,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Misrecognition can be biological, political or computational. A disease spreads when trusted information collapses. Climate-displaced people are treated as security problems rather than people needing protection. Migrant care workers are praised as essential yet exposed to racist violence. Algorithms can falsely identify a suspect, while weak medical infrastructure can leave minority patients without timely treatment. Counter-narratives matter because they restore context and make visible what official systems simplify or ignore.",
+    "chinese": "误识别可能发生在生物、政治或计算系统中。当可信信息崩溃，疾病会扩散；气候流离失所者被当作安全问题，而不是需要保护的人；移民照护工被称为关键劳动者，却暴露在种族暴力中；算法可能错误识别嫌疑人，薄弱的医疗基础设施也可能让少数族裔患者无法及时治疗。反叙事之所以重要，是因为它恢复语境，让官方系统试图简化或忽略的经验重新可见。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    { "word": "misrecognition", "meaning": "误识别；错误理解或认定某人", "example": "Algorithmic misrecognition can lead to wrongful arrest." },
+    { "word": "health misinformation", "meaning": "健康虚假信息", "example": "Health misinformation weakens vaccine confidence." },
+    { "word": "counter-narrative", "meaning": "反叙事；挑战主导说法的另一种讲述", "example": "Art can create a powerful counter-narrative." },
+    { "word": "whistleblower", "meaning": "举报人；揭露机构内部问题的人", "example": "The whistleblower published a memoir." },
+    { "word": "corroborating evidence", "meaning": "佐证证据", "example": "Automated matches require corroborating evidence." },
+    { "word": "medical infrastructure", "meaning": "医疗基础设施；支撑诊断、治疗和转诊的系统", "example": "Advanced treatment depends on reliable medical infrastructure." }
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "Advanced treatment depends not only on scientific discovery, but also on donor registries, transport and hospital capacity.",
+    "analysisChinese": "not only ... but also ... 连接科研突破与医疗基础设施两个条件；后半句用三个并列名词说明先进治疗需要完整系统才能真正抵达患者。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "Protection begins by refusing to treat people as the simplified labels that systems assign to them.",
+    "chinese": "今天最想留下的一句话是：拒绝把人缩减为系统分配给他们的简单标签，是保护真正开始的地方。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["global", "measles", "climate migration", "gender", "care workers", "witchcraft", "art", "whistleblower", "Glasgow", "technology", "facial recognition", "stem cells", "medical infrastructure"],
   "sources": [
-    {
-      "label": "The Guardian — Police use water cannon against rioters in Northern Ireland",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/10/police-use-water-cannon-against-rioters-in-northern-ireland"
-    },
-    {
-      "label": "The Guardian — Brunel’s SS Great Britain site drops historical name in ‘cool’ rebrand",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/11/ss-great-britain-maritime-landmark-rebrand-bristol-dockyards"
-    },
-    {
-      "label": "The Guardian — Convicted gang rapist Mohammed Skaf hit with two dozen drug charges in Sydney",
-      "url": "https://www.theguardian.com/australia-news/2026/jun/11/convicted-gang-rapist-mohammad-skaf-drug-charges-sydney-ntwnfb"
-    },
-    {
-      "label": "The Guardian — A&E patients with non-urgent ailments may be told to come back later under NHS plans",
-      "url": "https://www.theguardian.com/society/2026/jun/10/patients-accident-emergency-non-urgent-ailments-nhs-plans-overcrowding"
-    },
-    {
-      "label": "The Guardian — Radiohead revenge tragedy Hamlet Hail to the Thief sets London dates",
-      "url": "https://www.theguardian.com/stage/2026/jun/11/hamlet-hail-to-the-thief-barbican-london"
-    },
-    {
-      "label": "The Guardian — We Had a World review – a playwright torn between his warring mother and grandmother",
-      "url": "https://www.theguardian.com/stage/2026/jun/10/we-had-a-world-review-hampstead-theatre-london-joshua-harmon"
-    },
-    {
-      "label": "The Guardian — Record winter temperatures in Antarctic raise fears over speed of climate breakdown",
-      "url": "https://www.theguardian.com/environment/2026/jun/10/record-winter-temperatures-in-antarctic-raise-fears-over-speed-of-climate-breakdown"
-    },
-    {
-      "label": "The Guardian — Mike Ashley’s Frasers makes €1.98bn takeover bid for Hugo Boss",
-      "url": "https://www.theguardian.com/uk-news/2026/jun/10/mike-ashley-frasers-198bn-takeover-offer-hugo-boss"
-    }
+    { "label": "The Guardian — US measles cases", "url": "https://www.theguardian.com/us-news/2026/jun/10/measles-us-spike" },
+    { "label": "The Guardian — Immigration and climate shocks", "url": "https://www.theguardian.com/us-news/2026/jun/10/trump-administration-immigrants-climate-crisis" },
+    { "label": "The Guardian — Belfast care workers", "url": "https://www.theguardian.com/uk-news/2026/jun/10/it-was-so-terrifying-care-workers-trapped-belfast-mob" },
+    { "label": "The Guardian — Women’s witchcraft retreats", "url": "https://www.theguardian.com/us-news/2026/jun/10/witchcraft-retreat-ireland" },
+    { "label": "The Guardian — Meta whistleblower memoir", "url": "https://www.theguardian.com/books/2026/jun/10/sales-meta-whistleblowers-memoir-careless-people-soar-after-hay-festival-silencing" },
+    { "label": "The Guardian — Glasgow International review", "url": "https://www.theguardian.com/artanddesign/2026/jun/10/glasgow-international-review-art-david-wojnarowicz" },
+    { "label": "The Guardian — Facial-recognition arrest lawsuit", "url": "https://www.theguardian.com/us-news/2026/jun/10/florida-lawsuit-ai-facial-recognition" },
+    { "label": "The Guardian — UK stem-cell transplant system", "url": "https://www.theguardian.com/science/2026/jun/10/uk-stem-cell-transplant-system-not-fit-for-purpose-mp-group" }
   ],
-  "rawText": "推送日期｜2026年6月10日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月10日\n\n今天的小报关键词是：misrecognition, protection, and counter-narratives（误识别、保护与反叙事）。虚假信息会削弱疫苗信任，移民与少数群体容易被制度和算法错误识别，而艺术、社群与举报写作则尝试重新讲述被遮蔽的经验。"
 }

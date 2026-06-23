@@ -2,56 +2,33 @@
   "date": "2026-06-03",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "公共生活、社会平等、文化表达与技术治理",
-  "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+  "sourcePolicy": "本期仅采用用户指定来源池中可核验发布日期与原文链接的报道；8条来源均为 The Guardian。",
+  "theme": "记录、代表与自动化权力：医疗危机、晋升名单、女性影像与AI搜索",
+  "introChinese": "今天的小报关键词是：records, representation, and automated power（记录、代表与自动化权力）。医院和疫情记录决定危机能否被回应，晋升名单暴露制度如何选择领导者，摄影与肖像重新组织谁被看见，而自动福利系统和AI搜索则提醒我们：机器作出的决定仍需要人类负责。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "Guardian报道｜‘Every year I get new pictures’: the fight to preserve the memory of Tiananmen",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Amid growing censorship at home under the rule of Xi Jinping, efforts to document the massacre of 4 June, 1989, are intensifying abroad",
+          "title": "一周内三家黎巴嫩医院遭以军袭击，医护人员伤亡严重",
+          "summaryChinese": "The Guardian 报道，黎巴嫩南部三家医院在不到一周内遭以色列军队袭击，空袭造成9人死亡、约150人受伤，其中多数为医护人员。医院在战争中不仅是建筑，也是救护、药品、供电与专业人员组成的生命网络。医疗设施受损会放大每一次后续伤害，使原本可治疗的伤病变得致命。",
+          "correspondingEnglish": "Three hospitals in southern Lebanon have been hit by Israeli forces in less than a week. Airstrikes killed nine people and injured about 150, most of them medical staff. A hospital is more than a building: it is a network of skilled workers, supplies, electricity and emergency care, so damage to it multiplies the harm of every later attack.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "medical facility", "meaningChinese": "医疗设施", "example": "A medical facility should be protected during conflict."},
+            {"expression": "medical staff", "meaningChinese": "医护人员", "example": "Many of those injured were medical staff."},
+            {"expression": "multiply the harm", "meaningChinese": "放大伤害", "example": "Destroying emergency care can multiply the harm of an attack."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Starmer’s chief secretary consoled Mandelson after dismissal as US ambassador, undisclosed texts show",
-          "summaryChinese": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
-          "correspondingEnglish": "Darren Jones’s messages include requests for advice on the reshuffle and remarks about former business secretary Jonathan Reynolds",
+          "title": "世卫组织称刚果（金）埃博拉疫情或早在1月开始",
+          "summaryChinese": "The Guardian 报道，世卫组织总干事谭德塞表示，刚果（金）的埃博拉疫情可能早在1月就已开始，病毒获得了很长的传播先机，不过应对工作正在追赶。疫情时间线为何重要？因为延迟识别会影响病例追踪、隔离和资源配置。公共卫生需要的不只是治疗工具，也需要可靠报告、实验室能力和社区信任。",
+          "correspondingEnglish": "WHO director-general Tedros Adhanom Ghebreyesus says the Ebola outbreak in the Democratic Republic of the Congo may have begun as early as January, giving the virus a substantial head start. A delayed timeline affects contact tracing, isolation and resource allocation. Public health depends on reliable reporting, laboratory capacity and community trust as well as treatment.",
           "englishExpressions": [
-            {
-              "expression": "public response",
-              "meaningChinese": "公共回应",
-              "example": "The story prompted a wider public response."
-            },
-            {
-              "expression": "political pressure",
-              "meaningChinese": "政治压力",
-              "example": "Political pressure continued to shape the debate."
-            },
-            {
-              "expression": "international concern",
-              "meaningChinese": "国际关切",
-              "example": "The issue has become a source of international concern."
-            }
+            {"expression": "disease outbreak", "meaningChinese": "疾病暴发", "example": "Early detection can slow a disease outbreak."},
+            {"expression": "get a head start", "meaningChinese": "抢先；获得提前发展的优势", "example": "The virus may have had a long head start."},
+            {"expression": "resource allocation", "meaningChinese": "资源配置", "example": "Accurate data improves emergency resource allocation."}
           ],
           "studyNote": ""
         }
@@ -62,48 +39,24 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "Guardian报道｜Life-prolonging drug for advanced ovarian cancer gets go-ahead in England",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Elahere is first new drug for chemotherapy-resistant ovarian cancer to be approved by NHS for 20 years",
+          "title": "美国防长将所有女性及部分黑人军人移出海军晋升名单",
+          "summaryChinese": "The Guardian 报道，美国国防部长Pete Hegseth干预海军晋升名单后，最终推荐晋升海军将领的人选全部为男性，且绝大多数为白人。名单看似是行政文件，却能把偏好转化为未来的领导结构。代表性并非只计算人数，也要审视谁拥有进入候选池、接受评价和取得决策权的机会。",
+          "correspondingEnglish": "U.S. defense secretary Pete Hegseth removed all women and some Black service members from a navy promotion list, leaving an all-male and overwhelmingly white group of candidates for admiral. An administrative list can turn preference into a future leadership structure. Representation depends on who can enter the pool, receive fair evaluation and gain decision-making power.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "promotion list", "meaningChinese": "晋升名单", "example": "The final promotion list contained no women."},
+            {"expression": "leadership pipeline", "meaningChinese": "领导人才培养与晋升通道", "example": "Bias can narrow a leadership pipeline."},
+            {"expression": "fair evaluation", "meaningChinese": "公平评价", "example": "Every candidate deserves a fair evaluation."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Hospitals in England ranking highly for empathy ‘have better patient outcomes’",
-          "summaryChinese": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-          "correspondingEnglish": "Research suggests NHS trusts with higher empathy ratings also benefit financially and have improved staff wellbeing",
+          "title": "秘鲁女性摄影：裸体围成圆圈，在女性杀害阴影中形成共同体",
+          "summaryChinese": "The Guardian“Women Behind the Lens”栏目刊登摄影师Ana Elisa Sotelo的作品。照片拍摄于秘鲁接连发生女性杀害事件后，女性裸体围成圆圈，踢动与呼喊自然发生。身体在这里不是供观看的对象，而成为表达愤怒、脆弱和姐妹情谊的共同语言。影像把私人恐惧转化为集体存在。",
+          "correspondingEnglish": "Peruvian photographer Ana Elisa Sotelo created an image of women forming a naked circle after a series of femicides. Kicking and screaming emerged naturally during the session. The bodies are not presented as objects for consumption; they become a shared language of anger, vulnerability, sisterhood and collective presence.",
           "englishExpressions": [
-            {
-              "expression": "equal access",
-              "meaningChinese": "平等机会；平等准入",
-              "example": "Equal access depends on more than formal rules."
-            },
-            {
-              "expression": "social recognition",
-              "meaningChinese": "社会承认",
-              "example": "Social recognition can change everyday experience."
-            },
-            {
-              "expression": "lived experience",
-              "meaningChinese": "切身经验",
-              "example": "Policy debates should include lived experience."
-            }
+            {"expression": "collective presence", "meaningChinese": "集体在场", "example": "The circle creates a powerful collective presence."},
+            {"expression": "sisterhood and solidarity", "meaningChinese": "姐妹情谊与团结", "example": "The photograph expresses sisterhood and solidarity."},
+            {"expression": "object of the gaze", "meaningChinese": "被凝视的对象", "example": "The subjects refuse to remain objects of the gaze."}
           ],
           "studyNote": ""
         }
@@ -114,48 +67,24 @@
       "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
       "items": [
         {
-          "title": "Guardian报道｜Savage House review – Claire Foy and Richard E Grant sell it hard in bewigged 18th-century caper",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "The leads are the most watchable thing in this raucous period yarn about a grimy pair of status-obsessed nobles",
+          "title": "Valie Export逝世：用身体、影像与行动挑战女性再现",
+          "summaryChinese": "The Guardian 刊发奥地利艺术家Valie Export的讣告。她通过表演、摄影、录像与雕塑质疑媒体怎样把女性身体塑造成被动观看对象，并把自己的艺术名字也变成对父权身份制度的反抗。她的实践提醒我们，艺术不仅创造图像，也能揭露观看本身如何分配权力。",
+          "correspondingEnglish": "Austrian artist Valie Export, known for performance, photography, film and sculpture that challenged representations of women, has died. She used her body and even her chosen artistic name to confront patriarchal systems of identity. Her work showed that art does not merely create images; it can expose how the act of looking distributes power.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "representation of women", "meaningChinese": "女性再现；女性在文化中的呈现方式", "example": "Her work challenged the representation of women in media."},
+            {"expression": "performance art", "meaningChinese": "行为艺术", "example": "Performance art can turn the body into an argument."},
+            {"expression": "distribute power", "meaningChinese": "分配权力", "example": "Images can distribute power between viewer and subject."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Shia LaBeouf pleads guilty to battery charges over New Orleans bar incident",
-          "summaryChinese": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
-          "correspondingEnglish": "Actor sentenced to probation for incident in which he attacked three men and yelled homophobic slurs, according to witnesses",
+          "title": "大都会博物馆肖像展：肖像可以代表什么，而不只是长得像谁",
+          "summaryChinese": "The Guardian 介绍纽约大都会艺术博物馆的一场肖像展，汇集Picasso、Wifredo Lam等艺术家的作品，探索肖像如何承载记忆、关系、身份与权力。肖像并不总要精确复制面孔；姿态、材料、缺席和抽象同样能够描述一个人。展览把“像不像”转向“谁有权定义一个人”。",
+          "correspondingEnglish": "A Metropolitan Museum of Art exhibition brings together portraits by artists including Pablo Picasso and Wifredo Lam. It explores how portraiture can carry memory, relationships, identity and power without simply copying a face. Gesture, material, absence and abstraction can all describe a person, shifting the question from resemblance to who gets to define a subject.",
           "englishExpressions": [
-            {
-              "expression": "cultural memory",
-              "meaningChinese": "文化记忆",
-              "example": "Art can reshape cultural memory."
-            },
-            {
-              "expression": "creative practice",
-              "meaningChinese": "创作实践",
-              "example": "Creative practice responds to social change."
-            },
-            {
-              "expression": "public audience",
-              "meaningChinese": "公共观众",
-              "example": "The work invites a broader public audience."
-            }
+            {"expression": "portrait exhibition", "meaningChinese": "肖像展", "example": "The portrait exhibition includes many forms and materials."},
+            {"expression": "physical resemblance", "meaningChinese": "外貌相似", "example": "A portrait can communicate more than physical resemblance."},
+            {"expression": "define a subject", "meaningChinese": "定义被表现者", "example": "The artist's choices help define a subject."}
           ],
           "studyNote": ""
         }
@@ -166,48 +95,24 @@
       "heading": "人工智能与科技 / AI & Tech",
       "items": [
         {
-          "title": "Guardian报道｜Colorado governor vetoes block on surveillance pricing as other states push for bans",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Consumer advocates decry Democrat Jared Polis for ‘choosing to side with dominant corporations’ over workers",
+          "title": "澳大利亚承认自动系统错误取消数十万笔Centrelink福利支付",
+          "summaryChinese": "The Guardian 报道，澳大利亚政府承认，运行“相互义务”计划的自动系统出现故障，导致数十万笔Centrelink福利支付被非法取消。对系统而言可能只是一个错误状态，对领取者而言却意味着房租、食物和药物突然失去来源。自动化公共服务必须保留人工复核、及时通知、快速恢复和补偿机制。",
+          "correspondingEnglish": "The Australian government has admitted that hundreds of thousands of Centrelink welfare payments were illegally canceled because of a glitch in an automated mutual-obligations system. A technical status change can mean lost rent, food or medicine for a claimant. Automated public services need human review, clear notice, rapid restoration and compensation when errors occur.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "automated system", "meaningChinese": "自动化系统", "example": "An automated system canceled payments incorrectly."},
+            {"expression": "welfare payment", "meaningChinese": "社会福利金", "example": "A welfare payment may be a household's main income."},
+            {"expression": "human review", "meaningChinese": "人工复核", "example": "High-impact decisions should allow human review."}
           ],
           "studyNote": ""
         },
         {
-          "title": "Guardian报道｜Labour MP sues Elon Musk’s xAI company over fake sexualised images",
-          "summaryChinese": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
-          "correspondingEnglish": "Jess Asato was portrayed wearing a bikini in Grok-generated images after she criticised creation of such non-consensual pictures",
+          "title": "英国媒体网站获权阻止Google将文章用于AI搜索摘要",
+          "summaryChinese": "The Guardian 报道，英国监管机构的新规则允许媒体网站选择不让Google把其文章用于AI搜索摘要。出版商担忧，摘要直接回答问题会减少点击、读者关系与广告收入。争议不只是版权，也关乎新闻生产的可持续性：搜索平台从内容中获得价值时，应让创作者拥有清晰选择、归属信息与合理谈判权。",
+          "correspondingEnglish": "UK media websites will be able to stop Google from using their articles in AI search summaries under new regulator rules. Publishers argue that direct answers reduce clicks, audience relationships and revenue. The dispute concerns more than copyright: when a platform extracts value from journalism, creators need meaningful choice, attribution and bargaining power.",
           "englishExpressions": [
-            {
-              "expression": "digital infrastructure",
-              "meaningChinese": "数字基础设施",
-              "example": "Digital infrastructure shapes public life."
-            },
-            {
-              "expression": "public oversight",
-              "meaningChinese": "公共监督",
-              "example": "New technologies require public oversight."
-            },
-            {
-              "expression": "technological change",
-              "meaningChinese": "技术变化",
-              "example": "Technological change creates new social questions."
-            }
+            {"expression": "AI search summary", "meaningChinese": "AI搜索摘要", "example": "An AI search summary may answer without sending readers to the source."},
+            {"expression": "opt out", "meaningChinese": "选择退出", "example": "Publishers can opt out of the new use."},
+            {"expression": "bargaining power", "meaningChinese": "谈判权力", "example": "Small publishers often have limited bargaining power."}
           ],
           "studyNote": ""
         }
@@ -215,94 +120,35 @@
     }
   ],
   "englishParagraph": {
-    "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-    "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。"
+    "english": "Today's stories show that records and representations are forms of power. A delayed disease record can give a virus time to spread. A promotion list can shape leadership for years. A photograph or portrait can resist inherited ways of seeing. An automated record can also remove a person's income, while an AI summary can separate journalism from its audience. What enters a system—and who can challenge it—matters.",
+    "chinese": "今天的新闻显示，记录与再现都是权力形式。延迟的疫情记录可能给病毒更多传播时间，晋升名单会长期塑造领导结构，摄影和肖像可以抵抗继承而来的观看方式；自动记录也可能取消一个人的收入，AI摘要则可能把新闻与读者分开。什么进入系统、谁能提出质疑，都很重要。"
   },
   "keywords": [
-    {
-      "word": "public life",
-      "meaning": "公共生活",
-      "example": "Technology is becoming part of everyday public life."
-    },
-    {
-      "word": "institution",
-      "meaning": "制度；机构",
-      "example": "Public institutions shape access and responsibility."
-    },
-    {
-      "word": "visibility",
-      "meaning": "可见性；被社会看见和承认",
-      "example": "Media coverage can increase public visibility."
-    },
-    {
-      "word": "oversight",
-      "meaning": "监督；监管",
-      "example": "Powerful systems require independent oversight."
-    },
-    {
-      "word": "accountability",
-      "meaning": "问责；责任归属",
-      "example": "Accountability depends on clear evidence and rules."
-    },
-    {
-      "word": "infrastructure",
-      "meaning": "基础设施；支撑社会运行的系统",
-      "example": "Digital infrastructure influences work and communication."
-    }
+    {"word": "record", "meaning": "记录；制度保存并用于判断的信息", "example": "An inaccurate record can produce a harmful decision."},
+    {"word": "representation", "meaning": "代表性；再现方式", "example": "Representation affects who is seen as a leader."},
+    {"word": "leadership pipeline", "meaning": "领导人才晋升通道", "example": "A fair leadership pipeline should include qualified women."},
+    {"word": "collective presence", "meaning": "集体在场；多人共同表达存在与立场", "example": "The image turns vulnerability into collective presence."},
+    {"word": "automated decision", "meaning": "自动化决定；由软件规则作出的决定", "example": "An automated decision should be open to appeal."},
+    {"word": "opt out", "meaning": "选择退出某项安排", "example": "Publishers need a practical way to opt out."}
   ],
   "sentenceLab": {
-    "sentence": "Reading across these fields helps us ask not only what happened, but also which institutions made it possible.",
-    "analysisChinese": "句子使用 not only ... but also ... 连接两个阅读层次：事件本身与使事件成为可能的制度条件。which institutions made it possible 是间接疑问结构。"
+    "sentence": "A technical status change can mean lost rent, food or medicine for a claimant.",
+    "analysisChinese": "can mean 表示某个技术动作可能产生的现实含义。lost rent, food or medicine 用三个并列名词把抽象系统错误具体化；for a claimant 指明后果由谁承担。"
   },
   "reflection": {
-    "english": "A daily event becomes easier to understand when we can see the system around it.",
-    "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。"
+    "english": "Every record has a human consequence, especially when the person affected cannot correct it.",
+    "chinese": "今天最想留下的一句话是：每一条记录都有人的后果，尤其当受影响的人无法纠正它时。"
   },
-  "tags": [
-    "global",
-    "gender",
-    "culture",
-    "art",
-    "media",
-    "AI",
-    "technology",
-    "public life",
-    "systems",
-    "responsibility"
-  ],
+  "tags": ["records", "representation", "Lebanon", "hospitals", "Ebola", "WHO", "navy", "gender equality", "Peru", "photography", "Valie Export", "portraiture", "Centrelink", "automation", "Google AI", "publishers"],
   "sources": [
-    {
-      "label": "The Guardian — ‘Every year I get new pictures’: the fight to preserve the memory of Tiananmen",
-      "url": "https://www.theguardian.com/world/2026/jun/04/tiananmen-square-massacre-preserving-memory"
-    },
-    {
-      "label": "The Guardian — Starmer’s chief secretary consoled Mandelson after dismissal as US ambassador, undisclosed texts show",
-      "url": "https://www.theguardian.com/politics/2026/jun/04/starmer-darren-jones-peter-mandelson-us-ambassador-texts"
-    },
-    {
-      "label": "The Guardian — Life-prolonging drug for advanced ovarian cancer gets go-ahead in England",
-      "url": "https://www.theguardian.com/society/2026/jun/04/elahere-ovarian-cancer-drug-nhs-england"
-    },
-    {
-      "label": "The Guardian — Hospitals in England ranking highly for empathy ‘have better patient outcomes’",
-      "url": "https://www.theguardian.com/society/2026/jun/04/hospitals-nhs-trusts-england-empathy-patient-outcomes-staff-wellbeing"
-    },
-    {
-      "label": "The Guardian — Savage House review – Claire Foy and Richard E Grant sell it hard in bewigged 18th-century caper",
-      "url": "https://www.theguardian.com/film/2026/jun/04/savage-house-review-claire-foy-richard-e-grant"
-    },
-    {
-      "label": "The Guardian — Shia LaBeouf pleads guilty to battery charges over New Orleans bar incident",
-      "url": "https://www.theguardian.com/film/2026/jun/03/shia-labeouf-pleads-guilty-battery-charges-new-orleans"
-    },
-    {
-      "label": "The Guardian — Colorado governor vetoes block on surveillance pricing as other states push for bans",
-      "url": "https://www.theguardian.com/technology/2026/jun/03/colorado-governor-veto-ban-surveillance-pricing"
-    },
-    {
-      "label": "The Guardian — Labour MP sues Elon Musk’s xAI company over fake sexualised images",
-      "url": "https://www.theguardian.com/technology/2026/jun/03/labour-mp-sues-elon-musks-ai-company-over-fake-sexualised-images"
-    }
+    {"label": "The Guardian — Three Lebanese hospitals hit by Israeli forces", "url": "https://www.theguardian.com/world/2026/jun/03/lebanese-hospitals-hit-by-israeli-forces"},
+    {"label": "The Guardian — DRC Ebola outbreak may have begun in January, WHO chief says", "url": "https://www.theguardian.com/global-development/2026/jun/03/drc-ebola-outbreak-could-have-begun-as-early-as-january-who-chief-says"},
+    {"label": "The Guardian — Women removed from US navy promotion list", "url": "https://www.theguardian.com/us-news/2026/jun/03/pete-hegseth-navy-promotion-list"},
+    {"label": "The Guardian — Women Behind the Lens: Ana Elisa Sotelo in Peru", "url": "https://www.theguardian.com/global-development/2026/jun/03/women-behind-the-lens-peru-ana-elisa-sotelo"},
+    {"label": "The Guardian — Valie Export obituary", "url": "https://www.theguardian.com/artanddesign/2026/jun/03/valie-export-obituary"},
+    {"label": "The Guardian — The Met celebrates the art of the portrait", "url": "https://www.theguardian.com/artanddesign/2026/jun/03/met-museum-portrait-exhibition"},
+    {"label": "The Guardian — Hundreds of thousands of Centrelink payments canceled illegally", "url": "https://www.theguardian.com/australia-news/2026/jun/03/hundreds-of-thousands-centrelink-payments-cancelled-illegally-albanese-government-admits"},
+    {"label": "The Guardian — UK media sites can block Google AI search use", "url": "https://www.theguardian.com/business/2026/jun/03/uk-media-groups-power-opt-out-google-ai-search-summaries"}
   ],
-  "rawText": "推送日期｜2026年6月3日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。"
+  "rawText": "推送日期｜2026年6月3日\n\n今天的小报关键词是：records, representation, and automated power（记录、代表与自动化权力）。\n\n认真读新闻，也是在追问：谁进入记录，谁被代表，谁能够纠正系统。"
 }
