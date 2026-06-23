@@ -1,0 +1,314 @@
+{
+  "date": "2026-06-22",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "预警、信任与自动化权力：核查、禽流感、热浪照护、文化档案与AI治理",
+  "sourcePolicy": "本期采用用户指定来源池中可核验发布日期与原文链接的报道；8条来源均为 The Guardian。正文采用直接叙述，来源统一列于文末。",
+  "introChinese": "今天的小报关键词是：“verification, care, and automated power（核查、照护与自动化权力）”。国际谈判需要核查机制，禽流感与热浪把公共卫生和照护压力推到前台，女性身体经验继续进入制度审查，文化机构在保存记忆，而 AI 与面部识别则让自动化权力变得更日常。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "伊朗同意联合国核查人员返回：协议能否被信任，取决于如何被核查",
+          "summaryChinese": "伊朗与美国达成协议框架的一部分，是允许联合国核查人员返回伊朗。其他措施包括美国解除对伊朗石油出口的制裁，以及重新开放霍尔木兹海峡。外交协议不是写在纸上就自动成立，它需要可验证的机制、持续沟通和各方愿意承担政治风险。核查在这里不是技术细节，而是信任的基础设施。",
+          "correspondingEnglish": "Iran agreed to allow UN nuclear inspectors to return as part of an agreement with the United States. Other measures include lifting sanctions on Iranian oil exports and reopening the Strait of Hormuz. A diplomatic agreement does not become real simply because it is written down. It needs verification, communication and political risk-taking. Inspection is not a minor technical detail. It is infrastructure for trust.",
+          "englishExpressions": [
+            {
+              "expression": "nuclear inspector",
+              "meaningChinese": "核查人员",
+              "example": "Nuclear inspectors returned to verify the agreement."
+            },
+            {
+              "expression": "lift sanctions",
+              "meaningChinese": "解除制裁",
+              "example": "The deal would lift sanctions on oil exports."
+            },
+            {
+              "expression": "verification mechanism",
+              "meaningChinese": "核查机制",
+              "example": "A verification mechanism can make an agreement more credible."
+            }
+          ],
+          "studyNote": "verification 常用于核协议、选举、数据和新闻核查语境，强调“可被证实”。"
+        },
+        {
+          "title": "西澳家禽场因H5N1风险封锁：疾病预警进入食物系统",
+          "summaryChinese": "西澳大利亚确认第二只野鸟死于 H5N1 禽流感后，家禽生产商 Ingham’s 宣布相关家禽场进入完全封锁。禽流感风险不只属于野生动物保护，它会快速牵动农场、生物安全、供应链、食品价格和公众心理。一次野鸟检测结果，可能让整个食物系统进入防御状态。",
+          "correspondingEnglish": "Poultry farms in Western Australia were locked down after a second wild bird tested positive for H5N1 bird flu. The response shows how an animal disease can quickly affect farms, biosecurity, supply chains, food prices and public confidence. A single warning from wildlife monitoring can push a food system into defensive mode.",
+          "englishExpressions": [
+            {
+              "expression": "poultry farm",
+              "meaningChinese": "家禽养殖场",
+              "example": "The poultry farm was locked down after bird flu was detected."
+            },
+            {
+              "expression": "wild bird",
+              "meaningChinese": "野鸟",
+              "example": "A wild bird tested positive for H5N1."
+            },
+            {
+              "expression": "food system",
+              "meaningChinese": "食物系统",
+              "example": "Disease warnings can disrupt the food system."
+            }
+          ],
+          "studyNote": "lock down 在公共卫生语境中既可指城市封锁，也可指机构、农场或设施进入封闭管理。"
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "印度热浪迫使学校停课：气候危机如何把女性挤出劳动市场",
+          "summaryChinese": "印度热浪导致学校关闭或转为线上课程，许多工作母亲被迫留在家中或更换工作。气候危机并不是性别中立的：当学校、托育和工作时间被极端天气打乱，承担照护劳动的人往往先失去收入和职业连续性。热浪不仅考验电力和降温设施，也考验社会是否承认照护本身是一种基础设施。",
+          "correspondingEnglish": "Heatwaves in India are shutting schools or pushing classes online, forcing many working mothers to stay home or change jobs. The climate crisis is not gender-neutral. When schools, childcare and working hours are disrupted by extreme heat, people who carry care work often lose income and career continuity first. Heatwaves test not only power grids and cooling systems, but also whether care is treated as infrastructure.",
+          "englishExpressions": [
+            {
+              "expression": "gender-neutral",
+              "meaningChinese": "性别中立的",
+              "example": "The effects of climate change are not gender-neutral."
+            },
+            {
+              "expression": "care work",
+              "meaningChinese": "照护劳动",
+              "example": "Care work often becomes invisible in economic debates."
+            },
+            {
+              "expression": "career continuity",
+              "meaningChinese": "职业连续性",
+              "example": "School closures can interrupt career continuity for mothers."
+            }
+          ],
+          "studyNote": "care work 是性别研究和劳动经济中非常重要的词，既包括有偿也包括无偿照护。"
+        },
+        {
+          "title": "诺丁汉NHS产科丑闻报告：医疗系统中的伤害如何被听见",
+          "summaryChinese": "诺丁汉 NHS 产科丑闻报告披露严重失误，一些家庭将报告视为里程碑时刻，也有人感到痛苦和复杂。产科伤害常常被包裹在专业术语、程序延误和机构防御中，直到幸存者和家属不断发声，才被迫进入公共记录。医疗问责不只是找出错误，也是在承认那些曾被忽视的身体经验。",
+          "correspondingEnglish": "A report into the Nottingham NHS maternity scandal revealed severe failings. Some families see the report as a landmark moment, while others find it bittersweet and traumatic. Harm in maternity care is often hidden behind professional language, delays and institutional defensiveness. Accountability means not only identifying errors, but also recognizing bodily experiences that were ignored.",
+          "englishExpressions": [
+            {
+              "expression": "maternity scandal",
+              "meaningChinese": "产科丑闻",
+              "example": "The maternity scandal raised questions about patient safety."
+            },
+            {
+              "expression": "institutional defensiveness",
+              "meaningChinese": "机构防御心态",
+              "example": "Institutional defensiveness can delay accountability."
+            },
+            {
+              "expression": "bodily experience",
+              "meaningChinese": "身体经验",
+              "example": "Bodily experience must be taken seriously in healthcare."
+            }
+          ],
+          "studyNote": "landmark moment 表示“具有标志性意义的时刻”，常用于法律、医疗、社会运动。"
+        }
+      ]
+    },
+    {
+      "id": "art-media",
+      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "items": [
+        {
+          "title": "Frida Kahlo展览争议：偶像光环会不会遮住艺术本身",
+          "summaryChinese": "Tate Modern 的 Frida Kahlo 展览引发评论：展览似乎更强调她的偶像地位，而不是给观众足够机会深入观看她的作品。Kahlo 的形象早已进入时尚、流行文化和商品系统，但艺术馆真正要处理的难题是：如何在不消费痛苦、不简化身份的情况下，让作品重新说话。",
+          "correspondingEnglish": "A review of a Tate Modern exhibition on Frida Kahlo argues that the show leans too heavily on her iconic status and gives too little space to the art itself. Kahlo’s image has entered fashion, pop culture and commerce. The harder museum task is to let the work speak without turning pain and identity into simplified spectacle.",
+          "englishExpressions": [
+            {
+              "expression": "iconic status",
+              "meaningChinese": "偶像地位；标志性地位",
+              "example": "The exhibition focuses heavily on her iconic status."
+            },
+            {
+              "expression": "self-portraiture",
+              "meaningChinese": "自画像创作",
+              "example": "Kahlo transformed self-portraiture into psychological revelation."
+            },
+            {
+              "expression": "simplified spectacle",
+              "meaningChinese": "被简化的景观",
+              "example": "Museums should avoid turning identity into simplified spectacle."
+            }
+          ],
+          "studyNote": "spectacle 在文化评论中常带批判意味，指被包装成可观看、可消费的景观。"
+        },
+        {
+          "title": "Mona新图书馆开放：从莎士比亚初版到Bowie手稿，收藏也是一种世界观",
+          "summaryChinese": "澳大利亚 Mona 博物馆的新图书馆 Phrontisterion 开放，收藏约3万本书和文献，其中包括莎士比亚 First Folio 与 David Bowie 手写材料。图书馆不是中性的储藏室，它会通过选择、分类和展示，说明一个机构认为什么值得保存、谁的创造力值得被放进历史。",
+          "correspondingEnglish": "Mona’s new library, Phrontisterion, has opened in Hobart with about 30,000 books and documents, including a Shakespeare First Folio and David Bowie’s handwriting. A library is not a neutral storehouse. Through selection, classification and display, it shows what an institution believes is worth preserving and whose creativity belongs in history.",
+          "englishExpressions": [
+            {
+              "expression": "rare book collection",
+              "meaningChinese": "珍本书收藏",
+              "example": "The library includes a rare book collection."
+            },
+            {
+              "expression": "cultural archive",
+              "meaningChinese": "文化档案",
+              "example": "A cultural archive shapes what future generations can remember."
+            },
+            {
+              "expression": "worth preserving",
+              "meaningChinese": "值得保存的",
+              "example": "Institutions decide what is worth preserving."
+            }
+          ],
+          "studyNote": "archive 不只是名词“档案”，也可作为动词，表示保存、归档并赋予可被查阅的位置。"
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "人工智能与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "伦敦警方扩大实时面部识别：公共空间变成数字排队列",
+          "summaryChinese": "伦敦大都会警察计划在圣诞节前把实时面部识别扩展到伦敦市中心，明年还会进入更多地区。批评者警告，这可能让数万人被迫进入“数字警察列队”。这条新闻的核心不是某个摄像头，而是公共空间的默认状态正在改变：经过街道，也可能意味着被自动扫描、比对和归档。",
+          "correspondingEnglish": "The Metropolitan Police plans to expand live facial recognition into central London by Christmas, with more areas to follow next year. Critics warn that tens of thousands of people could be forced into a digital police lineup. The issue is not only cameras. It is a change in the default condition of public space: walking through a street may mean being scanned, matched and recorded.",
+          "englishExpressions": [
+            {
+              "expression": "live facial recognition",
+              "meaningChinese": "实时面部识别",
+              "example": "Live facial recognition is expanding into central London."
+            },
+            {
+              "expression": "public space",
+              "meaningChinese": "公共空间",
+              "example": "Surveillance can change how people use public space."
+            },
+            {
+              "expression": "digital police lineup",
+              "meaningChinese": "数字警察列队；被算法识别系统排查",
+              "example": "Critics described the system as a digital police lineup."
+            }
+          ],
+          "studyNote": "lineup 原指警方让目击者辨认嫌疑人的列队；digital police lineup 是一个强烈的隐喻。"
+        },
+        {
+          "title": "AI律师赢下英格兰法院案件：法律自动化仍离不开人的责任",
+          "summaryChinese": "一名 HR 顾问使用 Garfield AI 赢得英格兰法院案件，被称为可能的法律首例。参与案件的律师强调，庭审中的辩护仍然“根本上是人的”。AI 法律工具正在降低部分法律服务门槛，但也提出新问题：谁审核材料，谁承担错误后果，谁能获得技术辅助，而谁会被更复杂的系统排除在外？",
+          "correspondingEnglish": "An HR consultant won an English court case using Garfield AI, in what appears to be a legal first. A barrister involved said the advocacy at trial remained fundamentally human. AI legal tools may lower barriers to some legal services, but they also raise questions about review, responsibility, access and exclusion.",
+          "englishExpressions": [
+            {
+              "expression": "AI lawyer",
+              "meaningChinese": "AI律师；AI法律工具",
+              "example": "An AI lawyer helped prepare material for the case."
+            },
+            {
+              "expression": "legal first",
+              "meaningChinese": "法律首例",
+              "example": "The case was described as a legal first."
+            },
+            {
+              "expression": "human accountability",
+              "meaningChinese": "人的问责；人类责任",
+              "example": "AI tools still require human accountability."
+            }
+          ],
+          "studyNote": "fundamentally human 表示“从根本上仍然属于人的行为/判断”。"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows that trust depends on systems of verification and care. A nuclear deal needs inspectors. A food system needs early warning. Heatwaves reveal who carries unpaid care work, while maternity scandals show what happens when bodily experience is ignored. Culture preserves memory through exhibitions and libraries, and technology reshapes public life through facial recognition and AI legal tools.",
+    "chinese": "今天的新闻让我们看到，信任依赖核查与照护系统。核协议需要核查人员，食物系统需要早期预警；热浪揭示谁承担无偿照护劳动，产科丑闻说明身体经验被忽视会造成什么后果。文化通过展览和图书馆保存记忆，而技术则通过面部识别和AI法律工具重塑公共生活。"
+  },
+  "keywords": [
+    {
+      "word": "verification",
+      "meaning": "核查；确认某事真实、可靠或合规的过程",
+      "example": "Verification is essential to a credible nuclear deal."
+    },
+    {
+      "word": "biosecurity",
+      "meaning": "生物安全；防止疾病或有害生物传播的措施",
+      "example": "Biosecurity became urgent after H5N1 was detected."
+    },
+    {
+      "word": "care work",
+      "meaning": "照护劳动；照顾儿童、老人、病人或家庭运转的劳动",
+      "example": "Heatwaves can increase unpaid care work."
+    },
+    {
+      "word": "cultural archive",
+      "meaning": "文化档案；保存并组织文化记忆的材料与机构",
+      "example": "A cultural archive decides what future generations can remember."
+    },
+    {
+      "word": "live facial recognition",
+      "meaning": "实时面部识别；在公共场所即时扫描并匹配人脸的技术",
+      "example": "Live facial recognition raises questions about public space."
+    },
+    {
+      "word": "human accountability",
+      "meaning": "人的问责；人在技术系统中的责任承担",
+      "example": "AI tools still require human accountability."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "A nuclear deal needs inspectors, and a food system needs early warning.",
+    "analysisChinese": "这个句子用并列结构把两个看似不同的系统放在一起：nuclear deal 与 food system。needs 重复出现，强调制度要被信任，必须有对应的核查或预警机制。"
+  },
+  "reflection": {
+    "english": "Trust is not a feeling alone; it is built through systems that can notice, verify and respond.",
+    "chinese": "今天最想留下的一句话是：信任不只是感觉，它是由能够发现、核查并回应问题的系统慢慢建成的。"
+  },
+  "tags": [
+    "verification",
+    "Iran",
+    "UN inspectors",
+    "H5N1",
+    "biosecurity",
+    "heatwaves",
+    "care work",
+    "maternity scandal",
+    "Frida Kahlo",
+    "cultural archive",
+    "Mona",
+    "facial recognition",
+    "AI lawyer",
+    "public space",
+    "human accountability"
+  ],
+  "sources": [
+    {
+      "label": "The Guardian — Iran agrees to UN nuclear inspectors’ return as part of agreement with US",
+      "url": "https://www.theguardian.com/world/2026/jun/22/iran-us-talks-progress-pakistan-qatar-lebanon-israel"
+    },
+    {
+      "label": "The Guardian — Western Australian poultry farms locked down as second wild bird dies from H5N1 bird flu",
+      "url": "https://www.theguardian.com/world/2026/jun/22/h5n1-bird-flu-australia-wild-birds-wa-poultry-farms-locked-down"
+    },
+    {
+      "label": "The Guardian — How India’s heatwaves are shutting schools – and pushing women out of the workforce",
+      "url": "https://www.theguardian.com/global-development/2026/jun/22/how-india-heatwaves-shutting-schools-pushing-women-out-of-the-workforce"
+    },
+    {
+      "label": "The Guardian — ‘Truly horrific’: the stories of five people affected by the NHS maternity scandal",
+      "url": "https://www.theguardian.com/society/2026/jun/22/nhs-maternity-scandal-nottingham-report-five-stories"
+    },
+    {
+      "label": "The Guardian — Frida: The Making of an Icon review",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/22/frida-the-making-of-an-icon-review-tate-modern"
+    },
+    {
+      "label": "The Guardian — From a Shakespeare First Folio to Bowie’s handwriting: inside Mona’s new $100m library",
+      "url": "https://www.theguardian.com/artanddesign/2026/jun/22/phrontisteriona-mona-hobart-david-walsh-library-book-collection-shakespeare-bowie"
+    },
+    {
+      "label": "The Guardian — Met to expand use of live facial recognition into central London by Christmas",
+      "url": "https://www.theguardian.com/technology/2026/jun/23/met-to-expand-live-facial-recognition-central-london"
+    },
+    {
+      "label": "The Guardian — HR consultant wins English court case using AI lawyer in apparent legal first",
+      "url": "https://www.theguardian.com/technology/2026/jun/22/artificial-intelligence-law-firm-wins-court-case-in-england-for-first-time"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月22日\n\n今天的小报关键词是：“verification, care, and automated power（核查、照护与自动化权力）”。国际谈判需要核查机制，禽流感与热浪把公共卫生和照护压力推到前台，女性身体经验继续进入制度审查，文化机构在保存记忆，而 AI 与面部识别则让自动化权力变得更日常。\n\n★ 1. Global News｜全球新闻\n\n伊朗同意联合国核查人员返回：协议能否被信任，取决于如何被核查\n西澳家禽场因H5N1风险封锁：疾病预警进入食物系统\n\n★ 2. Gender / Culture｜性别与文化\n\n印度热浪迫使学校停课：气候危机如何把女性挤出劳动市场\n诺丁汉NHS产科丑闻报告：医疗系统中的伤害如何被听见\n\n★ 3. Art / Fashion / Media｜艺术、时尚与媒体\n\nFrida Kahlo展览争议：偶像光环会不会遮住艺术本身\nMona新图书馆开放：从莎士比亚初版到Bowie手稿，收藏也是一种世界观\n\n★ 4. AI / Tech｜人工智能与科技\n\n伦敦警方扩大实时面部识别：公共空间变成数字排队列\nAI律师赢下英格兰法院案件：法律自动化仍离不开人的责任\n\n★ Closing Thought｜今日收束\n\n信任不只是感觉，它是由能够发现、核查并回应问题的系统慢慢建成的。"
+}

@@ -1,6 +1,14 @@
 [
   {
     "date": "2026-06-23",
+    "title": "Published June 22 briefing",
+    "description": "Added the June 22 Daily Compass from eight date-checked Guardian reports on Iran verification, H5N1 biosecurity, Indian heatwaves and care work, the Nottingham maternity scandal, Frida Kahlo's exhibition politics, Mona's new library, live facial recognition, and AI legal tools.",
+    "type": "content",
+    "relatedDate": "2026-06-22",
+    "link": "briefing.html?date=2026-06-22"
+  },
+  {
+    "date": "2026-06-23",
     "title": "整理六月小报归档与移动端阅读体验",
     "description": "Consolidated the June 1–15 regenerated briefings, added the June 23 briefing, refreshed the archive index, and improved the briefing detail page so English Expression tables become stacked vocabulary cards on mobile without breaking phrases such as preliminary result, runoff election, and peace talks.",
     "type": "site",
