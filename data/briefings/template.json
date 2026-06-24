@@ -4,7 +4,33 @@
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
   "theme": "",
   "introChinese": "",
-  "sections": [],
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": []
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": []
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": []
+    },
+    {
+      "id": "books-culture-arts",
+      "heading": "书籍、文化与艺术 / Books, Culture & Arts",
+      "items": []
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": []
+    }
+  ],
   "englishParagraph": {
     "english": "",
     "chinese": ""

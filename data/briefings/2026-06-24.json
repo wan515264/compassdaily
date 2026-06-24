@@ -1,0 +1,418 @@
+{
+  "date": "2026-06-24",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "热浪、市场信心、照护问责、文化记忆与AI责任",
+  "introChinese": "今天的小报关键词是：risk and responsibility（风险与责任）。欧洲高温、市场波动、产科照护危机、女性历史书写与 AI 问责都在提醒我们：现代社会的风险并不只来自突发事件，也来自基础设施、制度设计和责任分配。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "欧洲热浪扩大：高温让基础设施与公共照护承压",
+          "summaryChinese": "The Guardian 6月24日实时报道，欧洲多地遭遇严重热浪，预计约9400万人当天将经历35°C以上高温。英国发布罕见红色高温警报，法国北部约6.8万户家庭断电，意大利16座城市进入警戒状态。这类新闻不仅是天气报道，也关乎能源系统、城市基础设施、学校、养老院和户外劳动者如何承受极端气候。",
+          "correspondingEnglish": "A severe heatwave is affecting large parts of Europe, with an estimated 94 million people expected to experience temperatures above 35°C. The UK issued a rare red heat alert, thousands of households lost electricity in northern France, and Italian cities placed heat warnings in force. The story shows how climate stress can expose weaknesses in energy systems, public services and everyday infrastructure.",
+          "englishExpressions": [
+            {
+              "expression": "severe heatwave",
+              "meaningChinese": "严重热浪",
+              "example": "A severe heatwave is affecting large parts of Europe."
+            },
+            {
+              "expression": "red heat alert",
+              "meaningChinese": "红色高温警报",
+              "example": "The UK issued a rare red heat alert."
+            },
+            {
+              "expression": "public services",
+              "meaningChinese": "公共服务",
+              "example": "Extreme heat can put pressure on public services."
+            },
+            {
+              "expression": "everyday infrastructure",
+              "meaningChinese": "日常基础设施",
+              "example": "Climate stress can expose weaknesses in everyday infrastructure."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Europe heatwave",
+              "url": "https://www.theguardian.com/world/live/2026/jun/24/europe-heatwave-live-news-updates-uk-record-breaking-temperatures-italy-red-alert"
+            },
+            {
+              "label": "The Guardian｜Workers in heat",
+              "url": "https://www.theguardian.com/environment/2026/jun/24/as-temperatures-soar-in-baking-britain-how-are-workers-coping-in-the-heat"
+            }
+          ]
+        },
+        {
+          "title": "车辆变大带来安全风险：城市空间也需要被重新计算",
+          "summaryChinese": "The Guardian 报道，一项研究警告，欧洲车辆持续变长、变高、变宽的趋势可能到2040年每年额外导致2600起交通死亡。所谓“carspreading”不只是消费偏好问题，也涉及道路设计、行人安全、碳排放与公共空间如何被分配。",
+          "correspondingEnglish": "A new study warns that the growing size of cars in Europe could lead to thousands of additional crash deaths each year by 2040. The issue is not only about consumer choice. Larger vehicles affect road safety, pedestrian risk, emissions and the way public space is shared.",
+          "englishExpressions": [
+            {
+              "expression": "road safety",
+              "meaningChinese": "道路安全",
+              "example": "Larger vehicles can create new road safety risks."
+            },
+            {
+              "expression": "pedestrian risk",
+              "meaningChinese": "行人风险",
+              "example": "Vehicle size can increase pedestrian risk."
+            },
+            {
+              "expression": "public space",
+              "meaningChinese": "公共空间",
+              "example": "Transport policy shapes how public space is shared."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Carspreading study",
+              "url": "https://www.theguardian.com/environment/2026/jun/24/carspreading-vehicle-size-crash-deaths-study"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "英镑走低、油价回落：市场正在重新定价风险",
+          "summaryChinese": "The Guardian 商业实时报道显示，英镑兑美元跌至今年低点，同时油价降至伊朗战争开始以来的最低水平。市场变化并不是单纯的数字波动，它反映投资者如何理解地缘风险、能源供应、货币信心和企业估值。对读者来说，金融新闻的重点不是买卖建议，而是理解风险如何被价格表达出来。",
+          "correspondingEnglish": "The pound fell to its lowest level of the year against the dollar, while oil prices dropped to their lowest point since the Iran war began. These market moves are not only numbers on a screen. They show how investors are pricing geopolitical risk, energy supply and confidence in currencies and companies.",
+          "englishExpressions": [
+            {
+              "expression": "market moves",
+              "meaningChinese": "市场变动",
+              "example": "Market moves can reveal how investors understand risk."
+            },
+            {
+              "expression": "geopolitical risk",
+              "meaningChinese": "地缘政治风险",
+              "example": "Oil prices often respond to geopolitical risk."
+            },
+            {
+              "expression": "currency confidence",
+              "meaningChinese": "货币信心",
+              "example": "Currency confidence can change quickly during uncertainty."
+            },
+            {
+              "expression": "price risk",
+              "meaningChinese": "为风险定价",
+              "example": "Markets try to price risk before the full outcome is known."
+            }
+          ],
+          "studyNote": "Finance note\n金融与市场栏目只解释经济含义，不提供投资建议。读这类新闻时，可以问：价格变化背后是哪一种风险、信心或预期在移动？",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Business live",
+              "url": "https://www.theguardian.com/business/live/2026/jun/24/elon-musk-trillionaire-status-spacex-and-tesla-shares-stock-markets-ai-bonds-pound-ftse-live-news-updates"
+            }
+          ]
+        },
+        {
+          "title": "仓储地产并购遭拒：物流基础设施也有自己的价值战争",
+          "summaryChinese": "The Guardian 报道，英国仓储地产公司 Segro 拒绝了美国竞争对手 Prologis 提出的126亿英镑收购报价，认为全股票方案远低于自身价值判断。仓库、物流园区和配送中心看似不显眼，却是电商、全球供应链和城市消费背后的关键基础设施。",
+          "correspondingEnglish": "UK warehouse landlord Segro rejected a £12.6bn takeover offer from its US rival Prologis, saying the proposal fell short of its view of the company’s value. Warehouses may look ordinary, but they are part of the infrastructure behind e-commerce, supply chains and urban consumption.",
+          "englishExpressions": [
+            {
+              "expression": "takeover offer",
+              "meaningChinese": "收购报价",
+              "example": "The company rejected a takeover offer from a rival."
+            },
+            {
+              "expression": "company valuation",
+              "meaningChinese": "公司估值",
+              "example": "The dispute centered on company valuation."
+            },
+            {
+              "expression": "logistics infrastructure",
+              "meaningChinese": "物流基础设施",
+              "example": "Warehouses are part of logistics infrastructure."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Segro takeover",
+              "url": "https://www.theguardian.com/business/2026/jun/24/uk-warehouse-landlord-segro-rejects-takeover-offer-us-rival-prologis"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "Nottingham 产科报告：照护失败也是制度失败",
+          "summaryChinese": "The Guardian 实时报道 Donna Ockenden 关于 Nottingham University Hospitals NHS Trust 的产科审查，报告发现超过500名女性和婴儿死亡或遭受严重伤害，与糟糕照护有关。家属呼吁公开调查，并称婴儿受到“缺乏尊严”的对待。这类新闻提醒我们，女性健康和生育照护不是私人问题，而是制度、资源、问责与尊严的问题。",
+          "correspondingEnglish": "A maternity review found that more than 500 women and babies died or suffered serious harm because of poor care at Nottingham University Hospitals NHS Trust. Families called for a public inquiry and said babies had been treated with an absence of dignity. The case shows that maternity care is not only a medical issue; it is also about systems, accountability and dignity.",
+          "englishExpressions": [
+            {
+              "expression": "maternity care",
+              "meaningChinese": "产科照护",
+              "example": "Maternity care depends on safe systems and trained staff."
+            },
+            {
+              "expression": "serious harm",
+              "meaningChinese": "严重伤害",
+              "example": "The review found many cases of serious harm."
+            },
+            {
+              "expression": "public inquiry",
+              "meaningChinese": "公开调查",
+              "example": "Families called for a public inquiry."
+            },
+            {
+              "expression": "absence of dignity",
+              "meaningChinese": "缺乏尊严",
+              "example": "The phrase absence of dignity describes a failure of care."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Ockenden maternity review",
+              "url": "https://www.theguardian.com/society/live/2026/jun/24/ockenden-maternity-review-nottingham-university-hospitals-trust-nhs-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "title": "Lazio Women 孕期歧视裁决：职业体育里的劳动权利",
+          "summaryChinese": "The Guardian 报道，体育仲裁法庭裁定 Lazio Women 因球员 Maja Göthberg 怀孕而非法终止其效力关系，并要求俱乐部支付赔偿。这条新闻把性别平等从口号拉回劳动制度：怀孕不应成为职业机会被取消的理由。",
+          "correspondingEnglish": "The Court of Arbitration for Sport ruled that Lazio Women unlawfully ended Maja Göthberg’s time at the club because of her pregnancy and ordered the club to pay compensation. The ruling shows that gender equality in sport is also a question of labor rights, contracts and protection from discrimination.",
+          "englishExpressions": [
+            {
+              "expression": "pregnancy discrimination",
+              "meaningChinese": "孕期歧视",
+              "example": "The case centered on pregnancy discrimination."
+            },
+            {
+              "expression": "pay compensation",
+              "meaningChinese": "支付赔偿",
+              "example": "The club was ordered to pay compensation."
+            },
+            {
+              "expression": "labor rights",
+              "meaningChinese": "劳动权利",
+              "example": "Pregnancy protection is part of labor rights."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Pregnancy discrimination ruling",
+              "url": "https://www.theguardian.com/football/2026/jun/24/lazio-women-cas-pregnancy-discrimination-ruling-maja-gothberg"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-culture-arts",
+      "heading": "书籍、文化与艺术 / Books, Culture & Arts",
+      "items": [
+        {
+          "title": "《Obstinate Daughters》：把美国革命中的女性重新写回历史",
+          "summaryChinese": "The Guardian 书评报道，新书《Obstinate Daughters》聚焦美国革命时期被边缘化的反叛女性，试图把长期被忽视的女性故事重新放回公共历史。这样的书籍新闻不只是出版消息，也是在追问：谁被写进国家记忆，谁被放在脚注里？",
+          "correspondingEnglish": "A new book, Obstinate Daughters, highlights rebellious women from the American Revolution whose stories have often been sidelined. The book is not only a work of history; it is also a reminder that national memory depends on who gets written into the story and who is left in the margins.",
+          "englishExpressions": [
+            {
+              "expression": "be sidelined",
+              "meaningChinese": "被边缘化",
+              "example": "Many women’s stories have been sidelined in official history."
+            },
+            {
+              "expression": "national memory",
+              "meaningChinese": "国家记忆",
+              "example": "Books can reshape national memory."
+            },
+            {
+              "expression": "write into history",
+              "meaningChinese": "写入历史",
+              "example": "The book writes forgotten women back into history."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Obstinate Daughters",
+              "url": "https://www.theguardian.com/books/2026/jun/24/obstinate-daughters-book-women-american-revolution"
+            }
+          ]
+        },
+        {
+          "title": "巴黎近40°C高温中的 Louis Vuitton：时装也在回应气候感受",
+          "summaryChinese": "The Guardian 时尚栏目报道，Pharrell Williams 的 Louis Vuitton 男装秀在巴黎近40°C高温中呈现海滩主题，而 Saint Laurent 模特则穿着修身西装。时装秀看似是美学事件，却也暴露了气候、身体、城市空间和奢侈品想象之间的关系。",
+          "correspondingEnglish": "Louis Vuitton brought a beach theme to Paris during near 40°C heat, while Saint Laurent models wore skinny suits. The fashion moment is not only about style. It also reveals how climate, bodies, urban space and luxury imagination meet on the runway.",
+          "englishExpressions": [
+            {
+              "expression": "runway show",
+              "meaningChinese": "时装秀",
+              "example": "The runway show took place during intense heat."
+            },
+            {
+              "expression": "luxury imagination",
+              "meaningChinese": "奢侈品想象",
+              "example": "Fashion often sells a form of luxury imagination."
+            },
+            {
+              "expression": "urban space",
+              "meaningChinese": "城市空间",
+              "example": "Runway shows can transform urban space."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Louis Vuitton heat",
+              "url": "https://www.theguardian.com/fashion/2026/jun/24/louis-vuitton-beach-paris-40c-heat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI聊天机器人误导用户，谁该负责？",
+          "summaryChinese": "The Guardian 刊登 Bruce Schneier 与 Nathan E Sanders 关于 AI 责任的文章，讨论如果聊天机器人在搜索摘要中误导用户，责任应该如何划分。文章提到德国法院认为 Google 应对其聊天机器人在搜索摘要中说出的内容负责。AI治理的核心问题正在从“能不能生成”转向“出错时谁负责”。",
+          "correspondingEnglish": "A Guardian article asks who should be responsible when an AI chatbot misleads users. It discusses a German court finding that Google was responsible for what its chatbot said in search summaries. The key question in AI governance is shifting from what systems can generate to who is accountable when they cause harm.",
+          "englishExpressions": [
+            {
+              "expression": "mislead users",
+              "meaningChinese": "误导用户",
+              "example": "An AI chatbot can mislead users if its summary is wrong."
+            },
+            {
+              "expression": "be responsible for",
+              "meaningChinese": "对……负责",
+              "example": "Companies should be responsible for automated outputs."
+            },
+            {
+              "expression": "search summary",
+              "meaningChinese": "搜索摘要",
+              "example": "Many people rely on search summaries for quick answers."
+            },
+            {
+              "expression": "cause harm",
+              "meaningChinese": "造成伤害",
+              "example": "Accountability matters when automated systems cause harm."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜AI accountability",
+              "url": "https://www.theguardian.com/commentisfree/2026/jun/24/ai-errors-companies-responsibility"
+            }
+          ]
+        },
+        {
+          "title": "Cory Doctorow 谈 AI 泡沫：技术承诺与权力幻想",
+          "summaryChinese": "The Guardian 采访作家 Cory Doctorow，讨论 Elon Musk、AI 泡沫以及企业管理者对自动化的幻想。Doctorow 曾提出“enshittification”一词，用来描述平台逐渐牺牲用户体验以服务资本和控制的过程。这个角度提醒我们，AI不只是技术工具，也是一套关于效率、管理和权力的叙事。",
+          "correspondingEnglish": "Writer Cory Doctorow discussed Elon Musk, the AI bubble and the fantasies of bosses who want technology to deliver control and efficiency. Doctorow, who coined the term “enshittification,” argues that platforms often degrade as they prioritize power and profit. The interview frames AI not only as a tool, but also as a story about management and control.",
+          "englishExpressions": [
+            {
+              "expression": "AI bubble",
+              "meaningChinese": "AI泡沫",
+              "example": "Critics warn that the AI bubble may create unrealistic expectations."
+            },
+            {
+              "expression": "prioritize power and profit",
+              "meaningChinese": "优先考虑权力和利润",
+              "example": "Some platforms prioritize power and profit over users."
+            },
+            {
+              "expression": "management and control",
+              "meaningChinese": "管理与控制",
+              "example": "Automation can become a tool of management and control."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Cory Doctorow on AI",
+              "url": "https://www.theguardian.com/technology/2026/jun/24/cory-doctorow-on-elon-musk-ai-bubble-bosses-cruel-fantasies"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s stories show that responsibility is often distributed across systems. A heatwave becomes dangerous when energy grids, schools and workplaces are not prepared. A market movement reflects how investors price fear and confidence. A maternity scandal reveals failures of care, while an AI error raises questions about corporate accountability. To read the news well, we need to ask not only what happened, but also which systems made harm possible and who has the power to repair them.",
+    "chinese": "今天的新闻让我们看到，责任常常分布在系统之中。当电网、学校和工作场所没有准备好时，热浪才会变得危险。市场波动反映投资者如何为恐惧与信心定价。产科丑闻暴露照护失败，而 AI 错误则引出企业问责问题。要真正读懂新闻，我们不只要问发生了什么，也要问哪些系统让伤害成为可能，以及谁有能力修复它们。"
+  },
+  "keywords": [
+    {
+      "word": "responsibility",
+      "meaning": "责任；责任归属",
+      "example": "Responsibility becomes complicated when many systems are involved."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑系统运行的条件",
+      "example": "Extreme heat can expose weak infrastructure."
+    },
+    {
+      "word": "accountability",
+      "meaning": "问责；可追责性",
+      "example": "AI systems require clear accountability."
+    },
+    {
+      "word": "market sentiment",
+      "meaning": "市场情绪",
+      "example": "Market sentiment changed after oil prices fell."
+    },
+    {
+      "word": "public inquiry",
+      "meaning": "公开调查",
+      "example": "Families called for a public inquiry into maternity care."
+    },
+    {
+      "word": "national memory",
+      "meaning": "国家记忆；公共历史叙事",
+      "example": "Books can reshape national memory."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "To read the news well, we need to ask not only what happened, but also which systems made harm possible and who has the power to repair them.",
+    "analysisChinese": "这个句子用 not only ... but also ... 建立两层阅读任务：第一层是 what happened（发生了什么），第二层是 which systems made harm possible and who has the power to repair them（哪些系统造成伤害，以及谁有能力修复）。适合用来训练从事件阅读转向结构阅读。"
+  },
+  "reflection": {
+    "english": "A headline tells us where to look; systems thinking helps us understand why it matters.",
+    "chinese": "今天最想留下的一句话是：头条新闻告诉我们该看哪里，而系统性思考帮助我们理解它为什么重要。"
+  },
+  "tags": [
+    "heatwave",
+    "infrastructure",
+    "finance",
+    "markets",
+    "oil prices",
+    "maternity care",
+    "pregnancy discrimination",
+    "books",
+    "fashion",
+    "AI",
+    "accountability",
+    "systems"
+  ],
+  "sources": [
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    }
+  ],
+  "rawText": "推送日期｜2026年6月24日\n\n今天的小报关键词是：risk and responsibility（风险与责任）。欧洲高温、市场波动、产科照护危机、女性历史书写与 AI 问责都在提醒我们：现代社会的风险并不只来自突发事件，也来自基础设施、制度设计和责任分配。"
+}

@@ -6,15 +6,26 @@ const LEGACY_THEME_KEYS = ["daily-compass.theme", "daily-compass.home-theme"];
 
 const SITE_TITLE = "The Daily Compass｜每日罗盘";
 const SECTION_LABELS = {
+  "global-news": "全球新闻 / Global News",
+  "finance-markets": "金融与市场 / Finance & Markets",
+  "gender-culture": "性别与文化 / Gender & Culture",
+  "books-culture-arts": "书籍、文化与艺术 / Books, Culture & Arts",
+  "art-media": "书籍、文化与艺术 / Books, Culture & Arts",
+  "ai-tech": "AI 与科技 / AI & Tech",
   "Global News｜全球新闻": "全球新闻 / Global News",
+  "Finance & Markets｜金融与市场": "金融与市场 / Finance & Markets",
+  "Finance / Markets｜金融与市场": "金融与市场 / Finance & Markets",
   "Gender & Culture｜性别与文化": "性别与文化 / Gender & Culture",
   "Gender / Culture｜性别与文化": "性别与文化 / Gender & Culture",
-  "Art, Fashion & Media｜艺术、时尚与媒介": "艺术、时尚与媒介 / Art, Fashion & Media",
-  "Art / Fashion / Media｜艺术、时尚与媒介": "艺术、时尚与媒介 / Art, Fashion & Media",
-  "Art / Fashion / Media｜艺术、时尚与媒体": "艺术、时尚与媒体 / Art, Fashion & Media",
+  "Art, Fashion & Media｜艺术、时尚与媒介": "书籍、文化与艺术 / Books, Culture & Arts",
+  "Art / Fashion / Media｜艺术、时尚与媒介": "书籍、文化与艺术 / Books, Culture & Arts",
+  "Art / Fashion / Media｜艺术、时尚与媒体": "书籍、文化与艺术 / Books, Culture & Arts",
+  "Books, Culture & Arts｜书籍、文化与艺术": "书籍、文化与艺术 / Books, Culture & Arts",
+  "Books / Culture / Arts｜书籍、文化与艺术": "书籍、文化与艺术 / Books, Culture & Arts",
   "AI & Tech｜AI 与科技": "AI 与科技 / AI & Tech",
   "AI / Tech｜AI 与科技": "AI 与科技 / AI & Tech",
 };
+const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-culture-arts", "ai-tech"];
 
 const briefingDetail = document.querySelector("#briefingDetail");
 const wordbook = document.querySelector("#wordbook");
@@ -63,8 +74,22 @@ async function loadBriefing() {
   return fetchJson(`data/briefings/${sortedIndex[0].file || `${sortedIndex[0].date}.json`}`);
 }
 
-function displaySectionHeading(heading = "") {
-  return SECTION_LABELS[heading] || heading;
+function normalizeSectionId(section = {}) {
+  const raw = `${section.id || ""} ${section.heading || ""}`.toLowerCase();
+  if (raw.includes("finance") || raw.includes("market") || raw.includes("金融") || raw.includes("市场")) return "finance-markets";
+  if (raw.includes("gender") || raw.includes("性别")) return "gender-culture";
+  if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("文化")) return "books-culture-arts";
+  if (raw.includes("ai") || raw.includes("tech") || raw.includes("科技")) return "ai-tech";
+  return "global-news";
+}
+
+function orderedSections(sections = []) {
+  return [...sections].sort((a, b) => SECTION_ORDER.indexOf(normalizeSectionId(a)) - SECTION_ORDER.indexOf(normalizeSectionId(b)));
+}
+
+function displaySectionHeading(section = {}) {
+  const normalizedId = normalizeSectionId(section);
+  return SECTION_LABELS[section.id] || SECTION_LABELS[section.heading] || SECTION_LABELS[normalizedId] || section.heading || "Briefing";
 }
 
 function renderExpressions(expressions = []) {
@@ -171,7 +196,7 @@ function renderSection(section) {
   const speakText = items.length ? items.map((item) => [item.title, item.summaryChinese].filter(Boolean).join(". ")).join(" ") : legacyText;
   return `
     <section class="detail-section">
-      <h3>${displaySectionHeading(section.heading)}</h3>
+      <h3>${displaySectionHeading(section)}</h3>
       ${section.summaryChinese ? `<p class="briefing-cn">${section.summaryChinese}</p>` : ""}
       ${itemMarkup}
       ${legacyMarkup}
@@ -219,7 +244,7 @@ function renderKeywordTable(keywords = []) {
 
 function renderBriefing(briefing) {
   document.title = `${SITE_TITLE} | ${briefing.date}`;
-  const sections = (briefing.sections || []).map(renderSection).join("");
+  const sections = orderedSections(briefing.sections || []).map(renderSection).join("");
 
   const sources = (briefing.sources || [])
     .map((source) => {

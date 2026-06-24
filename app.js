@@ -4,18 +4,42 @@ const THEME_KEY = "daily-compass-theme";
 const LEGACY_THEME_KEYS = ["daily-compass.home-theme", "daily-compass.theme"];
 
 const SECTION_LABELS = {
+  "global-news": "Global News｜全球新闻",
+  "finance-markets": "Finance & Markets｜金融与市场",
+  "gender-culture": "Gender & Culture｜性别与文化",
+  "books-culture-arts": "Books, Culture & Arts｜书籍、文化与艺术",
+  "art-media": "Books, Culture & Arts｜书籍、文化与艺术",
+  "ai-tech": "AI & Tech｜AI 与科技",
   "Global News｜全球新闻": "Global News｜全球新闻",
+  "Finance & Markets｜金融与市场": "Finance & Markets｜金融与市场",
+  "Finance / Markets｜金融与市场": "Finance & Markets｜金融与市场",
   "Gender & Culture｜性别与文化": "Gender & Culture｜性别与文化",
   "Gender / Culture｜性别与文化": "Gender & Culture｜性别与文化",
-  "Art, Fashion & Media｜艺术、时尚与媒介": "Art, Fashion & Media｜艺术、时尚与媒介",
-  "Art / Fashion / Media｜艺术、时尚与媒介": "Art, Fashion & Media｜艺术、时尚与媒介",
-  "Art / Fashion / Media｜艺术、时尚与媒体": "Art, Fashion & Media｜艺术、时尚与媒体",
+  "Art, Fashion & Media｜艺术、时尚与媒介": "Books, Culture & Arts｜书籍、文化与艺术",
+  "Art / Fashion / Media｜艺术、时尚与媒介": "Books, Culture & Arts｜书籍、文化与艺术",
+  "Art / Fashion / Media｜艺术、时尚与媒体": "Books, Culture & Arts｜书籍、文化与艺术",
+  "Books, Culture & Arts｜书籍、文化与艺术": "Books, Culture & Arts｜书籍、文化与艺术",
+  "Books / Culture / Arts｜书籍、文化与艺术": "Books, Culture & Arts｜书籍、文化与艺术",
   "AI & Tech｜AI 与科技": "AI & Tech｜AI 与科技",
   "AI / Tech｜AI 与科技": "AI & Tech｜AI 与科技",
 };
 
-const topicFallback = ["Global News｜全球新闻", "Gender & Culture｜性别与文化", "Art, Fashion & Media｜艺术、时尚与媒介", "AI & Tech｜AI 与科技"];
-const signalIcons = ["◎", "☾", "◉", "✶"];
+const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-culture-arts", "ai-tech"];
+const topicFallback = [
+  "Global News｜全球新闻",
+  "Finance & Markets｜金融与市场",
+  "Gender & Culture｜性别与文化",
+  "Books, Culture & Arts｜书籍、文化与艺术",
+  "AI & Tech｜AI 与科技",
+];
+const signalIcons = ["◎", "◇", "☾", "◉", "✶"];
+const signalFallbackText = [
+  "采集地缘政治、战争、气候与公共安全的最新动态",
+  "观察全球市场、通胀、央行、油价、商业、科技资本与经济不平等",
+  "观察性别议题、社会文化与群体声音",
+  "阅读文学、书籍、作者、出版、艺术、博物馆、时尚、媒体、电影与视觉文化",
+  "追踪技术发展、AI 应用、基础设施与数字社会议题",
+];
 const todayBriefing = document.querySelector("#todayBriefing");
 const archiveList = document.querySelector("#archiveList");
 const archiveSearch = document.querySelector("#archiveSearch");
@@ -78,8 +102,22 @@ async function loadBriefing(entry) {
   return fetchJson(`data/briefings/${entry.file || `${entry.date}.json`}`);
 }
 
+function normalizeSectionId(section = {}) {
+  const raw = `${section.id || ""} ${section.heading || ""}`.toLowerCase();
+  if (raw.includes("finance") || raw.includes("market") || raw.includes("金融") || raw.includes("市场")) return "finance-markets";
+  if (raw.includes("gender") || raw.includes("性别")) return "gender-culture";
+  if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("文化")) return "books-culture-arts";
+  if (raw.includes("ai") || raw.includes("tech") || raw.includes("科技")) return "ai-tech";
+  return "global-news";
+}
+
+function orderedSections(sections = []) {
+  return [...sections].sort((a, b) => SECTION_ORDER.indexOf(normalizeSectionId(a)) - SECTION_ORDER.indexOf(normalizeSectionId(b)));
+}
+
 function displaySectionLabel(section, index) {
-  return SECTION_LABELS[section.heading] || topicFallback[index] || section.heading || "Briefing";
+  const normalizedId = normalizeSectionId(section);
+  return SECTION_LABELS[section.id] || SECTION_LABELS[section.heading] || SECTION_LABELS[normalizedId] || topicFallback[index] || section.heading || "Briefing";
 }
 
 function trimText(text = "", maxLength = 360) {
@@ -137,15 +175,12 @@ function renderTags(tags = []) {
 }
 
 function renderTodayBriefing(briefing) {
-  const sections = (briefing.sections || []).slice(0, 4);
-  const signalRows = (sections.length ? sections : topicFallback.map((heading) => ({ heading }))).slice(0, 4)
+  const sections = orderedSections(briefing.sections || []).slice(0, 5);
+  const signalRows = (sections.length ? sections : topicFallback.map((heading) => ({ heading }))).slice(0, 5)
     .map((section, index) => {
       const [english, chinese = ""] = displaySectionLabel(section, index).split("｜");
       const preview = sectionPreview(section, [
-        "采集地缘政治、经济与气候的最新动态",
-        "观察性别议题、社会文化与群体声音",
-        "从美学、时尚与媒介看世界的想象与表达",
-        "追踪技术发展、AI 应用与数字社会议题",
+        ...signalFallbackText,
       ][index] || "");
       return `
         <div class="signal-row">
@@ -195,7 +230,17 @@ function archiveMatches(entry, query) {
   const dateParts = formatDateParts(entry.date);
   const compactDate = dateParts.monthDay.replace(/\s/g, "");
   const haystack = [entry.date, compactDate, dateParts.monthDay, entry.title, entry.theme, ...(entry.tags || [])].join(" ").toLowerCase();
-  return haystack.includes(query.toLowerCase());
+  const normalizedQuery = query.toLowerCase();
+  const aliases = {
+    finance: ["finance", "markets", "market", "economy", "business", "inflation", "central bank", "oil", "capital", "inequality"],
+    markets: ["finance", "markets", "market", "economy", "business", "inflation", "central bank", "oil", "capital", "inequality"],
+    economy: ["finance", "markets", "market", "economy", "business", "inflation", "central bank", "oil", "capital", "inequality"],
+    books: ["books", "literature", "authors", "publishing", "culture", "art", "arts", "fashion", "media", "film"],
+    literature: ["books", "literature", "authors", "publishing", "culture", "art", "arts", "fashion", "media", "film"],
+    arts: ["books", "literature", "authors", "publishing", "culture", "art", "arts", "fashion", "media", "film"],
+  };
+  const searchTerms = aliases[normalizedQuery] || [normalizedQuery];
+  return searchTerms.some((term) => haystack.includes(term));
 }
 
 function monthKey(dateString) {

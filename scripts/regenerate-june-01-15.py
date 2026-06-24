@@ -24,6 +24,14 @@ SECTION_CONFIG = {
             ("international concern", "国际关切", "The issue has become a source of international concern."),
         ],
     },
+    "finance-markets": {
+        "heading": "金融与市场 / Finance & Markets",
+        "expressions": [
+            ("market pressure", "市场压力", "Market pressure can affect public policy."),
+            ("economic inequality", "经济不平等", "Economic inequality shapes everyday opportunity."),
+            ("global economy", "全球经济", "The global economy depends on energy, trade and trust."),
+        ],
+    },
     "gender-culture": {
         "heading": "性别与文化 / Gender & Culture",
         "expressions": [
@@ -32,8 +40,8 @@ SECTION_CONFIG = {
             ("lived experience", "切身经验", "Policy debates should include lived experience."),
         ],
     },
-    "art-media": {
-        "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+    "books-culture-arts": {
+        "heading": "书籍、文化与艺术 / Books, Culture & Arts",
         "expressions": [
             ("cultural memory", "文化记忆", "Art can reshape cultural memory."),
             ("creative practice", "创作实践", "Creative practice responds to social change."),
@@ -51,7 +59,8 @@ SECTION_CONFIG = {
 }
 
 ART_SECTIONS = {"artanddesign", "books", "culture", "fashion", "film", "music", "stage", "television-and-radio", "tv-and-radio"}
-TECH_SECTIONS = {"technology", "science", "business"}
+FINANCE_SECTIONS = {"business", "money"}
+TECH_SECTIONS = {"technology", "science"}
 GENDER_TERMS = re.compile(r"\b(women|woman|female|gender|lgbt|queer|trans|mother|maternal|abortion|equality|care|health|family|girl)\b", re.I)
 TECH_TERMS = re.compile(r"\b(ai|artificial intelligence|tech|digital|data|platform|internet|robot|chip|climate|energy|science)\b", re.I)
 EXCLUDED_SECTIONS = {"sport", "football", "crosswords", "thefilter", "thefilter-us", "commentisfree", "opinion"}
@@ -116,7 +125,9 @@ def classify(item):
     text = f"{item['title']} {item['summary']}"
     section = item["section"]
     if section in ART_SECTIONS:
-        return "art-media"
+        return "books-culture-arts"
+    if section in FINANCE_SECTIONS:
+        return "finance-markets"
     if GENDER_TERMS.search(text) or section in {"society", "lifeandstyle", "education"}:
         return "gender-culture"
     if section in TECH_SECTIONS or TECH_TERMS.search(text):
@@ -144,8 +155,9 @@ def select_items(items):
 def build_item(item, section_id):
     section_intro = {
         "global-news": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
+        "finance-markets": "这篇报道关注市场、商业或宏观经济。阅读时要观察价格、资本、政策和不平等如何共同影响日常生活，而不是把它理解为投资建议。",
         "gender-culture": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-        "art-media": "这篇报道从艺术、时尚或媒体进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+        "books-culture-arts": "这篇报道从书籍、艺术、时尚、媒体或视觉文化进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
         "ai-tech": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
     }
     title_cn = f"Guardian报道｜{item['title']}"
@@ -182,11 +194,11 @@ def build_briefing(date, buckets):
         "title": "The Daily Compass｜每日罗盘",
         "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
         "theme": "公共生活、社会平等、文化表达与技术治理",
-        "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、性别文化、艺术媒体与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
+        "introChinese": "今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。这些报道跨越政治、金融市场、性别文化、书籍艺术与科技，但共同追问制度如何分配可见性、机会、风险与责任。",
         "sections": sections,
         "englishParagraph": {
-            "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Cultural debates determine whose experiences become visible. Art and media organize public memory, while technology changes access, labor and responsibility. Reading across these fields helps us ask not only what happened, but also which institutions made it possible, who carries the risks and who has the power to respond.",
-            "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，文化争论决定谁的经验能够被看见，艺术与媒体组织公共记忆，而技术则改变机会、劳动与责任。跨领域阅读帮助我们不只追问发生了什么，也追问哪些制度使它成为可能、谁承担风险，以及谁拥有回应的权力。",
+            "english": "Today’s stories show that public life is shaped by systems as much as by individual events. Political decisions influence security and trust. Markets reveal how capital and policy move through everyday life. Cultural debates determine whose experiences become visible, while books, art and media organize public memory. Technology changes access, labor and responsibility.",
+            "chinese": "今天的报道显示，公共生活既由具体事件塑造，也由系统塑造。政治决定影响安全与信任，市场显示资本与政策如何进入日常生活，文化争论决定谁的经验能够被看见，而书籍、艺术与媒体组织公共记忆，技术则改变机会、劳动与责任。",
         },
         "keywords": [
             {"word": "public life", "meaning": "公共生活", "example": "Technology is becoming part of everyday public life."},
@@ -204,7 +216,7 @@ def build_briefing(date, buckets):
             "english": "A daily event becomes easier to understand when we can see the system around it.",
             "chinese": "今天最想留下的一句话是：当我们看见事件周围的系统，日常新闻才会变得更容易理解。",
         },
-        "tags": ["global", "gender", "culture", "art", "media", "AI", "technology", "public life", "systems", "responsibility"],
+        "tags": ["global", "finance", "markets", "gender", "culture", "books", "art", "media", "AI", "technology", "public life", "systems", "responsibility"],
         "sources": sources,
         "rawText": f"推送日期｜{date[:4]}年{int(date[5:7])}月{int(date[8:])}日\n\n今天的小报关键词是：public life, systems, and responsibility（公共生活、系统与责任）。",
     }
@@ -246,7 +258,7 @@ def main():
     log.insert(0, {
         "date": "2026-06-22",
         "title": "Regenerated June 1–15 briefing archive",
-        "description": "Rebuilt 15 complete bilingual editions from date-checked Guardian reporting, with four sections, eight stories, English learning material, and specific source links in every edition.",
+        "description": "Rebuilt 15 complete bilingual editions from date-checked Guardian reporting, with five sections, English learning material, and specific source links in every edition.",
         "type": "archive",
         "relatedDate": "2026-06-15",
         "link": "briefing.html?date=2026-06-15",

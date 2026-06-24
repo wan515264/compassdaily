@@ -1,5 +1,21 @@
 [
   {
+    "date": "2026-06-24",
+    "title": "Published June 24 briefing",
+    "description": "Added the June 24 Daily Compass briefing on heatwaves, market confidence, maternity accountability, cultural memory, fashion, books, and AI responsibility.",
+    "type": "briefing",
+    "relatedDate": "2026-06-24",
+    "link": "briefing.html?date=2026-06-24"
+  },
+  {
+    "date": "2026-06-24",
+    "title": "Updated channel structure",
+    "description": "Added Finance & Markets and renamed Art, Fashion & Media to Books, Culture & Arts while keeping older briefings compatible.",
+    "type": "design",
+    "relatedDate": "",
+    "link": "#archive"
+  },
+  {
     "date": "2026-06-23",
     "title": "Published June 22 briefing",
     "description": "Added the June 22 Daily Compass from eight date-checked Guardian reports on Iran verification, H5N1 biosecurity, Indian heatwaves and care work, the Nottingham maternity scandal, Frida Kahlo's exhibition politics, Mona's new library, live facial recognition, and AI legal tools.",

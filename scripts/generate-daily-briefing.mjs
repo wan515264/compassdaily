@@ -12,16 +12,18 @@ const INDEX_FILE = new URL("../data/briefings/index.json", import.meta.url);
 const SOURCE_FEEDS = [
   { name: "NPR", siteUrl: "https://www.npr.org/", feedUrl: "https://feeds.npr.org/1001/rss.xml", category: "global-news" },
   { name: "ABC News", siteUrl: "https://abcnews.com/", feedUrl: "https://feeds.abcnews.com/abcnews/topstories", category: "global-news" },
+  { name: "Reuters Business", siteUrl: "https://www.reuters.com/business/", feedUrl: "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", category: "finance-markets" },
   { name: "The Conversation AU", siteUrl: "https://theconversation.com/au", feedUrl: "https://theconversation.com/au/home-page/articles.atom", category: "gender-culture" },
-  { name: "Aeon", siteUrl: "https://aeon.co/", feedUrl: "https://aeon.co/feed.rss", category: "gender-culture" },
-  { name: "The Pudding", siteUrl: "https://pudding.cool/", feedUrl: "https://pudding.cool/rss.xml", category: "art-media" },
+  { name: "Aeon", siteUrl: "https://aeon.co/", feedUrl: "https://aeon.co/feed.rss", category: "books-culture-arts" },
+  { name: "The Pudding", siteUrl: "https://pudding.cool/", feedUrl: "https://pudding.cool/rss.xml", category: "books-culture-arts" },
 ];
 
 const SECTION_SKELETON = [
-  { id: "global-news", heading: "Global News｜全球新闻" },
-  { id: "gender-culture", heading: "Gender & Culture｜性别与文化" },
-  { id: "art-media", heading: "Art, Fashion & Media｜艺术、时尚与媒介" },
-  { id: "ai-tech", heading: "AI & Tech｜AI 与科技" },
+  { id: "global-news", heading: "全球新闻 / Global News" },
+  { id: "finance-markets", heading: "金融与市场 / Finance & Markets" },
+  { id: "gender-culture", heading: "性别与文化 / Gender & Culture" },
+  { id: "books-culture-arts", heading: "书籍、文化与艺术 / Books, Culture & Arts" },
+  { id: "ai-tech", heading: "AI 与科技 / AI & Tech" },
 ];
 
 function todayInShanghai() {
@@ -116,7 +118,7 @@ async function collectSourceMaterial() {
   const settled = await Promise.all(SOURCE_FEEDS.map(fetchFeed));
   const items = settled.flat();
   const selected = [];
-  for (const category of ["global-news", "gender-culture", "art-media"]) {
+  for (const category of ["global-news", "finance-markets", "gender-culture", "books-culture-arts"]) {
     selected.push(...items.filter((item) => item.category === category).slice(0, 3));
   }
   const aiCandidates = items.filter((item) => /\bAI\b|artificial intelligence|technology|tech|platform|data|algorithm|digital/i.test(`${item.title} ${item.summary}`));
@@ -170,7 +172,9 @@ Subtitle: ${SITE_SUBTITLE}
 
 Editorial requirements:
 - Generate a warm, thoughtful bilingual mini-newspaper.
-- Focus on global news, gender/culture, art/media, and AI/tech.
+- Focus on global news, finance/markets, gender/culture, books/culture/arts, and AI/tech.
+- Finance & Markets should explain economic meaning and social context, not investment advice. Do not include buy/sell recommendations.
+- Books, Culture & Arts should cover literature, books, authors, publishing, art, museums, fashion, media, film, platforms, and visual culture.
 - Include English learning value: useful expressions, examples, keywords, and one sentence analysis.
 - Tone: calm, intelligent, gentle, globally aware.
 - Do not fabricate precise facts without source material.
@@ -188,7 +192,7 @@ Required JSON shape:
   "sections": [
     {
       "id": "global-news",
-      "heading": "Global News｜全球新闻",
+      "heading": "全球新闻 / Global News",
       "items": [
         {
           "title": "",
@@ -199,9 +203,10 @@ Required JSON shape:
         }
       ]
     },
-    { "id": "gender-culture", "heading": "Gender & Culture｜性别与文化", "items": [] },
-    { "id": "art-media", "heading": "Art, Fashion & Media｜艺术、时尚与媒介", "items": [] },
-    { "id": "ai-tech", "heading": "AI & Tech｜AI 与科技", "items": [] }
+    { "id": "finance-markets", "heading": "金融与市场 / Finance & Markets", "items": [] },
+    { "id": "gender-culture", "heading": "性别与文化 / Gender & Culture", "items": [] },
+    { "id": "books-culture-arts", "heading": "书籍、文化与艺术 / Books, Culture & Arts", "items": [] },
+    { "id": "ai-tech", "heading": "AI 与科技 / AI & Tech", "items": [] }
   ],
   "englishParagraph": { "english": "", "chinese": "" },
   "keywords": [
@@ -215,7 +220,7 @@ Required JSON shape:
 
 Content constraints:
 - introChinese: 2-4 warm Chinese sentences.
-- Each of the 4 sections should contain 1-2 items.
+- Each of the 5 sections should contain 1-2 items.
 - Each item should have 2-4 useful English expressions.
 - englishParagraph.english: 80-130 words, natural English.
 - englishParagraph.chinese: faithful Chinese translation.
@@ -332,7 +337,7 @@ function validateBriefing(briefing) {
   if (briefing.title !== SITE_TITLE) problems.push("title must match site brand");
   if (!briefing.theme) problems.push("theme is required");
   if (!briefing.introChinese) problems.push("introChinese is required");
-  if (briefing.sections.length !== 4) problems.push("exactly four sections are required");
+  if (briefing.sections.length !== 5) problems.push("exactly five sections are required");
   for (const section of briefing.sections) {
     if (!section.id || !section.heading) problems.push(`section missing id or heading: ${JSON.stringify(section)}`);
     if (!section.items.length) problems.push(`section ${section.id} needs at least one item`);

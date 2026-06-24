@@ -90,7 +90,13 @@ function extractVocabulary(items) {
 function createBriefing(items) {
   const date = todayKey();
   const selected = items.slice(0, 5);
-  const sectionHeadings = ["Global News｜全球新闻", "Gender / Culture｜性别与文化", "Art / Fashion / Media｜艺术、时尚与媒介", "AI / Tech｜AI 与科技"];
+  const sectionHeadings = [
+    { id: "global-news", heading: "全球新闻 / Global News" },
+    { id: "finance-markets", heading: "金融与市场 / Finance & Markets" },
+    { id: "gender-culture", heading: "性别与文化 / Gender & Culture" },
+    { id: "books-culture-arts", heading: "书籍、文化与艺术 / Books, Culture & Arts" },
+    { id: "ai-tech", heading: "AI 与科技 / AI & Tech" },
+  ];
   const firstSentence = selected[0]?.summary?.match(/[^.!?]+[.!?]+|[^.!?]+$/)?.[0] || "Today's briefing connects global headlines with useful English reading practice.";
   return {
     date,
@@ -98,8 +104,9 @@ function createBriefing(items) {
     subtitle: BRIEFING_SUBTITLE,
     theme: "Global headlines, culture, and public life",
     introChinese: "今天的小报从多个英文资源中抽取热点摘要，帮助你用英文快速进入全球议题，并积累可复用的表达。",
-    sections: selected.slice(0, 4).map((item, index) => ({
-      heading: sectionHeadings[index] || item.title,
+    sections: selected.slice(0, 5).map((item, index) => ({
+      id: sectionHeadings[index]?.id || "global-news",
+      heading: sectionHeadings[index]?.heading || item.title,
       summaryChinese: `来源：${item.source}`,
       body: item.summary,
     })),

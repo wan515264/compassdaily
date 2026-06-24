@@ -12,8 +12,9 @@ const SUBTITLE = "A bilingual daily briefing for navigating global news, culture
 
 const STANDARD_SECTIONS = {
   "global-news": "全球新闻 / Global News",
+  "finance-markets": "金融与市场 / Finance & Markets",
   "gender-culture": "性别与文化 / Gender & Culture",
-  "art-media": "艺术、时尚与媒介 / Art, Fashion & Media",
+  "books-culture-arts": "书籍、文化与艺术 / Books, Culture & Arts",
   "ai-tech": "AI 与科技 / AI & Tech",
 };
 
@@ -110,9 +111,12 @@ function sectionMeta(line = "") {
   const lower = cleaned.toLowerCase();
   if (cleaned.length > 58) return null;
   if (/global news|全球新闻/.test(lower)) return { kind: "section", id: "global-news", heading: STANDARD_SECTIONS["global-news"] };
+  if (/finance\s*(\/|&|and)?\s*markets?|金融与市场|金融|市场|economy|business/.test(lower)) {
+    return { kind: "section", id: "finance-markets", heading: STANDARD_SECTIONS["finance-markets"] };
+  }
   if (/gender\s*(\/|&|and)?\s*culture|性别与文化/.test(lower)) return { kind: "section", id: "gender-culture", heading: STANDARD_SECTIONS["gender-culture"] };
-  if (/art.*fashion.*media|艺术[、／/\s]*(时尚|媒介|媒体)|艺术、时尚与媒介|艺术、时尚与媒体/.test(lower)) {
-    return { kind: "section", id: "art-media", heading: STANDARD_SECTIONS["art-media"] };
+  if (/books?.*culture.*arts?|books?.*arts?|art.*fashion.*media|艺术[、／/\s]*(时尚|媒介|媒体)|艺术、时尚与媒介|艺术、时尚与媒体|书籍、文化与艺术|书籍|文学|出版|博物馆/.test(lower)) {
+    return { kind: "section", id: "books-culture-arts", heading: STANDARD_SECTIONS["books-culture-arts"] };
   }
   if (/\bai\s*(\/|&|and)?\s*tech\b|ai 与科技|ai与科技/i.test(cleaned)) return { kind: "section", id: "ai-tech", heading: STANDARD_SECTIONS["ai-tech"] };
   if (/one english paragraph|今日英文(阅读|段落)|一段英文精读/.test(lower)) return { kind: "englishParagraph" };
@@ -392,7 +396,8 @@ function inferTags(text) {
     ["AI", /\bAI\b|人工智能|Gemini|agentic|算法|数据中心/i],
     ["technology", /technology|tech|科技|数字|芯片|infrastructure|Qwant|平台/i],
     ["gender", /gender|women|女性|feminism|性别|女权|LGBTQ/i],
-    ["culture", /culture|文化|media|媒介|媒体|艺术|fashion|时尚/i],
+    ["finance", /finance|markets?|economy|business|inflation|central bank|金融|市场|经济|通胀|央行/i],
+    ["culture", /culture|文化|media|媒介|媒体|艺术|fashion|时尚|books?|literature|书籍|文学|出版/i],
     ["global", /global|全球|外交|war|ceasefire|migration|移民|欧盟|欧洲/i],
     ["climate", /climate|气候|高温|能源|heat/i],
   ];

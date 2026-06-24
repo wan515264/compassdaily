@@ -71,6 +71,16 @@ data/briefings/template.json
 - `tags`
 - `rawText`
 
+标准频道结构：
+
+1. `global-news` — 全球新闻 / Global News
+2. `finance-markets` — 金融与市场 / Finance & Markets
+3. `gender-culture` — 性别与文化 / Gender & Culture
+4. `books-culture-arts` — 书籍、文化与艺术 / Books, Culture & Arts
+5. `ai-tech` — AI 与科技 / AI & Tech
+
+旧小报里的 `art-media` 仍然可以被网页读取，详情页会显示为 **书籍、文化与艺术 / Books, Culture & Arts**。
+
 首页会优先加载当天小报；如果当天还没有文件，则加载归档里的最新一篇。归档按日期从新到旧排序，点击后进入：
 
 ```text
@@ -215,3 +225,30 @@ Settings -> Pages
 - The Conversation AU
 - The Pudding
 - ABC News
+
+## 推荐来源与频道笔记
+
+Finance & Markets｜金融与市场：
+
+- Reuters Markets
+- Reuters Business
+- AP Business
+- AP Economy
+- Financial Times Markets
+- Financial Times Global Economy
+- ABC News Business
+- World Bank / IMF / OECD reports
+
+这个频道用于解释市场、通胀、央行、油价、商业、科技资本、发展债务与经济不平等的社会含义，不提供买入或卖出建议。
+
+Books, Culture & Arts｜书籍、文化与艺术：
+
+- The Guardian Books
+- BBC Culture / Books
+- NPR Books
+- The Conversation Arts + Culture
+- ABC Australia Arts / Books
+- Literary Hub
+- Aeon / Psyche essays
+
+这个频道覆盖文学、书籍、作者、出版、文化批评、艺术展览、博物馆、时尚风格、媒体、电影、平台与视觉文化。
