@@ -2,59 +2,142 @@
   "date": "2026-06-25",
   "title": "The Daily Compass｜每日罗盘",
   "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
-  "theme": "热浪、身体与基础设施竞争：气候风险、生殖政治、矿业劳动、文化再叙事与AI时代教育",
-  "sourcePolicy": "本期采用用户指定来源池中可核验发布日期与原文链接的报道；8条来源均为 The Guardian。正文采用直接叙述，来源统一列于文末。",
-  "introChinese": "今天的小报关键词是：“heat, bodies, and infrastructure competition（热浪、身体与基础设施竞争）”。欧洲极端高温和委内瑞拉地震把城市安全推到前台；生殖政治、矿业性骚扰和过热住房提醒我们，身体总是在制度里承受风险；艺术和教育则分别回应气候危机与 AI 时代；太空卫星网络也成为新的技术主权战场。",
+  "theme": "灾害、热浪、市场保护、身体安全、文化再叙事与数字基础设施",
+  "introChinese": "今天的小报关键词是：systems under stress（承压的系统）。地震和热浪把城市、医院和住房推到极限；钢铁关税、油价和仓储地产让市场背后的产业基础浮出水面；身体安全、文化记忆和 AI 教育则提醒我们，真正重要的不是单个事件，而是系统如何回应人的脆弱。",
   "sections": [
     {
       "id": "global-news",
       "heading": "全球新闻 / Global News",
       "items": [
         {
-          "title": "欧洲多国发布极端高温警告：热浪正在考验城市韧性",
-          "summaryChinese": "英国、法国和意大利等地继续面临极端高温预警，英国6月高温纪录可能连续第二天被打破。热浪不是单纯的天气事件，它会同时影响医院、铁路、住房、能源、电网和户外劳动。气候危机最现实的样子，往往不是遥远的平均温度曲线，而是人们能否在家里、车厢里、工作场所里安全度过一天。",
-          "correspondingEnglish": "Warnings were issued across the UK, France and Italy as Europe braced for another day of extreme heat. The UK’s June heat record could be broken for a second consecutive day. A heatwave is not only a weather event. It tests hospitals, railways, housing, energy systems and outdoor work. Climate risk becomes real when people ask whether they can get through the day safely.",
-          "englishExpressions": [
-            {
-              "expression": "extreme heat",
-              "meaningChinese": "极端高温",
-              "example": "Extreme heat can put pressure on hospitals and transport systems."
-            },
-            {
-              "expression": "heat warning",
-              "meaningChinese": "高温预警",
-              "example": "Authorities issued a heat warning for several regions."
-            },
-            {
-              "expression": "urban resilience",
-              "meaningChinese": "城市韧性",
-              "example": "Urban resilience depends on housing, energy and public health planning."
-            }
-          ],
-          "studyNote": "brace for 表示“为困难或冲击做准备”，常用于天气、经济和冲突新闻。"
-        },
-        {
-          "title": "委内瑞拉首都遭遇双重地震：灾害响应与建筑安全同时受检验",
-          "summaryChinese": "委内瑞拉首都加拉加斯遭遇两次强震，建筑倒塌，官方宣布进入紧急状态。地震把一个城市的隐藏结构瞬间暴露出来：建筑标准、救援能力、医院容量、通信系统和国际援助通道都会被同时检验。灾害发生时，真正被测试的不是单一机构，而是一整套公共安全基础设施。",
-          "correspondingEnglish": "Caracas was hit by two powerful earthquakes, with buildings collapsing and a state of emergency declared. Earthquakes expose the hidden structure of a city: building standards, rescue capacity, hospital space, communications and aid channels are tested at once. A disaster does not test only one agency. It tests the whole infrastructure of public safety.",
+          "title": "委内瑞拉宣布紧急状态：双重地震考验公共安全系统",
+          "summaryChinese": "委内瑞拉发生两次强震，官方宣布进入紧急状态，死亡人数上升，救援人员正集中前往受灾最严重地区。地震不仅摧毁建筑，也会立刻测试医院容量、通信系统、道路通行、救援调度和政府公信力。灾害发生时，真正被检验的是一整套公共安全基础设施。",
+          "correspondingEnglish": "Venezuela declared a state of emergency after two powerful earthquakes, as rescue teams moved toward the hardest-hit areas. An earthquake does not only destroy buildings. It also tests hospitals, communications, transport, emergency planning and public trust. In a disaster, the whole infrastructure of public safety becomes visible.",
           "englishExpressions": [
             {
               "expression": "state of emergency",
               "meaningChinese": "紧急状态",
-              "example": "The government declared a state of emergency after the earthquake."
+              "example": "The government declared a state of emergency after the earthquakes."
             },
             {
-              "expression": "building standards",
-              "meaningChinese": "建筑标准",
-              "example": "Building standards can determine how a city survives an earthquake."
+              "expression": "hardest-hit areas",
+              "meaningChinese": "受灾最严重地区",
+              "example": "Rescue teams moved toward the hardest-hit areas."
             },
             {
-              "expression": "rescue capacity",
-              "meaningChinese": "救援能力",
-              "example": "Rescue capacity matters in the first hours after a disaster."
+              "expression": "public safety infrastructure",
+              "meaningChinese": "公共安全基础设施",
+              "example": "A disaster tests public safety infrastructure."
             }
           ],
-          "studyNote": "capacity 在公共政策中常指系统或机构实际处理问题的能力。"
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Venezuela earthquakes",
+              "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
+            },
+            {
+              "label": "The Guardian｜Live updates",
+              "url": "https://www.theguardian.com/world/live/2026/jun/25/venezuela-earthquake-live-updates-quake-aftershocks-terremoto-caracas-latest"
+            }
+          ]
+        },
+        {
+          "title": "欧洲热浪继续：医院、住房与工作场所同时承压",
+          "summaryChinese": "欧洲多地继续遭遇极端高温，英国气象部门将红色高温警报延长，欧洲多地热浪相关死亡人数上升。英格兰部分医院因机器和 IT 系统在高温下故障而宣布关键事件，MRI 扫描仪、冷却设备和病房工作量都受到影响。热浪正在把气候危机转化为基础设施危机。",
+          "correspondingEnglish": "Extreme heat continued across Europe, with the UK Met Office extending a red heat warning and heat-related deaths rising. Some hospitals in England declared critical incidents as machines, IT systems and cooling units failed in the heat. The heatwave shows how climate risk can quickly become an infrastructure crisis.",
+          "englishExpressions": [
+            {
+              "expression": "red heat warning",
+              "meaningChinese": "红色高温警报",
+              "example": "The Met Office extended a red heat warning."
+            },
+            {
+              "expression": "critical incident",
+              "meaningChinese": "关键事件；重大应急事件",
+              "example": "Hospitals declared critical incidents during the heatwave."
+            },
+            {
+              "expression": "infrastructure crisis",
+              "meaningChinese": "基础设施危机",
+              "example": "Climate risk can become an infrastructure crisis."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Europe heatwave",
+              "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates"
+            },
+            {
+              "label": "The Guardian｜Hospitals in heat",
+              "url": "https://www.theguardian.com/society/2026/jun/25/hospitals-nhs-england-critical-incidents-machines-it-fail-extreme-heat"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "英国收紧钢铁进口配额：贸易保护与产业安全重新上桌",
+          "summaryChinese": "英国计划将免关税钢铁进口配额减半，以应对廉价中国钢铁过剩，并把超出配额部分的进口税提高。钢铁新闻看似传统工业议题，但它牵动就业、制造业能力、供应链安全和国家产业政策。市场不是自由漂浮的数字，它也由关税、配额和战略行业保护塑造。",
+          "correspondingEnglish": "The UK plans to halve tariff-free steel imports in response to a glut of cheap Chinese metal, while raising duties on imports outside the new quota. Steel policy may look like an old industrial issue, but it is connected to jobs, manufacturing capacity, supply-chain security and industrial strategy.",
+          "englishExpressions": [
+            {
+              "expression": "tariff-free imports",
+              "meaningChinese": "免关税进口",
+              "example": "The government plans to reduce tariff-free imports."
+            },
+            {
+              "expression": "import quota",
+              "meaningChinese": "进口配额",
+              "example": "Imports outside the quota will face higher duties."
+            },
+            {
+              "expression": "industrial strategy",
+              "meaningChinese": "产业战略",
+              "example": "Steel policy is part of industrial strategy."
+            }
+          ],
+          "studyNote": "Finance note\n这不是投资建议。金融与市场栏目关注价格、贸易和产业政策如何影响就业、供应链与公共生活。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜UK steel imports",
+              "url": "https://www.theguardian.com/business/2026/jun/25/uk-to-halve-tariff-free-steel-imports-to-counter-glut-of-cheap-chinese-metal"
+            }
+          ]
+        },
+        {
+          "title": "油价降至冲突前低点：风险情绪正在重新定价",
+          "summaryChinese": "商业实时报道显示，油价跌至冲突开始前以来的最低水平。能源价格的回落并不只是市场技术走势，也反映投资者如何理解中东风险、航运安全、供应预期和未来通胀压力。读金融新闻时，重点不是判断买卖，而是理解价格如何表达风险和信心。",
+          "correspondingEnglish": "Oil prices fell to their lowest level since before the conflict began. The move is not only a technical market change. It reflects how investors read geopolitical risk, shipping security, supply expectations and future inflation pressure. Prices often express fear and confidence before events are fully settled.",
+          "englishExpressions": [
+            {
+              "expression": "oil prices",
+              "meaningChinese": "油价",
+              "example": "Oil prices fell as geopolitical concerns eased."
+            },
+            {
+              "expression": "supply expectations",
+              "meaningChinese": "供应预期",
+              "example": "Supply expectations can move energy markets."
+            },
+            {
+              "expression": "inflation pressure",
+              "meaningChinese": "通胀压力",
+              "example": "Lower oil prices may reduce inflation pressure."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Business live",
+              "url": "https://www.theguardian.com/business/live/2026/jun/25/oil-price-lowest-since-us-iran-war-uk-firms-burnham-reeves-haldane-latest-news-updates"
+            }
+          ]
         }
       ]
     },
@@ -63,42 +146,19 @@
       "heading": "性别与文化 / Gender & Culture",
       "items": [
         {
-          "title": "美国胚胎“儿童化”争议：生殖政治进入语言和法律边界",
-          "summaryChinese": "特朗普政府一份关于胚胎收养项目的文件把冷冻胚胎称为 children，引发关于胎儿人格化的担忧。这个争议的关键不只是一个词，而是语言如何为法律变化铺路：当胚胎被描述为儿童，生殖医疗、试管婴儿、堕胎权和家庭选择都会进入新的政治压力之下。身体自主往往先在词语里被重新定义。",
-          "correspondingEnglish": "A Trump administration document on an embryo adoption program refers to frozen embryos as children, raising concerns about fetal personhood. The issue is not only a word choice. Language can prepare the ground for legal change. If embryos are framed as children, IVF, abortion rights and family decisions may face new political pressure.",
-          "englishExpressions": [
-            {
-              "expression": "frozen embryo",
-              "meaningChinese": "冷冻胚胎",
-              "example": "The document refers to frozen embryos as children."
-            },
-            {
-              "expression": "fetal personhood",
-              "meaningChinese": "胎儿人格化；胎儿法律人格",
-              "example": "Fetal personhood has become a contested legal idea."
-            },
-            {
-              "expression": "reproductive rights",
-              "meaningChinese": "生殖权利",
-              "example": "Reproductive rights can be reshaped through legal language."
-            }
-          ],
-          "studyNote": "personhood 是法律和伦理讨论中的高频词，指某个实体是否被承认为“人”并拥有法律权利。"
-        },
-        {
-          "title": "Fortescue女性员工发起集体诉讼：偏远矿区里的性骚扰与劳动安全",
-          "summaryChinese": "澳大利亚 Fortescue 的女性工人发起集体诉讼，指称偏远矿区存在性骚扰和不安全住宿环境。一名女性称曾在飞进飞出式住宿房间里发现男性，另一人称自己曾被男性“嚎叫”骚扰。矿业劳动常被描述为资源、工资和生产效率，但这起诉讼提醒我们：工作场所安全也包括住宿、夜间空间、性别权力和投诉机制。",
-          "correspondingEnglish": "Female workers have brought a class action against Fortescue, alleging sexual harassment and unsafe conditions at remote mine sites. One woman said she found a man in her room at fly-in, fly-out accommodation, while another described being howled at. Workplace safety includes housing, night-time spaces, gendered power and complaint systems, not only machinery and wages.",
+          "title": "Fortescue 女性员工集体诉讼：偏远矿区里的身体安全",
+          "summaryChinese": "澳大利亚 Fortescue 女性员工发起集体诉讼，称偏远矿区存在性骚扰和不安全住宿环境。有女性称曾在飞进飞出式住宿房间里发现男性，也有人称遭到男性骚扰。矿业劳动常被描述为资源、工资和效率，但这类案件提醒我们：工作场所安全也包括住宿、夜间空间、性别权力和投诉机制。",
+          "correspondingEnglish": "Female workers have brought a class action against Fortescue, alleging sexual harassment and unsafe conditions at remote mine sites. The case shows that workplace safety is not only about machinery and wages. It also includes housing, night-time space, gendered power and complaint systems.",
           "englishExpressions": [
             {
               "expression": "class action",
               "meaningChinese": "集体诉讼",
-              "example": "Female workers filed a class action over conditions at mine sites."
+              "example": "Workers filed a class action over conditions at remote mine sites."
             },
             {
-              "expression": "remote mine site",
-              "meaningChinese": "偏远矿区",
-              "example": "Remote mine sites can create specific safety risks for workers."
+              "expression": "sexual harassment",
+              "meaningChinese": "性骚扰",
+              "example": "The case includes allegations of sexual harassment."
             },
             {
               "expression": "workplace safety",
@@ -106,23 +166,58 @@
               "example": "Workplace safety includes protection from harassment."
             }
           ],
-          "studyNote": "fly-in, fly-out 指矿业等行业中工人飞往偏远工地轮班、再飞回家的工作模式。"
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Fortescue class action",
+              "url": "https://www.theguardian.com/business/2026/jun/25/fortescue-class-action-female-workers-remote-mining-sites-ntwnfb"
+            }
+          ]
+        },
+        {
+          "title": "欧盟与塔利班接触引发阿富汗女性愤怒",
+          "summaryChinese": "欧盟与塔利班接触引发阿富汗女性和人权倡议者愤怒。争议的核心是：当安全、移民和外交利益被放在桌面上时，女性权利是否会被交换、延后或降级。性别政治有时不出现在“女性栏目”里，而隐藏在外交选择和安全话语之中。",
+          "correspondingEnglish": "EU engagement with the Taliban has sparked anger among Afghan women and rights advocates. The central question is whether women’s rights can be traded away, delayed or downgraded when security, migration and diplomacy dominate the agenda. Gender politics often hides inside foreign policy language.",
+          "englishExpressions": [
+            {
+              "expression": "rights advocate",
+              "meaningChinese": "权利倡议者",
+              "example": "Rights advocates criticized the diplomatic engagement."
+            },
+            {
+              "expression": "be traded away",
+              "meaningChinese": "被交易掉；被牺牲",
+              "example": "Women’s rights should not be traded away."
+            },
+            {
+              "expression": "foreign policy language",
+              "meaningChinese": "外交政策话语",
+              "example": "Gender politics can hide inside foreign policy language."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜EU-Taliban talks",
+              "url": "https://www.theguardian.com/world/2026/jun/25/thursday-briefing-why-eu-taliban-talks-have-sparked-outrage-among-afghan-women"
+            }
+          ]
         }
       ]
     },
     {
-      "id": "art-media",
-      "heading": "艺术、时尚与媒体 / Art, Fashion & Media",
+      "id": "books-culture-arts",
+      "heading": "书籍、文化与艺术 / Books, Culture & Arts",
       "items": [
         {
-          "title": "Frida Kahlo再被观看：当艺术家变成可消费的反抗符号",
-          "summaryChinese": "伦敦大型展览重新审视 Frida Kahlo，但评论指出，她复杂、粗粝、政治化的一面常被礼品店式的“品牌 Frida”遮住。Kahlo 的形象被广泛用作抵抗、女性力量和个人风格的符号，可是符号越流行，真实的人和作品就越容易被简化。艺术观看的任务，是把偶像重新还给复杂性。",
-          "correspondingEnglish": "A major London exhibition revisits Frida Kahlo as critics ask whether the marketable brand of Frida has obscured the real artist. Her image has become a symbol of resistance, female strength and personal style. Yet the more a symbol circulates, the more easily the person and the work can be simplified. Looking at art means returning complexity to the icon.",
+          "title": "Frida Kahlo 展览：当艺术家被品牌化，复杂性如何被保存？",
+          "summaryChinese": "伦敦大型展览重新审视 Frida Kahlo，但评论提出一个尖锐问题：当 Kahlo 的形象被做成礼品店里的“品牌 Frida”，真实的艺术家是否被遮蔽？她粗粝、政治化、复杂的生命经验，不应只被消费成抵抗和个性风格的图标。艺术展览的价值，在于把偶像重新还给复杂性。",
+          "correspondingEnglish": "A major London exhibition revisits Frida Kahlo while asking whether the marketable brand of Frida has obscured the real artist. Her image has become a symbol of resistance and personal style, but the person and the work are more complex. A good exhibition can return complexity to an icon.",
           "englishExpressions": [
             {
               "expression": "marketable brand",
               "meaningChinese": "可营销的品牌",
-              "example": "The marketable brand can obscure the complexity of the artist."
+              "example": "A marketable brand can obscure a complex artist."
             },
             {
               "expression": "symbol of resistance",
@@ -132,67 +227,85 @@
             {
               "expression": "return complexity",
               "meaningChinese": "恢复复杂性",
-              "example": "The exhibition tries to return complexity to a familiar icon."
+              "example": "The exhibition returns complexity to an icon."
             }
           ],
-          "studyNote": "obscure 作动词时表示“遮蔽、使不清楚”，常用于文化评论和政治分析。"
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Frida Kahlo exhibition",
+              "url": "https://www.theguardian.com/artanddesign/2026/jun/25/frida-kahlo-making-icon-exhibition-tate-modern-london"
+            }
+          ]
         },
         {
-          "title": "气候危机进入音乐剧：浪漫喜剧和酷儿歌舞如何讲述地球困境",
-          "summaryChinese": "Hot Mess 与 Acid’s Reign 等新作品把气候危机带入音乐剧、浪漫喜剧和酷儿歌舞形式之中。它们没有只用灾难感召唤观众，而是尝试用幽默、亲密关系和希望来谈论行星危机。气候文化不一定总是沉重的纪录片或末日叙事，也可以是让观众愿意靠近问题的舞台语言。",
-          "correspondingEnglish": "A new wave of musical theatre, including Hot Mess and Acid’s Reign, is exploring the climate crisis through romcom and queer cabaret forms. These works do not rely only on disaster. They use humor, intimacy and hope to bring audiences closer to planetary crisis. Climate culture can be playful without becoming unserious.",
+          "title": "轮椅舞者进入《吉赛尔》：经典舞台的身体边界被重新打开",
+          "summaryChinese": "一位使用轮椅的表演者参与 Royal Ballet 相关舞蹈项目，在《Giselle》的训练和表演经验中重新接近童年对舞蹈的渴望。这类艺术新闻不只是励志故事，它改变我们对“舞者身体”的想象：经典舞台并不是固定的，它可以因不同身体进入而被重新定义。",
+          "correspondingEnglish": "A wheelchair user joined a Royal Ballet-related dance project and explored what it means to move through Giselle. The story is not only inspirational. It changes the idea of the dancer’s body. A classical stage is not fixed; it can be redefined when different bodies enter it.",
           "englishExpressions": [
             {
-              "expression": "climate crisis",
-              "meaningChinese": "气候危机",
-              "example": "The musical explores the climate crisis through comedy."
+              "expression": "wheelchair dancer",
+              "meaningChinese": "轮椅舞者",
+              "example": "A wheelchair dancer can change how audiences understand movement."
             },
             {
-              "expression": "queer cabaret",
-              "meaningChinese": "酷儿歌舞/卡巴莱表演",
-              "example": "Queer cabaret can turn climate anxiety into performance."
+              "expression": "classical stage",
+              "meaningChinese": "经典舞台",
+              "example": "The classical stage can be opened to different bodies."
             },
             {
-              "expression": "planetary crisis",
-              "meaningChinese": "行星级危机；全球生态危机",
-              "example": "Art can make a planetary crisis feel emotionally close."
+              "expression": "redefine movement",
+              "meaningChinese": "重新定义动作/移动",
+              "example": "Inclusive dance can redefine movement."
             }
           ],
-          "studyNote": "playful without becoming unserious 是很有用的评论句式：有趣，但并不轻浮。"
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Wheelchair dance",
+              "url": "https://www.theguardian.com/stage/2026/jun/25/royal-ballet-school-wheelchair-dance-kate-stanforth"
+            }
+          ]
         }
       ]
     },
     {
       "id": "ai-tech",
-      "heading": "人工智能与科技 / AI & Tech",
+      "heading": "AI 与科技 / AI & Tech",
       "items": [
         {
-          "title": "英国童军推出AI与数字时代徽章：技术素养成为青少年教育的一部分",
-          "summaryChinese": "英国 Explorer Scouts 为14至18岁青少年推出 AI、内容创作和网络安全等新徽章。传统童军技能常让人想到生火、野外生存和团队协作；现在，数字身份、信息安全和 AI 工具也被纳入“生活技能”。这说明技术素养不再只是电脑课内容，而是青年参与社会、保护自己和理解权力的一部分。",
-          "correspondingEnglish": "Explorer Scouts in the UK have launched new badges for teenagers covering AI, content creation and online safety. Scouting skills once suggested fires, outdoor survival and teamwork. Now digital identity, information safety and AI tools are also treated as life skills. Digital literacy is becoming part of how young people participate in society and protect themselves.",
+          "title": "童军推出 AI 与数字徽章：技术素养成为生活技能",
+          "summaryChinese": "英国 Explorer Scouts 为14至18岁青少年推出 AI、内容创作和线上安全等新徽章。传统童军技能常让人想到野外生存、团队协作和动手能力；现在，数字身份、信息安全和 AI 工具也被纳入“生活技能”。这说明 AI 素养不再只是电脑课内容，而是青年理解社会、保护自己和参与公共生活的一部分。",
+          "correspondingEnglish": "Explorer Scouts in the UK have launched new badges for teenagers covering AI, content creation and online safety. Scouting skills once suggested outdoor survival and teamwork. Now digital identity, information safety and AI tools are also treated as life skills. AI literacy is becoming part of how young people understand society and protect themselves.",
           "englishExpressions": [
             {
-              "expression": "digital literacy",
-              "meaningChinese": "数字素养",
-              "example": "Digital literacy is becoming a basic life skill."
+              "expression": "AI literacy",
+              "meaningChinese": "AI素养",
+              "example": "AI literacy is becoming part of youth education."
             },
             {
               "expression": "online safety",
-              "meaningChinese": "网络安全；线上安全",
+              "meaningChinese": "线上安全",
               "example": "The badge teaches teenagers about online safety."
             },
             {
-              "expression": "content creation",
-              "meaningChinese": "内容创作",
-              "example": "Content creation is now part of youth digital education."
+              "expression": "life skill",
+              "meaningChinese": "生活技能",
+              "example": "Digital literacy is now treated as a life skill."
             }
           ],
-          "studyNote": "literacy 不只指识字，也可表示某领域的基本理解和实践能力，如 media literacy、AI literacy。"
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Scout AI badges",
+              "url": "https://www.theguardian.com/technology/2026/jun/25/scout-badges-ai-content-creation-online-safety"
+            }
+          ]
         },
         {
-          "title": "中国SpaceSail能否挑战Starlink：卫星网络成为技术主权基础设施",
-          "summaryChinese": "中国 SpaceSail 拥有数百颗低地球轨道卫星，并获得国家支持，已被报道称正与多个国家洽谈。它能否挑战 Elon Musk 的 Starlink，取决于发射规模、国际合作、价格、监管和地缘政治信任。卫星互联网不是单纯商业产品，而是通信、国家安全、灾害响应和数字主权的基础设施。",
-          "correspondingEnglish": "China’s SpaceSail has several hundred low Earth orbit satellites, state backing and reported talks with many countries. Whether it can rival Elon Musk’s Starlink depends on launch scale, partnerships, pricing, regulation and geopolitical trust. Satellite internet is not only a commercial product. It is infrastructure for communication, national security, disaster response and digital sovereignty.",
+          "title": "SpaceSail 与 Starlink 竞争：卫星互联网成为数字主权基础设施",
+          "summaryChinese": "中国 SpaceSail 拥有数百颗低地球轨道卫星，并获得国家支持，正在被视为可能挑战 Starlink 的卫星互联网项目。它能否成为替代方案，取决于发射规模、国际合作、价格、监管和地缘政治信任。卫星互联网不是单纯商业产品，而是通信、灾害响应、国家安全和数字主权的基础设施。",
+          "correspondingEnglish": "China’s SpaceSail has hundreds of low Earth orbit satellites and state backing, and is being watched as a possible rival to Starlink. Whether it can become an alternative depends on launch scale, partnerships, pricing, regulation and geopolitical trust. Satellite internet is infrastructure for communication, disaster response, national security and digital sovereignty.",
           "englishExpressions": [
             {
               "expression": "low Earth orbit",
@@ -207,109 +320,86 @@
             {
               "expression": "digital sovereignty",
               "meaningChinese": "数字主权",
-              "example": "Satellite networks have become part of digital sovereignty."
+              "example": "Satellite networks are part of digital sovereignty."
             }
           ],
-          "studyNote": "sovereignty 原指主权；technological/digital sovereignty 指国家或地区对关键技术系统的掌控能力。"
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜SpaceSail and Starlink",
+              "url": "https://www.theguardian.com/technology/2026/jun/25/china-spacesail-starlink-satellite-internet"
+            }
+          ]
         }
       ]
     }
   ],
   "englishParagraph": {
-    "english": "Today’s news shows how climate, bodies and infrastructure are now deeply connected. Extreme heat and earthquakes test cities before political speeches can explain them. Reproductive language and workplace harassment show how bodies are governed through law, labor and everyday space. Culture tries to rescue complexity from familiar icons and turn climate anxiety into performance. AI badges and satellite networks remind us that the future is being built through education, communication and control.",
-    "chinese": "今天的新闻让我们看到，气候、身体和基础设施已经深深连在一起。极端高温和地震在政治语言解释之前，就先测试了城市；生殖语言和工作场所性骚扰说明，身体会通过法律、劳动和日常空间被治理；文化试图从熟悉的偶像中救回复杂性，也把气候焦虑变成表演；AI徽章和卫星网络则提醒我们，未来正在通过教育、通信和控制被建造出来。"
+    "english": "Today’s stories show what happens when systems are placed under stress. Earthquakes test public safety before politics can explain the damage. Heatwaves expose weak hospitals, housing and workplaces. Markets reveal how governments protect industries and how investors price risk. Gender stories remind us that safety is built through law, labor and space. Culture and technology then ask a deeper question: who gets to participate in the future, and under what conditions?",
+    "chinese": "今天的新闻让我们看到，当系统承压时会发生什么。地震在政治语言解释损失之前，就先测试公共安全；热浪暴露医院、住房和工作场所的脆弱；市场显示政府如何保护产业、投资者如何为风险定价；性别新闻提醒我们，安全是通过法律、劳动和空间建造出来的。文化与科技则提出更深的问题：谁能够参与未来，又是在什么条件下参与？"
   },
   "keywords": [
     {
-      "word": "urban resilience",
-      "meaning": "城市韧性；城市面对灾害、气候和系统冲击时维持运行与恢复的能力",
-      "example": "Urban resilience is tested during heatwaves and earthquakes."
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑系统运行的物质与组织条件",
+      "example": "A heatwave can expose weak infrastructure."
     },
     {
-      "word": "fetal personhood",
-      "meaning": "胎儿人格化；将胎儿或胚胎赋予法律人格的观念",
-      "example": "Fetal personhood could reshape reproductive rights."
+      "word": "tariff",
+      "meaning": "关税",
+      "example": "The government raised tariffs on steel imports."
     },
     {
       "word": "workplace safety",
-      "meaning": "工作场所安全；包括身体、心理和免受骚扰的安全",
-      "example": "Workplace safety must include protection from harassment."
-    },
-    {
-      "word": "marketable brand",
-      "meaning": "可营销的品牌；能被消费和传播的形象包装",
-      "example": "A marketable brand can simplify a complex artist."
-    },
-    {
-      "word": "digital literacy",
-      "meaning": "数字素养；理解并安全使用数字技术的能力",
-      "example": "Digital literacy is becoming part of youth education."
+      "meaning": "工作场所安全",
+      "example": "Workplace safety includes protection from harassment."
     },
     {
       "word": "digital sovereignty",
-      "meaning": "数字主权；对关键数字基础设施和技术系统的掌控能力",
-      "example": "Satellite internet is now linked to digital sovereignty."
+      "meaning": "数字主权；对关键数字基础设施的掌控能力",
+      "example": "Satellite internet is linked to digital sovereignty."
+    },
+    {
+      "word": "AI literacy",
+      "meaning": "AI素养；理解并安全使用AI工具的能力",
+      "example": "AI literacy is becoming a basic life skill."
+    },
+    {
+      "word": "public trust",
+      "meaning": "公共信任",
+      "example": "Disasters can test public trust in institutions."
     }
   ],
   "sentenceLab": {
-    "sentence": "Climate culture can be playful without becoming unserious.",
-    "analysisChinese": "这个句子用 can be... without becoming... 表达一种平衡：气候文化可以有趣、轻盈、有创造力，但不必因此失去严肃性。without 后面接动名词 becoming，表示“在不变成……的情况下”。"
+    "sentence": "Gender stories remind us that safety is built through law, labor and space.",
+    "analysisChinese": "这个句子用 remind us that 引出观点，核心是 safety is built。built through law, labor and space 表示安全不是抽象感受，而是由法律、劳动制度和空间安排共同建造出来的。"
   },
   "reflection": {
-    "english": "The systems that shape the future are often first felt through the body: heat, work, risk, learning and connection.",
-    "chinese": "今天最想留下的一句话是：塑造未来的系统，常常最先通过身体被感受到——热、劳动、风险、学习和连接。"
+    "english": "When systems are under stress, hidden structures become visible.",
+    "chinese": "今天最想留下的一句话是：当系统承压时，隐藏的结构就会显形。"
   },
   "tags": [
-    "heatwave",
-    "urban resilience",
     "Venezuela",
     "earthquake",
-    "fetal personhood",
-    "reproductive rights",
-    "Fortescue",
+    "heatwave",
+    "infrastructure",
+    "finance",
+    "steel",
+    "tariffs",
+    "oil prices",
     "workplace safety",
+    "Afghan women",
     "Frida Kahlo",
-    "climate theatre",
-    "digital literacy",
-    "Explorer Scouts",
-    "SpaceSail",
-    "Starlink",
+    "wheelchair dance",
+    "AI literacy",
     "satellite internet",
     "digital sovereignty"
   ],
   "sources": [
     {
-      "label": "The Guardian — Europe braced for another day of extreme heat as warnings issued across UK, France and Italy",
-      "url": "https://www.theguardian.com/world/live/2026/jun/25/europe-heatwave-uk-italy-france-record-temperature-latest-news-updates"
-    },
-    {
-      "label": "The Guardian — Venezuela capital hit by double earthquake as experts warn of high death toll",
-      "url": "https://www.theguardian.com/world/2026/jun/25/earthquake-venezuela-caracas-tremors-aftershocks"
-    },
-    {
-      "label": "The Guardian — The Trump administration is calling frozen embryos children",
-      "url": "https://www.theguardian.com/commentisfree/2026/jun/25/the-trump-administration-is-calling-frozen-embryos-children"
-    },
-    {
-      "label": "The Guardian — Fortescue class action: female workers claim sexual harassment at remote mine sites",
-      "url": "https://www.theguardian.com/business/2026/jun/25/fortescue-class-action-female-workers-remote-mining-sites-ntwnfb"
-    },
-    {
-      "label": "The Guardian — ‘Rude, heavy-drinking and a committed communist’: the Frida Kahlo you can’t buy in the gift shop",
-      "url": "https://www.theguardian.com/artanddesign/2026/jun/25/frida-kahlo-making-icon-exhibition-tate-modern-london"
-    },
-    {
-      "label": "The Guardian — Hot Mess and Acid’s Reign: the romcom and queer cabaret spotlighting climate crisis",
-      "url": "https://www.theguardian.com/stage/2026/jun/25/hot-mess-acids-reign-romcom-cabaret-climate-crisis"
-    },
-    {
-      "label": "The Guardian — ‘More relevant than making fires’: Explorer Scouts launch badges for AI and digital age",
-      "url": "https://www.theguardian.com/society/2026/jun/25/explorer-scouts-launch-badges-ai-digital-age"
-    },
-    {
-      "label": "The Guardian — What is China’s SpaceSail, and could it rival Elon Musk’s Starlink?",
-      "url": "https://www.theguardian.com/world/2026/jun/25/china-spacesail-rival-elon-musk-starlink-space-satelites-low-earth-orbit"
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
     }
   ],
-  "rawText": "推送日期｜2026年6月25日\n\n今天的小报关键词是：“heat, bodies, and infrastructure competition（热浪、身体与基础设施竞争）”。欧洲极端高温和委内瑞拉地震把城市安全推到前台；生殖政治、矿业性骚扰和过热住房提醒我们，身体总是在制度里承受风险；艺术和教育则分别回应气候危机与 AI 时代；太空卫星网络也成为新的技术主权战场。\n\n★ 1. Global News｜全球新闻\n\n欧洲多国发布极端高温警告：热浪正在考验城市韧性\n委内瑞拉首都遭遇双重地震：灾害响应与建筑安全同时受检验\n\n★ 2. Gender / Culture｜性别与文化\n\n美国胚胎“儿童化”争议：生殖政治进入语言和法律边界\nFortescue女性员工发起集体诉讼：偏远矿区里的性骚扰与劳动安全\n\n★ 3. Art / Fashion / Media｜艺术、时尚与媒体\n\nFrida Kahlo再被观看：当艺术家变成可消费的反抗符号\n气候危机进入音乐剧：浪漫喜剧和酷儿歌舞如何讲述地球困境\n\n★ 4. AI / Tech｜人工智能与科技\n\n英国童军推出AI与数字时代徽章：技术素养成为青少年教育的一部分\n中国SpaceSail能否挑战Starlink：卫星网络成为技术主权基础设施\n\n★ Closing Thought｜今日收束\n\n塑造未来的系统，常常最先通过身体被感受到——热、劳动、风险、学习和连接。"
+  "rawText": "推送日期｜2026年6月25日\n\n今天的小报关键词是：systems under stress（承压的系统）。地震、热浪、钢铁贸易、身体安全、艺术再叙事和数字基础设施共同提醒我们：系统如何回应人的脆弱，决定了新闻真正的意义。"
 }
