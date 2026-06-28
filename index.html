@@ -89,18 +89,21 @@
         <button class="site-notes-toggle" id="siteNotesToggle" type="button" aria-expanded="false" aria-controls="site-notes-content">
           <span>
             <span class="eyebrow">Project Ledger</span>
-            <span id="site-notes-title" class="site-notes-heading">Site Notes｜站点札记</span>
+            <span id="site-notes-title" class="site-notes-heading">Site Notes｜小站更新札记</span>
           </span>
           <span class="site-notes-count" id="siteNotesCount">Loading...</span>
         </button>
         <div class="site-notes-content" id="site-notes-content" hidden>
           <p class="site-notes-subtitle">
             Recent changes to The Daily Compass.<br />
-            《每日罗盘》的近期更新。
+            记录《每日罗盘》的每一次小改动，像一本慢慢长出来的站点日志。
           </p>
-          <div id="update-log-list" aria-live="polite">
+          <div id="update-log-list" data-update-log aria-live="polite">
             <p class="site-notes-empty">Loading updates...</p>
           </div>
+          <button class="update-log-toggle" id="updateLogToggle" type="button" data-update-log-toggle hidden>
+            查看全部更新 / Show all updates
+          </button>
         </div>
       </section>
 

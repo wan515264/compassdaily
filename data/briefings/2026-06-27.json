@@ -1,0 +1,443 @@
+{
+  "date": "2026-06-27",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "灾害之后、热浪治理、市场叙事、Pride 公共空间、政治文学与AI安全",
+  "introChinese": "今天的小报关键词是：public systems（公共系统）。地震后的搜救、热浪中的医院、市场指数里的科技公司、Pride 活动面对的公共空间争夺，以及 AI 云安全法案，都在提醒我们：新闻背后常常不是孤立事件，而是制度、基础设施、资本与文化认同如何一起运作。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "委内瑞拉灾后搜救进入关键阶段：失踪者信息依赖线上平台",
+          "summaryChinese": "委内瑞拉强震后，搜救和安置仍在继续。AP 报道，许多家庭在通信受损、官方信息不足的情况下，通过社交媒体和线上失踪者登记表寻找亲人。灾害之后，信息本身也成为救援基础设施的一部分：谁能发布消息、谁能被找到、哪些平台能保持开放，都会影响生命安全与公共信任。",
+          "correspondingEnglish": "After the devastating earthquakes in Venezuela, many families are using social media and online missing-person registries to look for loved ones. When communication networks are damaged and official information is limited, information itself becomes part of emergency infrastructure. Who can post, search and be found can affect both safety and public trust.",
+          "englishExpressions": [
+            {
+              "expression": "missing-person registry",
+              "meaningChinese": "失踪者登记系统",
+              "example": "Families used online missing-person registries after the earthquakes."
+            },
+            {
+              "expression": "communication network",
+              "meaningChinese": "通信网络",
+              "example": "Damaged communication networks made rescue coordination harder."
+            },
+            {
+              "expression": "public trust",
+              "meaningChinese": "公共信任",
+              "example": "Clear information is essential for public trust during a disaster."
+            }
+          ],
+          "studyNote": "Reading note\n灾害新闻可以从三层读：物理破坏、救援能力，以及信息系统如何帮助或阻碍人们找到彼此。",
+          "sourceLinks": [
+            {
+              "label": "AP｜Online posts for missing people",
+              "url": "https://apnews.com/article/ac6117e7a9ad3095d50e3535e991df12"
+            },
+            {
+              "label": "AP｜Venezuelans search for missing",
+              "url": "https://apnews.com/article/b07aff1cb886cfe616a0e89b3687b8b8"
+            },
+            {
+              "label": "AP｜Shelter after earthquakes",
+              "url": "https://apnews.com/article/e9dbe2a6b0be205646b29754dfed3774"
+            }
+          ]
+        },
+        {
+          "title": "欧洲热浪刷新纪录：气候风险变成公共治理问题",
+          "summaryChinese": "AP 与 The Guardian 均报道，科学家认为欧洲这轮极端热浪若没有人为气候变化几乎不可能发生。英国连续刷新六月高温纪录，医院、学校、交通和能源系统承压。热浪不再只是天气异常，而是公共治理问题：建筑是否能降温、劳动者是否被保护、医院是否有韧性、城市是否为更热的夏天做好准备。",
+          "correspondingEnglish": "Scientists say Europe’s extreme heatwave would have been nearly impossible without human-driven climate change. Record temperatures are putting pressure on hospitals, schools, transport and energy systems. Heat is no longer only a weather problem; it is a governance problem involving buildings, workers, hospitals and urban planning.",
+          "englishExpressions": [
+            {
+              "expression": "human-driven climate change",
+              "meaningChinese": "人为气候变化",
+              "example": "Scientists linked the heatwave to human-driven climate change."
+            },
+            {
+              "expression": "urban planning",
+              "meaningChinese": "城市规划",
+              "example": "Urban planning must adapt to hotter summers."
+            },
+            {
+              "expression": "climate adaptation",
+              "meaningChinese": "气候适应",
+              "example": "Climate adaptation includes cooling buildings and protecting workers."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "AP｜Europe heat and climate change",
+              "url": "https://apnews.com/article/8633dbe64319523484c8feabf2205234"
+            },
+            {
+              "label": "The Guardian｜Heatwave impossible without climate crisis",
+              "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists"
+            },
+            {
+              "label": "The Guardian｜UK heat record",
+              "url": "https://www.theguardian.com/environment/2026/jun/26/uk-government-urged-to-act-on-devastating-impact-of-heatwaves"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "油价回落与食品出口下滑：市场数字背后是贸易摩擦和生活成本",
+          "summaryChinese": "The Guardian 商业实时报道显示，油价跌至阶段低点，同时英国食品和饮料出口受到关税、脱欧后贸易摩擦与需求变化影响。市场新闻常被压缩成价格和百分比，但它背后连接的是航运安全、能源成本、农产品贸易、企业利润和家庭日常开支。",
+          "correspondingEnglish": "Oil prices have fallen while UK food and drink exports face pressure from tariffs, post-Brexit trade friction and changing demand. Market news is often reduced to prices and percentages, but behind those numbers are shipping security, energy costs, agricultural trade, business margins and household budgets.",
+          "englishExpressions": [
+            {
+              "expression": "trade friction",
+              "meaningChinese": "贸易摩擦",
+              "example": "Trade friction can reduce export growth."
+            },
+            {
+              "expression": "household budget",
+              "meaningChinese": "家庭预算",
+              "example": "Energy prices affect household budgets."
+            },
+            {
+              "expression": "business margin",
+              "meaningChinese": "企业利润空间",
+              "example": "Higher costs can squeeze business margins."
+            }
+          ],
+          "studyNote": "Finance note\n这不是投资建议。这里关注市场价格如何影响产业链、贸易关系和普通人的生活成本。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Business live",
+              "url": "https://www.theguardian.com/business/live/2026/jun/26/uk-food-drink-exports-fall-us-tariffs-brexit-trade-friction-stock-market-ftse-pound-oil-latest-news-updates"
+            }
+          ]
+        },
+        {
+          "title": "Alphabet 进入道琼斯：AI 时代改变“蓝筹公司”的想象",
+          "summaryChinese": "Axios 报道，道琼斯工业平均指数将加入 Alphabet，并移出 Verizon。这个调整不仅是指数技术变化，也象征传统市场正在重新定义什么代表美国经济。AI、云计算和广告平台被纳入蓝筹叙事，说明市场指数也在记录经济权力从电信与传统工业向平台科技转移。",
+          "correspondingEnglish": "The Dow Jones Industrial Average is adding Alphabet and dropping Verizon. The change is more than an index adjustment. It shows how markets are redefining what represents the U.S. economy. AI, cloud computing and platform businesses are becoming part of the blue-chip story.",
+          "englishExpressions": [
+            {
+              "expression": "index adjustment",
+              "meaningChinese": "指数调整",
+              "example": "The index adjustment reflects changes in the economy."
+            },
+            {
+              "expression": "blue-chip company",
+              "meaningChinese": "蓝筹公司",
+              "example": "Alphabet is becoming part of the blue-chip story."
+            },
+            {
+              "expression": "platform business",
+              "meaningChinese": "平台型企业",
+              "example": "Platform businesses now shape the market narrative."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Axios｜Dow adds Alphabet",
+              "url": "https://www.axios.com/2026/06/26/dow-ai-alphabet-verizon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "Pride 在敌意环境中重新强调抗议传统",
+          "summaryChinese": "The Guardian 的 Friday briefing 讨论英国 LGBTQ+ 社群如何在政治敌意、资金压力和公共空间限制中重新思考 Pride。部分活动面临撤资或地点争议，组织者强调 Pride 本来就不是单纯庆典，而是公共可见性和社会权利的争取。可见性不只是被看见，也包括是否能安全地占据街道、广场和文化记忆。",
+          "correspondingEnglish": "LGBTQ+ communities in the UK are rethinking Pride amid political hostility, funding pressure and restrictions on public space. Organizers argue that Pride is not only a celebration but also a struggle for visibility and rights. Visibility means more than being seen; it also means being able to safely occupy streets, squares and cultural memory.",
+          "englishExpressions": [
+            {
+              "expression": "public visibility",
+              "meaningChinese": "公共可见性",
+              "example": "Pride creates public visibility for LGBTQ+ communities."
+            },
+            {
+              "expression": "funding pressure",
+              "meaningChinese": "资金压力",
+              "example": "Some Pride events are facing funding pressure."
+            },
+            {
+              "expression": "occupy public space",
+              "meaningChinese": "占据公共空间",
+              "example": "Marches allow communities to occupy public space."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Rethinking Pride",
+              "url": "https://www.theguardian.com/world/2026/jun/26/friday-briefing-can-lgbtq-communities-rethink-pride-in-a-hostile-landscape"
+            }
+          ]
+        },
+        {
+          "title": "棒球 Pride Night 争议：体育场成为文化政治现场",
+          "summaryChinese": "美国职棒 Pride Night 争议显示，体育场并不是远离政治的中立空间。The Guardian 评论指出，球帽、宗教表达、政府调查和 Pride 标志同时进入体育场，使球赛成为关于性别、宗教、种族和公共身份的文化政治现场。体育文化之所以重要，正是因为它把抽象争议带进日常娱乐。",
+          "correspondingEnglish": "The debate around Pride Night in Major League Baseball shows that sports venues are not neutral spaces outside politics. Caps, religious messages, investigations and Pride symbols have turned the stadium into a site of cultural politics involving gender, religion, race and public identity.",
+          "englishExpressions": [
+            {
+              "expression": "cultural politics",
+              "meaningChinese": "文化政治",
+              "example": "Sports often become sites of cultural politics."
+            },
+            {
+              "expression": "neutral space",
+              "meaningChinese": "中立空间",
+              "example": "A stadium is rarely a neutral space."
+            },
+            {
+              "expression": "public identity",
+              "meaningChinese": "公共身份",
+              "example": "Pride symbols are connected to public identity."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜MLB Pride culture wars",
+              "url": "https://www.theguardian.com/sport/2026/jun/26/san-francisco-giants-pride-night-mlb-culture-wars"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "Orwell Prize 颁奖：政治写作仍然是一种艺术",
+          "summaryChinese": "Ben Lerner 的《Transcription》获得 2026 年 Orwell Prize for Political Fiction，Karen Bartlett 的《The Escape from Kabul》获得非虚构奖，后者关注塔利班接管后阿富汗女性律师的处境。这个奖项提醒我们，政治写作并不只是立场表态，也可以通过叙事、人物、记忆和语言，把权力结构带回具体的人生经验。",
+          "correspondingEnglish": "Ben Lerner’s Transcription won the 2026 Orwell Prize for Political Fiction, while Karen Bartlett’s The Escape from Kabul won the nonfiction prize for its account of Afghan women lawyers after the Taliban takeover. The awards remind us that political writing is not only about taking a position. It can use narrative, memory and language to return power to lived experience.",
+          "englishExpressions": [
+            {
+              "expression": "political writing",
+              "meaningChinese": "政治写作",
+              "example": "Political writing can become a form of art."
+            },
+            {
+              "expression": "lived experience",
+              "meaningChinese": "切身经验；生活经验",
+              "example": "Good nonfiction connects politics to lived experience."
+            },
+            {
+              "expression": "narrative memory",
+              "meaningChinese": "叙事记忆",
+              "example": "Narrative memory helps preserve difficult histories."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Orwell Prize",
+              "url": "https://www.theguardian.com/books/2026/jun/25/transcription-by-ben-lerner-wins-orwell-prize-for-political-fiction"
+            }
+          ]
+        },
+        {
+          "title": "男装秀继续变得更柔软、更大胆：身体风格也是文化文本",
+          "summaryChinese": "Vogue 讨论 2027 春季男装秀是否正在缩小所谓 “swag gap”：更大胆的配饰、更鲜明的色彩、更柔软或贴身的剪裁，正在让男装从保守规则走向更开放的身体表达。时尚不是轻浮的表面，它经常记录社会对 masculinity、身体、欲望和自我展示的想象如何变化。",
+          "correspondingEnglish": "Vogue’s menswear coverage asks whether the Spring 2027 shows are closing the so-called “swag gap.” Bolder accessories, brighter colors and softer or sharper silhouettes suggest that menswear is moving toward more open forms of body expression. Fashion often records changing ideas about masculinity, desire and self-presentation.",
+          "englishExpressions": [
+            {
+              "expression": "body expression",
+              "meaningChinese": "身体表达",
+              "example": "Menswear is becoming a form of body expression."
+            },
+            {
+              "expression": "self-presentation",
+              "meaningChinese": "自我呈现",
+              "example": "Clothing shapes self-presentation."
+            },
+            {
+              "expression": "masculinity",
+              "meaningChinese": "男性气质",
+              "example": "Fashion can challenge older ideas of masculinity."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Vogue｜Spring 2027 menswear",
+              "url": "https://www.vogue.com/article/are-the-spring-2027-menswear-shows-closing-the-swag-gap"
+            },
+            {
+              "label": "Vogue｜Menswear takeaways",
+              "url": "https://www.vogue.com/article/5-key-takeaways-from-pitti-uomo-and-milan-fashion-week-mens-ss27"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "美国两党推出 AI 云安全法案：算力成为国家安全边界",
+          "summaryChinese": "Axios 报道，美国国会议员推出 Cloud Security Act，计划让云服务公司向商务部报告疑似外国滥用先进 AI 算力的行为。这个法案关注的是一个新漏洞：即使芯片出口受到限制，外国实体仍可能通过云服务使用先进计算资源。AI 安全已经不只是模型安全，也包括云平台、算力访问和跨国监管。",
+          "correspondingEnglish": "U.S. lawmakers are introducing the Cloud Security Act, which would allow cloud companies to report suspected foreign misuse of advanced AI computing to the Commerce Department. The bill targets a loophole: even if chip exports are restricted, foreign actors may still access advanced computing through cloud services. AI security now includes cloud platforms, compute access and cross-border regulation.",
+          "englishExpressions": [
+            {
+              "expression": "cloud security",
+              "meaningChinese": "云安全",
+              "example": "Cloud security has become part of AI governance."
+            },
+            {
+              "expression": "compute access",
+              "meaningChinese": "算力访问",
+              "example": "Governments are paying more attention to compute access."
+            },
+            {
+              "expression": "cross-border regulation",
+              "meaningChinese": "跨境监管",
+              "example": "AI services require cross-border regulation."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Axios｜AI cloud security bill",
+              "url": "https://www.axios.com/2026/06/26/gottheimer-moolenaar-ai-cloud-security-bill"
+            }
+          ]
+        },
+        {
+          "title": "AI 投资进入实体经济：水、电、工厂和矿山成为新焦点",
+          "summaryChinese": "Axios 引述 Goldman Sachs 报告称，下一波 AI 热潮将进入“实体经济”：工厂、矿山、公用事业、油气设施和数据中心。另一篇 Axios 报道也指出，数据中心用水和能源消耗正成为 AI 扩张的新争议。AI 不再只是屏幕上的聊天框，而是一套消耗资源、重组产业、改变地方社区的物质系统。",
+          "correspondingEnglish": "Goldman Sachs argues that the next wave of AI investment will move into the physical economy: factories, mines, utilities, oil rigs and data centers. At the same time, water and energy use by data centers are becoming major flashpoints. AI is no longer only a chatbot on a screen; it is a material system that consumes resources and reshapes communities.",
+          "englishExpressions": [
+            {
+              "expression": "physical economy",
+              "meaningChinese": "实体经济",
+              "example": "AI investment is moving into the physical economy."
+            },
+            {
+              "expression": "data center",
+              "meaningChinese": "数据中心",
+              "example": "Data centers require large amounts of water and electricity."
+            },
+            {
+              "expression": "material system",
+              "meaningChinese": "物质系统",
+              "example": "AI is also a material system built from energy and infrastructure."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Axios｜AI physical economy",
+              "url": "https://www.axios.com/2026/06/26/goldman-sachs-ai-physical-economy"
+            },
+            {
+              "label": "Axios｜AI water and energy",
+              "url": "https://www.axios.com/2026/06/25/water-energy-ai-flashpoint"
+            },
+            {
+              "label": "AP｜AI environmental impact",
+              "url": "https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news shows that public systems are often most visible when they are under pressure. A disaster reveals how people search, communicate and receive aid. A heatwave reveals whether cities can protect bodies from extreme temperatures. Markets reveal which companies and risks are considered central to the economy. Culture reveals who is allowed to appear in public, and AI reveals how deeply digital power depends on physical infrastructure.",
+    "chinese": "今天的新闻让我们看到，公共系统往往在承压时最容易被看见。灾害暴露人们如何搜寻、沟通和获得援助；热浪暴露城市能否保护身体免受极端高温伤害；市场暴露哪些公司和风险被视为经济核心；文化暴露谁能够出现在公共空间，而 AI 则暴露数字权力多么依赖实体基础设施。"
+  },
+  "keywords": [
+    {
+      "word": "public system",
+      "meaning": "公共系统；支撑社会共同生活的制度、服务和基础设施",
+      "example": "A disaster can reveal the strengths and weaknesses of public systems."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被公众看见、承认和讨论的状态",
+      "example": "Pride is about visibility as well as celebration."
+    },
+    {
+      "word": "governance",
+      "meaning": "治理；制定规则、分配责任并管理公共事务的方式",
+      "example": "Extreme heat has become a governance challenge."
+    },
+    {
+      "word": "compute access",
+      "meaning": "算力访问；使用先进计算资源的能力或权限",
+      "example": "Compute access is now part of AI security policy."
+    },
+    {
+      "word": "physical economy",
+      "meaning": "实体经济；由工厂、能源、矿山、物流和基础设施构成的经济部分",
+      "example": "AI investment is expanding into the physical economy."
+    },
+    {
+      "word": "trade friction",
+      "meaning": "贸易摩擦；阻碍跨境贸易的关税、规则或政治冲突",
+      "example": "Trade friction can reduce exports and raise costs."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "AI is no longer only a chatbot on a screen; it is a material system that consumes resources and reshapes communities.",
+    "analysisChinese": "这个句子用 “no longer only...” 建立转折：AI 不再只是屏幕上的聊天工具。分号后面用 “it is...” 重新定义 AI：一个消耗资源、重塑社区的物质系统。写作时可以模仿：Climate change is no longer only an environmental issue; it is a social system that reshapes health, work and housing."
+  },
+  "reflection": {
+    "english": "To read the news well is to notice both the headline and the hidden system beneath it.",
+    "chinese": "今天想留下的一句话是：读新闻，不只是读头条，也是在学习看见头条下面那些安静运行的系统。"
+  },
+  "tags": [
+    "Venezuela",
+    "earthquake",
+    "online registries",
+    "Europe heatwave",
+    "climate adaptation",
+    "finance",
+    "oil prices",
+    "trade friction",
+    "Dow Jones",
+    "Alphabet",
+    "Pride",
+    "LGBTQ",
+    "culture wars",
+    "Orwell Prize",
+    "political fiction",
+    "menswear",
+    "AI security",
+    "cloud computing",
+    "AI infrastructure",
+    "physical economy",
+    "data centers"
+  ],
+  "sources": [
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "label": "Vogue",
+      "url": "https://www.vogue.com/"
+    }
+  ],
+  "rawText": ""
+}

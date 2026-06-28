@@ -76,10 +76,10 @@ data/briefings/template.json
 1. `global-news` — 全球新闻 / Global News
 2. `finance-markets` — 金融与市场 / Finance & Markets
 3. `gender-culture` — 性别与文化 / Gender & Culture
-4. `books-culture-arts` — 书籍、文化与艺术 / Books, Culture & Arts
+4. `books-literature-art-fashion-media` — ★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体
 5. `ai-tech` — AI 与科技 / AI & Tech
 
-旧小报里的 `art-media` 仍然可以被网页读取，详情页会显示为 **书籍、文化与艺术 / Books, Culture & Arts**。
+旧小报里的 `art-media`、`art-fashion-media`、`books-culture-arts` 仍然可以被网页读取，详情页会显示为 **★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体**。
 
 首页会优先加载当天小报；如果当天还没有文件，则加载归档里的最新一篇。归档按日期从新到旧排序，点击后进入：
 
@@ -148,15 +148,22 @@ python3 -m http.server 8000
 http://localhost:8000
 ```
 
-## Update Log
+## Site Notes / 小站更新札记
 
-首页底部 **Site Notes｜站点札记** 的更新记录存放在：
+首页底部 **Site Notes｜小站更新札记** 的更新记录存放在：
 
 ```text
 data/update-log.json
 ```
 
-添加新记录时，把新的对象放在数组最上方：
+`data/update-log.json` 是永久更新档案。添加新 Site Note 时：
+
+1. 打开 `data/update-log.json`。
+2. 把新的对象放在数组最上方。
+3. 保留所有旧记录在下面。
+4. 不要删除旧 update notes，也不要只保留最新几条。
+
+记录结构：
 
 ```json
 {
@@ -178,7 +185,7 @@ data/update-log.json
 - `bugfix`
 - `source`
 
-如果某条记录没有相关页面，可以把 `link` 留空。保存并提交 `data/update-log.json` 后，首页的站点札记会自动显示最新 5 条更新。
+如果某条记录没有相关页面，可以把 `link` 留空。保存并提交 `data/update-log.json` 后，首页默认显示最新 5 条；点击 **查看全部更新 / Show all updates** 可以展开全部历史记录。
 
 ## 自动生成
 
@@ -241,14 +248,18 @@ Finance & Markets｜金融与市场：
 
 这个频道用于解释市场、通胀、央行、油价、商业、科技资本、发展债务与经济不平等的社会含义，不提供买入或卖出建议。
 
-Books, Culture & Arts｜书籍、文化与艺术：
+Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体：
 
 - The Guardian Books
-- BBC Culture / Books
+- BBC Culture
 - NPR Books
 - The Conversation Arts + Culture
-- ABC Australia Arts / Books
+- ABC Australia Arts / Culture
 - Literary Hub
 - Aeon / Psyche essays
+- AP Entertainment / Culture
+- Reuters Lifestyle / Culture
+- Vogue Business or Business of Fashion for fashion industry context, if accessible
+- Museum or institution websites for exhibitions when relevant
 
-这个频道覆盖文学、书籍、作者、出版、文化批评、艺术展览、博物馆、时尚风格、媒体、电影、平台与视觉文化。
+这个频道覆盖新书、文学奖、作家访谈、出版业新闻、文学文化评论、美术馆、展览、艺术市场、时装周、品牌文化、身体与审美、电影、纪录片、播客与媒体行业变化。如果来源有付费墙或无法读取，请跳过或改用可访问来源，不要虚构文章内容。

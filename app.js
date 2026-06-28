@@ -7,29 +7,33 @@ const SECTION_LABELS = {
   "global-news": "Global News｜全球新闻",
   "finance-markets": "Finance & Markets｜金融与市场",
   "gender-culture": "Gender & Culture｜性别与文化",
-  "books-culture-arts": "Books, Culture & Arts｜书籍、文化与艺术",
-  "art-media": "Books, Culture & Arts｜书籍、文化与艺术",
+  "books-literature-art-fashion-media": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "books-culture-arts": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "art-fashion-media": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "art-media": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
   "ai-tech": "AI & Tech｜AI 与科技",
   "Global News｜全球新闻": "Global News｜全球新闻",
   "Finance & Markets｜金融与市场": "Finance & Markets｜金融与市场",
   "Finance / Markets｜金融与市场": "Finance & Markets｜金融与市场",
   "Gender & Culture｜性别与文化": "Gender & Culture｜性别与文化",
   "Gender / Culture｜性别与文化": "Gender & Culture｜性别与文化",
-  "Art, Fashion & Media｜艺术、时尚与媒介": "Books, Culture & Arts｜书籍、文化与艺术",
-  "Art / Fashion / Media｜艺术、时尚与媒介": "Books, Culture & Arts｜书籍、文化与艺术",
-  "Art / Fashion / Media｜艺术、时尚与媒体": "Books, Culture & Arts｜书籍、文化与艺术",
-  "Books, Culture & Arts｜书籍、文化与艺术": "Books, Culture & Arts｜书籍、文化与艺术",
-  "Books / Culture / Arts｜书籍、文化与艺术": "Books, Culture & Arts｜书籍、文化与艺术",
+  "Art, Fashion & Media｜艺术、时尚与媒介": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Art / Fashion / Media｜艺术、时尚与媒介": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Art / Fashion / Media｜艺术、时尚与媒体": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Books, Culture & Arts｜书籍、文化与艺术": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Books / Culture / Arts｜书籍、文化与艺术": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
   "AI & Tech｜AI 与科技": "AI & Tech｜AI 与科技",
   "AI / Tech｜AI 与科技": "AI & Tech｜AI 与科技",
 };
 
-const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-culture-arts", "ai-tech"];
+const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
 const topicFallback = [
   "Global News｜全球新闻",
   "Finance & Markets｜金融与市场",
   "Gender & Culture｜性别与文化",
-  "Books, Culture & Arts｜书籍、文化与艺术",
+  "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
   "AI & Tech｜AI 与科技",
 ];
 const signalIcons = ["◎", "◇", "☾", "◉", "✶"];
@@ -37,7 +41,7 @@ const signalFallbackText = [
   "采集地缘政治、战争、气候与公共安全的最新动态",
   "观察全球市场、通胀、央行、油价、商业、科技资本与经济不平等",
   "观察性别议题、社会文化与群体声音",
-  "阅读文学、书籍、作者、出版、艺术、博物馆、时尚、媒体、电影与视觉文化",
+  "收录新书、文学奖、作家访谈、出版业新闻、文学文化评论、美术馆、展览、艺术市场、时装周、品牌文化、身体与审美、电影、纪录片、播客与媒体行业变化。",
   "追踪技术发展、AI 应用、基础设施与数字社会议题",
 ];
 const todayBriefing = document.querySelector("#todayBriefing");
@@ -48,13 +52,17 @@ const themeSwitch = document.querySelector("#themeSwitch");
 const themeIcon = themeSwitch?.querySelector(".theme-icon");
 const archiveToggle = document.querySelector("#archiveToggle");
 const updateLogList = document.querySelector("#update-log-list");
+const updateLogToggle = document.querySelector("#updateLogToggle");
 const siteNotesToggle = document.querySelector("#siteNotesToggle");
 const siteNotesContent = document.querySelector("#site-notes-content");
 const siteNotesCount = document.querySelector("#siteNotesCount");
 
 let archiveEntries = [];
 let showFullArchive = false;
+let showAllUpdates = false;
+let allUpdateNotes = [];
 const ARCHIVE_PREVIEW_LIMIT = 16;
+const UPDATE_PREVIEW_LIMIT = 5;
 const archiveSymbols = ["✦", "☾", "✶", "∙"];
 
 function getStoredTheme() {
@@ -106,7 +114,7 @@ function normalizeSectionId(section = {}) {
   const raw = `${section.id || ""} ${section.heading || ""}`.toLowerCase();
   if (raw.includes("finance") || raw.includes("market") || raw.includes("金融") || raw.includes("市场")) return "finance-markets";
   if (raw.includes("gender") || raw.includes("性别")) return "gender-culture";
-  if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("文化")) return "books-culture-arts";
+  if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art-fashion-media") || raw.includes("books-culture-arts") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("文学") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("出版") || raw.includes("作家") || raw.includes("美术馆") || raw.includes("电影") || raw.includes("播客") || raw.includes("文化")) return "books-literature-art-fashion-media";
   if (raw.includes("ai") || raw.includes("tech") || raw.includes("科技")) return "ai-tech";
   return "global-news";
 }
@@ -310,6 +318,7 @@ function renderUpdateLogItem(update) {
   const title = escapeHTML(update.title || "Untitled update");
   const description = escapeHTML(update.description || "");
   const type = escapeHTML(update.type || "update");
+  const relatedDate = escapeHTML(update.relatedDate || "");
   const link = update.link ? escapeAttribute(update.link) : "";
   const titleHTML = link
     ? `<a class="site-notes-link" href="${link}">${title}</a>`
@@ -321,10 +330,49 @@ function renderUpdateLogItem(update) {
       <div class="site-notes-main">
         ${titleHTML}
         ${description ? `<p class="site-notes-description">${description}</p>` : ""}
+        ${relatedDate ? `<span class="site-notes-related">Related: ${relatedDate}</span>` : ""}
         <span class="site-notes-type">${type}</span>
       </div>
     </li>
   `;
+}
+
+function renderUpdateLogError() {
+  if (siteNotesCount) siteNotesCount.textContent = "0 updates";
+  if (updateLogToggle) updateLogToggle.hidden = true;
+  if (updateLogList) updateLogList.innerHTML = `<p class="site-notes-empty">暂无更新记录 / No updates yet.</p>`;
+}
+
+function renderUpdateLog() {
+  if (!updateLogList) return;
+
+  if (!Array.isArray(allUpdateNotes) || !allUpdateNotes.length) {
+    renderUpdateLogError();
+    return;
+  }
+
+  const visibleUpdates = showAllUpdates ? allUpdateNotes : allUpdateNotes.slice(0, UPDATE_PREVIEW_LIMIT);
+  const visibleCount = Math.min(UPDATE_PREVIEW_LIMIT, allUpdateNotes.length);
+
+  if (siteNotesCount) {
+    siteNotesCount.textContent = showAllUpdates
+      ? `${allUpdateNotes.length} updates`
+      : `Latest ${visibleCount} / ${allUpdateNotes.length}`;
+  }
+
+  updateLogList.innerHTML = `
+    <ol class="site-notes-list">
+      ${visibleUpdates.map(renderUpdateLogItem).join("")}
+    </ol>
+  `;
+
+  if (updateLogToggle) {
+    updateLogToggle.hidden = allUpdateNotes.length <= UPDATE_PREVIEW_LIMIT;
+    updateLogToggle.textContent = showAllUpdates
+      ? "收起 / Collapse"
+      : `查看全部更新 / Show all updates (${allUpdateNotes.length})`;
+    updateLogToggle.setAttribute("aria-expanded", String(showAllUpdates));
+  }
 }
 
 async function loadUpdateLog() {
@@ -336,25 +384,16 @@ async function loadUpdateLog() {
     const updates = await response.json();
 
     if (!Array.isArray(updates) || !updates.length) {
-      if (siteNotesCount) siteNotesCount.textContent = "0 updates";
-      updateLogList.innerHTML = `<p class="site-notes-empty">暂无更新记录 / No updates yet.</p>`;
+      allUpdateNotes = [];
+      renderUpdateLogError();
       return;
     }
 
-    if (siteNotesCount) {
-      const countLabel = updates.length === 1 ? "1 update" : `${updates.length} updates`;
-      siteNotesCount.textContent = `Latest ${countLabel}`;
-    }
-
-    updateLogList.innerHTML = `
-      <ol class="site-notes-list">
-        ${updates.slice(0, 5).map(renderUpdateLogItem).join("")}
-      </ol>
-    `;
+    allUpdateNotes = [...updates].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    renderUpdateLog();
   } catch (error) {
     console.warn("Could not load update log:", error);
-    if (siteNotesCount) siteNotesCount.textContent = "0 updates";
-    updateLogList.innerHTML = `<p class="site-notes-empty">暂无更新记录 / No updates yet.</p>`;
+    renderUpdateLogError();
   }
 }
 
@@ -382,6 +421,11 @@ siteNotesToggle?.addEventListener("click", () => {
   const isExpanded = siteNotesToggle.getAttribute("aria-expanded") === "true";
   siteNotesToggle.setAttribute("aria-expanded", String(!isExpanded));
   if (siteNotesContent) siteNotesContent.hidden = isExpanded;
+});
+
+updateLogToggle?.addEventListener("click", () => {
+  showAllUpdates = !showAllUpdates;
+  renderUpdateLog();
 });
 
 async function init() {

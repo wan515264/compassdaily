@@ -40,8 +40,8 @@ SECTION_CONFIG = {
             ("lived experience", "切身经验", "Policy debates should include lived experience."),
         ],
     },
-    "books-culture-arts": {
-        "heading": "书籍、文化与艺术 / Books, Culture & Arts",
+    "books-literature-art-fashion-media": {
+        "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
         "expressions": [
             ("cultural memory", "文化记忆", "Art can reshape cultural memory."),
             ("creative practice", "创作实践", "Creative practice responds to social change."),
@@ -125,7 +125,7 @@ def classify(item):
     text = f"{item['title']} {item['summary']}"
     section = item["section"]
     if section in ART_SECTIONS:
-        return "books-culture-arts"
+        return "books-literature-art-fashion-media"
     if section in FINANCE_SECTIONS:
         return "finance-markets"
     if GENDER_TERMS.search(text) or section in {"society", "lifeandstyle", "education"}:
@@ -157,7 +157,7 @@ def build_item(item, section_id):
         "global-news": "这篇报道关注当天的重要公共事件。阅读时可以同时观察事件本身、制度回应，以及风险如何在不同群体之间分配。",
         "finance-markets": "这篇报道关注市场、商业或宏观经济。阅读时要观察价格、资本、政策和不平等如何共同影响日常生活，而不是把它理解为投资建议。",
         "gender-culture": "这篇报道涉及身份、照护、平等或日常文化经验。它提醒我们，正式规则与真实生活之间经常存在需要被看见的距离。",
-        "books-culture-arts": "这篇报道从书籍、艺术、时尚、媒体或视觉文化进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值和社会想象。",
+        "books-literature-art-fashion-media": "这篇报道从书籍、文学、艺术、时尚、媒体或视觉文化进入公共生活。文化作品不仅提供观看与娱乐，也参与塑造记忆、价值、审美和社会想象。",
         "ai-tech": "这篇报道关注科技、科学或产业变化。重要的不只是新工具本身，也包括基础设施、劳动、监管和公共责任。",
     }
     title_cn = f"Guardian报道｜{item['title']}"

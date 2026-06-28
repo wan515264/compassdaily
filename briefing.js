@@ -9,23 +9,27 @@ const SECTION_LABELS = {
   "global-news": "全球新闻 / Global News",
   "finance-markets": "金融与市场 / Finance & Markets",
   "gender-culture": "性别与文化 / Gender & Culture",
-  "books-culture-arts": "书籍、文化与艺术 / Books, Culture & Arts",
-  "art-media": "书籍、文化与艺术 / Books, Culture & Arts",
+  "books-literature-art-fashion-media": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "books-culture-arts": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "art-fashion-media": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "art-media": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
   "ai-tech": "AI 与科技 / AI & Tech",
   "Global News｜全球新闻": "全球新闻 / Global News",
   "Finance & Markets｜金融与市场": "金融与市场 / Finance & Markets",
   "Finance / Markets｜金融与市场": "金融与市场 / Finance & Markets",
   "Gender & Culture｜性别与文化": "性别与文化 / Gender & Culture",
   "Gender / Culture｜性别与文化": "性别与文化 / Gender & Culture",
-  "Art, Fashion & Media｜艺术、时尚与媒介": "书籍、文化与艺术 / Books, Culture & Arts",
-  "Art / Fashion / Media｜艺术、时尚与媒介": "书籍、文化与艺术 / Books, Culture & Arts",
-  "Art / Fashion / Media｜艺术、时尚与媒体": "书籍、文化与艺术 / Books, Culture & Arts",
-  "Books, Culture & Arts｜书籍、文化与艺术": "书籍、文化与艺术 / Books, Culture & Arts",
-  "Books / Culture / Arts｜书籍、文化与艺术": "书籍、文化与艺术 / Books, Culture & Arts",
+  "Art, Fashion & Media｜艺术、时尚与媒介": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Art / Fashion / Media｜艺术、时尚与媒介": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Art / Fashion / Media｜艺术、时尚与媒体": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Books, Culture & Arts｜书籍、文化与艺术": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Books / Culture / Arts｜书籍、文化与艺术": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+  "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
   "AI & Tech｜AI 与科技": "AI 与科技 / AI & Tech",
   "AI / Tech｜AI 与科技": "AI 与科技 / AI & Tech",
 };
-const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-culture-arts", "ai-tech"];
+const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
 
 const briefingDetail = document.querySelector("#briefingDetail");
 const wordbook = document.querySelector("#wordbook");
@@ -78,7 +82,7 @@ function normalizeSectionId(section = {}) {
   const raw = `${section.id || ""} ${section.heading || ""}`.toLowerCase();
   if (raw.includes("finance") || raw.includes("market") || raw.includes("金融") || raw.includes("市场")) return "finance-markets";
   if (raw.includes("gender") || raw.includes("性别")) return "gender-culture";
-  if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("文化")) return "books-culture-arts";
+  if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art-fashion-media") || raw.includes("books-culture-arts") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("文学") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("出版") || raw.includes("作家") || raw.includes("美术馆") || raw.includes("电影") || raw.includes("播客") || raw.includes("文化")) return "books-literature-art-fashion-media";
   if (raw.includes("ai") || raw.includes("tech") || raw.includes("科技")) return "ai-tech";
   return "global-news";
 }

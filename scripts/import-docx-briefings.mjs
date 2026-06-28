@@ -14,7 +14,7 @@ const STANDARD_SECTIONS = {
   "global-news": "全球新闻 / Global News",
   "finance-markets": "金融与市场 / Finance & Markets",
   "gender-culture": "性别与文化 / Gender & Culture",
-  "books-culture-arts": "书籍、文化与艺术 / Books, Culture & Arts",
+  "books-literature-art-fashion-media": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
   "ai-tech": "AI 与科技 / AI & Tech",
 };
 
@@ -115,8 +115,8 @@ function sectionMeta(line = "") {
     return { kind: "section", id: "finance-markets", heading: STANDARD_SECTIONS["finance-markets"] };
   }
   if (/gender\s*(\/|&|and)?\s*culture|性别与文化/.test(lower)) return { kind: "section", id: "gender-culture", heading: STANDARD_SECTIONS["gender-culture"] };
-  if (/books?.*culture.*arts?|books?.*arts?|art.*fashion.*media|艺术[、／/\s]*(时尚|媒介|媒体)|艺术、时尚与媒介|艺术、时尚与媒体|书籍、文化与艺术|书籍|文学|出版|博物馆/.test(lower)) {
-    return { kind: "section", id: "books-culture-arts", heading: STANDARD_SECTIONS["books-culture-arts"] };
+  if (/books?.*culture.*arts?|books?.*literature.*art.*fashion.*media|books?.*arts?|art.*fashion.*media|艺术[、／/\s]*(时尚|媒介|媒体)|艺术、时尚与媒介|艺术、时尚与媒体|书籍、文化与艺术|书籍文学艺术时尚媒体|书籍|文学|出版|博物馆|美术馆|电影|播客/.test(lower)) {
+    return { kind: "section", id: "books-literature-art-fashion-media", heading: STANDARD_SECTIONS["books-literature-art-fashion-media"] };
   }
   if (/\bai\s*(\/|&|and)?\s*tech\b|ai 与科技|ai与科技/i.test(cleaned)) return { kind: "section", id: "ai-tech", heading: STANDARD_SECTIONS["ai-tech"] };
   if (/one english paragraph|今日英文(阅读|段落)|一段英文精读/.test(lower)) return { kind: "englishParagraph" };

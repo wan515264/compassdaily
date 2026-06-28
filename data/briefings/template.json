@@ -21,9 +21,18 @@
       "items": []
     },
     {
-      "id": "books-culture-arts",
-      "heading": "书籍、文化与艺术 / Books, Culture & Arts",
-      "items": []
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "",
+          "summary": "",
+          "englishLine": "",
+          "sourceLinks": [],
+          "expressions": [],
+          "linkedKeywords": []
+        }
+      ]
     },
     {
       "id": "ai-tech",

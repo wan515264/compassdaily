@@ -14,15 +14,15 @@ const SOURCE_FEEDS = [
   { name: "ABC News", siteUrl: "https://abcnews.com/", feedUrl: "https://feeds.abcnews.com/abcnews/topstories", category: "global-news" },
   { name: "Reuters Business", siteUrl: "https://www.reuters.com/business/", feedUrl: "https://www.reutersagency.com/feed/?best-topics=business-finance&post_type=best", category: "finance-markets" },
   { name: "The Conversation AU", siteUrl: "https://theconversation.com/au", feedUrl: "https://theconversation.com/au/home-page/articles.atom", category: "gender-culture" },
-  { name: "Aeon", siteUrl: "https://aeon.co/", feedUrl: "https://aeon.co/feed.rss", category: "books-culture-arts" },
-  { name: "The Pudding", siteUrl: "https://pudding.cool/", feedUrl: "https://pudding.cool/rss.xml", category: "books-culture-arts" },
+  { name: "Aeon", siteUrl: "https://aeon.co/", feedUrl: "https://aeon.co/feed.rss", category: "books-literature-art-fashion-media" },
+  { name: "The Pudding", siteUrl: "https://pudding.cool/", feedUrl: "https://pudding.cool/rss.xml", category: "books-literature-art-fashion-media" },
 ];
 
 const SECTION_SKELETON = [
   { id: "global-news", heading: "全球新闻 / Global News" },
   { id: "finance-markets", heading: "金融与市场 / Finance & Markets" },
   { id: "gender-culture", heading: "性别与文化 / Gender & Culture" },
-  { id: "books-culture-arts", heading: "书籍、文化与艺术 / Books, Culture & Arts" },
+  { id: "books-literature-art-fashion-media", heading: "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体" },
   { id: "ai-tech", heading: "AI 与科技 / AI & Tech" },
 ];
 
@@ -118,7 +118,7 @@ async function collectSourceMaterial() {
   const settled = await Promise.all(SOURCE_FEEDS.map(fetchFeed));
   const items = settled.flat();
   const selected = [];
-  for (const category of ["global-news", "finance-markets", "gender-culture", "books-culture-arts"]) {
+  for (const category of ["global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media"]) {
     selected.push(...items.filter((item) => item.category === category).slice(0, 3));
   }
   const aiCandidates = items.filter((item) => /\bAI\b|artificial intelligence|technology|tech|platform|data|algorithm|digital/i.test(`${item.title} ${item.summary}`));
@@ -172,9 +172,9 @@ Subtitle: ${SITE_SUBTITLE}
 
 Editorial requirements:
 - Generate a warm, thoughtful bilingual mini-newspaper.
-- Focus on global news, finance/markets, gender/culture, books/culture/arts, and AI/tech.
+- Focus on global news, finance/markets, gender/culture, books/literature/art/fashion/media, and AI/tech.
 - Finance & Markets should explain economic meaning and social context, not investment advice. Do not include buy/sell recommendations.
-- Books, Culture & Arts should cover literature, books, authors, publishing, art, museums, fashion, media, film, platforms, and visual culture.
+- Books / Literature / Art / Fashion / Media should cover new books, literary prizes, author interviews, publishing industry news, literary and cultural criticism, museums, exhibitions, art markets, fashion weeks, brand culture, bodies and aesthetics, film, documentaries, podcasts, and media industry changes.
 - Include English learning value: useful expressions, examples, keywords, and one sentence analysis.
 - Tone: calm, intelligent, gentle, globally aware.
 - Do not fabricate precise facts without source material.
@@ -205,7 +205,7 @@ Required JSON shape:
     },
     { "id": "finance-markets", "heading": "金融与市场 / Finance & Markets", "items": [] },
     { "id": "gender-culture", "heading": "性别与文化 / Gender & Culture", "items": [] },
-    { "id": "books-culture-arts", "heading": "书籍、文化与艺术 / Books, Culture & Arts", "items": [] },
+    { "id": "books-literature-art-fashion-media", "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体", "items": [] },
     { "id": "ai-tech", "heading": "AI 与科技 / AI & Tech", "items": [] }
   ],
   "englishParagraph": { "english": "", "chinese": "" },

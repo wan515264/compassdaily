@@ -1097,6 +1097,13 @@ main,
   line-height: 1.5;
 }
 
+.site-notes-related {
+  display: block;
+  margin-top: 0.35rem;
+  color: rgba(245, 234, 216, 0.5);
+  font-size: 0.76rem;
+}
+
 .site-notes-type {
   display: inline-flex;
   margin-top: 0.35rem;
@@ -1115,6 +1122,31 @@ main,
   font-size: 0.9rem;
 }
 
+.update-log-toggle {
+  margin-top: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  background: rgba(197, 154, 87, 0.08);
+  color: var(--gold);
+  padding: 0.55rem 0.9rem;
+  cursor: pointer;
+  font-size: 0.86rem;
+  font-weight: 800;
+  transition: border-color 180ms ease, background 180ms ease, color 180ms ease, transform 180ms ease;
+}
+
+.update-log-toggle:hover,
+.update-log-toggle:focus-visible {
+  border-color: var(--gold);
+  background: rgba(197, 154, 87, 0.15);
+  color: var(--ink-light);
+  transform: translateY(-1px);
+}
+
+.update-log-toggle[hidden] {
+  display: none;
+}
+
 .theme-light .site-notes-item {
   border-left-color: rgba(135, 91, 48, 0.22);
 }
@@ -1125,6 +1157,7 @@ main,
 }
 
 .theme-light .site-notes-description,
+.theme-light .site-notes-related,
 .theme-light .site-notes-empty {
   color: rgba(42, 33, 24, 0.66);
 }
@@ -1138,6 +1171,17 @@ main,
 .theme-light .site-notes-type {
   border-color: rgba(135, 91, 48, 0.25);
   background: rgba(135, 91, 48, 0.08);
+}
+
+.theme-light .update-log-toggle {
+  background: rgba(135, 91, 48, 0.08);
+  color: #9b6a35;
+}
+
+.theme-light .update-log-toggle:hover,
+.theme-light .update-log-toggle:focus-visible {
+  background: rgba(135, 91, 48, 0.14);
+  color: #2a2118;
 }
 
 .today-main {
@@ -1265,6 +1309,8 @@ main,
   color: var(--ink-light);
   font-family: Georgia, "Times New Roman", "Songti SC", serif;
   font-weight: 500;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
 }
 
 .signal-row small {
@@ -1773,6 +1819,8 @@ main,
   font-size: clamp(1.28rem, 2.2vw, 1.82rem);
   font-weight: 500;
   letter-spacing: 0.01em;
+  line-height: 1.35;
+  overflow-wrap: anywhere;
 }
 
 .detail-section h3::after,
@@ -2441,6 +2489,13 @@ main,
   .briefing-subblock,
   .detail-section {
     padding: 0.65rem;
+  }
+
+  .signal-row strong,
+  .detail-section h3,
+  .briefing-subblock h3 {
+    font-size: clamp(1.05rem, 5vw, 1.45rem);
+    line-height: 1.35;
   }
 
   .briefing-item {

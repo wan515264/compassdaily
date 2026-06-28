@@ -1,5 +1,37 @@
 [
   {
+    "date": "2026-06-28",
+    "title": "Published June 28 briefing",
+    "description": "Added the June 28 Daily Compass on Venezuela earthquake accountability, building standards, oil prices, market representation, Pride public space, political writing, menswear, and AI environmental infrastructure.",
+    "type": "briefing",
+    "relatedDate": "2026-06-28",
+    "link": "briefing.html?date=2026-06-28"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Expanded Site Notes archive",
+    "description": "Updated Site Notes so the homepage shows the latest five updates by default and lets readers expand the full update-log archive without deleting older notes.",
+    "type": "site",
+    "relatedDate": "",
+    "link": "#site-notes"
+  },
+  {
+    "date": "2026-06-27",
+    "title": "Published June 27 briefing",
+    "description": "Added the June 27 Daily Compass from multiple sources on Venezuela earthquake recovery, Europe’s heatwave, oil and trade friction, Dow index changes, Pride public space, political writing, menswear, AI cloud security, and the physical economy of AI.",
+    "type": "briefing",
+    "relatedDate": "2026-06-27",
+    "link": "briefing.html?date=2026-06-27"
+  },
+  {
+    "date": "2026-06-26",
+    "title": "Published June 26 briefing",
+    "description": "Added the June 26 Daily Compass from multiple sources on Venezuela earthquake relief, Europe’s heatwave, oil prices, Dow index changes, Pride visibility, culture wars, the Orwell Prize, menswear, AI infrastructure, and data-center water use.",
+    "type": "briefing",
+    "relatedDate": "2026-06-26",
+    "link": "briefing.html?date=2026-06-26"
+  },
+  {
     "date": "2026-06-25",
     "title": "Regenerated June 25 briefing",
     "description": "Regenerated the June 25 Daily Compass with the five-channel structure, covering Venezuela’s earthquakes, Europe’s heatwave, steel tariffs, oil prices, workplace safety, Afghan women, Frida Kahlo, wheelchair dance, AI literacy, and satellite internet.",

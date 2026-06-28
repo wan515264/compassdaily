@@ -94,7 +94,7 @@ function createBriefing(items) {
     { id: "global-news", heading: "全球新闻 / Global News" },
     { id: "finance-markets", heading: "金融与市场 / Finance & Markets" },
     { id: "gender-culture", heading: "性别与文化 / Gender & Culture" },
-    { id: "books-culture-arts", heading: "书籍、文化与艺术 / Books, Culture & Arts" },
+    { id: "books-literature-art-fashion-media", heading: "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体" },
     { id: "ai-tech", heading: "AI 与科技 / AI & Tech" },
   ];
   const firstSentence = selected[0]?.summary?.match(/[^.!?]+[.!?]+|[^.!?]+$/)?.[0] || "Today's briefing connects global headlines with useful English reading practice.";
