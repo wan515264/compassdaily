@@ -398,5 +398,13 @@
     "type": "archive",
     "relatedDate": "",
     "link": "#archive"
+  },
+  {
+    "date": "2026-05-25",
+    "title": "Started The Daily Compass archive",
+    "description": "Marked the earliest archived bilingual mini-newspaper as the beginning of The Daily Compass reading archive.",
+    "type": "archive",
+    "relatedDate": "2026-05-25",
+    "link": "briefing.html?date=2026-05-25"
   }
 ]
