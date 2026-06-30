@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-06-30",
+    "title": "Refreshed culture section",
+    "description": "Re-crawled and refreshed the June 30 Books / Literature / Art / Fashion / Media section with books, political writing, menswear, and AI taste sources.",
+    "type": "content",
+    "relatedDate": "2026-06-30",
+    "link": "briefing.html?date=2026-06-30"
+  },
+  {
+    "date": "2026-06-30",
+    "title": "Published June 30 briefing",
+    "description": "Regenerated the June 30 Daily Compass with prioritized sources, covering Europe’s heatwave, Venezuela’s humanitarian crisis, commodity shocks, public space, AI data centers, and AI governance.",
+    "type": "briefing",
+    "relatedDate": "2026-06-30",
+    "link": "briefing.html?date=2026-06-30"
+  },
+  {
+    "date": "2026-06-29",
+    "title": "Published June 29 briefing",
+    "description": "Regenerated the June 29 Daily Compass with prioritized sources, covering Europe’s heatwave politics, commodity shocks, Pride public space, care-space safety, political writing, AI taste, and AI governance.",
+    "type": "briefing",
+    "relatedDate": "2026-06-29",
+    "link": "briefing.html?date=2026-06-29"
+  },
+  {
     "date": "2026-06-28",
     "title": "Published June 28 briefing",
     "description": "Added the June 28 Daily Compass on Venezuela earthquake accountability, building standards, oil prices, market representation, Pride public space, political writing, menswear, and AI environmental infrastructure.",

@@ -1,0 +1,442 @@
+{
+  "date": "2026-06-29",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "热浪政治、灾后问责、商品冲击、公共空间、审美产业与AI治理",
+  "introChinese": "今天的小报关键词是：risk and judgment（风险与判断）。欧洲热浪让气候适应从科学问题变成公共治理问题；委内瑞拉地震后的建筑安全与救援问责仍在继续；市场重新评估商品、电力与科技资本；而 Pride、政治文学与 AI 审美创业，则把“谁有权定义价值”这个问题推到文化中心。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "欧洲热浪东移：气候适应成为政治与公共卫生考题",
+          "summaryChinese": "欧洲热浪从西部转向中东欧和南欧，多地气温突破或逼近 40°C，红色高温警报、野火、交通中断、医院压力和能源需求同时出现。高温不再只是天气异常，而是城市治理能力的压力测试：住房是否隔热，夜间是否能降温，老年人和户外劳动者是否被保护，电网和医院是否能承受更热的夏天。",
+          "correspondingEnglish": "Europe’s heatwave has moved east and south, bringing dangerous temperatures, red alerts, wildfires, transport disruption, pressure on hospitals and rising energy demand. Extreme heat is no longer only unusual weather; it is a stress test for urban governance, public health and infrastructure.",
+          "englishExpressions": [
+            {
+              "expression": "red heat alert",
+              "meaningChinese": "红色高温警报",
+              "example": "Several countries issued red heat alerts."
+            },
+            {
+              "expression": "urban governance",
+              "meaningChinese": "城市治理",
+              "example": "Extreme heat is a test of urban governance."
+            },
+            {
+              "expression": "public health pressure",
+              "meaningChinese": "公共卫生压力",
+              "example": "Heatwaves create public health pressure."
+            }
+          ],
+          "studyNote": "Reading note\n读热浪新闻时，不要只看最高温。更重要的是 adaptive capacity：城市、医院、住房和劳动制度能否让脆弱人群活过极端天气。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Dangerous temperatures in Europe",
+              "url": "https://www.theguardian.com/environment/2026/jun/29/dangerous-temperatures-forecast-central-eastern-europe-heatwave"
+            },
+            {
+              "label": "AP｜What makes a heat dome",
+              "url": "https://apnews.com/article/baa416ddc73ce7e5b902bcf6686f0ff0"
+            }
+          ]
+        },
+        {
+          "title": "气候否认与公共信任：热浪让欧洲绿色政策重新受审视",
+          "summaryChinese": "欧洲持续高温让气候沟通变得更尖锐。绿色转型、空气质量、能源价格、AI 数据中心用水和地方社区压力被放在同一张桌面上讨论。气候政治的难点不只是证明科学事实，也在于让公众相信，长期投资、清洁能源和城市韧性不是抽象口号，而是保护生命和生活成本的现实工具。",
+          "correspondingEnglish": "The heatwave has sharpened Europe’s climate debate. Clean energy, air quality, energy prices, data-center water use and local community pressure are now part of the same conversation. Climate politics is not only about proving scientific facts; it is also about building public trust in long-term investment and resilience.",
+          "englishExpressions": [
+            {
+              "expression": "climate denial",
+              "meaningChinese": "气候否认",
+              "example": "Climate denial can weaken public preparation."
+            },
+            {
+              "expression": "public trust",
+              "meaningChinese": "公共信任",
+              "example": "Public trust is essential for climate action."
+            },
+            {
+              "expression": "long-term investment",
+              "meaningChinese": "长期投资",
+              "example": "Climate adaptation requires long-term investment."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜EU green chief on heatwave",
+              "url": "https://www.theguardian.com/environment/2026/jun/29/europe-heatwave-shows-need-to-reject-climate-denial-lies-says-eu-green-chief"
+            },
+            {
+              "label": "AP｜Paris mortuaries overwhelmed",
+              "url": "https://apnews.com/article/a9095af72d14cfdd9ca43637490083e9"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "商品冲击从石油扩散到金属、电力与AI基础设施",
+          "summaryChinese": "能源与商品市场正在重新理解未来风险。油价仍受中东局势、霍尔木兹海峡预期和谈判消息影响；与此同时，铜、锂、铝、电力和关键材料也被纳入更大的科技与能源转型叙事。电动车、国防、可再生能源和 AI 数据中心共同增加资源需求，让“技术增长”变成一组非常具体的矿产、电网和供应链问题。",
+          "correspondingEnglish": "Commodity markets are reassessing future risks. Oil prices remain sensitive to Middle East tensions and shipping expectations, while copper, lithium, aluminum, electricity and critical materials are becoming part of a broader technology and energy-transition story.",
+          "englishExpressions": [
+            {
+              "expression": "commodity shock",
+              "meaningChinese": "大宗商品冲击",
+              "example": "Commodity shocks can spread from oil to metals and electricity."
+            },
+            {
+              "expression": "critical materials",
+              "meaningChinese": "关键材料",
+              "example": "AI infrastructure depends on critical materials."
+            },
+            {
+              "expression": "supply-chain pressure",
+              "meaningChinese": "供应链压力",
+              "example": "Supply-chain pressure can raise costs."
+            }
+          ],
+          "studyNote": "Finance note\n这不是投资建议。这里关注价格如何连接能源、地缘风险、科技资本和普通人的生活成本。",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Goldman commodity shocks",
+              "url": "https://www.businessinsider.com/oil-prices-energy-metals-commodities-inflation-goldman-sachs-iran-war-2026-6"
+            },
+            {
+              "label": "Barron's｜Oil and Iran talks",
+              "url": "https://www.barrons.com/articles/oil-prices-today-iran-hormuz-d32acfde"
+            }
+          ]
+        },
+        {
+          "title": "科技公司继续塑造市场增长叙事",
+          "summaryChinese": "美股交易周开始前，科技股修复、油价波动和大型公司指数叙事共同牵动市场情绪。Alphabet 进入道琼斯、SpaceX 相关指数期待和 AI 投资热度，说明资本市场正在把“未来增长”的想象更多交给平台、云计算、太空网络和 AI 基础设施。市场指数不是完全中性的镜子，它也会塑造公众对经济中心的理解。",
+          "correspondingEnglish": "Technology shares, oil-price uncertainty and index narratives are shaping market sentiment. Alphabet’s entry into the Dow, SpaceX-related index expectations and AI investment enthusiasm suggest that markets increasingly imagine future growth through platforms, cloud computing, space networks and AI infrastructure.",
+          "englishExpressions": [
+            {
+              "expression": "market sentiment",
+              "meaningChinese": "市场情绪",
+              "example": "Technology news shaped market sentiment."
+            },
+            {
+              "expression": "growth narrative",
+              "meaningChinese": "增长叙事",
+              "example": "AI investment has become part of the growth narrative."
+            },
+            {
+              "expression": "economic representation",
+              "meaningChinese": "经济代表性",
+              "example": "Index changes affect economic representation."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Investopedia｜Before the market opens",
+              "url": "https://www.investopedia.com/5-things-to-know-before-the-stock-market-opens-june-29-2026-12008262"
+            },
+            {
+              "label": "Axios｜Dow adds Alphabet",
+              "url": "https://www.axios.com/2026/06/26/dow-ai-alphabet-verizon"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "Pride 与热浪共同提出公共空间问题",
+          "summaryChinese": "Pride 的可见性讨论与欧洲热浪政治之间有一个共同问题：谁能安全地出现在公共空间里？LGBTQ+ 社群面对资金压力、地方限制和政治敌意；热浪中的老人、慢性病患者、低收入家庭、照护者和户外劳动者也面临更高风险。公共空间不是抽象地点，它包含身体、安全、气候、身份和照护关系。",
+          "correspondingEnglish": "Pride debates and heatwave politics share a question: who can safely appear in public space? LGBTQ+ communities face funding pressure, local restrictions and political hostility, while older people, caregivers, low-income households and outdoor workers face higher heat risks.",
+          "englishExpressions": [
+            {
+              "expression": "public space",
+              "meaningChinese": "公共空间",
+              "example": "Public space is shaped by safety and politics."
+            },
+            {
+              "expression": "safe visibility",
+              "meaningChinese": "安全的可见性",
+              "example": "Safe visibility matters for marginalized communities."
+            },
+            {
+              "expression": "care relationship",
+              "meaningChinese": "照护关系",
+              "example": "Heatwaves put pressure on care relationships."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Rethinking Pride",
+              "url": "https://www.theguardian.com/world/2026/jun/26/friday-briefing-can-lgbtq-communities-rethink-pride-in-a-hostile-landscape"
+            },
+            {
+              "label": "The Guardian｜Heatwave and politics",
+              "url": "https://www.theguardian.com/world/2026/jun/29/first-edition-monday-briefing-heatwave-europe-uk-political-action-far-right-culture-wars"
+            }
+          ]
+        },
+        {
+          "title": "德国青年福利机构枪击案提醒我们：照护空间也需要安全政治",
+          "summaryChinese": "德国北部一处青年福利机构发生致命枪击，受害者包括多名女性。该机构与年轻母亲支持住房相关，使这起事件不只是刑事新闻，也触及照护空间的安全、性别化暴力和社会支持系统。所谓“福利机构”应当是保护脆弱处境者的地方；当暴力进入照护空间，公共责任也必须被重新追问。",
+          "correspondingEnglish": "A deadly shooting at a youth welfare facility in northern Germany raises questions beyond criminal violence. Because the facility was connected to supported housing for young mothers, the case also touches on safety in care spaces, gendered violence and social support systems.",
+          "englishExpressions": [
+            {
+              "expression": "care space",
+              "meaningChinese": "照护空间",
+              "example": "Care spaces should protect vulnerable people."
+            },
+            {
+              "expression": "gendered violence",
+              "meaningChinese": "性别化暴力",
+              "example": "Gendered violence can enter institutions meant to provide care."
+            },
+            {
+              "expression": "social support system",
+              "meaningChinese": "社会支持系统",
+              "example": "Social support systems need safety planning."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Germany shooting live",
+              "url": "https://www.theguardian.com/world/live/2026/jun/29/extreme-heat-europe-germany-poland-czechia-hungary-serbia-heatwave-nato-rutte-starmer-eu-latest-news-updates"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "AI 开始学习“品味”：审美判断正在变成数据产业",
+          "summaryChinese": "Taste Labs 以融资和设计师反馈网络进入公众视野，目标是让 AI 学习设计判断、审美偏好和“好品味”。这个故事处在文化与科技之间：如果品味可以被标注、训练、融资和规模化，那么艺术、设计和时尚中的判断力也可能成为新的数据劳动。审美不再只是私人感受，也可能成为平台化产业的一部分。",
+          "correspondingEnglish": "Taste Labs is trying to help AI learn design judgment, aesthetic preference and taste through feedback from designers and creative professionals. If taste can be labeled, trained, funded and scaled, judgment in art, design and fashion may become a new form of data labor.",
+          "englishExpressions": [
+            {
+              "expression": "aesthetic judgment",
+              "meaningChinese": "审美判断",
+              "example": "The startup wants to train AI in aesthetic judgment."
+            },
+            {
+              "expression": "data labor",
+              "meaningChinese": "数据劳动",
+              "example": "Creative feedback can become data labor."
+            },
+            {
+              "expression": "platformized industry",
+              "meaningChinese": "平台化产业",
+              "example": "Taste may become part of a platformized industry."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Axios｜AI taste",
+              "url": "https://www.axios.com/2026/06/29/ai-taste-labs-launch"
+            }
+          ]
+        },
+        {
+          "title": "政治文学继续提醒我们：制度最终会落到人的故事里",
+          "summaryChinese": "近期政治文学奖让制度、战争、逃离与记忆再次回到文学讨论中心。政治写作的力量不只是表达立场，而是让抽象制度重新变成具体声音：谁被迫离开，谁被迫沉默，谁仍在保存证词和记忆。文化新闻不是逃离现实，而是用更细的语言靠近现实。",
+          "correspondingEnglish": "Recent political writing has returned institutions, war, escape and memory to literary discussion. Its power is not only to express a position, but to turn abstract systems back into specific voices, testimony and memory.",
+          "englishExpressions": [
+            {
+              "expression": "political writing",
+              "meaningChinese": "政治写作",
+              "example": "Political writing connects systems to human lives."
+            },
+            {
+              "expression": "testimony",
+              "meaningChinese": "证词；见证",
+              "example": "Nonfiction can preserve testimony."
+            },
+            {
+              "expression": "abstract system",
+              "meaningChinese": "抽象系统",
+              "example": "Literature can make an abstract system visible."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Orwell Prize",
+              "url": "https://www.theguardian.com/books/2026/jun/25/transcription-by-ben-lerner-wins-orwell-prize-for-political-fiction"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI 模型访问规则引发科技阵营分歧",
+          "summaryChinese": "先进 AI 模型的访问规则正在引发科技阵营内部争论。国家安全派担心前沿能力外流，市场派则担心不稳定限制会削弱投资信心和创新速度。AI 治理正在进入更困难的阶段：规则既不能完全无边界开放，也不能临时、模糊、不可预测。",
+          "correspondingEnglish": "Rules around access to advanced AI models are dividing parts of the technology community. Some emphasize national security and frontier capabilities, while others warn that unstable restrictions could weaken investment confidence and innovation. AI governance needs rules that are clear, stable and predictable.",
+          "englishExpressions": [
+            {
+              "expression": "frontier capability",
+              "meaningChinese": "前沿能力",
+              "example": "Governments are concerned about frontier AI capabilities."
+            },
+            {
+              "expression": "investment confidence",
+              "meaningChinese": "投资信心",
+              "example": "Unpredictable policy can weaken investment confidence."
+            },
+            {
+              "expression": "predictable regulation",
+              "meaningChinese": "可预期监管",
+              "example": "AI companies are asking for predictable regulation."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Axios｜AI access debate",
+              "url": "https://www.axios.com/2026/06/29/trump-ai-model-release-delays-tech-backlash"
+            }
+          ]
+        },
+        {
+          "title": "AI 基础设施讨论扩展到环境披露与社区资源",
+          "summaryChinese": "AI 公共讨论正在从模型能力扩展到环境披露、数据中心用水、电网压力和地方社区资源。欧洲热浪期间，AI 数据中心的用水和能源需求也被放进气候适应讨论之中。技术越强大，越需要解释它依赖什么、消耗什么、由谁承担外部成本。",
+          "correspondingEnglish": "The public debate around AI is expanding from model capability to environmental disclosure, data-center water use, pressure on power grids and local community resources. The more powerful the technology becomes, the more clearly it must explain what it depends on, what it consumes and who carries the external costs.",
+          "englishExpressions": [
+            {
+              "expression": "environmental disclosure",
+              "meaningChinese": "环境信息披露",
+              "example": "AI companies face pressure for environmental disclosure."
+            },
+            {
+              "expression": "external cost",
+              "meaningChinese": "外部成本",
+              "example": "Communities may carry the external costs of data centers."
+            },
+            {
+              "expression": "community resource",
+              "meaningChinese": "社区资源",
+              "example": "Water and energy are community resources."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜EU green chief on AI data centres",
+              "url": "https://www.theguardian.com/environment/2026/jun/29/europe-heatwave-shows-need-to-reject-climate-denial-lies-says-eu-green-chief"
+            },
+            {
+              "label": "AP｜AI environmental impact",
+              "url": "https://apnews.com/article/cdba9edbe2081aec15b115d043b5f75c"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Many of today’s stories are about judgment under pressure. A heatwave forces governments to judge whose safety must come first. Markets judge which resources will matter in the next economy. Communities judge whether visibility is symbolic or genuinely safe. AI companies are even trying to train machines in taste. But judgment is never neutral; it reflects power, evidence, values and the people invited to participate.",
+    "chinese": "今天许多新闻都与压力下的判断有关。热浪迫使政府判断谁的安全应当优先；市场判断下一阶段经济需要哪些资源；社群判断可见性到底只是象征，还是确实安全；AI 公司甚至开始训练机器学习品味。但判断从来不是中立的，它反映权力、证据、价值观，以及哪些人被邀请参与。"
+  },
+  "keywords": [
+    {
+      "word": "judgment",
+      "meaning": "判断；基于价值、证据和经验作出的评估",
+      "example": "AI companies are trying to train models in aesthetic judgment."
+    },
+    {
+      "word": "adaptation",
+      "meaning": "适应；针对变化和风险调整制度或生活方式",
+      "example": "Heatwaves require climate adaptation."
+    },
+    {
+      "word": "commodity shock",
+      "meaning": "大宗商品冲击",
+      "example": "A commodity shock can raise costs across the economy."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被公众看见和承认的状态",
+      "example": "Visibility must be connected to safety."
+    },
+    {
+      "word": "predictable",
+      "meaning": "可预期的；稳定且可以提前理解的",
+      "example": "AI companies want predictable regulation."
+    },
+    {
+      "word": "public trust",
+      "meaning": "公共信任",
+      "example": "Public trust is essential for climate action."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "But judgment is never neutral; it reflects power, evidence, values and the people invited to participate.",
+    "analysisChinese": "这个句子用 But 引出转折，never neutral 表示“从来不是中立的”。分号后面解释原因：判断会反映权力、证据、价值观以及谁被允许参与。可以模仿：Technology is never neutral; it reflects funding, policy and social priorities."
+  },
+  "reflection": {
+    "english": "To read the world carefully is to ask who is making the judgment, and who must live with its consequences.",
+    "chinese": "今天想留下的一句话是：认真读世界，就是去问谁在作出判断，又是谁必须承受这些判断的后果。"
+  },
+  "tags": [
+    "Europe heatwave",
+    "climate adaptation",
+    "public health",
+    "commodity shocks",
+    "oil prices",
+    "critical materials",
+    "markets",
+    "Pride",
+    "public space",
+    "care spaces",
+    "political writing",
+    "AI taste",
+    "aesthetic judgment",
+    "AI governance",
+    "environmental disclosure",
+    "public trust"
+  ],
+  "sources": [
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "label": "Business Insider",
+      "url": "https://www.businessinsider.com/"
+    },
+    {
+      "label": "Investopedia",
+      "url": "https://www.investopedia.com/"
+    },
+    {
+      "label": "Barron's",
+      "url": "https://www.barrons.com/"
+    }
+  ],
+  "rawText": ""
+}
