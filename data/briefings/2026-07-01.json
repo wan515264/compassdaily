@@ -1,0 +1,395 @@
+{
+  "date": "2026-07-01",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "极端高温、照护基础设施、适应成本、创意版权与AI规则",
+  "introChinese": "今天的小报关键词是：adaptation（适应）。欧洲热浪让公共卫生、住房、医院、能源和日常照护同时承压；孕产妇、老人、户外劳动者和低收入家庭最先感受到系统缺口。与此同时，创作者与科技公司的 AI 版权争议提醒我们：未来不是自动到来的，它总是通过规则、资源和协商被塑造。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "欧洲热浪继续考验公共卫生与城市基础设施",
+          "summaryChinese": "欧洲多地在极端高温中继续运行，学校、医院、交通和城市公共空间同时面对压力。热浪不只是天气事件，也是一场关于城市准备程度的压力测试：建筑是否隔热，公共空间是否有遮阴，医院是否能降温，老年人和慢性病患者能否被及时照护。气候风险正在变成日常治理问题。",
+          "correspondingEnglish": "Extreme heat continued to test public health systems and urban infrastructure across Europe. Schools, hospitals, transport networks and public spaces are all under pressure. A heatwave is not only a weather event; it is also a stress test for how well cities protect vulnerable people.",
+          "englishExpressions": [
+            {
+              "expression": "public health system",
+              "meaningChinese": "公共卫生系统",
+              "example": "Extreme heat can place pressure on public health systems."
+            },
+            {
+              "expression": "urban infrastructure",
+              "meaningChinese": "城市基础设施",
+              "example": "Urban infrastructure must adapt to hotter summers."
+            },
+            {
+              "expression": "vulnerable people",
+              "meaningChinese": "脆弱人群",
+              "example": "Heatwaves are especially dangerous for vulnerable people."
+            }
+          ],
+          "studyNote": "Reading note\n读气候新闻时，可以把 weather（天气）、infrastructure（基础设施）和 inequality（不平等）放在一起看。热浪影响所有人，但并不是所有人都有同样的降温资源。",
+          "sourceLinks": [
+            {
+              "label": "AP News｜Western Europe heat dome",
+              "url": "https://apnews.com/article/be7a9d14b03d482aca406fc09fa1757f"
+            },
+            {
+              "label": "The Guardian｜European heatwave attribution",
+              "url": "https://www.theguardian.com/environment/2026/jun/26/europe-heatwave-impossible-without-climate-crisis-scientists"
+            }
+          ]
+        },
+        {
+          "title": "巴黎高温中的孕产照护：气候危机进入身体经验",
+          "summaryChinese": "一篇来自巴黎的个人叙事把热浪带回具体身体：怀孕七个月的作者在缺乏空调、医院降温不足、产前课程取消和城市避暑资源有限的环境中度过高温周。这样的故事提醒我们，气候危机不是抽象曲线，而会进入睡眠、呼吸、怀孕、照护和安全感之中。",
+          "correspondingEnglish": "A personal account from Paris brings the heatwave back to the body. A woman seven months pregnant describes trying to cope with extreme temperatures, limited cooling, cancelled prenatal support and anxiety about hospitals without adequate air conditioning. Climate crisis enters sleep, breathing, pregnancy, care and safety.",
+          "englishExpressions": [
+            {
+              "expression": "prenatal support",
+              "meaningChinese": "产前支持；孕期照护",
+              "example": "Prenatal support became harder to access during the heatwave."
+            },
+            {
+              "expression": "adequate cooling",
+              "meaningChinese": "足够的降温条件",
+              "example": "Hospitals need adequate cooling during extreme heat."
+            },
+            {
+              "expression": "bodily experience",
+              "meaningChinese": "身体经验",
+              "example": "Climate change is also a bodily experience."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Paris heatwave while pregnant",
+              "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "空调、能源与建筑改造：适应高温也有经济成本",
+          "summaryChinese": "欧洲长期对空调保持谨慎态度，原因包括能源消耗、历史建筑保护、城市噪音和气候承诺。但极端高温正在改变这场讨论：降温设备、建筑隔热、绿色屋顶、城市树荫、电网容量和医疗系统都需要投入。适应气候变化不是一句口号，而是预算、产业、家庭开支和公共投资的重新分配。",
+          "correspondingEnglish": "Europe has long been cautious about air conditioning because of energy use, historic buildings, urban noise and climate commitments. But extreme heat is changing the debate. Cooling equipment, building insulation, green roofs, shade, power grids and health systems all require investment.",
+          "englishExpressions": [
+            {
+              "expression": "adaptation cost",
+              "meaningChinese": "适应成本",
+              "example": "Climate adaptation costs are becoming part of public budgets."
+            },
+            {
+              "expression": "building insulation",
+              "meaningChinese": "建筑隔热",
+              "example": "Building insulation can reduce heat risk."
+            },
+            {
+              "expression": "public investment",
+              "meaningChinese": "公共投资",
+              "example": "Heat resilience requires public investment."
+            }
+          ],
+          "studyNote": "Finance note\n这里的 markets 不是投资建议，而是看经济含义：当气候风险上升，家庭、企业和政府都要重新分配支出。",
+          "sourceLinks": [
+            {
+              "label": "Wall Street Journal｜Europe and air conditioning",
+              "url": "https://www.wsj.com/world/europe/europe-heat-wave-temperatures-air-conditioning-b7fb110d"
+            },
+            {
+              "label": "AP News｜Heat dome health risks",
+              "url": "https://apnews.com/article/be7a9d14b03d482aca406fc09fa1757f"
+            }
+          ]
+        },
+        {
+          "title": "能源通道的不确定性仍在影响市场情绪",
+          "summaryChinese": "霍尔木兹海峡相关争议继续提醒市场：能源价格不仅由供需决定，也受外交关系、军事部署、保险成本和航运信心影响。即使紧张局势阶段性缓和，企业和投资者仍会把地缘政治风险计入运输、燃料和供应链成本。",
+          "correspondingEnglish": "Uncertainty around the Strait of Hormuz continues to remind markets that energy prices are shaped not only by supply and demand, but also by diplomacy, military posture, insurance costs and shipping confidence. Even when tensions ease, geopolitical risk remains part of transport and supply-chain costs.",
+          "englishExpressions": [
+            {
+              "expression": "market sentiment",
+              "meaningChinese": "市场情绪",
+              "example": "Diplomatic uncertainty can affect market sentiment."
+            },
+            {
+              "expression": "shipping confidence",
+              "meaningChinese": "航运信心",
+              "example": "Shipping confidence takes time to rebuild."
+            },
+            {
+              "expression": "geopolitical risk",
+              "meaningChinese": "地缘政治风险",
+              "example": "Geopolitical risk can raise insurance costs."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Wall Street Journal｜Hormuz and U.S.-Saudi relations",
+              "url": "https://www.wsj.com/world/middle-east/saudi-arabia-us-relationship-iran-war-ca0f31a0"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "热浪中的性别与照护：谁最难获得降温资源？",
+          "summaryChinese": "高温新闻常常以温度数字开头，但真正的性别视角会追问：谁需要照顾孩子、老人或孕妇？谁住在隔热差的房屋里？谁必须在户外工作？谁能够负担空调和电费？照护劳动、住房条件和收入差异会决定一个人在热浪中承受多少风险。",
+          "correspondingEnglish": "Heat stories often begin with temperature numbers, but a gender lens asks different questions: who cares for children, older people or pregnant women? Who lives in poorly insulated housing? Who has to work outdoors? Who can afford cooling and electricity?",
+          "englishExpressions": [
+            {
+              "expression": "care work",
+              "meaningChinese": "照护劳动",
+              "example": "Care work becomes harder during extreme heat."
+            },
+            {
+              "expression": "gender lens",
+              "meaningChinese": "性别视角",
+              "example": "A gender lens changes how we read climate news."
+            },
+            {
+              "expression": "unequal exposure",
+              "meaningChinese": "不平等的暴露程度",
+              "example": "Heatwaves create unequal exposure to risk."
+            }
+          ],
+          "studyNote": "Study note\ngender 不只是在讲身份，也是在讲资源分配：时间、空间、钱、身体安全和谁承担照护责任。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Paris heatwave while pregnant",
+              "url": "https://www.theguardian.com/environment/2026/jun/30/how-i-survived-record-paris-heatwave-while-seven-months-pregnant"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "作家与创作者抗议 AI 训练：版权成为新的文化前线",
+          "summaryChinese": "澳大利亚作家和创意从业者前往国会游说，反对科技公司在缺乏同意和补偿的情况下使用文学、艺术和创意作品训练 AI 模型。作家 Anna Funder 形容自己的作品被“大公司拆解成零件”。这场争议不只是法律问题，也关乎文化劳动如何被看见、定价和尊重。",
+          "correspondingEnglish": "Australian writers and creative workers lobbied parliament against allowing technology companies to use literary, artistic and creative work to train AI models without consent or compensation. The dispute is not only legal; it is also about how cultural labor is recognized, valued and respected.",
+          "englishExpressions": [
+            {
+              "expression": "creative work",
+              "meaningChinese": "创意作品；创作劳动",
+              "example": "Creative work should not be used without consent."
+            },
+            {
+              "expression": "consent and compensation",
+              "meaningChinese": "同意与补偿",
+              "example": "Artists are asking for consent and compensation."
+            },
+            {
+              "expression": "cultural labor",
+              "meaningChinese": "文化劳动",
+              "example": "Cultural labor is often undervalued."
+            }
+          ],
+          "studyNote": "Reading note\n这一条很适合放在文化频道，因为它讨论的是书籍、写作、版权、媒体产业和 AI 平台之间的新边界。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian Australia｜Creatives lobby on AI",
+              "url": "https://www.theguardian.com/australia-news/live/2026/jul/01/australia-politics-live-labor-kpmg-daniel-mulino-jim-chalmers-anthony-albanese-question-time-coalition-angus-taylor-one-nation-pauline-hanson-ntwnfb"
+            }
+          ]
+        },
+        {
+          "title": "慢阅读的意义：在信息洪水中保留判断力",
+          "summaryChinese": "当新闻、短视频和 AI 摘要不断加速，书籍和长篇文化评论仍然提供另一种节奏。它们让读者停留在复杂问题里，而不是立刻寻找一个简单结论。对 The Daily Compass 来说，阅读不是逃离世界，而是训练自己更慢、更准确地进入世界。",
+          "correspondingEnglish": "As news, short videos and AI summaries accelerate daily life, books and long-form criticism still offer another rhythm. They allow readers to stay with complexity instead of rushing toward simple conclusions.",
+          "englishExpressions": [
+            {
+              "expression": "long-form criticism",
+              "meaningChinese": "长篇评论；深度文化批评",
+              "example": "Long-form criticism helps readers stay with complexity."
+            },
+            {
+              "expression": "reading rhythm",
+              "meaningChinese": "阅读节奏",
+              "example": "Books create a slower reading rhythm."
+            },
+            {
+              "expression": "simple conclusion",
+              "meaningChinese": "简单结论",
+              "example": "Complex issues rarely have simple conclusions."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "NPR Books｜Books We Love",
+              "url": "https://apps.npr.org/best-books/"
+            },
+            {
+              "label": "The Guardian｜Books",
+              "url": "https://www.theguardian.com/books"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI 版权争议进入政策层面：训练数据需要怎样的规则？",
+          "summaryChinese": "创作者反对 AI 公司无偿使用作品训练模型，使“训练数据”从技术术语变成公共政策议题。问题不只是模型能不能更聪明，而是谁的作品被纳入训练、是否获得同意、是否得到补偿、收益如何分配。AI 治理正在从安全和效率扩展到劳动、版权和文化公平。",
+          "correspondingEnglish": "Creative workers’ objections to uncompensated AI training have turned training data from a technical term into a public policy issue. The question is not only whether models become smarter, but whose work is included, whether consent is obtained and how value is shared.",
+          "englishExpressions": [
+            {
+              "expression": "training data",
+              "meaningChinese": "训练数据",
+              "example": "Training data has become a public policy issue."
+            },
+            {
+              "expression": "copyright exemption",
+              "meaningChinese": "版权豁免",
+              "example": "Artists are worried about broad copyright exemptions."
+            },
+            {
+              "expression": "value sharing",
+              "meaningChinese": "价值分享；收益分配",
+              "example": "AI policy must address value sharing."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian Australia｜AI and copyright debate",
+              "url": "https://www.theguardian.com/australia-news/live/2026/jul/01/australia-politics-live-labor-kpmg-daniel-mulino-jim-chalmers-anthony-albanese-question-time-coalition-angus-taylor-one-nation-pauline-hanson-ntwnfb"
+            }
+          ]
+        },
+        {
+          "title": "极端高温也改变 AI 基础设施讨论",
+          "summaryChinese": "热浪让电网、冷却系统和数据中心用水重新进入视野。AI 被使用时看似轻盈，但模型运行依赖服务器、能源、水和建筑空间。气候适应与 AI 产业并不是两条分开的新闻线：当高温增加，用来支撑数字服务的物理系统也会变得更脆弱。",
+          "correspondingEnglish": "Extreme heat brings power grids, cooling systems and data-center water use back into focus. AI may feel lightweight when we use it, but models depend on servers, energy, water and buildings. Climate adaptation and AI infrastructure are increasingly connected.",
+          "englishExpressions": [
+            {
+              "expression": "data-center cooling",
+              "meaningChinese": "数据中心冷却",
+              "example": "Data-center cooling becomes harder during heatwaves."
+            },
+            {
+              "expression": "physical system",
+              "meaningChinese": "物理系统；实体系统",
+              "example": "Digital services depend on physical systems."
+            },
+            {
+              "expression": "climate adaptation",
+              "meaningChinese": "气候适应",
+              "example": "AI infrastructure must be part of climate adaptation planning."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "AP News｜Heat dome health risks",
+              "url": "https://apnews.com/article/be7a9d14b03d482aca406fc09fa1757f"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news reminds us that adaptation is not only a technical problem. A city adapts to heat through hospitals, homes, trees, electricity, public warnings and care networks. A society adapts to artificial intelligence through copyright rules, consent, compensation and public debate. The future depends not only on new tools, but also on whether people can shape the systems that surround them.",
+    "chinese": "今天的新闻提醒我们，适应并不只是技术问题。一座城市通过医院、住房、树荫、电力、公共预警和照护网络来适应高温。一个社会则通过版权规则、同意、补偿和公共讨论来适应人工智能。未来不只取决于新工具，也取决于人们是否能够参与塑造围绕自己的系统。"
+  },
+  "keywords": [
+    {
+      "word": "adaptation",
+      "meaning": "适应；为了应对变化而调整系统或行为",
+      "example": "Climate adaptation requires public investment."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑社会运转的物质和组织系统",
+      "example": "Urban infrastructure is under pressure during heatwaves."
+    },
+    {
+      "word": "consent",
+      "meaning": "同意；在知情情况下允许某事发生",
+      "example": "Artists want their work to be used only with consent."
+    },
+    {
+      "word": "compensation",
+      "meaning": "补偿；对劳动、损失或使用权给予回报",
+      "example": "Creative workers are asking for fair compensation."
+    },
+    {
+      "word": "vulnerable",
+      "meaning": "脆弱的；更容易受到伤害的",
+      "example": "Heatwaves are dangerous for vulnerable communities."
+    },
+    {
+      "word": "public debate",
+      "meaning": "公共讨论；社会围绕重要议题展开的公开辩论",
+      "example": "AI policy needs broad public debate."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "The future depends not only on new tools, but also on whether people can shape the systems that surround them.",
+    "analysisChinese": "这个句子使用 “not only..., but also...” 结构，把重点从 new tools（新工具）推进到 systems（系统）。whether people can shape the systems that surround them 是介词 on 后面的宾语从句。可以模仿：Democracy depends not only on elections, but also on whether people can question the rules that affect them."
+  },
+  "reflection": {
+    "english": "Adaptation begins when we stop treating crisis as weather and start reading it as a message from the systems we built.",
+    "chinese": "今天想留下的一句话是：真正的适应，始于我们不再把危机只看作天气，而是开始把它读作我们亲手建造的系统发来的提醒。"
+  },
+  "tags": [
+    "Europe heatwave",
+    "climate adaptation",
+    "public health",
+    "care work",
+    "gender lens",
+    "finance",
+    "adaptation cost",
+    "energy markets",
+    "books",
+    "copyright",
+    "creative labor",
+    "AI governance",
+    "training data",
+    "data centers"
+  ],
+  "sources": [
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "The Guardian Australia",
+      "url": "https://www.theguardian.com/australia-news"
+    },
+    {
+      "label": "Wall Street Journal",
+      "url": "https://www.wsj.com/"
+    },
+    {
+      "label": "NPR Books",
+      "url": "https://apps.npr.org/best-books/"
+    }
+  ],
+  "rawText": ""
+}

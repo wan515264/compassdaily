@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-07-01",
+    "title": "Published July 1 briefing",
+    "description": "Added the July 1 Daily Compass from multiple sources on Europe’s heatwave, care infrastructure, adaptation costs, creative copyright, and AI governance.",
+    "type": "briefing",
+    "relatedDate": "2026-07-01",
+    "link": "briefing.html?date=2026-07-01"
+  },
+  {
     "date": "2026-06-30",
     "title": "Refreshed culture section",
     "description": "Re-crawled and refreshed the June 30 Books / Literature / Art / Fashion / Media section with books, political writing, menswear, and AI taste sources.",
