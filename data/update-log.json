@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-04",
+    "title": "Published July 4 briefing",
+    "description": "Added the July 4 Daily Compass from multiple sources on US 250, citizenship, World Cup heat safety, data center costs, and culture’s response to technology.",
+    "type": "briefing",
+    "relatedDate": "2026-07-04",
+    "link": "briefing.html?date=2026-07-04"
+  },
+  {
+    "date": "2026-07-03",
+    "title": "Published July 3 briefing",
+    "description": "Added the July 3 Daily Compass from multiple sources on France’s heatwave data, global imbalances, World Cup access, cultural icons, and AI resource ethics.",
+    "type": "briefing",
+    "relatedDate": "2026-07-03",
+    "link": "briefing.html?date=2026-07-03"
+  },
+  {
+    "date": "2026-07-02",
+    "title": "Regenerated July 2 briefing",
+    "description": "Regenerated the July 2 Daily Compass with a distinct multi-source focus on Kyiv, drone warfare, Germany’s economy, World Cup public space, and AI global governance.",
+    "type": "briefing",
+    "relatedDate": "2026-07-02",
+    "link": "briefing.html?date=2026-07-02"
+  },
+  {
     "date": "2026-07-01",
     "title": "Published July 1 briefing",
     "description": "Added the July 1 Daily Compass from multiple sources on Europe’s heatwave, care infrastructure, adaptation costs, creative copyright, and AI governance.",

@@ -1,0 +1,427 @@
+{
+  "date": "2026-07-03",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "极端热浪数据、全球经济失衡、世界杯可达性、文化图像与AI资源伦理",
+  "introChinese": "今天的小报关键词是：access（可达性）。热浪数据让我们看到谁的住房与医院更脆弱；全球经济失衡让我们看到增长背后的债务与保护主义；世界杯让我们看到体育狂欢并不自动意味着每个人都能到场；文化新闻则提醒我们，图像、书写和 AI 都在争夺谁能被看见、谁的劳动被承认。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "法国六月热浪刷新纪录，气候风险进入数据化时代",
+          "summaryChinese": "法国六月热浪的规模被多组数据清晰呈现：高温持续时间、红色预警天数、超过 40°C 的区域范围、夜间最低温度和基础设施压力都突破过去经验。数据的意义不只是证明“很热”，而是告诉政府、医院、学校和家庭：过去的极端值已经不再能作为未来规划的安全边界。",
+          "correspondingEnglish": "France's June heatwave is being documented through multiple indicators: duration, red alert days, the area exceeding 40°C, tropical nights and pressure on infrastructure. The point of the data is not only to show that it was hot, but to warn that past extremes can no longer define safe planning for the future.",
+          "englishExpressions": [
+            {
+              "expression": "red alert day",
+              "meaningChinese": "红色预警日",
+              "example": "France recorded an unprecedented number of red alert days."
+            },
+            {
+              "expression": "tropical night",
+              "meaningChinese": "热带夜；夜间温度不低于20°C的夜晚",
+              "example": "Tropical nights make it harder for people to recover from heat."
+            },
+            {
+              "expression": "safe planning boundary",
+              "meaningChinese": "安全规划边界",
+              "example": "Old records are no longer a safe planning boundary."
+            }
+          ],
+          "studyNote": "Reading note\n读数据新闻时，可以问：这些数字在证明什么？它们会改变谁的预算、谁的建筑标准、谁的医疗安排？",
+          "sourceLinks": [
+            {
+              "label": "Le Monde｜France heatwave in graphs",
+              "url": "https://www.lemonde.fr/en/les-decodeurs/article/2026/07/03/four-graphs-to-visualize-the-unprecedented-scale-of-france-s-june-2026-heatwave_6755104_8.html"
+            },
+            {
+              "label": "The Guardian Weekly｜Europe's deadly heatwave",
+              "url": "https://www.theguardian.com/news/2026/jul/01/europes-deadly-heatwave-inside-the-3-july-guardian-weekly"
+            }
+          ]
+        },
+        {
+          "title": "热浪应对从临时反应转向提前规划",
+          "summaryChinese": "医疗与气候专家继续呼吁欧洲不要在热浪发生时才临时拼凑应对方案。医院、养老院、学校和城市交通都需要提前设计降温机制、人员保护和能源备份。所谓 climate resilience（气候韧性）不是危机发生后的英雄主义，而是危机发生前的制度安排。",
+          "correspondingEnglish": "Health and climate experts are urging Europe to stop improvising during heatwaves and start planning before they arrive. Hospitals, care homes, schools and transport systems need cooling plans, workforce protection and energy backup. Climate resilience is not heroism after a crisis; it is preparation before one.",
+          "englishExpressions": [
+            {
+              "expression": "improvise during a crisis",
+              "meaningChinese": "在危机中临时应付",
+              "example": "Cities cannot keep improvising during heatwaves."
+            },
+            {
+              "expression": "workforce protection",
+              "meaningChinese": "劳动者保护",
+              "example": "Healthcare systems need stronger workforce protection."
+            },
+            {
+              "expression": "climate resilience",
+              "meaningChinese": "气候韧性",
+              "example": "Climate resilience must be built before disasters."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Heatwave planning",
+              "url": "https://www.theguardian.com/environment/2026/jul/02/plans-must-be-put-in-place-before-heatwaves-not-cobbled-together-during-them"
+            },
+            {
+              "label": "WHO｜Heat and health",
+              "url": "https://www.who.int/news-room/fact-sheets/detail/climate-change-heat-and-health"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "全球经济失衡威胁增长，保护主义风险上升",
+          "summaryChinese": "经济学家 Gita Gopinath 警告，主要经济体之间的储蓄、投资、贸易和财政失衡正在威胁增长，并推动保护主义。问题不只是抽象宏观数字：当一个国家长期依赖外部融资，另一个国家长期依赖出口顺差，全球经济就更容易在债务、汇率、关税和市场波动之间互相放大风险。",
+          "correspondingEnglish": "Economist Gita Gopinath has warned that global imbalances among major economies threaten growth and fuel protectionism. These imbalances are not just abstract macroeconomic numbers; they can amplify risks through debt, exchange rates, tariffs and market volatility.",
+          "englishExpressions": [
+            {
+              "expression": "global imbalance",
+              "meaningChinese": "全球经济失衡",
+              "example": "Global imbalances can threaten long-term growth."
+            },
+            {
+              "expression": "protectionism",
+              "meaningChinese": "保护主义",
+              "example": "Economic stress can fuel protectionism."
+            },
+            {
+              "expression": "market volatility",
+              "meaningChinese": "市场波动",
+              "example": "High debt can increase market volatility."
+            }
+          ],
+          "studyNote": "Finance note\n这里不是投资建议，而是理解经济结构：失衡、债务和保护主义如何影响增长、就业和公共财政。",
+          "sourceLinks": [
+            {
+              "label": "Le Monde｜Gita Gopinath on global imbalances",
+              "url": "https://www.lemonde.fr/en/economy/article/2026/07/03/economist-gita-gopinath-rising-imbalances-among-major-powers-threaten-growth-and-fuel-protectionism_6755102_19.html"
+            },
+            {
+              "label": "World Bank｜Global Economic Prospects",
+              "url": "https://www.worldbank.org/en/publication/global-economic-prospects"
+            }
+          ]
+        },
+        {
+          "title": "AI 热潮也进入金融风险讨论",
+          "summaryChinese": "全球失衡的讨论中，AI 驱动的股票估值和公共债务也被视为潜在风险。AI 可以带来生产率提升，但如果市场把未来收益提前过度定价，或者政府债务限制了危机应对空间，技术乐观就可能和金融脆弱性同时存在。",
+          "correspondingEnglish": "The debate over global imbalances also includes concerns about AI-driven stock valuations and public debt. AI may improve productivity, but if markets overprice future gains or governments lack fiscal space, technological optimism can coexist with financial vulnerability.",
+          "englishExpressions": [
+            {
+              "expression": "AI-driven valuation",
+              "meaningChinese": "AI 驱动的估值",
+              "example": "AI-driven valuations can create market risk."
+            },
+            {
+              "expression": "fiscal space",
+              "meaningChinese": "财政空间",
+              "example": "High debt reduces fiscal space during crises."
+            },
+            {
+              "expression": "financial vulnerability",
+              "meaningChinese": "金融脆弱性",
+              "example": "Rapid speculation can increase financial vulnerability."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Le Monde｜Global imbalances and AI stocks",
+              "url": "https://www.lemonde.fr/en/economy/article/2026/07/03/economist-gita-gopinath-rising-imbalances-among-major-powers-threaten-growth-and-fuel-protectionism_6755102_19.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "世界杯全球化背后的可达性不平等",
+          "summaryChinese": "2026 年世界杯扩军让更多国家第一次进入全球舞台，但许多球迷、记者和工作人员仍因签证、旅行限制和经济成本无法到场。体育的“全球性”并不自动等于平等参与：护照、收入、移民政策和语言能力都会决定谁能亲身进入这个世界级公共空间。",
+          "correspondingEnglish": "The expanded 2026 World Cup has brought more countries onto the global stage, but many fans, journalists and staff still struggle to attend because of visas, travel restrictions and costs. Global sport does not automatically mean equal access.",
+          "englishExpressions": [
+            {
+              "expression": "equal access",
+              "meaningChinese": "平等可达；平等进入机会",
+              "example": "Global events do not always provide equal access."
+            },
+            {
+              "expression": "visa restriction",
+              "meaningChinese": "签证限制",
+              "example": "Visa restrictions kept some fans away from the tournament."
+            },
+            {
+              "expression": "diaspora community",
+              "meaningChinese": " diaspora 社群；海外侨民社群",
+              "example": "Diaspora communities created their own fan zones."
+            }
+          ],
+          "studyNote": "Study note\naccess 不只是“有没有票”，还包括护照、签证、钱、语言、交通和安全感。",
+          "sourceLinks": [
+            {
+              "label": "AP News｜World Cup access barriers",
+              "url": "https://apnews.com/article/9d9156323197936679cce74d0dfa2e7c"
+            }
+          ]
+        },
+        {
+          "title": "单亲母亲照护残障儿童：爱与制度压力同时存在",
+          "summaryChinese": "一组关于单亲母亲照护残障儿童的影像报道让照护劳动被看见。这样的故事重要之处在于，它不把母爱浪漫化，也不把家庭责任完全私人化：照护需要时间、钱、公共服务、社会承认和制度支持。真正的爱常常不是孤立的情感，而是在资源不足中坚持维持生活。",
+          "correspondingEnglish": "A visual story about single mothers caring for disabled children makes care work visible. Such stories matter because they do not romanticize love or privatize responsibility. Care requires time, money, public services, recognition and institutional support.",
+          "englishExpressions": [
+            {
+              "expression": "care work",
+              "meaningChinese": "照护劳动",
+              "example": "Care work needs social recognition."
+            },
+            {
+              "expression": "institutional support",
+              "meaningChinese": "制度支持",
+              "example": "Families need institutional support, not only praise."
+            },
+            {
+              "expression": "make care visible",
+              "meaningChinese": "让照护被看见",
+              "example": "Photography can make care visible."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian Weekly｜Single mothers caring for disabled children",
+              "url": "https://www.theguardian.com/news/2026/jul/01/europes-deadly-heatwave-inside-the-3-july-guardian-weekly"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "Frida Kahlo 的图像政治：当艺术家变成全球品牌",
+          "summaryChinese": "Frida Kahlo 的形象继续在艺术展览、时尚、女性主义和旅游消费之间流动。她既是画家，也是身体疼痛、政治身份和视觉符号的复杂集合。文化评论提醒我们：当一个女性艺术家被不断复制成商品化图像时，她的复杂性可能被传播，也可能被简化。",
+          "correspondingEnglish": "Frida Kahlo's image continues to circulate through exhibitions, fashion, feminism and tourism. She is not only a painter but also a complex figure of bodily pain, political identity and visual symbolism. When an artist becomes a global brand, complexity can be both spread and simplified.",
+          "englishExpressions": [
+            {
+              "expression": "visual symbolism",
+              "meaningChinese": "视觉象征",
+              "example": "Frida Kahlo's image is full of visual symbolism."
+            },
+            {
+              "expression": "global brand",
+              "meaningChinese": "全球品牌",
+              "example": "An artist can become a global brand."
+            },
+            {
+              "expression": "preserve complexity",
+              "meaningChinese": "保留复杂性",
+              "example": "Good criticism tries to preserve complexity."
+            }
+          ],
+          "studyNote": "Reading note\n这一条适合把 art、fashion、media 放在一起读：图像如何流通，谁从图像中获利，谁的复杂性被保留？",
+          "sourceLinks": [
+            {
+              "label": "The Guardian Weekly｜Frida Kahlo iconography",
+              "url": "https://www.theguardian.com/news/2026/jul/01/europes-deadly-heatwave-inside-the-3-july-guardian-weekly"
+            }
+          ]
+        },
+        {
+          "title": "Lucha libre 与世界杯：面具成为城市文化的流动符号",
+          "summaryChinese": "墨西哥世界杯街头出现大量 lucha libre 面具，摔角文化与足球热潮交织在一起。面具不只是纪念品，也是一种身份、表演和城市记忆的载体。体育赛事由此变成文化展演：游客、球迷、摔角手和小贩共同把城市变成一座临时剧场。",
+          "correspondingEnglish": "Lucha libre masks have become a visible part of Mexico's World Cup streets, blending wrestling culture with football fever. The mask is not only a souvenir; it carries identity, performance and urban memory.",
+          "englishExpressions": [
+            {
+              "expression": "cultural symbol",
+              "meaningChinese": "文化符号",
+              "example": "The mask became a cultural symbol during the World Cup."
+            },
+            {
+              "expression": "urban memory",
+              "meaningChinese": "城市记忆",
+              "example": "Street celebrations become part of urban memory."
+            },
+            {
+              "expression": "temporary theatre",
+              "meaningChinese": "临时剧场",
+              "example": "The city became a temporary theatre for fans."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "AP News｜Lucha libre and World Cup streets",
+              "url": "https://apnews.com/article/27e8d03b855152afa9c286076b7b6ae1"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI 数据中心与清洁水：技术便利背后的资源伦理",
+          "summaryChinese": "围绕 AI 数据中心的争议继续集中在水、电和地方资源上。AI 服务使用时看似轻盈，但背后需要服务器、冷却系统、能源和土地。真正的问题不是“我们能不能使用 AI”，而是哪些用途值得消耗公共资源，谁来承担环境成本，地方社区是否参与决策。",
+          "correspondingEnglish": "Debate over AI data centers continues to focus on water, electricity and local resources. AI services may feel weightless, but they depend on servers, cooling systems, energy and land. The question is not only whether we can use AI, but which uses justify public resources and who bears the environmental costs.",
+          "englishExpressions": [
+            {
+              "expression": "resource ethics",
+              "meaningChinese": "资源伦理",
+              "example": "AI data centers raise questions of resource ethics."
+            },
+            {
+              "expression": "environmental cost",
+              "meaningChinese": "环境成本",
+              "example": "Communities may carry environmental costs."
+            },
+            {
+              "expression": "community consent",
+              "meaningChinese": "社区同意；社区参与",
+              "example": "Large infrastructure projects need community consent."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜AI and clean water",
+              "url": "https://www.theguardian.com/technology/2026/jul/01/we-can-live-without-ai-but-can-we-live-without-clean-water"
+            }
+          ]
+        },
+        {
+          "title": "AI 与全球不平等：谁能获得模型、数据和基础设施？",
+          "summaryChinese": "全球经济讨论中，AI 被视为可能带来新增长的工具，但它也可能扩大国家之间的差距。数据中心、算力、语言数据和工程人才集中在富裕经济体，较贫穷国家可能既缺少基础设施，也缺少能代表本地语言和经验的数据。AI 的未来不是单纯技术问题，也是发展权问题。",
+          "correspondingEnglish": "AI is often described as a source of future growth, but it may also widen gaps between countries. Data centers, computing power, language data and engineering talent are concentrated in richer economies. The future of AI is not only technical; it is also a question of development rights.",
+          "englishExpressions": [
+            {
+              "expression": "computing power",
+              "meaningChinese": "算力",
+              "example": "Computing power is unevenly distributed."
+            },
+            {
+              "expression": "language data",
+              "meaningChinese": "语言数据",
+              "example": "Many languages are underrepresented in training data."
+            },
+            {
+              "expression": "development rights",
+              "meaningChinese": "发展权",
+              "example": "AI infrastructure is linked to development rights."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "World Bank｜Global Economic Prospects",
+              "url": "https://www.worldbank.org/en/publication/global-economic-prospects"
+            },
+            {
+              "label": "The Guardian｜World Bank on AI and growth",
+              "url": "https://www.theguardian.com/business/2026/jun/11/global-growth-slow-lowest-level-pandemic-world-bank"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Access is one of the quiet questions behind today’s news. Who has access to cool housing during a heatwave? Who has access to the World Cup when visas and money stand in the way? Who has access to cultural memory when an artist becomes a global image? And who has access to AI infrastructure when data, water and computing power are unevenly distributed?",
+    "chinese": "可达性是今天新闻背后一个安静的问题。热浪中，谁能住进足够凉爽的房子？世界杯中，当签证和金钱成为障碍时，谁能真正到场？当艺术家变成全球图像时，谁能接近复杂的文化记忆？当数据、水和算力分配不均时，谁又能真正进入 AI 未来？"
+  },
+  "keywords": [
+    {
+      "word": "access",
+      "meaning": "可达性；获得资源、空间或机会的能力",
+      "example": "Access to cooling can save lives during a heatwave."
+    },
+    {
+      "word": "imbalance",
+      "meaning": "失衡；不同部分之间的不均衡状态",
+      "example": "Global imbalances can fuel protectionism."
+    },
+    {
+      "word": "protectionism",
+      "meaning": "保护主义；通过关税等方式保护本国产业的政策倾向",
+      "example": "Protectionism often rises during economic stress."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被公众看见和承认的状态",
+      "example": "The World Cup gives small nations new visibility."
+    },
+    {
+      "word": "resource ethics",
+      "meaning": "资源伦理；关于资源如何被使用和分配的伦理问题",
+      "example": "AI data centers raise questions of resource ethics."
+    },
+    {
+      "word": "cultural symbol",
+      "meaning": "文化符号；承载身份和意义的形象或物件",
+      "example": "The mask became a powerful cultural symbol."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Global sport does not automatically mean equal access.",
+    "analysisChinese": "这个句子结构很简洁：Global sport 是主语，does not automatically mean 是谓语结构，equal access 是宾语。automatically 强调“并不自动等于”。可以模仿：Digital technology does not automatically mean equal opportunity."
+  },
+  "reflection": {
+    "english": "To read the world carefully is to ask who can enter, who is kept outside, and who pays the hidden cost of being included.",
+    "chinese": "今天想留下的一句话是：认真读世界，就是不断追问谁能进入，谁被挡在外面，以及谁为所谓的“被纳入”支付了隐藏成本。"
+  },
+  "tags": [
+    "access",
+    "France heatwave",
+    "climate resilience",
+    "global imbalances",
+    "protectionism",
+    "World Cup",
+    "visa restrictions",
+    "care work",
+    "Frida Kahlo",
+    "lucha libre",
+    "AI data centers",
+    "resource ethics",
+    "AI inequality"
+  ],
+  "sources": [
+    {
+      "label": "Le Monde",
+      "url": "https://www.lemonde.fr/en/"
+    },
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "World Bank",
+      "url": "https://www.worldbank.org/"
+    },
+    {
+      "label": "WHO",
+      "url": "https://www.who.int/"
+    }
+  ],
+  "rawText": ""
+}

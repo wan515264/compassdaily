@@ -1,0 +1,439 @@
+{
+  "date": "2026-07-04",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "国家纪念、体育高温、归属感、数据中心成本与文化反思科技",
+  "introChinese": "今天的小报关键词是：belonging（归属）。美国迎来独立 250 周年，纪念日不只是烟花和仪式，也让人重新追问谁属于一个国家、谁能安全进入公共空间、谁承担大型赛事和科技基础设施的成本。今天我们从国家记忆、体育安全、能源账单、移民身份和文化作品如何回应科技压力这几条线来读。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "美国独立 250 周年：纪念日成为国家认同的压力测试",
+          "summaryChinese": "美国在 7 月 4 日迎来独立 250 周年。这个纪念日表面上是国家生日，但现实语境中也包含政治分裂、移民焦虑、公民身份门槛和对民主方向的反思。国家纪念并不是自动带来团结，它更像一面镜子：人们会在庆祝中看见共同理想，也会看见谁仍然感到不安、被排除或不被承认。",
+          "correspondingEnglish": "The United States marks its 250th anniversary of independence on July 4. The anniversary is a national birthday, but it also reflects political division, immigration anxiety, barriers to citizenship and questions about democracy. Commemoration does not automatically create unity; it reveals who feels included and who still feels uncertain.",
+          "englishExpressions": [
+            {
+              "expression": "national commemoration",
+              "meaningChinese": "国家纪念",
+              "example": "National commemoration can reveal political tensions."
+            },
+            {
+              "expression": "sense of belonging",
+              "meaningChinese": "归属感",
+              "example": "Citizenship can create a stronger sense of belonging."
+            },
+            {
+              "expression": "political division",
+              "meaningChinese": "政治分裂",
+              "example": "Political division shaped the anniversary mood."
+            }
+          ],
+          "studyNote": "Reading note\n读纪念日新闻时，可以问：who is remembered（谁被记住）、who is included（谁被纳入）、who feels uneasy（谁感到不安）？",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜New citizens and US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/new-us-citizens-250th-anniversary"
+            },
+            {
+              "label": "The Guardian｜Readers reflect on US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
+            },
+            {
+              "label": "America250｜Official commemoration",
+              "url": "https://america250.org/"
+            }
+          ]
+        },
+        {
+          "title": "世界杯淘汰赛遇上美国东部高温，体育安全成为公共议题",
+          "summaryChinese": "7 月 4 日世界杯淘汰赛期间，美国东部高温威胁球员与观众安全。费城等地体感温度可能极高，科学家和球员工会担心现有补水暂停和延期规则不足以应对极端热风险。大型体育赛事不只是竞技，它还需要医疗、遮阴、饮水、交通和人群管理共同支撑。",
+          "correspondingEnglish": "The July 4 knockout round of the World Cup faces dangerous heat in the eastern United States. Scientists and player unions worry that hydration breaks and postponement rules may not be enough for extreme conditions. Major sports events depend on medical care, shade, water, transport and crowd management.",
+          "englishExpressions": [
+            {
+              "expression": "heat safety rule",
+              "meaningChinese": "高温安全规则",
+              "example": "Heat safety rules may need to be updated."
+            },
+            {
+              "expression": "hydration break",
+              "meaningChinese": "补水暂停",
+              "example": "Players may need hydration breaks during extreme heat."
+            },
+            {
+              "expression": "exertional heat stroke",
+              "meaningChinese": "运动性中暑",
+              "example": "Exertional heat stroke is a serious risk for athletes."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "AP News｜World Cup heat risk",
+              "url": "https://apnews.com/article/e88edfc869146a2898928177e8c52286"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "节日出行、油价与高温：公共庆祝也有经济账单",
+          "summaryChinese": "美国独立日周末带来大规模出行、燃油需求和城市服务压力。汽油价格、交通拥堵、赛事安保、医疗待命和降温设施都会进入家庭与公共预算。节日经济不仅是消费热闹，也是一张关于能源、交通和城市运营能力的账单。",
+          "correspondingEnglish": "The Independence Day weekend brings large-scale travel, fuel demand and pressure on city services. Gasoline prices, traffic, event security, medical readiness and cooling infrastructure all affect household and public budgets. Holiday spending is also a bill for energy, transport and urban operations.",
+          "englishExpressions": [
+            {
+              "expression": "holiday travel",
+              "meaningChinese": "节日出行",
+              "example": "Holiday travel increases demand for fuel and transport."
+            },
+            {
+              "expression": "public budget",
+              "meaningChinese": "公共预算",
+              "example": "Large events can place pressure on public budgets."
+            },
+            {
+              "expression": "urban operation",
+              "meaningChinese": "城市运行",
+              "example": "Extreme heat complicates urban operations."
+            }
+          ],
+          "studyNote": "Finance note\n这里不做投资建议，而是理解大型节日和赛事如何把能源、交通、医疗和城市服务连接起来。",
+          "sourceLinks": [
+            {
+              "label": "Axios｜Future of Energy newsletter",
+              "url": "https://www.axios.com/newsletters/axios-future-of-energy-6429dac0-7564-11f1-98bc-355f5244e547"
+            },
+            {
+              "label": "AP News｜World Cup heat risk",
+              "url": "https://apnews.com/article/e88edfc869146a2898928177e8c52286"
+            }
+          ]
+        },
+        {
+          "title": "AI 数据中心扩张进入能源与水资源成本讨论",
+          "summaryChinese": "AI 数据中心继续成为能源市场和地方财政讨论中的焦点。支持者认为它们能带来投资和更低成本电力，批评者则担心用水、柴油备用发电、地方电价、透明度和社区参与不足。AI 基础设施不是云端抽象物，而是会占用土地、水、电和公共信任的现实项目。",
+          "correspondingEnglish": "AI data centers remain central to debates over energy markets and local costs. Supporters see investment and cheaper electricity, while critics worry about water use, diesel backup generators, electricity prices, transparency and community consent. AI infrastructure is not abstract; it uses land, water, power and public trust.",
+          "englishExpressions": [
+            {
+              "expression": "data center expansion",
+              "meaningChinese": "数据中心扩张",
+              "example": "Data center expansion is reshaping local energy debates."
+            },
+            {
+              "expression": "community consent",
+              "meaningChinese": "社区同意；社区参与",
+              "example": "Large infrastructure projects need community consent."
+            },
+            {
+              "expression": "public trust",
+              "meaningChinese": "公共信任",
+              "example": "Transparency is necessary for public trust."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Data center concerns",
+              "url": "https://www.businessinsider.com/us-energy-chris-wright-data-center-concerns-water-pollution-overblown-2026-7"
+            },
+            {
+              "label": "Axios｜Future of Energy newsletter",
+              "url": "https://www.axios.com/newsletters/axios-future-of-energy-6429dac0-7564-11f1-98bc-355f5244e547"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "新公民的骄傲与不安：归属感不是一张证书就能完成",
+          "summaryChinese": "一些新入籍美国公民在 250 周年纪念前表达了复杂情绪：他们为获得法律安全感和投票资格而骄傲，也因移民执法、费用上涨、等待时间和敌意政治语言而不安。公民身份是一种法律地位，也是一种情感关系；它既可能带来保护，也会让人更清楚地感到一个国家内部的矛盾。",
+          "correspondingEnglish": "Some newly naturalized Americans describe mixed feelings ahead of the 250th anniversary. Citizenship brings legal security and voting rights, but rising fees, longer waits, immigration enforcement and hostile rhetoric create anxiety. Citizenship is both a legal status and an emotional relationship.",
+          "englishExpressions": [
+            {
+              "expression": "naturalization",
+              "meaningChinese": "入籍；归化",
+              "example": "Naturalization can bring legal security."
+            },
+            {
+              "expression": "legal status",
+              "meaningChinese": "法律身份",
+              "example": "Citizenship is a legal status."
+            },
+            {
+              "expression": "hostile rhetoric",
+              "meaningChinese": "敌意话语",
+              "example": "Hostile rhetoric can discourage immigrants."
+            }
+          ],
+          "studyNote": "Study note\nbelonging 不只是身份文件，也包括语言、费用、等待、公共态度和一个人是否感到被欢迎。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜New citizens and US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/new-us-citizens-250th-anniversary"
+            }
+          ]
+        },
+        {
+          "title": "国家生日中的边缘声音：纪念也可以是反思",
+          "summaryChinese": "一些读者在美国 250 周年之际表达了失望、焦虑和谨慎希望。他们提到民权倒退、移民争议、跨性别群体安全、政治表演和社会信任下降。纪念日不一定只属于胜利叙事；它也可以成为公共反思的时刻，让人重新讨论一个国家应该如何对待脆弱群体和不同声音。",
+          "correspondingEnglish": "Some readers describe disappointment, anxiety and cautious hope as the United States turns 250. They point to civil rights, immigration, transgender safety, political performance and declining trust. An anniversary can become a moment of public reflection, not only celebration.",
+          "englishExpressions": [
+            {
+              "expression": "public reflection",
+              "meaningChinese": "公共反思",
+              "example": "Anniversaries can create public reflection."
+            },
+            {
+              "expression": "marginalized group",
+              "meaningChinese": "边缘化群体",
+              "example": "Democracy must protect marginalized groups."
+            },
+            {
+              "expression": "cautious hope",
+              "meaningChinese": "谨慎的希望",
+              "example": "Many people still hold cautious hope."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Readers reflect on US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "文化如何回应科技：书本成为另一种“手持设备”",
+          "summaryChinese": "一篇文化评论把 Ben Lerner 的小说、电影和关于儿童屏幕依赖的讨论放在一起，提出一个有趣说法：书也可以被看作另一种“手持设备”。这不是怀旧地反科技，而是提醒我们，文学和电影仍能帮助人们慢下来，观察手机、AI、屏幕和注意力如何进入亲密关系、儿童成长和创造力。",
+          "correspondingEnglish": "A cultural essay connects Ben Lerner's fiction, film and debates about children's screen dependence, suggesting that a book can be another kind of handheld device. This is not simple nostalgia; literature and film can help us examine how phones, AI, screens and attention shape intimacy, childhood and creativity.",
+          "englishExpressions": [
+            {
+              "expression": "screen dependence",
+              "meaningChinese": "屏幕依赖",
+              "example": "Screen dependence has become a cultural concern."
+            },
+            {
+              "expression": "digital saturation",
+              "meaningChinese": "数字饱和；被数字媒介包围",
+              "example": "Digital saturation changes how people pay attention."
+            },
+            {
+              "expression": "human creativity",
+              "meaningChinese": "人的创造力",
+              "example": "Culture asks what happens to human creativity."
+            }
+          ],
+          "studyNote": "Reading note\n这条适合把 books、film、AI 和 media 放在一起读：文化作品不是逃离科技，而是让科技变得可被思考。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Culture taking on tech",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/03/the-guardian-view-on-how-culture-is-taking-on-tech-the-ultimate-handheld-device"
+            }
+          ]
+        },
+        {
+          "title": "美国 250 周年：纪念图像如何塑造公共记忆",
+          "summaryChinese": "国旗、烟花、军乐、舰船、城市地标和官方标识共同构成了 250 周年的视觉语言。公共记忆并不是自然产生的，它由图像、活动、赞助、媒体报道和教育材料不断编排。文化频道关注这些视觉元素，是因为它们会影响人们如何想象“国家”“自由”和“我们”。",
+          "correspondingEnglish": "Flags, fireworks, music, ships, landmarks and official logos form the visual language of the 250th anniversary. Public memory is not natural; it is arranged through images, events, sponsorship, media coverage and education.",
+          "englishExpressions": [
+            {
+              "expression": "visual language",
+              "meaningChinese": "视觉语言",
+              "example": "National celebrations use a powerful visual language."
+            },
+            {
+              "expression": "public memory",
+              "meaningChinese": "公共记忆",
+              "example": "Public memory is shaped by images and ceremonies."
+            },
+            {
+              "expression": "official symbol",
+              "meaningChinese": "官方符号",
+              "example": "Official symbols influence national identity."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "America250｜Official commemoration",
+              "url": "https://america250.org/"
+            },
+            {
+              "label": "U.S. Navy｜July 4 2026 tall ships",
+              "url": "https://www.navy.mil/Press-Office/Press-Releases/display-pressreleases/Article/4380385/save-the-date-july-4-2026/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI 数据中心争议继续：便利、算力与地方资源之间的冲突",
+          "summaryChinese": "AI 数据中心的争议不只是技术基础设施争议，也是地方治理争议。支持者强调算力、投资和经济竞争，反对者担心水资源、电价、柴油发电机、土地使用和信息不透明。AI 的未来如果建立在地方社区无法理解或参与的项目上，技术信任就会变得脆弱。",
+          "correspondingEnglish": "The debate over AI data centers is not only about technology infrastructure; it is also about local governance. Supporters emphasize computing power, investment and competition, while critics worry about water, electricity prices, diesel generators, land use and transparency.",
+          "englishExpressions": [
+            {
+              "expression": "computing power",
+              "meaningChinese": "算力",
+              "example": "AI companies need enormous computing power."
+            },
+            {
+              "expression": "local governance",
+              "meaningChinese": "地方治理",
+              "example": "Data centers create challenges for local governance."
+            },
+            {
+              "expression": "technical trust",
+              "meaningChinese": "技术信任",
+              "example": "Technical trust depends on transparency."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Data center concerns",
+              "url": "https://www.businessinsider.com/us-energy-chris-wright-data-center-concerns-water-pollution-overblown-2026-7"
+            },
+            {
+              "label": "Axios｜Future of Energy newsletter",
+              "url": "https://www.axios.com/newsletters/axios-future-of-energy-6429dac0-7564-11f1-98bc-355f5244e547"
+            }
+          ]
+        },
+        {
+          "title": "文化作品提醒我们：AI 不只是工具，也会改变亲密关系",
+          "summaryChinese": "关于小说、电影和手机文化的讨论把 AI 从“效率工具”拉回到生活经验中：声音能否被 AI 复活，儿童注意力如何被屏幕塑造，人在数字饱和中如何保持创造力和在场感。这类文化批评说明，AI 治理不仅要谈安全和生产率，也要谈亲密关系、记忆、儿童成长和人类表达。",
+          "correspondingEnglish": "Cultural criticism brings AI back into lived experience: can voices be repurposed after death, how do screens shape children's attention, and how can people preserve creativity and presence in digital saturation? AI governance must address intimacy, memory, childhood and expression.",
+          "englishExpressions": [
+            {
+              "expression": "lived experience",
+              "meaningChinese": "生活经验；亲身经验",
+              "example": "AI governance must consider lived experience."
+            },
+            {
+              "expression": "digital presence",
+              "meaningChinese": "数字在场；数字环境中的存在状态",
+              "example": "Digital presence changes intimate life."
+            },
+            {
+              "expression": "human expression",
+              "meaningChinese": "人的表达",
+              "example": "Human expression should not be reduced to data."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Culture taking on tech",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/03/the-guardian-view-on-how-culture-is-taking-on-tech-the-ultimate-handheld-device"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "A national anniversary asks people to remember what they share, but memory is never simple. Some people celebrate with pride, while others feel uncertainty about whether they truly belong. The same is true of technology and sport: access, safety and trust are not automatic. They must be built through rules, resources and public care.",
+    "chinese": "国家纪念日让人们回忆共同拥有的东西，但记忆从来不简单。有些人带着骄傲庆祝，也有人不确定自己是否真正属于这里。科技和体育也是如此：可达性、安全和信任都不会自动出现。它们需要通过规则、资源和公共照护被慢慢建造出来。"
+  },
+  "keywords": [
+    {
+      "word": "belonging",
+      "meaning": "归属感；感到自己属于某个群体或地方",
+      "example": "Citizenship can strengthen a sense of belonging."
+    },
+    {
+      "word": "commemoration",
+      "meaning": "纪念；通过仪式或活动记住重要事件",
+      "example": "Commemoration can reveal shared values and tensions."
+    },
+    {
+      "word": "naturalization",
+      "meaning": "入籍；成为某国公民的法律过程",
+      "example": "Naturalization gave her voting rights."
+    },
+    {
+      "word": "public trust",
+      "meaning": "公共信任；公众对制度、机构或技术的信任",
+      "example": "Transparency is necessary for public trust."
+    },
+    {
+      "word": "digital saturation",
+      "meaning": "数字饱和；生活被数字媒介高度包围的状态",
+      "example": "Digital saturation affects attention and creativity."
+    },
+    {
+      "word": "heat safety",
+      "meaning": "高温安全；在极端高温中保护身体安全的规则和措施",
+      "example": "Heat safety rules protect players and fans."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Access, safety and trust are not automatic.",
+    "analysisChinese": "这个句子很短，但适合写作使用。Access, safety and trust 是并列主语，are not automatic 表示“不会自动发生”。它可以引出后一句解释：They must be built through rules, resources and public care. 可以模仿：Equality is not automatic; it must be built through policy and practice."
+  },
+  "reflection": {
+    "english": "A celebration becomes meaningful when it makes room not only for pride, but also for the people still asking whether they belong.",
+    "chinese": "今天想留下的一句话是：一场庆祝之所以有意义，不只是因为它容纳骄傲，也因为它愿意给那些仍在追问“我是否属于这里”的人留出位置。"
+  },
+  "tags": [
+    "US 250",
+    "Independence Day",
+    "belonging",
+    "citizenship",
+    "naturalization",
+    "World Cup",
+    "heat safety",
+    "public memory",
+    "data centers",
+    "AI infrastructure",
+    "digital culture",
+    "public trust",
+    "screen dependence"
+  ],
+  "sources": [
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "label": "Business Insider",
+      "url": "https://www.businessinsider.com/"
+    },
+    {
+      "label": "America250",
+      "url": "https://america250.org/"
+    },
+    {
+      "label": "U.S. Navy",
+      "url": "https://www.navy.mil/"
+    }
+  ],
+  "rawText": ""
+}

@@ -1,5 +1,68 @@
 [
   {
+    "date": "2026-07-04",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "国家纪念、体育高温、归属感、数据中心成本与文化反思科技",
+    "file": "2026-07-04.json",
+    "tags": [
+      "US 250",
+      "Independence Day",
+      "belonging",
+      "citizenship",
+      "naturalization",
+      "World Cup",
+      "heat safety",
+      "public memory",
+      "data centers",
+      "AI infrastructure",
+      "digital culture",
+      "public trust",
+      "screen dependence"
+    ]
+  },
+  {
+    "date": "2026-07-03",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "极端热浪数据、全球经济失衡、世界杯可达性、文化图像与AI资源伦理",
+    "file": "2026-07-03.json",
+    "tags": [
+      "access",
+      "France heatwave",
+      "climate resilience",
+      "global imbalances",
+      "protectionism",
+      "World Cup",
+      "visa restrictions",
+      "care work",
+      "Frida Kahlo",
+      "lucha libre",
+      "AI data centers",
+      "resource ethics",
+      "AI inequality"
+    ]
+  },
+  {
+    "date": "2026-07-02",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "城市安全、无人机战争、经济改革、世界杯公共空间与AI全球治理",
+    "file": "2026-07-02.json",
+    "tags": [
+      "Kyiv",
+      "Ukraine",
+      "drone warfare",
+      "civilian safety",
+      "Germany economy",
+      "economic reform",
+      "World Cup",
+      "public space",
+      "crowd management",
+      "media culture",
+      "AI governance",
+      "global governance",
+      "automation"
+    ]
+  },
+  {
     "date": "2026-07-01",
     "title": "The Daily Compass｜每日罗盘",
     "theme": "极端高温、照护基础设施、适应成本、创意版权与AI规则",

@@ -1,0 +1,443 @@
+{
+  "date": "2026-07-02",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "城市安全、无人机战争、经济改革、世界杯公共空间与AI全球治理",
+  "introChinese": "今天的小报关键词是：coordination（协调）。7 月 2 日的新闻不再只是单一危机，而是许多系统同时需要协调：城市在空袭中保护平民，国家在战争技术变化中调整防御，政府在经济压力下推动改革，体育赛事在狂欢与安全之间寻找边界，AI 治理则试图把企业、政府和公众放到同一张规则桌上。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "基辅遭遇大规模空袭，城市防御与平民安全再次成为焦点",
+          "summaryChinese": "基辅在夜间遭遇大规模导弹和无人机袭击，居民在爆炸声中进入地铁站和地下空间避难。战争新闻常常被数字概括，但城市里的每一次警报都意味着睡眠被打断、家庭被迫移动、公共交通和医院承压。现代战争不只发生在前线，也发生在城市日常生活被反复打断的时刻。",
+          "correspondingEnglish": "Kyiv faced a large overnight missile and drone attack, sending residents into metro stations and underground shelters. War is often summarized through numbers, but every air raid alarm disrupts sleep, family life, transport and healthcare. Modern war is also the repeated interruption of urban life.",
+          "englishExpressions": [
+            {
+              "expression": "air raid alarm",
+              "meaningChinese": "空袭警报",
+              "example": "Residents woke up to air raid alarms overnight."
+            },
+            {
+              "expression": "underground shelter",
+              "meaningChinese": "地下避难空间",
+              "example": "Many people moved into underground shelters."
+            },
+            {
+              "expression": "civilian safety",
+              "meaningChinese": "平民安全",
+              "example": "Civilian safety remains central to urban defense."
+            }
+          ],
+          "studyNote": "Reading note\n读战争新闻时，不只看 attack（袭击）和 damage（损害），也要看 shelter（避难）、repair（修复）和 civilian life（平民生活）。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Kyiv overnight attack",
+              "url": "https://www.theguardian.com/world/2026/jul/02/kyiv-hit-by-russian-overnight-drone-and-missile-attack"
+            },
+            {
+              "label": "Al Jazeera｜Russia-Ukraine war updates",
+              "url": "https://www.aljazeera.com/news/liveblog/2026/7/2/russia-ukraine-war-live-russia-launches-massive-overnight-attack-on-kyiv"
+            }
+          ]
+        },
+        {
+          "title": "无人机改变战争节奏：防御系统被迫更快学习",
+          "summaryChinese": "乌克兰和俄罗斯的战争继续显示，无人机已经从辅助工具变成改变战场节奏的核心技术。它们成本相对较低、数量庞大、更新速度快，也让城市防空、军工生产、电子干扰和民用基础设施保护之间的界线更加模糊。战争技术变化越快，社会承受的心理和物质压力也越复杂。",
+          "correspondingEnglish": "The war between Russia and Ukraine continues to show how drones have moved from supporting tools to central technologies that reshape the rhythm of conflict. They are relatively cheap, numerous and quickly updated, forcing defense systems, factories and cities to learn faster.",
+          "englishExpressions": [
+            {
+              "expression": "reshape the rhythm of conflict",
+              "meaningChinese": "改变冲突节奏",
+              "example": "Drones are reshaping the rhythm of conflict."
+            },
+            {
+              "expression": "electronic interference",
+              "meaningChinese": "电子干扰",
+              "example": "Electronic interference is used against drone attacks."
+            },
+            {
+              "expression": "defense system",
+              "meaningChinese": "防御系统",
+              "example": "Defense systems must adapt quickly."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Modern warfare and drones",
+              "url": "https://www.theguardian.com/world/2026/jul/01/warfare-made-in-ukraine-modernising-conflict"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "德国推进经济改革：税收、能源与制造业竞争力进入同一议题",
+          "summaryChinese": "德国政府推动一揽子经济改革，希望通过企业税调整、能源成本安排和投资激励来恢复增长动能。对欧洲最大经济体来说，改革并不只是财政技术问题，而是关于工业竞争力、就业、能源转型和公共预算之间如何重新平衡。经济政策常常看起来抽象，但最终会落到工厂、工资、账单和地方就业上。",
+          "correspondingEnglish": "Germany is moving ahead with economic reforms designed to support business investment, manage energy costs and revive growth. For Europe’s largest economy, reform is not only a fiscal issue; it is about industrial competitiveness, jobs, energy transition and public budgets.",
+          "englishExpressions": [
+            {
+              "expression": "economic reform",
+              "meaningChinese": "经济改革",
+              "example": "Economic reform aims to revive growth."
+            },
+            {
+              "expression": "industrial competitiveness",
+              "meaningChinese": "工业竞争力",
+              "example": "Energy prices affect industrial competitiveness."
+            },
+            {
+              "expression": "investment incentive",
+              "meaningChinese": "投资激励",
+              "example": "The government introduced new investment incentives."
+            }
+          ],
+          "studyNote": "Finance note\n这一栏不做投资建议，只看经济意义：税收、能源和制造业政策如何影响就业、成本和公共财政。",
+          "sourceLinks": [
+            {
+              "label": "Reuters｜Germany economic reforms",
+              "url": "https://www.reuters.com/world/europe/germanys-cabinet-approves-bill-tax-relief-businesses-2026-06-04/"
+            },
+            {
+              "label": "DW｜Germany economy",
+              "url": "https://www.dw.com/en/germany-economy/t-17404091"
+            }
+          ]
+        },
+        {
+          "title": "世界杯城市经济：狂欢、旅游与公共安全共同抬高运营成本",
+          "summaryChinese": "世界杯带来的游客、消费和城市曝光度很高，但大型体育事件也意味着额外的安保、交通、医疗和公共空间管理成本。墨西哥城等举办地的街头庆祝与人群事故提醒我们，赛事经济不是只有门票和酒店收入，也包括城市如何承受短时间内聚集的大规模情绪和人流。",
+          "correspondingEnglish": "The World Cup brings tourism, spending and global visibility, but major sporting events also create costs for security, transport, medical services and crowd management. Host cities must manage both celebration and risk.",
+          "englishExpressions": [
+            {
+              "expression": "crowd management",
+              "meaningChinese": "人群管理",
+              "example": "Crowd management is essential during major events."
+            },
+            {
+              "expression": "host city",
+              "meaningChinese": "主办城市",
+              "example": "Host cities face both revenue and risk."
+            },
+            {
+              "expression": "public safety cost",
+              "meaningChinese": "公共安全成本",
+              "example": "Public safety costs rise during large events."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "AP News｜World Cup crowd incident",
+              "url": "https://apnews.com/article/41b28a84e5c882dd2b3bd27e2940b3a2"
+            },
+            {
+              "label": "The Guardian｜Mexico City football fever",
+              "url": "https://www.theguardian.com/football/2026/jun/30/mexico-city-football-fever-world-cup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "世界杯公共空间：归属感、狂欢与安全边界同时出现",
+          "summaryChinese": "世界杯让街头、广场和酒吧变成临时共同体。球迷文化带来归属感，也可能带来拥挤、酒精、性别化骚扰和人群失控等风险。公共空间的包容性不只是“能不能庆祝”，还包括谁能安全地庆祝、谁在清理和维持秩序、谁的身体更容易暴露在风险里。",
+          "correspondingEnglish": "The World Cup turns streets, squares and bars into temporary communities. Fan culture creates belonging, but it can also bring crowding, alcohol-related risk, harassment and safety concerns. Inclusive public space means asking who can celebrate safely.",
+          "englishExpressions": [
+            {
+              "expression": "temporary community",
+              "meaningChinese": "临时共同体",
+              "example": "Sports events create temporary communities."
+            },
+            {
+              "expression": "inclusive public space",
+              "meaningChinese": "包容性的公共空间",
+              "example": "Inclusive public space must also be safe."
+            },
+            {
+              "expression": "safety boundary",
+              "meaningChinese": "安全边界",
+              "example": "Celebration needs clear safety boundaries."
+            }
+          ],
+          "studyNote": "Study note\n读体育文化新闻时，可以问：who belongs（谁有归属感）和 who is protected（谁被保护）是不是同一群人？",
+          "sourceLinks": [
+            {
+              "label": "AP News｜World Cup crowd incident",
+              "url": "https://apnews.com/article/41b28a84e5c882dd2b3bd27e2940b3a2"
+            },
+            {
+              "label": "The Guardian｜Mexico City football fever",
+              "url": "https://www.theguardian.com/football/2026/jun/30/mexico-city-football-fever-world-cup"
+            }
+          ]
+        },
+        {
+          "title": "战争中的城市生活：安全感是一种日常文化资源",
+          "summaryChinese": "基辅空袭让人们再次看到，安全感不是抽象心理词，而是由地铁站、地下室、邻里互助、公共广播和学校安排共同组成的生活条件。文化研究中的 belonging（归属感）并不只来自庆祝和身份认同，也来自一个人是否相信城市会在危险时接住自己。",
+          "correspondingEnglish": "The attack on Kyiv reminds us that safety is not an abstract feeling. It is built through metro stations, basements, neighborly help, public warnings and school arrangements. Belonging also depends on whether people believe a city can protect them in danger.",
+          "englishExpressions": [
+            {
+              "expression": "sense of safety",
+              "meaningChinese": "安全感",
+              "example": "A sense of safety is shaped by public systems."
+            },
+            {
+              "expression": "neighborly help",
+              "meaningChinese": "邻里互助",
+              "example": "Neighborly help matters during air raids."
+            },
+            {
+              "expression": "belonging",
+              "meaningChinese": "归属感",
+              "example": "Belonging depends on protection as well as identity."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Kyiv overnight attack",
+              "url": "https://www.theguardian.com/world/2026/jul/02/kyiv-hit-by-russian-overnight-drone-and-missile-attack"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "战争报道与慢新闻：媒体如何让城市经验被看见",
+          "summaryChinese": "基辅空袭和无人机战争的报道提醒我们，媒体不只是传递“发生了什么”，也在决定哪些经验被记录：夜间警报、地下避难、城市修复、儿童上学、医护工作和普通人的恐惧。好的战争报道会把宏大战略拉回具体生活，让读者看到制度、技术和身体之间的连接。",
+          "correspondingEnglish": "Reporting on Kyiv and drone warfare does more than tell us what happened. It records air raid alarms, shelters, repairs, school routines, medical work and ordinary fear. Good war reporting brings strategy back to lived experience.",
+          "englishExpressions": [
+            {
+              "expression": "slow journalism",
+              "meaningChinese": "慢新闻；深度报道",
+              "example": "Slow journalism can preserve lived experience."
+            },
+            {
+              "expression": "lived experience",
+              "meaningChinese": "生活经验；亲身经验",
+              "example": "War reporting should include lived experience."
+            },
+            {
+              "expression": "media framing",
+              "meaningChinese": "媒体框架；报道框架",
+              "example": "Media framing shapes how readers understand war."
+            }
+          ],
+          "studyNote": "Reading note\n这一条适合放在媒体频道：新闻不是透明窗口，而是一种选择、组织和呈现现实的方式。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Kyiv attack",
+              "url": "https://www.theguardian.com/world/2026/jul/02/kyiv-hit-by-russian-overnight-drone-and-missile-attack"
+            },
+            {
+              "label": "The Guardian｜Modernising conflict",
+              "url": "https://www.theguardian.com/world/2026/jul/01/warfare-made-in-ukraine-modernising-conflict"
+            }
+          ]
+        },
+        {
+          "title": "足球影像与城市身份：世界杯如何制造可被分享的文化记忆",
+          "summaryChinese": "世界杯不仅是比赛，也是一套全球媒体机器：街头庆祝、球衣、看台、城市地标和社交媒体短视频共同制造“可被分享的记忆”。这些图像会影响一座城市如何被外界想象，也会影响当地居民如何重新看见自己的街区和公共空间。",
+          "correspondingEnglish": "The World Cup is not only a tournament; it is also a global media machine. Street celebrations, jerseys, stadium images, city landmarks and social videos produce shareable cultural memory.",
+          "englishExpressions": [
+            {
+              "expression": "cultural memory",
+              "meaningChinese": "文化记忆",
+              "example": "Sports images become part of cultural memory."
+            },
+            {
+              "expression": "media machine",
+              "meaningChinese": "媒体机器；媒介机制",
+              "example": "The World Cup is also a global media machine."
+            },
+            {
+              "expression": "city identity",
+              "meaningChinese": "城市身份",
+              "example": "Mega-events can reshape city identity."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Mexico City football fever",
+              "url": "https://www.theguardian.com/football/2026/jun/30/mexico-city-football-fever-world-cup"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "联合国 AI for Good 委员会：全球治理开始寻找共同语言",
+          "summaryChinese": "联合国及国际电信联盟推动 AI for Good Global Commission，希望让科技企业高层、政策制定者和国际组织围绕 AI 风险、机会和规则展开对话。AI 治理的难点在于：模型和数据跨国流动，但法律、价值观和监管能力仍然分散在不同国家。共同语言不是口号，而是关于透明度、责任和公共利益的最低共识。",
+          "correspondingEnglish": "The UN and the International Telecommunication Union are convening an AI for Good Global Commission to bring technology leaders, policymakers and international organizations into dialogue. AI governance needs shared language around transparency, responsibility and public interest.",
+          "englishExpressions": [
+            {
+              "expression": "global governance",
+              "meaningChinese": "全球治理",
+              "example": "AI requires global governance as well as national regulation."
+            },
+            {
+              "expression": "shared language",
+              "meaningChinese": "共同语言；共同框架",
+              "example": "Policymakers need shared language for AI risk."
+            },
+            {
+              "expression": "public interest",
+              "meaningChinese": "公共利益",
+              "example": "AI policy should protect the public interest."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Axios｜UN AI commission",
+              "url": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders"
+            },
+            {
+              "label": "ITU｜AI for Good",
+              "url": "https://aiforgood.itu.int/"
+            }
+          ]
+        },
+        {
+          "title": "无人机战争也是技术治理问题：创新速度超过规则速度",
+          "summaryChinese": "无人机在乌克兰战场的快速迭代说明，技术创新并不总是先发生在和平产业里。军事需求会推动传感器、软件、电子干扰和自动化系统加速发展，而规则、伦理和国际法往往落后。AI 与无人机结合之后，技术治理更需要提前讨论，而不是等到伤害已经规模化之后才补救。",
+          "correspondingEnglish": "Drone warfare in Ukraine shows that technological innovation does not always begin in peaceful industries. Military demand accelerates sensors, software, electronic interference and automation, while rules and ethics often lag behind.",
+          "englishExpressions": [
+            {
+              "expression": "technological innovation",
+              "meaningChinese": "技术创新",
+              "example": "War can accelerate technological innovation."
+            },
+            {
+              "expression": "automation",
+              "meaningChinese": "自动化",
+              "example": "Automation changes how weapons are used."
+            },
+            {
+              "expression": "rules lag behind",
+              "meaningChinese": "规则滞后",
+              "example": "Rules often lag behind new technologies."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Drone warfare in Ukraine",
+              "url": "https://www.theguardian.com/world/2026/jul/01/warfare-made-in-ukraine-modernising-conflict"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Today’s news is about coordination under pressure. A city under attack must coordinate shelters, hospitals, transport and public warnings. A host city must coordinate celebration, tourism and safety. An economy must coordinate tax policy, energy costs and jobs. And AI governance must coordinate companies, governments and citizens before new technologies reshape public life faster than rules can respond.",
+    "chinese": "今天的新闻关于压力之下的协调。一座遭遇袭击的城市需要协调避难空间、医院、交通和公共预警；一座主办城市需要协调庆祝、旅游和安全；一个经济体需要协调税收政策、能源成本和就业；AI 治理也需要在新技术比规则更快改变公共生活之前，把企业、政府和公民放进同一场讨论。"
+  },
+  "keywords": [
+    {
+      "word": "coordination",
+      "meaning": "协调；让不同系统或行动者配合运作",
+      "example": "Emergency response requires coordination across many agencies."
+    },
+    {
+      "word": "civilian safety",
+      "meaning": "平民安全",
+      "example": "Civilian safety must be protected during air attacks."
+    },
+    {
+      "word": "crowd management",
+      "meaning": "人群管理",
+      "example": "Crowd management is essential at major sporting events."
+    },
+    {
+      "word": "economic reform",
+      "meaning": "经济改革",
+      "example": "Economic reform can affect jobs, taxes and public budgets."
+    },
+    {
+      "word": "global governance",
+      "meaning": "全球治理",
+      "example": "AI has become a major issue in global governance."
+    },
+    {
+      "word": "automation",
+      "meaning": "自动化",
+      "example": "Automation is changing both industry and warfare."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "New technologies can reshape public life faster than rules can respond.",
+    "analysisChinese": "这个句子用比较结构 faster than... 表示“比……更快”。主语 new technologies 后面接 can reshape，than rules can respond 说明规则反应速度较慢。可以模仿：Markets can change faster than public policy can adapt."
+  },
+  "reflection": {
+    "english": "Coordination is quiet work, but in a crisis it becomes the difference between systems that protect people and systems that simply survive.",
+    "chinese": "今天想留下的一句话是：协调是一种安静的工作，但在危机中，它决定一个系统是在保护人，还是仅仅勉强维持自己。"
+  },
+  "tags": [
+    "Kyiv",
+    "Ukraine",
+    "drone warfare",
+    "civilian safety",
+    "Germany economy",
+    "economic reform",
+    "World Cup",
+    "public space",
+    "crowd management",
+    "media culture",
+    "AI governance",
+    "global governance",
+    "automation"
+  ],
+  "sources": [
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "Al Jazeera",
+      "url": "https://www.aljazeera.com/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "Reuters",
+      "url": "https://www.reuters.com/"
+    },
+    {
+      "label": "DW",
+      "url": "https://www.dw.com/"
+    },
+    {
+      "label": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "label": "ITU AI for Good",
+      "url": "https://aiforgood.itu.int/"
+    }
+  ],
+  "rawText": ""
+}
