@@ -1,0 +1,427 @@
+{
+  "date": "2026-07-05",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "国家哀悼、安全承诺、历史记忆、体育热浪与数字生活",
+  "introChinese": "今天的小报关键词是：memory and security（记忆与安全）。伊朗国葬把个人哀悼、国家权力和宗教政治放到同一个仪式中；NATO 争议让盟友重新思考安全承诺；美国 250 周年继续引发对历史记忆的争夺；世界杯和热浪让公共安全成为体育文化的一部分；AI 与屏幕文化则提醒我们，技术正在改变记忆、声音、儿童成长和亲密关系。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "伊朗六日国葬展开：哀悼也成为国家权力的公开展示",
+          "summaryChinese": "伊朗为前最高领袖举行六日国葬，预计吸引大量民众参与。这样的仪式不只是私人哀悼，也是一种国家政治表演：它把宗教象征、革命记忆、抵抗叙事和社会凝聚力组织成可被观看的公共场景。国葬告诉我们，国家如何处理死亡，往往也在展示它如何理解权力、忠诚和未来。",
+          "correspondingEnglish": "Iran is holding a six-day funeral for its former supreme leader, an event expected to draw huge crowds. The ceremony is not only private mourning; it is also a public display of state power, religious symbolism, revolutionary memory and social cohesion.",
+          "englishExpressions": [
+            {
+              "expression": "state power",
+              "meaningChinese": "国家权力",
+              "example": "A national funeral can become a display of state power."
+            },
+            {
+              "expression": "social cohesion",
+              "meaningChinese": "社会凝聚力",
+              "example": "Public rituals are often used to signal social cohesion."
+            },
+            {
+              "expression": "public ceremony",
+              "meaningChinese": "公共仪式",
+              "example": "The public ceremony carried political meaning."
+            }
+          ],
+          "studyNote": "Reading note\n读国家仪式新闻时，可以区分 mourning（哀悼）、memory（记忆）和 power（权力）：它们常常同时出现。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Iran funeral",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader"
+            }
+          ]
+        },
+        {
+          "title": "NATO 支持争议再起，安全承诺变得不再理所当然",
+          "summaryChinese": "美国对 NATO 支持是否“单向”的抱怨，让欧洲盟友再次面对一个核心问题：安全承诺是否仍然可靠？当防务开支、伊朗冲突、欧洲战略自主和美国国内政治彼此牵动，联盟不再只是条约文字，而是不断被预算、选举和危机重新测试的关系。",
+          "correspondingEnglish": "Renewed criticism of NATO support has forced European allies to ask whether security commitments remain reliable. Alliances are not only written treaties; they are relationships repeatedly tested by budgets, elections and crises.",
+          "englishExpressions": [
+            {
+              "expression": "security commitment",
+              "meaningChinese": "安全承诺",
+              "example": "Alliances depend on credible security commitments."
+            },
+            {
+              "expression": "strategic autonomy",
+              "meaningChinese": "战略自主",
+              "example": "Europe is debating greater strategic autonomy."
+            },
+            {
+              "expression": "defense spending",
+              "meaningChinese": "防务开支",
+              "example": "Defense spending has become a political issue."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜NATO support warning",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "防务承诺与公共预算：安全焦虑也会进入财政账本",
+          "summaryChinese": "NATO 防务开支争议提醒我们，安全并不是免费的公共情绪，而是会进入财政预算、税收讨论、产业补贴和社会福利分配的现实选择。一个国家提高军费，可能意味着更多武器采购和国防产业订单，也可能挤压教育、医疗或气候适应预算。安全政策最终总会变成资源分配问题。",
+          "correspondingEnglish": "Debates over NATO defense spending show that security is not a cost-free emotion. It enters public budgets, tax debates, industrial subsidies and welfare priorities. More military spending may mean defense contracts, but it can also compete with education, healthcare or climate adaptation.",
+          "englishExpressions": [
+            {
+              "expression": "public budget",
+              "meaningChinese": "公共预算",
+              "example": "Security commitments affect public budgets."
+            },
+            {
+              "expression": "defense contract",
+              "meaningChinese": "国防合同；军工订单",
+              "example": "Higher defense spending can create new defense contracts."
+            },
+            {
+              "expression": "resource allocation",
+              "meaningChinese": "资源分配",
+              "example": "Security policy is also a question of resource allocation."
+            }
+          ],
+          "studyNote": "Finance note\n这里不是投资建议，而是理解财政选择：安全、福利、教育和气候预算常常在同一张账本里竞争。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜NATO spending debate",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader"
+            }
+          ]
+        },
+        {
+          "title": "AI 数据中心继续进入能源市场讨论",
+          "summaryChinese": "AI 数据中心扩张继续牵动能源市场、地方电价、水资源和基础设施投资。支持者强调投资、算力和电力价格可能下降，批评者担心柴油备用发电、用水、污染和社区透明度不足。AI 经济不是“云端”经济，它会落到土地、电网、水管和地方财政上。",
+          "correspondingEnglish": "AI data center expansion continues to shape debates over energy markets, local electricity prices, water use and infrastructure investment. Supporters emphasize investment and computing power, while critics worry about diesel generators, water use, pollution and transparency.",
+          "englishExpressions": [
+            {
+              "expression": "infrastructure investment",
+              "meaningChinese": "基础设施投资",
+              "example": "AI growth requires infrastructure investment."
+            },
+            {
+              "expression": "local electricity price",
+              "meaningChinese": "地方电价",
+              "example": "Data centers may affect local electricity prices."
+            },
+            {
+              "expression": "transparency",
+              "meaningChinese": "透明度",
+              "example": "Communities are asking for greater transparency."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Data center concerns",
+              "url": "https://www.businessinsider.com/us-energy-chris-wright-data-center-concerns-water-pollution-overblown-2026-7"
+            },
+            {
+              "label": "Axios｜Future of Energy",
+              "url": "https://www.axios.com/newsletters/axios-future-of-energy-6429dac0-7564-11f1-98bc-355f5244e547"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "美国 250 周年中的历史争夺：谁的故事留在国家公园里？",
+          "summaryChinese": "美国 250 周年纪念期间，关于国家公园历史标识的争议引发关注。批评者认为，删除或淡化气候变化、移民、原住民伤害、奴隶制和种族暴力等内容，会把国家记忆处理成更“干净”的版本。历史不是中性的陈列，它决定谁被承认、谁的痛苦被看见，以及一个国家愿不愿意面对自己的复杂过去。",
+          "correspondingEnglish": "Debate over historical signs in U.S. national parks has raised questions about how a nation remembers itself. Critics argue that removing references to climate change, immigration, Indigenous harm, slavery or racial violence creates a sanitized version of national memory.",
+          "englishExpressions": [
+            {
+              "expression": "sanitized history",
+              "meaningChinese": "被净化/粉饰过的历史",
+              "example": "Critics warned against a sanitized history."
+            },
+            {
+              "expression": "national memory",
+              "meaningChinese": "国家记忆",
+              "example": "Museums and parks shape national memory."
+            },
+            {
+              "expression": "historical recognition",
+              "meaningChinese": "历史承认",
+              "example": "Historical recognition matters for marginalized communities."
+            }
+          ],
+          "studyNote": "Study note\n历史记忆也是 gender/culture 问题：谁被写进公共空间，谁被从标识、展览和教材中删掉？",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜US history in national parks",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader"
+            }
+          ]
+        },
+        {
+          "title": "世界杯观赛中的热浪：球迷身体也需要被保护",
+          "summaryChinese": "美国东部高温威胁世界杯比赛和独立日活动，观众、儿童、老人、工作人员和户外摊贩都面临不同风险。体育文化常常赞美热情和坚持，但公共安全要求我们承认身体有界限。真正包容的公共活动，不只是让更多人聚集，也要让不同身体条件的人能够安全离开。",
+          "correspondingEnglish": "Heat threatens World Cup matches and holiday events in the eastern United States. Fans, children, older people, workers and vendors face different risks. Inclusive public events must not only gather people; they must allow people with different bodies to remain safe.",
+          "englishExpressions": [
+            {
+              "expression": "bodily limit",
+              "meaningChinese": "身体界限",
+              "example": "Extreme heat reminds us of bodily limits."
+            },
+            {
+              "expression": "inclusive public event",
+              "meaningChinese": "包容性的公共活动",
+              "example": "Inclusive public events must plan for vulnerable people."
+            },
+            {
+              "expression": "heat risk",
+              "meaningChinese": "高温风险",
+              "example": "Heat risk affects workers and spectators."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜US heatwave and World Cup",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader"
+            },
+            {
+              "label": "AP News｜World Cup heat risk",
+              "url": "https://apnews.com/article/e88edfc869146a2898928177e8c52286"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "文化作品继续回应科技焦虑：书、电影与屏幕时代的注意力",
+          "summaryChinese": "文化评论把 Ben Lerner 的小说、儿童屏幕依赖、Toy Story 5 和 AI 语音复现放在一起讨论，指出当代文化正在寻找一种方式，既不简单反科技，也不把技术当作无害工具。书籍、电影和评论的价值在于，它们让人慢下来，观察手机、AI、屏幕和算法如何改变记忆、亲密关系和儿童成长。",
+          "correspondingEnglish": "Cultural criticism is connecting Ben Lerner's fiction, children's screen dependence, Toy Story 5 and AI voice reproduction. Contemporary culture is trying to respond to technology without simply rejecting it or treating it as harmless. Books and films help people slow down and examine how screens, AI and algorithms reshape memory, intimacy and childhood.",
+          "englishExpressions": [
+            {
+              "expression": "screen dependence",
+              "meaningChinese": "屏幕依赖",
+              "example": "Screen dependence has become a cultural concern."
+            },
+            {
+              "expression": "AI voice reproduction",
+              "meaningChinese": "AI 语音复现",
+              "example": "AI voice reproduction raises ethical questions."
+            },
+            {
+              "expression": "attention economy",
+              "meaningChinese": "注意力经济",
+              "example": "Books resist the speed of the attention economy."
+            }
+          ],
+          "studyNote": "Reading note\n这条适合把 literature、film、media 和 AI 放在一起读：文化作品帮助我们理解技术如何进入日常生活。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Culture taking on tech",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/03/the-guardian-view-on-how-culture-is-taking-on-tech-the-ultimate-handheld-device"
+            }
+          ]
+        },
+        {
+          "title": "国家仪式也是媒体图像：国葬、国旗与公共情绪",
+          "summaryChinese": "伊朗国葬和美国 250 周年看似完全不同，却都说明国家仪式高度依赖媒体图像：人群、旗帜、身体、哭泣、烟花、军乐和官方叙事共同制造一种可被传播的公共情绪。文化频道关注这些图像，是因为图像会把抽象的国家、信仰和忠诚变成可观看的形式。",
+          "correspondingEnglish": "Iran's funeral and America's 250th anniversary are very different events, but both show how national rituals depend on media images: crowds, flags, bodies, tears, fireworks, music and official narratives create public emotion that can be circulated.",
+          "englishExpressions": [
+            {
+              "expression": "media image",
+              "meaningChinese": "媒体图像",
+              "example": "National rituals rely on powerful media images."
+            },
+            {
+              "expression": "public emotion",
+              "meaningChinese": "公共情绪",
+              "example": "Ceremonies can organize public emotion."
+            },
+            {
+              "expression": "official narrative",
+              "meaningChinese": "官方叙事",
+              "example": "Official narratives shape how events are remembered."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Iran funeral",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/first-thing-iran-defiance-six-day-funeral-supreme-leader"
+            },
+            {
+              "label": "America250｜Official commemoration",
+              "url": "https://america250.org/"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI 语音复现引发记忆伦理问题",
+          "summaryChinese": "AI 生成声音正在进入有声书、影视和纪念性内容。即使获得授权，它仍会提出新的伦理问题：一个人的声音是否可以在死后继续作为作品材料？同意的边界在哪里？听众是否应该知道声音由 AI 制作？这些问题把 AI 治理从效率和版权扩展到记忆、身体和人格尊严。",
+          "correspondingEnglish": "AI-generated voices are entering audiobooks, film and memorial content. Even with consent, they raise ethical questions: can a person's voice continue to be used after death, where are the limits of consent, and should audiences be told when a voice is AI-made?",
+          "englishExpressions": [
+            {
+              "expression": "voice reproduction",
+              "meaningChinese": "声音复现",
+              "example": "AI voice reproduction raises questions about consent."
+            },
+            {
+              "expression": "informed consent",
+              "meaningChinese": "知情同意",
+              "example": "Informed consent is essential for using a person's voice."
+            },
+            {
+              "expression": "human dignity",
+              "meaningChinese": "人的尊严",
+              "example": "AI policy should protect human dignity."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Culture taking on tech",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/03/the-guardian-view-on-how-culture-is-taking-on-tech-the-ultimate-handheld-device"
+            }
+          ]
+        },
+        {
+          "title": "AI 基础设施需要的不只是算力，也需要公共许可",
+          "summaryChinese": "数据中心争议说明，AI 基础设施不能只用“创新”和“投资”来解释。地方社区关心的是水、电、噪音、柴油发电机、税收收益、就业质量和信息透明。真正可持续的 AI 发展，需要的不只是算力和资本，也需要公共许可：人们理解、参与并相信这些项目不会把成本转嫁给他们。",
+          "correspondingEnglish": "Data center debates show that AI infrastructure cannot be justified only through innovation and investment. Local communities care about water, electricity, noise, diesel generators, tax benefits, job quality and transparency. Sustainable AI needs not only computing power and capital, but also public consent.",
+          "englishExpressions": [
+            {
+              "expression": "public consent",
+              "meaningChinese": "公共许可；公众同意",
+              "example": "Infrastructure projects need public consent."
+            },
+            {
+              "expression": "job quality",
+              "meaningChinese": "就业质量",
+              "example": "Communities ask about job quality, not just job numbers."
+            },
+            {
+              "expression": "cost shifting",
+              "meaningChinese": "成本转嫁",
+              "example": "Residents worry about cost shifting from companies to communities."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Data center concerns",
+              "url": "https://www.businessinsider.com/us-energy-chris-wright-data-center-concerns-water-pollution-overblown-2026-7"
+            },
+            {
+              "label": "Axios｜Future of Energy",
+              "url": "https://www.axios.com/newsletters/axios-future-of-energy-6429dac0-7564-11f1-98bc-355f5244e547"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Memory and security are often treated as separate subjects, but today’s news shows how closely they are connected. A funeral can become a message about state power. An anniversary can become a debate over history. An alliance can become a question of trust. And a new technology can force society to decide what parts of human memory should remain protected.",
+    "chinese": "记忆与安全常常被当作两个不同议题，但今天的新闻让我们看到它们彼此紧密相连。一场国葬可以成为关于国家权力的信息；一个纪念日可以变成关于历史的争论；一个联盟可以变成关于信任的问题；一项新技术也会迫使社会决定，人的哪些记忆应当继续受到保护。"
+  },
+  "keywords": [
+    {
+      "word": "memory",
+      "meaning": "记忆；个人或社会保存过去的方式",
+      "example": "Public memory is shaped by rituals and media."
+    },
+    {
+      "word": "security commitment",
+      "meaning": "安全承诺；盟友或国家承担保护责任的承诺",
+      "example": "Security commitments must be credible."
+    },
+    {
+      "word": "social cohesion",
+      "meaning": "社会凝聚力；社会成员之间的连接和团结程度",
+      "example": "Public ceremonies can signal social cohesion."
+    },
+    {
+      "word": "informed consent",
+      "meaning": "知情同意；在理解后果后作出的同意",
+      "example": "AI voice reproduction requires informed consent."
+    },
+    {
+      "word": "public consent",
+      "meaning": "公共许可；公众对政策或项目的理解与接受",
+      "example": "AI infrastructure needs public consent."
+    },
+    {
+      "word": "sanitized history",
+      "meaning": "被粉饰的历史；删除复杂或痛苦内容后的历史叙事",
+      "example": "A sanitized history can erase marginalized communities."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "A funeral can become a message about state power.",
+    "analysisChinese": "这个句子用 can become 表示“可能变成”。主语 a funeral 看似私人情感场景，但后面 a message about state power 把它转向政治意义。可以模仿：A holiday can become a debate about national memory."
+  },
+  "reflection": {
+    "english": "A society reveals itself not only through what it celebrates, but also through what it remembers, protects and refuses to erase.",
+    "chinese": "今天想留下的一句话是：一个社会不只通过它庆祝什么来显露自己，也通过它记住什么、保护什么、拒绝抹去什么来显露自己。"
+  },
+  "tags": [
+    "Iran",
+    "national mourning",
+    "NATO",
+    "security commitment",
+    "US 250",
+    "public memory",
+    "World Cup",
+    "heat risk",
+    "data centers",
+    "AI infrastructure",
+    "AI voice",
+    "digital culture",
+    "public consent"
+  ],
+  "sources": [
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "label": "Business Insider",
+      "url": "https://www.businessinsider.com/"
+    },
+    {
+      "label": "America250",
+      "url": "https://america250.org/"
+    }
+  ],
+  "rawText": ""
+}

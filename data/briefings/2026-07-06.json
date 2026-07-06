@@ -1,0 +1,443 @@
+{
+  "date": "2026-07-06",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "AI国际规则、国家纪念、世界杯高温、公共资源与文化跨界",
+  "introChinese": "今天的小报关键词是：rules（规则）。AI 公司和国际组织试图建立全球治理语言；国家纪念日继续暴露身份与政治裂缝；世界杯在高温中重新讨论身体安全；数据中心把算力、能源和地方资源绑在一起；文化新闻则提醒我们，技术、记忆和公共仪式都需要被解释，也需要被争论。",
+  "sections": [
+    {
+      "id": "global-news",
+      "heading": "全球新闻 / Global News",
+      "items": [
+        {
+          "title": "AI 国际治理进入新的协调阶段",
+          "summaryChinese": "联合国与国际电信联盟推动 AI for Good Global Commission，希望让科技企业、国际组织和政策制定者围绕 AI 风险、机会与公共利益建立共同语言。AI 模型、数据和基础设施跨越国界，但监管能力仍分散在不同国家。全球治理的难点不只是写出原则，而是让透明度、责任和安全规则真正能被执行。",
+          "correspondingEnglish": "The UN and the International Telecommunication Union are pushing AI governance into a new phase of coordination through the AI for Good Global Commission. AI models, data and infrastructure cross borders, while regulatory capacity remains fragmented. The challenge is not only writing principles, but making transparency, responsibility and safety enforceable.",
+          "englishExpressions": [
+            {
+              "expression": "global coordination",
+              "meaningChinese": "全球协调",
+              "example": "AI governance requires global coordination."
+            },
+            {
+              "expression": "enforceable rules",
+              "meaningChinese": "可执行的规则",
+              "example": "Principles matter only when rules are enforceable."
+            },
+            {
+              "expression": "public interest",
+              "meaningChinese": "公共利益",
+              "example": "Technology policy should serve the public interest."
+            }
+          ],
+          "studyNote": "Reading note\n读 AI 国际治理新闻时，可以区分 principle（原则）、standard（标准）和 enforcement（执行）。真正难的是第三个。",
+          "sourceLinks": [
+            {
+              "label": "Axios｜UN AI commission",
+              "url": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders"
+            },
+            {
+              "label": "ITU｜AI for Good",
+              "url": "https://aiforgood.itu.int/"
+            }
+          ]
+        },
+        {
+          "title": "美国 250 周年之后：庆祝仍在，身份问题也仍在",
+          "summaryChinese": "美国独立 250 周年的公共讨论并没有随着烟花结束。新公民、移民家庭、少数群体和政治立场不同的读者，都在用自己的方式理解这个国家纪念日。国家身份不是一个固定答案，而是一场持续的协商：谁被写进共同记忆，谁被要求证明忠诚，谁能在公共仪式中感到安全和被欢迎。",
+          "correspondingEnglish": "Public debate around the United States' 250th anniversary did not end with fireworks. New citizens, immigrant families, minority communities and politically divided readers continue to interpret the anniversary in different ways. National identity is not a fixed answer, but an ongoing negotiation over memory, loyalty and belonging.",
+          "englishExpressions": [
+            {
+              "expression": "national identity",
+              "meaningChinese": "国家身份",
+              "example": "National identity is shaped through public memory."
+            },
+            {
+              "expression": "ongoing negotiation",
+              "meaningChinese": "持续协商",
+              "example": "Belonging is an ongoing negotiation."
+            },
+            {
+              "expression": "public ritual",
+              "meaningChinese": "公共仪式",
+              "example": "Public rituals can include and exclude at the same time."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜New citizens and US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/new-us-citizens-250th-anniversary"
+            },
+            {
+              "label": "The Guardian｜Readers reflect on US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "金融与市场 / Finance & Markets",
+      "items": [
+        {
+          "title": "AI 数据中心继续拉高能源、水与地方财政讨论",
+          "summaryChinese": "AI 数据中心扩张让能源、电价、水资源和地方税收重新成为技术新闻的一部分。支持者强调投资、就业和更强算力，批评者担心用水、备用柴油发电机、社区协商不足和电网压力。AI 产业的经济故事并不只发生在股市，也发生在土地、水、电和地方预算里。",
+          "correspondingEnglish": "The expansion of AI data centers keeps energy, electricity prices, water and local finance at the center of technology news. Supporters emphasize investment, jobs and computing power, while critics worry about water use, diesel backup generators, weak consultation and pressure on power grids.",
+          "englishExpressions": [
+            {
+              "expression": "local finance",
+              "meaningChinese": "地方财政",
+              "example": "Data centers can reshape local finance."
+            },
+            {
+              "expression": "power grid pressure",
+              "meaningChinese": "电网压力",
+              "example": "Large data centers add pressure to power grids."
+            },
+            {
+              "expression": "computing power",
+              "meaningChinese": "算力",
+              "example": "AI companies compete for computing power."
+            }
+          ],
+          "studyNote": "Finance note\n这里不是投资建议，而是理解 AI 基础设施如何影响能源市场、地方税收和公共资源分配。",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Data center concerns",
+              "url": "https://www.businessinsider.com/us-energy-chris-wright-data-center-concerns-water-pollution-overblown-2026-7"
+            },
+            {
+              "label": "Axios｜Future of Energy newsletter",
+              "url": "https://www.axios.com/newsletters/axios-future-of-energy-6429dac0-7564-11f1-98bc-355f5244e547"
+            }
+          ]
+        },
+        {
+          "title": "全球经济失衡让 AI 乐观叙事变得更复杂",
+          "summaryChinese": "全球增长放缓、公共债务和贸易保护主义让市场对 AI 的乐观预期变得更复杂。AI 可能提高生产率，但如果收益集中在少数企业和国家，而债务、能源成本和就业压力由更多人承担，技术增长就会同时带来新机会和新不平等。",
+          "correspondingEnglish": "Slower global growth, public debt and protectionism complicate the optimistic story around AI. AI may improve productivity, but if gains are concentrated among a few firms and countries while debt, energy costs and job pressure are widely shared, technological growth can create both opportunity and inequality.",
+          "englishExpressions": [
+            {
+              "expression": "productivity gain",
+              "meaningChinese": "生产率提升",
+              "example": "AI could bring productivity gains."
+            },
+            {
+              "expression": "concentrated benefits",
+              "meaningChinese": "收益集中",
+              "example": "Concentrated benefits can deepen inequality."
+            },
+            {
+              "expression": "protectionism",
+              "meaningChinese": "保护主义",
+              "example": "Economic stress can fuel protectionism."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Le Monde｜Gita Gopinath on global imbalances",
+              "url": "https://www.lemonde.fr/en/economy/article/2026/07/03/economist-gita-gopinath-rising-imbalances-among-major-powers-threaten-growth-and-fuel-protectionism_6755102_19.html"
+            },
+            {
+              "label": "World Bank｜Global Economic Prospects",
+              "url": "https://www.worldbank.org/en/publication/global-economic-prospects"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "性别与文化 / Gender & Culture",
+      "items": [
+        {
+          "title": "世界杯高温安全：身体不是赛事机器的一部分",
+          "summaryChinese": "世界杯淘汰赛期间的高温风险让球员、工作人员和观众的身体安全成为核心议题。体育商业常常强调速度、荣誉和观看体验，但极端天气提醒我们，身体并不是可以无限压榨的赛事机器。补水、遮阴、医疗反应和延期规则，都是公共照护的一部分。",
+          "correspondingEnglish": "Heat risk during the World Cup knockout rounds has made bodily safety central for players, workers and spectators. Sports business often emphasizes speed, glory and spectacle, but extreme weather reminds us that bodies are not machines built for endless performance.",
+          "englishExpressions": [
+            {
+              "expression": "bodily safety",
+              "meaningChinese": "身体安全",
+              "example": "Bodily safety should be central to event planning."
+            },
+            {
+              "expression": "public care",
+              "meaningChinese": "公共照护",
+              "example": "Heat protocols are part of public care."
+            },
+            {
+              "expression": "event protocol",
+              "meaningChinese": "赛事规则；活动应急规程",
+              "example": "Event protocols must adapt to extreme heat."
+            }
+          ],
+          "studyNote": "Study note\n性别/文化视角会问：谁在高温中工作？谁照顾观众和球员？谁有权要求比赛暂停？",
+          "sourceLinks": [
+            {
+              "label": "AP News｜World Cup heat risk",
+              "url": "https://apnews.com/article/e88edfc869146a2898928177e8c52286"
+            }
+          ]
+        },
+        {
+          "title": "归属感的另一面：国家纪念中的不安与希望",
+          "summaryChinese": "美国 250 周年的读者反思显示，归属感常常和不安一起出现。有人因公民身份、历史记忆和公共仪式感到骄傲，也有人因移民政策、性别议题、政治敌意和社会分裂感到疏离。真正成熟的公共文化不是只允许赞美，也允许人们把疑问说出来。",
+          "correspondingEnglish": "Reader reflections on the United States' 250th anniversary show that belonging often appears together with unease. Some people feel pride through citizenship and public ritual, while others feel distance because of immigration policy, gender politics, hostile rhetoric and social division.",
+          "englishExpressions": [
+            {
+              "expression": "belonging and unease",
+              "meaningChinese": "归属感与不安",
+              "example": "Belonging and unease can exist together."
+            },
+            {
+              "expression": "public culture",
+              "meaningChinese": "公共文化",
+              "example": "Public culture should allow disagreement."
+            },
+            {
+              "expression": "hostile rhetoric",
+              "meaningChinese": "敌意话语",
+              "example": "Hostile rhetoric can make people feel excluded."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Readers reflect on US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/250th-anniversary-readers-reflect"
+            },
+            {
+              "label": "The Guardian｜New citizens and US 250",
+              "url": "https://www.theguardian.com/us-news/2026/jul/03/new-us-citizens-250th-anniversary"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "Bradley Cooper 的 AI 声音与文化记忆：技术能否复活一个人？",
+          "summaryChinese": "Bradley Cooper 在纪录片中用 AI 重建自己父亲的声音，引发关于记忆、哀悼和技术边界的讨论。声音不是普通数据，它承载亲密关系、死亡经验和家庭记忆。当 AI 能够模拟逝者声音时，文化问题不再是“像不像”，而是我们是否准备好让技术进入哀悼与亲密关系最柔软的地方。",
+          "correspondingEnglish": "Bradley Cooper's use of AI to recreate his late father's voice in a documentary has raised questions about memory, grief and technological boundaries. A voice is not ordinary data; it carries intimacy, death and family memory.",
+          "englishExpressions": [
+            {
+              "expression": "recreate a voice",
+              "meaningChinese": "重建声音",
+              "example": "AI can now recreate a voice from recordings."
+            },
+            {
+              "expression": "technological boundary",
+              "meaningChinese": "技术边界",
+              "example": "The film raises questions about technological boundaries."
+            },
+            {
+              "expression": "family memory",
+              "meaningChinese": "家庭记忆",
+              "example": "A voice can carry family memory."
+            }
+          ],
+          "studyNote": "Reading note\n这条新闻连接 film、AI、声音、亲密关系和伦理：文化作品常常比政策更早让我们感到技术的复杂性。",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Bradley Cooper and AI voice",
+              "url": "https://www.theguardian.com/technology/2026/jul/05/bradley-cooper-ai-voice-father"
+            }
+          ]
+        },
+        {
+          "title": "书本、电影与屏幕：文化如何抵抗数字饱和",
+          "summaryChinese": "关于书本作为另一种“手持设备”的评论继续提醒我们：文学和电影不是逃离技术，而是让人慢下来观察技术如何改变注意力、儿童成长、创造力和亲密关系。在数字媒介高度包围的时代，文化作品的价值之一，是帮助人把自己从无尽滑动中暂时取回。",
+          "correspondingEnglish": "Cultural criticism about books as another kind of handheld device reminds us that literature and film do not escape technology; they slow us down so we can examine how screens change attention, childhood, creativity and intimacy.",
+          "englishExpressions": [
+            {
+              "expression": "digital saturation",
+              "meaningChinese": "数字饱和",
+              "example": "Digital saturation makes attention harder to protect."
+            },
+            {
+              "expression": "slow attention",
+              "meaningChinese": "慢注意力；持续注意力",
+              "example": "Books can train slow attention."
+            },
+            {
+              "expression": "creative resistance",
+              "meaningChinese": "创造性的抵抗",
+              "example": "Art can become a form of creative resistance."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Culture taking on tech",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/03/the-guardian-view-on-how-culture-is-taking-on-tech-the-ultimate-handheld-device"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI 与科技 / AI & Tech",
+      "items": [
+        {
+          "title": "AI 进入哀悼空间：声音、同意与死后数据权利",
+          "summaryChinese": "AI 重建逝者声音的案例让“死后数据权利”变得具体。一个人去世后，ta 的声音、影像和文本是否可以被继续使用？谁有权决定？家属的爱、创作者的表达和公众的观看欲望之间如何划界？AI 治理不只关于效率和安全，也关于亲密关系中的同意。",
+          "correspondingEnglish": "AI voice recreation makes posthumous data rights concrete. After a person dies, should their voice, image or text continue to be used? Who decides? AI governance is not only about efficiency and safety, but also about consent within intimate relationships.",
+          "englishExpressions": [
+            {
+              "expression": "posthumous data rights",
+              "meaningChinese": "死后数据权利",
+              "example": "AI voice tools raise questions about posthumous data rights."
+            },
+            {
+              "expression": "informed consent",
+              "meaningChinese": "知情同意",
+              "example": "Informed consent is difficult after death."
+            },
+            {
+              "expression": "synthetic voice",
+              "meaningChinese": "合成声音",
+              "example": "A synthetic voice can sound emotionally real."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Bradley Cooper and AI voice",
+              "url": "https://www.theguardian.com/technology/2026/jul/05/bradley-cooper-ai-voice-father"
+            }
+          ]
+        },
+        {
+          "title": "AI 国际规则与地方资源争议正在同时发生",
+          "summaryChinese": "一边是国际组织试图建立 AI 全球治理框架，另一边是地方社区围绕数据中心水电资源提出质疑。这说明 AI 不是单一层级的问题：它既需要跨国规则，也需要地方透明度；既关系到模型安全，也关系到一座城市、一条河流、一张电费账单。",
+          "correspondingEnglish": "AI governance is unfolding at two levels at once: international organizations seek global frameworks, while local communities question the water and energy use of data centers. AI needs both cross-border rules and local transparency.",
+          "englishExpressions": [
+            {
+              "expression": "multi-level governance",
+              "meaningChinese": "多层级治理",
+              "example": "AI requires multi-level governance."
+            },
+            {
+              "expression": "local transparency",
+              "meaningChinese": "地方透明度",
+              "example": "Communities need local transparency around data centers."
+            },
+            {
+              "expression": "cross-border rule",
+              "meaningChinese": "跨境规则",
+              "example": "AI models need cross-border rules."
+            }
+          ],
+          "studyNote": "",
+          "sourceLinks": [
+            {
+              "label": "Axios｜UN AI commission",
+              "url": "https://www.axios.com/2026/07/01/un-ai-commission-ceos-world-leaders"
+            },
+            {
+              "label": "Business Insider｜Data center concerns",
+              "url": "https://www.businessinsider.com/us-energy-chris-wright-data-center-concerns-water-pollution-overblown-2026-7"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "english": "Rules are not only written in laws. They appear in stadium safety protocols, citizenship ceremonies, data-center permits, documentary ethics and international technology standards. When rules are invisible, power feels natural. When we learn to read them, we begin to see who is protected, who is exposed and who gets to decide.",
+    "chinese": "规则并不只写在法律里。它们也出现在体育场安全规程、公民入籍仪式、数据中心许可、纪录片伦理和国际技术标准之中。当规则不可见时，权力看起来像是自然发生的；当我们学会阅读规则，就开始看见谁被保护，谁被暴露，谁有资格决定。"
+  },
+  "keywords": [
+    {
+      "word": "rule",
+      "meaning": "规则；规定行为边界和责任的制度安排",
+      "example": "Rules decide who is protected in a crisis."
+    },
+    {
+      "word": "consent",
+      "meaning": "同意；在知情情况下允许某事发生",
+      "example": "AI voice recreation raises questions about consent."
+    },
+    {
+      "word": "governance",
+      "meaning": "治理；制定规则并管理系统的方式",
+      "example": "AI governance must include both global and local rules."
+    },
+    {
+      "word": "belonging",
+      "meaning": "归属感；感到自己属于某个群体或地方",
+      "example": "Public rituals can strengthen belonging."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑社会或技术系统运行的物质条件",
+      "example": "AI infrastructure depends on energy and water."
+    },
+    {
+      "word": "digital saturation",
+      "meaning": "数字饱和；生活被数字媒介高度包围的状态",
+      "example": "Digital saturation changes attention and memory."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "When rules are invisible, power feels natural.",
+    "analysisChinese": "这个句子使用 when 引导时间/条件状语从句。rules are invisible 表示规则不可见，power feels natural 表示权力看起来像自然发生。这个句型适合批判性写作：When history is erased, inequality feels normal."
+  },
+  "reflection": {
+    "english": "To understand a public event, do not only look at the ceremony. Look at the rules that decide who can enter, who must wait and who is allowed to speak.",
+    "chinese": "今天想留下的一句话是：理解一个公共事件，不要只看仪式本身，也要看那些决定谁能进入、谁必须等待、谁被允许发声的规则。"
+  },
+  "tags": [
+    "AI governance",
+    "rules",
+    "public interest",
+    "data centers",
+    "energy",
+    "World Cup",
+    "heat safety",
+    "belonging",
+    "US 250",
+    "AI voice",
+    "posthumous data rights",
+    "digital culture",
+    "public trust"
+  ],
+  "sources": [
+    {
+      "label": "Axios",
+      "url": "https://www.axios.com/"
+    },
+    {
+      "label": "ITU AI for Good",
+      "url": "https://aiforgood.itu.int/"
+    },
+    {
+      "label": "The Guardian",
+      "url": "https://www.theguardian.com/"
+    },
+    {
+      "label": "AP News",
+      "url": "https://apnews.com/"
+    },
+    {
+      "label": "Business Insider",
+      "url": "https://www.businessinsider.com/"
+    },
+    {
+      "label": "Le Monde",
+      "url": "https://www.lemonde.fr/en/"
+    },
+    {
+      "label": "World Bank",
+      "url": "https://www.worldbank.org/"
+    }
+  ],
+  "rawText": ""
+}

@@ -1,5 +1,47 @@
 [
   {
+    "date": "2026-07-06",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "AI国际规则、国家纪念、世界杯高温、公共资源与文化跨界",
+    "file": "2026-07-06.json",
+    "tags": [
+      "AI governance",
+      "rules",
+      "public interest",
+      "data centers",
+      "energy",
+      "World Cup",
+      "heat safety",
+      "belonging",
+      "US 250",
+      "AI voice",
+      "posthumous data rights",
+      "digital culture",
+      "public trust"
+    ]
+  },
+  {
+    "date": "2026-07-05",
+    "title": "The Daily Compass｜每日罗盘",
+    "theme": "国家哀悼、安全承诺、历史记忆、体育热浪与数字生活",
+    "file": "2026-07-05.json",
+    "tags": [
+      "Iran",
+      "national mourning",
+      "NATO",
+      "security commitment",
+      "US 250",
+      "public memory",
+      "World Cup",
+      "heat risk",
+      "data centers",
+      "AI infrastructure",
+      "AI voice",
+      "digital culture",
+      "public consent"
+    ]
+  },
+  {
     "date": "2026-07-04",
     "title": "The Daily Compass｜每日罗盘",
     "theme": "国家纪念、体育高温、归属感、数据中心成本与文化反思科技",
