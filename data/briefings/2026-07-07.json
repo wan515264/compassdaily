@@ -1,0 +1,353 @@
+{
+  "date": "2026-07-07",
+  "type": "special-report",
+  "title": "事找人之后，人还剩下什么？《置身钉内》、AI 工作流与燃尽的市场女性主义",
+  "subtitle": "2026年7月7日特别报道：从 Sixth Tone 的 AI 一人公司报道出发，回看《置身钉内》中的钉钉 ONE、主动服务、组织权力与 burnout。",
+  "topics": [
+    "置身钉内",
+    "钉钉 ONE",
+    "Sixth Tone",
+    "AI 一人公司",
+    "主动服务",
+    "事找人",
+    "组织凝视",
+    "发信人立场",
+    "心理缓冲带",
+    "Burnout Market Feminism",
+    "市场女性主义",
+    "数字劳动"
+  ],
+  "sourceLinks": [
+    {
+      "label": "Sixth Tone｜Flying Solo: The Rise of China’s One-Person Companies",
+      "url": "https://www.sixthtone.com/news/1018567"
+    },
+    {
+      "label": "置身钉内｜滕雅辛 GitHub Gist",
+      "url": "https://gist.github.com/horaceho/4be04df73b1f1ede458ad5cec2b94132"
+    },
+    {
+      "label": "Ling Tang｜Burnout Market Feminism: Urban Chinese Businesswomen in the Internet Age",
+      "url": "https://direct.mit.edu/books/oa-monograph/6144/Burnout-Market-FeminismUrban-Chinese-Businesswomen"
+    }
+  ],
+  "intro": {
+    "heading": "今日导读 / Chinese Intro",
+    "body": "今天的小报从 Sixth Tone 关于中国 AI “一人公司”的报道开始。那篇报道讲的是 AI 工具如何让一个人完成过去需要团队协作的设计、开发、营销和用户分析。但今天真正要回看的，是另一件更复杂的事：《置身钉内》所呈现的钉钉 ONE 事件。一个是个体创业现场，一个是企业组织现场；一个讲 AI 如何让一个人像团队一样工作，一个讲 AI 如何进入组织内部，让“人找事”变成“事找人”。把它们放在一起，并不是为了把主题转向一人公司，而是为了追问同一个更深的问题：当 AI 让工作更快、更主动、更自动时，它究竟是在减轻人的负担，还是在重新分配责任、注意力和燃尽？"
+  },
+  "sections": [
+    {
+      "id": "opening-news",
+      "heading": "Ⅰ. News Hook｜新闻开头",
+      "items": [
+        {
+          "title": "Sixth Tone 的报道：AI 让一个人更像一支团队",
+          "dek": "AI 一人公司不是今天的主角，但它提供了一个很好的开头：AI 正在把团队能力压缩到个体身上。",
+          "summary": "Sixth Tone 的报道写到，中国 AI “一人公司”正在兴起。借助 Cursor、Codex、ChatGPT、DeepSeek 等工具，非技术背景的创作者也可以完成产品设计、代码生成、调试、营销和用户分析。这个报道之所以值得放在今天开头，不是因为我们要把小报写成创业故事，而是因为它揭示了一个时代变化：AI 正在把原本由团队、组织和分工承担的能力，压缩到单个个体身上。一个人可以做更多事，也因此更容易被期待承担更多事。这个问题，正好可以引向《置身钉内》：如果说一人公司展示了 AI 如何扩展个体能力，那么钉钉 ONE 展示的就是 AI 如何进入组织系统，重新安排人的工作、责任和可见度。",
+          "englishLine": "AI can make one person work like a team, but it can also make one person responsible for the weight of a whole system.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Flying Solo",
+              "url": "https://www.sixthtone.com/news/1018567"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "one-person company",
+              "meaning": "一人公司",
+              "example": "AI tools have made one-person companies more realistic for non-technical founders."
+            },
+            {
+              "expression": "to compress team capacity into individuals",
+              "meaning": "把团队能力压缩到个体身上",
+              "example": "AI can compress team capacity into individuals, but it cannot remove responsibility."
+            },
+            {
+              "expression": "structural pressure",
+              "meaning": "结构性压力",
+              "example": "Structural pressure should not be disguised as personal failure."
+            }
+          ],
+          "linkedKeywords": [
+            "one-person company",
+            "responsibility",
+            "structural pressure"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "what-happened",
+      "heading": "Ⅱ. What Happened｜回顾整件事",
+      "items": [
+        {
+          "title": "《置身钉内》为什么重要：它记录的不是八卦，而是一个 AI 产品现场",
+          "dek": "这篇长文的价值不只是内部复盘，而是让我们看到 AI 产品如何在组织目标、用户需求和管理逻辑之间变形。",
+          "summary": "《置身钉内》并不是一篇普通的职场吐槽。它记录的是一个 AI 产品从立项、发布、共创到收缩的过程：理想如何被翻译成目标，目标如何被拆成需求，需求如何在组织里变形、落地，又如何进入真实用户现场。文中的 ONE 是钉钉面向 AI 时代推出的工作信息流产品。它试图把群聊、待办、会议、日程、文档、审批等分散工作信息重新组织起来，让 AI 不只是被动回答，而是主动替用户发现、整理和推进工作。这篇文章之所以引发关注，是因为它把一个产品背后的组织张力写得非常具体：一个 AI 产品并不是只由技术能力决定，它也被领导者的产品记忆、组织的商业目标、企业软件的管理基因、用户的沉默抵抗，以及团队内部的高压节奏共同塑形。",
+          "englishLine": "The DingTalk ONE story is not only a product review; it is a record of how AI ideals are reshaped by organizational pressure.",
+          "sourceLinks": [
+            {
+              "label": "置身钉内｜滕雅辛 GitHub Gist",
+              "url": "https://gist.github.com/horaceho/4be04df73b1f1ede458ad5cec2b94132"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "product scene",
+              "meaning": "产品现场",
+              "example": "The essay gives us a rare look into the product scene behind an AI workplace tool."
+            },
+            {
+              "expression": "organizational pressure",
+              "meaning": "组织压力",
+              "example": "Organizational pressure can reshape even the most idealistic product vision."
+            },
+            {
+              "expression": "workplace AI",
+              "meaning": "办公场景中的 AI / 工作场景 AI",
+              "example": "Workplace AI is never just about efficiency; it is also about power and responsibility."
+            }
+          ],
+          "linkedKeywords": [
+            "DingTalk ONE",
+            "organizational pressure",
+            "workplace AI"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "one-and-proactive-service",
+      "heading": "Ⅲ. DingTalk ONE｜从“人找事”到“事找人”",
+      "items": [
+        {
+          "title": "“事找人”的诱惑：主动服务为什么听起来如此美好？",
+          "dek": "ONE 的核心想象，是让重要的事情自己浮上来，让用户少一点遗漏、翻找和信息焦虑。",
+          "summary": "钉钉 ONE 最迷人的口号，是让“人找事”变成“事找人”。这句话击中了现代办公的一个真实痛点：消息太多、事项太散、重点不清、容易漏回、任务难闭环。用户每天在群聊、日程、待办、会议、文档、审批之间来回切换，靠自己的记忆和注意力，把工作勉强串起来。ONE 的设想，是用 AI 帮用户重新排序工作：重要消息浮上来，会议内容被总结，待办自动被提醒，日程和任务被组织成一个更清楚的工作流。从产品理想上看，这是一种很有吸引力的主动服务。它承诺替人减负，让 AI 不只是一个聊天框，而是一个能理解工作现场、进入真实流程的工作秘书。",
+          "englishLine": "Proactive AI is attractive because it promises to turn scattered information into an organized flow of work.",
+          "sourceLinks": [
+            {
+              "label": "置身钉内｜滕雅辛 GitHub Gist",
+              "url": "https://gist.github.com/horaceho/4be04df73b1f1ede458ad5cec2b94132"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "proactive service",
+              "meaning": "主动服务",
+              "example": "Proactive service means the system anticipates what users may need."
+            },
+            {
+              "expression": "information overload",
+              "meaning": "信息过载",
+              "example": "AI tools promise to reduce information overload in the workplace."
+            },
+            {
+              "expression": "workflow",
+              "meaning": "工作流",
+              "example": "The product tries to turn scattered messages into a coherent workflow."
+            }
+          ],
+          "linkedKeywords": [
+            "proactive service",
+            "information overload",
+            "workflow"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "organization-and-power",
+      "heading": "Ⅳ. Organization & Power｜组织与权力",
+      "items": [
+        {
+          "title": "当“主动服务”变成“主动催促”：发信人立场与心理缓冲带",
+          "dek": "AI 工作流真正需要回答的不是能不能主动，而是主动替谁服务、打断谁、让谁承担责任。",
+          "summary": "《置身钉内》最有力量的部分，是它没有停留在“AI 能提高效率”这个层面，而是继续追问：AI 的主动，到底站在谁的一边？钉钉从诞生起就更接近“发信人立场”：已读未读、DING、强触达，都是为了让组织获得确定性。管理者想知道消息有没有被看到，任务有没有被推进，事情有没有闭环。但对收信人，尤其是普通员工来说，这套确定性也可能意味着被持续看见、被持续追踪、被持续催促。当 ONE 把“事”主动推到人面前时，它不只是节省时间，也改变了人和工作的距离。过去你可以晚点打开消息，可以暂时不进入会话，可以保留一点心理缓冲带。可是当 AI 替组织判断“这件事现在应该找你”，责任就被提前递到你手上。于是，主动服务可能滑向主动催促，智能整理也可能变成组织凝视。",
+          "englishLine": "Proactive AI can reduce information overload, but it can also compress the psychological buffer workers use to protect themselves.",
+          "sourceLinks": [
+            {
+              "label": "置身钉内｜滕雅辛 GitHub Gist",
+              "url": "https://gist.github.com/horaceho/4be04df73b1f1ede458ad5cec2b94132"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "sender-oriented logic",
+              "meaning": "发信人立场 / 发信人逻辑",
+              "example": "A sender-oriented logic prioritizes certainty for managers and message senders."
+            },
+            {
+              "expression": "psychological buffer",
+              "meaning": "心理缓冲带",
+              "example": "Constant notifications can reduce workers’ psychological buffer."
+            },
+            {
+              "expression": "organizational gaze",
+              "meaning": "组织凝视",
+              "example": "AI can intensify the organizational gaze by making workers more visible."
+            }
+          ],
+          "linkedKeywords": [
+            "sender-oriented logic",
+            "psychological buffer",
+            "organizational gaze"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "from-one-person-to-organization",
+      "heading": "Ⅴ. From Individual to Organization｜从个体到组织",
+      "items": [
+        {
+          "title": "Sixth Tone 与《置身钉内》之间：AI 是减少工作，还是重新分配工作？",
+          "dek": "一人公司和钉钉 ONE 看似不同，其实都在把更多能力、责任和压力重新压缩到人身上。",
+          "summary": "Sixth Tone 的一人公司报道和《置身钉内》看似是两类故事：前者是个体创业，后者是企业协作；前者讲一个人如何像团队一样工作，后者讲一个组织如何让 AI 主动找人。但它们之间有一个共同问题：AI 并不只是减少工作，它也在重新分配工作。在一人公司里，AI 把团队能力压缩到个体身上；在钉钉 ONE 里，AI 把组织事项主动推到员工面前。前者让一个人更像公司，后者让一个人更难从公司退后。一个是自由创业的重量，一个是组织协作的重量。它们共同说明，AI 的效率叙事不能只问“能做什么”，还要问“让谁承担更多”“替谁节省时间”“让谁更可见”“又让谁更难逃开”。",
+          "englishLine": "AI does not simply reduce work; it redistributes work, visibility, and responsibility across individuals and organizations.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Flying Solo",
+              "url": "https://www.sixthtone.com/news/1018567"
+            },
+            {
+              "label": "置身钉内｜滕雅辛 GitHub Gist",
+              "url": "https://gist.github.com/horaceho/4be04df73b1f1ede458ad5cec2b94132"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "to redistribute work",
+              "meaning": "重新分配工作",
+              "example": "AI does not simply reduce work; it redistributes work."
+            },
+            {
+              "expression": "visibility",
+              "meaning": "可见性",
+              "example": "AI systems can increase workers’ visibility inside an organization."
+            },
+            {
+              "expression": "responsibility shift",
+              "meaning": "责任转移",
+              "example": "A responsibility shift occurs when structural pressure is placed on individuals."
+            }
+          ],
+          "linkedKeywords": [
+            "redistribution",
+            "visibility",
+            "responsibility"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "burnout-market-feminism",
+      "heading": "Ⅵ. Theory Lens｜Burnout Market Feminism",
+      "items": [
+        {
+          "title": "用 Burnout Market Feminism 重新理解这件事：自由、自我负责与燃尽",
+          "dek": "Ling Tang 的理论提醒我们：市场提供的自主性并不天然等于解放，它也可能制造更隐形的自我剥削。",
+          "summary": "最后回到 Ling Tang 的 Burnout Market Feminism。这个理论视角帮助我们理解，为什么 AI 一人公司和钉钉 ONE 都不能只用“效率”来评价。市场女性主义会把自由、能力、成功、创业和个人责任绑定在一起，让个体通过不断自我优化来证明自身价值。在 AI 一人公司的叙事里，这表现为：你拥有工具，所以你应该更能创业；你可以一个人做更多，所以你也应该更能承受失败。在钉钉 ONE 的组织场景里，这表现为：系统能主动找你，所以你应该更快回应；AI 能帮你整理工作，所以你应该更少遗漏、更高效、更透明。两者都把自由和效率讲得很美，但也都可能压缩人的边界、喘息和心理缓冲带。Burnout Market Feminism 让我们看到，真正的问题不是人有没有被赋能，而是这种赋能是否以持续自我管理、情感劳动和燃尽为代价。",
+          "englishLine": "Burnout Market Feminism reminds us that empowerment becomes fragile when freedom depends on endless self-management.",
+          "sourceLinks": [
+            {
+              "label": "Ling Tang｜Burnout Market Feminism",
+              "url": "https://direct.mit.edu/books/oa-monograph/6144/Burnout-Market-FeminismUrban-Chinese-Businesswomen"
+            },
+            {
+              "label": "Sixth Tone｜Flying Solo",
+              "url": "https://www.sixthtone.com/news/1018567"
+            },
+            {
+              "label": "置身钉内｜滕雅辛 GitHub Gist",
+              "url": "https://gist.github.com/horaceho/4be04df73b1f1ede458ad5cec2b94132"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "market feminism",
+              "meaning": "市场女性主义",
+              "example": "Market feminism links empowerment to entrepreneurship, consumption, and individual success."
+            },
+            {
+              "expression": "self-management",
+              "meaning": "自我管理",
+              "example": "Flexible work often demands stronger self-management."
+            },
+            {
+              "expression": "burnout",
+              "meaning": "燃尽 / 倦怠",
+              "example": "Burnout can happen when autonomy becomes endless self-management."
+            },
+            {
+              "expression": "emotional labour",
+              "meaning": "情感劳动",
+              "example": "Community building requires emotional labour, not just technical skills."
+            }
+          ],
+          "linkedKeywords": [
+            "market feminism",
+            "self-management",
+            "burnout",
+            "emotional labour"
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "The July 7 special report begins with the rise of AI-powered one-person companies, but its central question belongs to the DingTalk ONE incident: what happens when AI makes work more proactive, visible, and immediate? In the language of productivity, proactive AI promises to reduce information overload and help people focus on what matters. Yet in the language of power, the same system can make workers more reachable, more visible, and more responsible. Burnout Market Feminism helps us see this tension more clearly. When freedom, efficiency, and self-management become moral expectations, empowerment can turn into exhaustion. AI may help people do more, but the deeper question is why people are being asked to carry so much.",
+    "chinese": "7月7日的特别报道从 AI 一人公司的兴起开始，但它真正的问题属于钉钉 ONE 事件：当 AI 让工作变得更主动、更可见、更即时，会发生什么？在生产力语言里，主动 AI 承诺减少信息过载，帮助人们专注于重要事项。但在权力语言里，同一套系统也可能让劳动者更容易被找到、更持续可见、更快速承担责任。Burnout Market Feminism 帮助我们更清楚地看到这种张力：当自由、效率和自我管理变成道德期待，赋能就可能转化为耗竭。AI 或许能帮助人做更多事，但更深的问题是：为什么人要被要求承受这么多？"
+  },
+  "keywords": [
+    {
+      "word": "proactive",
+      "meaning": "主动的；提前行动的",
+      "example": "Proactive AI tools can be helpful, but they may also become intrusive."
+    },
+    {
+      "word": "organizational gaze",
+      "meaning": "组织凝视；组织通过系统持续看见、追踪和管理个体的方式",
+      "example": "AI can intensify the organizational gaze by making workers more visible."
+    },
+    {
+      "word": "psychological buffer",
+      "meaning": "心理缓冲带；个体在工作压力和组织要求之间保留的喘息空间",
+      "example": "Constant notifications can reduce workers’ psychological buffer."
+    },
+    {
+      "word": "burnout",
+      "meaning": "倦怠；长期压力造成的身心耗竭",
+      "example": "Burnout can happen when flexibility turns into endless self-management."
+    },
+    {
+      "word": "market feminism",
+      "meaning": "市场女性主义；把女性赋权与市场成功、创业、消费和个人责任联系起来的逻辑",
+      "example": "Market feminism can offer opportunity while also intensifying individual responsibility."
+    },
+    {
+      "word": "self-management",
+      "meaning": "自我管理；个体持续规划、优化和约束自己的能力与压力",
+      "example": "Flexible work often demands stronger self-management."
+    },
+    {
+      "word": "responsibility shift",
+      "meaning": "责任转移；结构性压力被转移到个体身上的过程",
+      "example": "A responsibility shift occurs when structural pressure is placed on individuals."
+    },
+    {
+      "word": "context",
+      "meaning": "上下文；让 AI 理解具体情境的信息",
+      "example": "Without context, AI may generate answers that do not fit real needs."
+    }
+  ],
+  "studyNote": {
+    "heading": "Study Note｜学习笔记",
+    "body": "今天可以记住一个核心问题：Does AI reduce work, or does it redistribute work? AI 是减少了工作，还是重新分配了工作？Sixth Tone 的一人公司报道说明，AI 可以把团队能力压缩到个体身上。《置身钉内》说明，AI 也可以把组织事项主动推到个体面前。Burnout Market Feminism 则提醒我们：当自由、自主和成功被包装成个人选择时，个体也可能被卷入长工时、情感劳动、自我管理和燃尽。这三条线索共同说明，AI 并不是单纯让工作消失，而是在重新组织责任、注意力、情感和权力。"
+  },
+  "reflection": {
+    "heading": "Reflection｜今日思考",
+    "body": "AI 时代最迷人的承诺，是让事情更快、更准、更主动。但我们也要继续追问：更快地找到人，是否真的等于更好地照顾人？如果未来的工作只是让每个人都变成一间小公司、一个永远在线的节点、一块随时可以被系统调用的组织界面，那么所谓自由就会变得很脆弱。真正值得期待的 AI，不应该只是让事更快找到人，也不应该只是让个体更高效地管理自己。它也应该帮助人重新找到边界、节奏、喘息和生活。"
+  }
+}

@@ -2066,6 +2066,40 @@ main,
   transform: translateY(-1px);
 }
 
+.item-source-pill-muted {
+  opacity: 0.64;
+  cursor: default;
+  border-style: dashed;
+}
+
+.item-source-pill-muted:hover {
+  color: #e6c68a;
+  transform: none;
+  box-shadow: none;
+}
+
+.detail-subtitle,
+.item-dek {
+  color: rgba(245, 234, 216, 0.72);
+  line-height: 1.7;
+}
+
+.detail-subtitle {
+  max-width: 860px;
+  margin: -0.2rem 0 0.8rem;
+  font-size: clamp(1rem, 2vw, 1.16rem);
+}
+
+.item-dek {
+  margin: 0.35rem 0 0.75rem;
+  font-weight: 700;
+}
+
+.theme-light .detail-subtitle,
+.theme-light .item-dek {
+  color: rgba(42, 33, 24, 0.72);
+}
+
 .keyword-table-card,
 .reflection-card {
   background:

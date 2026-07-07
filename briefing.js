@@ -6,6 +6,13 @@ const LEGACY_THEME_KEYS = ["daily-compass.theme", "daily-compass.home-theme"];
 
 const SITE_TITLE = "The Daily Compass｜每日罗盘";
 const SECTION_LABELS = {
+  "opening-news": "News Hook｜新闻开头",
+  "what-happened": "What Happened｜回顾整件事",
+  "one-and-proactive-service": "DingTalk ONE｜从“人找事”到“事找人”",
+  "organization-and-power": "Organization & Power｜组织与权力",
+  "from-one-person-to-organization": "From Individual to Organization｜从个体到组织",
+  "burnout-market-feminism": "Theory Lens｜Burnout Market Feminism",
+  "special-report": "★ Special Report｜特别报道",
   "global-news": "全球新闻 / Global News",
   "finance-markets": "金融与市场 / Finance & Markets",
   "gender-culture": "性别与文化 / Gender & Culture",
@@ -29,7 +36,7 @@ const SECTION_LABELS = {
   "AI & Tech｜AI 与科技": "AI 与科技 / AI & Tech",
   "AI / Tech｜AI 与科技": "AI 与科技 / AI & Tech",
 };
-const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
+const SECTION_ORDER = ["opening-news", "what-happened", "one-and-proactive-service", "organization-and-power", "from-one-person-to-organization", "burnout-market-feminism", "special-report", "global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
 
 const briefingDetail = document.querySelector("#briefingDetail");
 const wordbook = document.querySelector("#wordbook");
@@ -80,6 +87,14 @@ async function loadBriefing() {
 
 function normalizeSectionId(section = {}) {
   const raw = `${section.id || ""} ${section.heading || ""}`.toLowerCase();
+  if (section.id && SECTION_ORDER.includes(section.id)) return section.id;
+  if (raw.includes("news hook") || raw.includes("新闻开头")) return "opening-news";
+  if (raw.includes("what happened") || raw.includes("回顾整件事")) return "what-happened";
+  if (raw.includes("dingtalk one") || raw.includes("事找人")) return "one-and-proactive-service";
+  if (raw.includes("organization") || raw.includes("组织与权力")) return "organization-and-power";
+  if (raw.includes("from individual") || raw.includes("从个体到组织")) return "from-one-person-to-organization";
+  if (raw.includes("theory lens") || raw.includes("burnout market feminism")) return "burnout-market-feminism";
+  if (raw.includes("special-report") || raw.includes("special report") || raw.includes("特别报道")) return "special-report";
   if (raw.includes("finance") || raw.includes("market") || raw.includes("金融") || raw.includes("市场")) return "finance-markets";
   if (raw.includes("gender") || raw.includes("性别")) return "gender-culture";
   if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art-fashion-media") || raw.includes("books-culture-arts") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("文学") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("出版") || raw.includes("作家") || raw.includes("美术馆") || raw.includes("电影") || raw.includes("播客") || raw.includes("文化")) return "books-literature-art-fashion-media";
@@ -131,6 +146,11 @@ function renderExpressions(expressions = []) {
   `;
 }
 
+function renderTags(tags = []) {
+  if (!tags.length) return "";
+  return `<div class="tag-row">${tags.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>`;
+}
+
 function renderStudyNote(note = "") {
   if (!note) return "";
   const lines = note.split("\n").map((line) => line.trim()).filter(Boolean);
@@ -151,13 +171,17 @@ function renderSourceLinks(sourceLinks = []) {
       <span>来源 / Sources:</span>
       <div class="item-source-list">
         ${sourceLinks
-          .map(
-            (source) => `
-              <a class="item-source-pill" href="${escapeAttribute(source.url || "#")}" target="_blank" rel="noopener noreferrer">
-                ${escapeHtml(source.label || "Source")} ↗
+          .map((source) => {
+            const label = escapeHtml(source.label || source.name || source.title || "Source");
+            if (!source.url) {
+              return `<span class="item-source-pill item-source-pill-muted">${label}</span>`;
+            }
+            return `
+              <a class="item-source-pill" href="${escapeAttribute(source.url)}" target="_blank" rel="noopener noreferrer">
+                ${label} ↗
               </a>
-            `,
-          )
+            `;
+          })
           .join("")}
       </div>
     </div>
@@ -178,26 +202,36 @@ function renderSection(section) {
   const legacyText = section.body || section.text || "";
   const items = Array.isArray(section.items) ? section.items : [];
   const itemMarkup = items
-    .map(
-      (item) => `
+    .map((item) => {
+      const summary = item.summaryChinese || item.summary || "";
+      const englishLine = item.correspondingEnglish || item.englishLine || "";
+      const expressions = item.englishExpressions || item.expressions || [];
+      const linkedKeywords = Array.isArray(item.linkedKeywords) && item.linkedKeywords.length
+        ? `<div class="tag-row item-keyword-row">${item.linkedKeywords.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>`
+        : "";
+      const speakText = [item.title, summary, englishLine].filter(Boolean).join(". ");
+      return `
         <article class="briefing-item">
           <h4>${item.title || "Briefing item"}</h4>
-          ${item.summaryChinese ? `<p class="briefing-cn">${item.summaryChinese}</p>` : ""}
+          ${item.dek ? `<p class="item-dek">${renderClickableWords(item.dek, savedWords)}</p>` : ""}
+          ${summary ? `<p class="briefing-cn">${summary}</p>` : ""}
           ${
-            item.correspondingEnglish
-              ? `<div class="corresponding-english"><strong>Corresponding English / 对应英文</strong><p>${renderClickableWords(item.correspondingEnglish, savedWords)}</p></div>`
+            englishLine
+              ? `<div class="corresponding-english"><strong>Corresponding English / 对应英文</strong><p>${renderClickableWords(englishLine, savedWords)}</p></div>`
               : ""
           }
-          ${renderExpressions(item.englishExpressions || [])}
+          ${renderExpressions(expressions)}
           ${item.exampleNote ? `<p class="expression-example-note">${renderClickableWords(item.exampleNote, savedWords)}</p>` : ""}
           ${renderStudyNote(item.studyNote || "")}
+          ${linkedKeywords}
           ${renderSourceLinks(item.sourceLinks || [])}
+          ${speakText ? `<button class="text-button" type="button" data-sentence-speak="${escapeAttribute(speakText)}">朗读本条</button>` : ""}
         </article>
-      `,
-    )
+      `;
+    })
     .join("");
   const legacyMarkup = !items.length && legacyText ? renderLegacyParagraphs(legacyText) : "";
-  const speakText = items.length ? items.map((item) => [item.title, item.summaryChinese].filter(Boolean).join(". ")).join(" ") : legacyText;
+  const speakText = items.length ? "" : legacyText;
   return `
     <section class="detail-section">
       <h3>${displaySectionHeading(section)}</h3>
@@ -250,17 +284,13 @@ function renderBriefing(briefing) {
   document.title = `${SITE_TITLE} | ${briefing.date}`;
   const sections = orderedSections(briefing.sections || []).map(renderSection).join("");
 
-  const sources = (briefing.sources || [])
-    .map((source) => {
-      const sourceText = source.name || source.label || source.title || source.url;
-      return `<a class="source-link" href="${source.url}" target="_blank" rel="noreferrer">${sourceText}</a>`;
-    })
-    .join("");
+  const topSources = renderSourceLinks(briefing.sourceLinks || briefing.sources || []);
   const vocabulary = briefing.vocabulary || briefing.keywords || [];
+  const englishHeading = briefing.englishParagraph?.heading || "今日英文阅读 / One English Paragraph";
   const englishParagraph = briefing.englishParagraph?.english
     ? `
       <section class="briefing-subblock">
-        <h3>今日英文阅读 / One English Paragraph</h3>
+        <h3>${englishHeading}</h3>
         <p>${renderClickableWords(briefing.englishParagraph.english, savedWords)}</p>
         ${briefing.englishParagraph.chinese ? `<p class="briefing-cn">${briefing.englishParagraph.chinese}</p>` : ""}
         <button class="text-button" type="button" data-sentence-speak="${escapeAttribute(briefing.englishParagraph.english)}">朗读英文段落</button>
@@ -301,26 +331,47 @@ function renderBriefing(briefing) {
     `
     : "";
   const reflectionText = briefing.reflection
-    ? [briefing.reflection.english, briefing.reflection.chinese].filter(Boolean).join("\n")
+    ? [briefing.reflection.body, briefing.reflection.english, briefing.reflection.chinese].filter(Boolean).join("\n")
     : briefing.closing;
+  const reflectionHeading = briefing.reflection?.heading || "今日思考 / Reflection";
   const closing = reflectionText
     ? `
       <section class="briefing-subblock reflection-card">
-        <h3>今日思考 / Reflection</h3>
+        <h3>${reflectionHeading}</h3>
         <p class="briefing-cn">${reflectionText}</p>
       </section>
     `
     : "";
   const keywordTable = renderKeywordTable(vocabulary);
+  const detailTitle = briefing.title || SITE_TITLE;
+  const metaParts = [briefing.date, briefing.type, briefing.theme || briefing.subtitle].filter(Boolean);
+  const introHeading = briefing.intro?.heading || "中文导读 / Chinese Intro";
+  const introText = briefing.introChinese || briefing.intro?.body || "";
+  const topicTags = briefing.topics?.length ? renderTags(briefing.topics) : "";
+  const studyNote = briefing.studyNote?.body
+    ? `
+      <section class="briefing-subblock study-note-card">
+        <h3>${briefing.studyNote.heading || "Study Note｜学习笔记"}</h3>
+        <p class="briefing-cn">${briefing.studyNote.body}</p>
+      </section>
+    `
+    : "";
 
   briefingDetail.innerHTML = `
     <span class="topic-pill">今日小报</span>
-    <h2 class="detail-title">${SITE_TITLE}</h2>
-    <p class="meta">${briefing.date} · ${briefing.theme}</p>
-    <section class="briefing-subblock">
-      <h3>中文导读 / Chinese Intro</h3>
-      <p class="briefing-intro">${briefing.introChinese}</p>
-    </section>
+    <h2 class="detail-title">${detailTitle}</h2>
+    ${briefing.subtitle ? `<p class="detail-subtitle">${briefing.subtitle}</p>` : ""}
+    <p class="meta">${metaParts.join(" · ")}</p>
+    ${topicTags}
+    ${topSources}
+    ${
+      introText
+        ? `<section class="briefing-subblock">
+            <h3>${introHeading}</h3>
+            <p class="briefing-intro">${introText}</p>
+          </section>`
+        : ""
+    }
     <section class="briefing-subblock">
       <h3>今日版面 / Today's Sections</h3>
       <div class="article-body detail-body">${sections}</div>
@@ -329,8 +380,8 @@ function renderBriefing(briefing) {
     ${keywordTable}
     ${sentenceLab}
     ${writingPrompt}
+    ${studyNote}
     ${closing}
-    ${sources ? `<div class="article-footer"><div class="link-group">${sources}</div></div>` : ""}
   `;
 
 }

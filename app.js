@@ -4,6 +4,13 @@ const THEME_KEY = "daily-compass-theme";
 const LEGACY_THEME_KEYS = ["daily-compass.home-theme", "daily-compass.theme"];
 
 const SECTION_LABELS = {
+  "opening-news": "News Hook｜新闻开头",
+  "what-happened": "What Happened｜回顾整件事",
+  "one-and-proactive-service": "DingTalk ONE｜从“人找事”到“事找人”",
+  "organization-and-power": "Organization & Power｜组织与权力",
+  "from-one-person-to-organization": "From Individual to Organization｜从个体到组织",
+  "burnout-market-feminism": "Theory Lens｜Burnout Market Feminism",
+  "special-report": "Special Report｜特别报道",
   "global-news": "Global News｜全球新闻",
   "finance-markets": "Finance & Markets｜金融与市场",
   "gender-culture": "Gender & Culture｜性别与文化",
@@ -28,7 +35,7 @@ const SECTION_LABELS = {
   "AI / Tech｜AI 与科技": "AI & Tech｜AI 与科技",
 };
 
-const SECTION_ORDER = ["global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
+const SECTION_ORDER = ["opening-news", "what-happened", "one-and-proactive-service", "organization-and-power", "from-one-person-to-organization", "burnout-market-feminism", "special-report", "global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
 const topicFallback = [
   "Global News｜全球新闻",
   "Finance & Markets｜金融与市场",
@@ -112,6 +119,14 @@ async function loadBriefing(entry) {
 
 function normalizeSectionId(section = {}) {
   const raw = `${section.id || ""} ${section.heading || ""}`.toLowerCase();
+  if (section.id && SECTION_ORDER.includes(section.id)) return section.id;
+  if (raw.includes("news hook") || raw.includes("新闻开头")) return "opening-news";
+  if (raw.includes("what happened") || raw.includes("回顾整件事")) return "what-happened";
+  if (raw.includes("dingtalk one") || raw.includes("事找人")) return "one-and-proactive-service";
+  if (raw.includes("organization") || raw.includes("组织与权力")) return "organization-and-power";
+  if (raw.includes("from individual") || raw.includes("从个体到组织")) return "from-one-person-to-organization";
+  if (raw.includes("theory lens") || raw.includes("burnout market feminism")) return "burnout-market-feminism";
+  if (raw.includes("special-report") || raw.includes("special report") || raw.includes("特别报道")) return "special-report";
   if (raw.includes("finance") || raw.includes("market") || raw.includes("金融") || raw.includes("市场")) return "finance-markets";
   if (raw.includes("gender") || raw.includes("性别")) return "gender-culture";
   if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art-fashion-media") || raw.includes("books-culture-arts") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("文学") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("出版") || raw.includes("作家") || raw.includes("美术馆") || raw.includes("电影") || raw.includes("播客") || raw.includes("文化")) return "books-literature-art-fashion-media";
@@ -184,6 +199,9 @@ function renderTags(tags = []) {
 
 function renderTodayBriefing(briefing) {
   const sections = orderedSections(briefing.sections || []).slice(0, 5);
+  const themeText = briefing.theme || briefing.subtitle || briefing.title || SITE_TITLE;
+  const introText = briefing.introChinese || briefing.intro?.body || "今天的小报还在整理中，请稍后回来阅读。";
+  const topicTags = briefing.tags || briefing.topics || [];
   const signalRows = (sections.length ? sections : topicFallback.map((heading) => ({ heading }))).slice(0, 5)
     .map((section, index) => {
       const [english, chinese = ""] = displaySectionLabel(section, index).split("｜");
@@ -215,15 +233,15 @@ function renderTodayBriefing(briefing) {
       </div>
       <div class="today-copy">
         <p class="dateline">今日主题 / Today’s Theme</p>
-        <h3>${briefing.theme || SITE_TITLE}</h3>
-        <p class="today-intro">${briefing.introChinese || "今天的小报还在整理中，请稍后回来阅读。"}</p>
+        <h3>${themeText}</h3>
+        <p class="today-intro">${trimText(introText, 360)}</p>
         <a class="primary-button" href="${href}">阅读全文 / Read this briefing</a>
       </div>
     </div>
     <aside class="today-signals" aria-label="Today’s Signals">
       <p class="signal-title">今日信号 / Today’s Signals</p>
       <div class="signal-list">${signalRows}</div>
-      ${briefing.tags?.length ? renderTags(briefing.tags) : ""}
+      ${topicTags.length ? renderTags(topicTags) : ""}
       ${
         englishPreview
           ? `<div class="english-preview"><span>One English Paragraph</span><p>${trimText(englishPreview, 320)}</p></div>`
@@ -237,7 +255,7 @@ function archiveMatches(entry, query) {
   if (!query) return true;
   const dateParts = formatDateParts(entry.date);
   const compactDate = dateParts.monthDay.replace(/\s/g, "");
-  const haystack = [entry.date, compactDate, dateParts.monthDay, entry.title, entry.theme, ...(entry.tags || [])].join(" ").toLowerCase();
+  const haystack = [entry.date, compactDate, dateParts.monthDay, entry.title, entry.subtitle, entry.theme, entry.type, ...(entry.tags || []), ...(entry.topics || [])].join(" ").toLowerCase();
   const normalizedQuery = query.toLowerCase();
   const aliases = {
     finance: ["finance", "markets", "market", "economy", "business", "inflation", "central bank", "oil", "capital", "inequality"],
@@ -292,13 +310,14 @@ function renderArchive(entries, query = "") {
         .map((entry, index) => {
           const dateParts = formatDateParts(entry.date);
           const symbol = archiveSymbols[index % archiveSymbols.length];
-          const label = escapeAttribute(`${entry.date} ${entry.theme || SITE_SUBTITLE}`);
+          const previewText = entry.theme || entry.subtitle || entry.title || SITE_SUBTITLE;
+          const label = escapeAttribute(`${entry.date} ${previewText}`);
           return `
             <a class="archive-date-token" href="briefing.html?date=${entry.date}" title="${label}" aria-label="${label}">
               <span class="archive-date-symbol" aria-hidden="true">${symbol}</span>
               <span class="archive-date-main">${dateParts.monthDay.replace(/\s/g, "")}</span>
               <span class="archive-date-weekday">${dateParts.weekday || "Briefing"}</span>
-              <span class="archive-date-preview">${entry.theme || SITE_SUBTITLE}</span>
+              <span class="archive-date-preview">${previewText}</span>
             </a>
           `;
         })

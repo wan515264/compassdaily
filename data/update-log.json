@@ -1,5 +1,29 @@
 [
   {
+    "date": "2026-07-07",
+    "title": "Refocused July 7 special report",
+    "description": "Rewrote the July 7 issue so Sixth Tone works as the opening news hook, 置身钉内 becomes the main story, and Burnout Market Feminism provides the closing theory lens.",
+    "type": "special-report",
+    "relatedDate": "2026-07-07",
+    "link": "briefing.html?date=2026-07-07"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Rewrote July 7 special report",
+    "description": "Rewrote the July 7 special report with three linked sources: Sixth Tone on AI one-person companies, 置身钉内 on DingTalk ONE, and Ling Tang’s Burnout Market Feminism.",
+    "type": "special-report",
+    "relatedDate": "2026-07-07",
+    "link": "briefing.html?date=2026-07-07"
+  },
+  {
+    "date": "2026-07-07",
+    "title": "Published July 7 briefing",
+    "description": "Added the July 7 Daily Compass from multiple sources, including Sixth Tone, on DingTalk’s resignation letter, work meaning, AI infrastructure, World Cup heat safety, and cultural memory.",
+    "type": "briefing",
+    "relatedDate": "2026-07-07",
+    "link": "briefing.html?date=2026-07-07"
+  },
+  {
     "date": "2026-07-06",
     "title": "Published July 6 briefing",
     "description": "Added the July 6 Daily Compass from multiple sources on AI global rules, national commemoration, World Cup heat safety, data-center resources, and cultural memory.",
