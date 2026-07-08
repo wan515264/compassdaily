@@ -72,7 +72,8 @@
             "one-person company",
             "responsibility",
             "structural pressure"
-          ]
+          ],
+          "englishTranslation": "Sixth Tone reports that AI-powered “one-person companies” are emerging in China. With tools such as Cursor, Codex, ChatGPT, and DeepSeek, creators without technical backgrounds can now take on product design, code generation, debugging, marketing, and user analysis. This report is worth placing at the beginning of today’s briefing not because we want to turn the issue into a startup story, but because it reveals a broader shift of our time: AI is compressing capabilities that once belonged to teams, organizations, and divisions of labor into a single individual. One person can do more, and therefore one person can also be expected to carry more. This question leads naturally to “Inside DingTalk”: if one-person companies show how AI expands individual capacity, DingTalk ONE shows how AI enters organizational systems and rearranges people’s work, responsibility, and visibility."
         }
       ]
     },
@@ -112,7 +113,8 @@
             "DingTalk ONE",
             "organizational pressure",
             "workplace AI"
-          ]
+          ],
+          "englishTranslation": "“Inside DingTalk” is not an ordinary workplace complaint. It records the process through which an AI product moved from project initiation, launch, and co-creation to contraction: how ideals were translated into goals, how goals were broken down into requirements, how requirements were reshaped and implemented inside an organization, and how they finally entered real user scenes. ONE, as described in the essay, is a work information-flow product launched by DingTalk for the AI era. It tries to reorganize scattered work information such as group chats, to-do lists, meetings, calendars, documents, and approvals, so that AI is not only passively answering questions but actively discovering, organizing, and advancing work for users. The essay drew attention because it describes the organizational tensions behind a product with unusual concreteness: an AI product is not determined only by technical capability. It is also shaped by a leader’s product memory, the organization’s commercial goals, the management logic of enterprise software, users’ silent resistance, and the high-pressure rhythm inside the team."
         }
       ]
     },
@@ -152,7 +154,8 @@
             "proactive service",
             "information overload",
             "workflow"
-          ]
+          ],
+          "englishTranslation": "The most compelling slogan of DingTalk ONE is the shift from “people finding tasks” to “tasks finding people.” This phrase captures a real pain point of modern office work: there are too many messages, tasks are too scattered, priorities are unclear, replies are easy to miss, and tasks are hard to close. Every day, users move between group chats, calendars, to-do lists, meetings, documents, and approvals, relying on their own memory and attention to barely hold work together. ONE imagines using AI to reorder work for users: important messages rise to the surface, meeting content is summarized, to-dos are automatically reminded, and schedules and tasks are organized into a clearer workflow. As a product ideal, this is an attractive form of proactive service. It promises to reduce people’s burden and to make AI more than a chat box: a work secretary that understands the workplace scene and enters real processes."
         }
       ]
     },
@@ -192,7 +195,8 @@
             "sender-oriented logic",
             "psychological buffer",
             "organizational gaze"
-          ]
+          ],
+          "englishTranslation": "The most powerful part of “Inside DingTalk” is that it does not stop at the claim that “AI can improve efficiency.” Instead, it keeps asking: whose side is AI’s proactivity on? Since its beginning, DingTalk has been closer to the position of the sender: read receipts, DING, and strong reach were all designed to give the organization certainty. Managers want to know whether a message has been seen, whether a task has been advanced, and whether an issue has been closed. But for recipients, especially ordinary employees, this certainty can also mean being continuously seen, tracked, and urged. When ONE actively pushes “tasks” in front of people, it does not only save time; it also changes the distance between people and work. In the past, you could open a message later, temporarily avoid entering a conversation, or keep a small psychological buffer. But when AI judges on behalf of the organization that “this matter should find you now,” responsibility is delivered to you in advance. In this way, proactive service can slide into proactive pressure, and intelligent organization can become an organizational gaze."
         }
       ]
     },
@@ -236,7 +240,8 @@
             "redistribution",
             "visibility",
             "responsibility"
-          ]
+          ],
+          "englishTranslation": "The Sixth Tone report on one-person companies and “Inside DingTalk” may seem like two different stories: the former is about individual entrepreneurship, while the latter is about enterprise collaboration; the former describes how one person can work like a team, while the latter describes how an organization can make AI actively find people. But they share one question: AI does not simply reduce work; it also redistributes work. In a one-person company, AI compresses team capacity into the individual. In DingTalk ONE, AI actively pushes organizational matters toward employees. The former makes one person more like a company, while the latter makes it harder for one person to step back from the company. One is the weight of free entrepreneurship; the other is the weight of organizational collaboration. Together, they show that the efficiency narrative of AI should not only ask “what can it do?” It must also ask “who is made to carry more,” “whose time is being saved,” “who becomes more visible,” and “who becomes harder to escape.”"
         }
       ]
     },
@@ -290,7 +295,8 @@
             "self-management",
             "burnout",
             "emotional labour"
-          ]
+          ],
+          "englishTranslation": "Finally, we return to Ling Tang’s Burnout Market Feminism. This theoretical lens helps us understand why neither AI one-person companies nor DingTalk ONE should be evaluated only through “efficiency.” Market feminism binds freedom, capability, success, entrepreneurship, and personal responsibility together, asking individuals to prove their value through constant self-optimization. In the narrative of AI one-person companies, this appears as: you have the tools, so you should be better able to start a business; you can do more alone, so you should also be better able to endure failure. In the organizational scene of DingTalk ONE, it appears as: the system can actively find you, so you should respond faster; AI can help organize your work, so you should miss less, become more efficient, and be more transparent. Both narratives make freedom and efficiency sound beautiful, but both may also compress people’s boundaries, breathing room, and psychological buffers. Burnout Market Feminism helps us see that the real question is not whether people have been empowered, but whether this empowerment comes at the cost of continuous self-management, emotional labor, and burnout."
         }
       ]
     }

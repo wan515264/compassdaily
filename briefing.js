@@ -207,6 +207,7 @@ function renderSection(section) {
     .map((item) => {
       const summary = item.summaryChinese || item.summary || "";
       const englishLine = item.correspondingEnglish || item.englishLine || "";
+      const englishTranslation = item.englishTranslation || "";
       const expressions = item.englishExpressions || item.expressions || [];
       const linkedKeywords = Array.isArray(item.linkedKeywords) && item.linkedKeywords.length
         ? `<div class="tag-row item-keyword-row">${item.linkedKeywords.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>`
@@ -219,14 +220,19 @@ function renderSection(section) {
           ${summary ? `<p class="briefing-cn">${summary}</p>` : ""}
           ${
             englishLine
-              ? `<div class="corresponding-english"><strong>Corresponding English / 对应英文</strong><p>${renderClickableWords(englishLine, savedWords)}</p></div>`
+              ? `<div class="corresponding-english"><strong>English Learning Line｜英文表达句</strong><p>${renderClickableWords(englishLine, savedWords)}</p></div>`
               : ""
           }
+          ${
+            englishTranslation
+              ? `<div class="english-translation"><h4>Full English Translation｜完整英文翻译</h4><p>${renderClickableWords(englishTranslation, savedWords)}</p></div>`
+              : ""
+          }
+          ${renderSourceLinks(item.sourceLinks || [])}
           ${renderExpressions(expressions)}
           ${item.exampleNote ? `<p class="expression-example-note">${renderClickableWords(item.exampleNote, savedWords)}</p>` : ""}
           ${renderStudyNote(item.studyNote || "")}
           ${linkedKeywords}
-          ${renderSourceLinks(item.sourceLinks || [])}
           ${speakText ? `<button class="text-button" type="button" data-sentence-speak="${escapeAttribute(speakText)}">朗读本条</button>` : ""}
         </article>
       `;

@@ -42,7 +42,8 @@
             "Hormuz",
             "navigation",
             "escalation"
-          ]
+          ],
+          "englishTranslation": "ABC News’ live updates show that U.S. Central Command said American forces had completed a new round of airstrikes against Iran-related targets. The targets included air defense systems, command-and-control networks, coastal radar sites, anti-ship missile capabilities, and Revolutionary Guard small boats. The report places this action in the context of attacks on commercial vessels in the Strait of Hormuz, ceasefire commitments, and freedom of navigation. The key point of this event is not only “how many targets were hit,” but a more fragile question: when an agreement still exists, yet both sides continue to respond to each other through military means, a ceasefire becomes a temporary condition of extremely high tension."
         },
         {
           "title": "台风重创广西：洪水、茉莉花田与地方生计",
@@ -77,7 +78,8 @@
             "livelihood",
             "infrastructure",
             "jasmine tea"
-          ]
+          ],
+          "englishTranslation": "Sixth Tone reports that after Typhoon Maysak made landfall, it brought flooding, water and power outages, and transport disruptions to many parts of Guangxi. More than 54,000 people had been evacuated in Hengzhou. Local reservoirs overflowed or breached, 62 rivers exceeded warning levels, and the Qingshui River experienced its largest flood since records began. The report also notes that Hengzhou is an important global producer of jasmine tea. Because the typhoon arrived during peak flower-picking season, flooded fields caused serious losses for some farmers. Disaster news is not only weather news. It is also about agriculture, local economies, infrastructure, warning time, and whether people can evacuate in time."
         }
       ]
     },
@@ -117,7 +119,8 @@
             "annoyance economy",
             "hidden fees",
             "consumer protection"
-          ]
+          ],
+          "englishTranslation": "NPR Planet Money’s article introduces “Project 2029” and its proposal targeting the “annoyance economy.” The annoyance economy refers to everyday frictions such as robocalls, long waits, hidden fees, difficult subscription cancellations, and complicated insurance claims. The article notes that the proposal hopes to reduce the exhaustion people experience when dealing with companies through measures such as more standardized claims systems, click-to-cancel rules, restrictions on junk fees, and crackdowns on scam and marketing calls. This finance section includes only this one item because it is especially useful for understanding another side of economics: cost is not always price. Sometimes it is the loss of time, attention, emotion, and trust."
         }
       ]
     },
@@ -157,7 +160,8 @@
             "reparatory justice",
             "gender-based violence",
             "memory"
-          ]
+          ],
+          "englishTranslation": "The Guardian’s Cotton Capital series connects “reparatory justice” with “gender-based violence.” This perspective matters because colonialism, slavery, racial capitalism, and gender-based violence are not separate histories. Reparations are not only a question of money; they also involve recognition, memory, institutional repair, and the naming of bodily harm. For gender studies, this news item reminds us that when we discuss reparatory justice, we cannot look only at how labor, land, and wealth were extracted. We must also ask how the bodies of women and sexual minorities became sites of control, punishment, and silence."
         }
       ]
     },
@@ -198,7 +202,8 @@
             "compression",
             "source context",
             "AI text"
-          ]
+          ],
+          "englishTranslation": "The New Yorker article compares ChatGPT to a “blurry JPEG” of the Web: it does not precisely reproduce the Internet, but compresses large amounts of text into a form that appears clear while losing details and sources. This article belongs in the Books / Literature / Art / Fashion / Media section because it is not only about technology. It is also about writing, knowledge, style, and attribution. When generative AI can quickly produce fluent text, we need to ask more carefully: does fluency equal accuracy? Does a summary preserve the texture of thought? When a sentence looks like knowledge, can it truly bring back the source, context, and responsibility behind that knowledge?"
         }
       ]
     },
@@ -239,7 +244,8 @@
             "frontier AI",
             "governance",
             "public power"
-          ]
+          ],
+          "englishTranslation": "The title of this AI News source points to a question worth watching: if preview access to a frontier model is restricted because of a government request, AI governance is no longer only a matter of company product strategy. It also enters the realm of public power, safety evaluation, and information control. Because the page was blocked by Cloudflare during retrieval, this item does not expand on unverified details. It keeps the source link and focuses on the structural question: who can use models that have not been fully released? How should access levels be divided among governments, security agencies, researchers, companies, and ordinary users? As model capabilities grow stronger, “preview access” itself becomes a resource and a form of power."
         }
       ]
     }

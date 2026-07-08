@@ -1985,6 +1985,30 @@ main,
   line-height: 1.72;
 }
 
+.english-translation {
+  margin: 1rem 0;
+  padding: 1rem;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  background:
+    radial-gradient(circle at 8% 0%, rgba(197, 154, 87, 0.08), transparent 34%),
+    var(--card-bg);
+}
+
+.english-translation h4 {
+  margin: 0 0 0.55rem;
+  color: var(--gold);
+  font-family: Georgia, "Times New Roman", "Songti SC", serif;
+  font-size: 0.95rem;
+  font-weight: 700;
+}
+
+.english-translation p {
+  margin: 0;
+  color: var(--ink-light);
+  line-height: 1.75;
+}
+
 .expression-list {
   display: grid;
   gap: 8px;
@@ -2257,6 +2281,16 @@ main,
 }
 
 .theme-light .corresponding-english p {
+  color: var(--ink);
+}
+
+.theme-light .english-translation {
+  background:
+    radial-gradient(circle at 8% 0%, rgba(155, 106, 53, 0.1), transparent 34%),
+    rgba(255, 248, 235, 0.64);
+}
+
+.theme-light .english-translation p {
   color: var(--ink);
 }
 
