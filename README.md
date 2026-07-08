@@ -15,7 +15,7 @@ A bilingual daily briefing for navigating global news, culture, AI, and social c
 
 - 首页展示最新一期小报和往期归档
 - 首页采用 editorial briefing 版式：神秘罗盘 hero、今日小报头版、更新记录、星历档案和 About 区块
-- 首页包含姐妹项目入口：**A Calendar of Her Own｜她的理论日历**
+- 首页包含姐妹项目入口：**她自己的日历 / A Calendar of Her Own**
 - 每期小报包含日期、主题、中文导读、分区内容、今日英文段落、今日关键词和今日思考
 - 点击英文单词查看中英释义、朗读并加入单词本
 - 保存原句，导出 CSV 单词本
@@ -193,7 +193,7 @@ data/update-log.json
 首页包含一个轻量入口卡片，指向：
 
 ```text
-A Calendar of Her Own｜她的理论日历
+她自己的日历 / A Calendar of Her Own
 https://wan515264.github.io/A-Calendar-of-Her-Own/
 ```
 
