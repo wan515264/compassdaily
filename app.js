@@ -11,6 +11,7 @@ const SECTION_LABELS = {
   "from-one-person-to-organization": "From Individual to Organization｜从个体到组织",
   "burnout-market-feminism": "Theory Lens｜Burnout Market Feminism",
   "special-report": "Special Report｜特别报道",
+  "news-focus": "News Focus｜新闻聚焦",
   "global-news": "Global News｜全球新闻",
   "finance-markets": "Finance & Markets｜金融与市场",
   "gender-culture": "Gender & Culture｜性别与文化",
@@ -35,7 +36,7 @@ const SECTION_LABELS = {
   "AI / Tech｜AI 与科技": "AI & Tech｜AI 与科技",
 };
 
-const SECTION_ORDER = ["opening-news", "what-happened", "one-and-proactive-service", "organization-and-power", "from-one-person-to-organization", "burnout-market-feminism", "special-report", "global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
+const SECTION_ORDER = ["opening-news", "what-happened", "one-and-proactive-service", "organization-and-power", "from-one-person-to-organization", "burnout-market-feminism", "special-report", "news-focus", "global-news", "finance-markets", "gender-culture", "books-literature-art-fashion-media", "ai-tech"];
 const topicFallback = [
   "Global News｜全球新闻",
   "Finance & Markets｜金融与市场",
@@ -127,6 +128,7 @@ function normalizeSectionId(section = {}) {
   if (raw.includes("from individual") || raw.includes("从个体到组织")) return "from-one-person-to-organization";
   if (raw.includes("theory lens") || raw.includes("burnout market feminism")) return "burnout-market-feminism";
   if (raw.includes("special-report") || raw.includes("special report") || raw.includes("特别报道")) return "special-report";
+  if (raw.includes("news-focus") || raw.includes("news focus") || raw.includes("新闻聚焦")) return "news-focus";
   if (raw.includes("finance") || raw.includes("market") || raw.includes("金融") || raw.includes("市场")) return "finance-markets";
   if (raw.includes("gender") || raw.includes("性别")) return "gender-culture";
   if (raw.includes("book") || raw.includes("literature") || raw.includes("art-media") || raw.includes("art-fashion-media") || raw.includes("books-culture-arts") || raw.includes("art") || raw.includes("fashion") || raw.includes("media") || raw.includes("culture") || raw.includes("书籍") || raw.includes("文学") || raw.includes("艺术") || raw.includes("时尚") || raw.includes("媒介") || raw.includes("媒体") || raw.includes("出版") || raw.includes("作家") || raw.includes("美术馆") || raw.includes("电影") || raw.includes("播客") || raw.includes("文化")) return "books-literature-art-fashion-media";
@@ -223,7 +225,9 @@ function renderTodayBriefing(briefing) {
   const href = `briefing.html?date=${briefing.date}`;
   const dateParts = formatDateParts(briefing.date);
 
-  readTodayLink.href = href;
+  if (readTodayLink) {
+    readTodayLink.href = href;
+  }
   todayBriefing.innerHTML = `
     <div class="today-main">
       <div class="date-card" aria-label="${briefing.date}">

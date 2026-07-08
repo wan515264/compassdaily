@@ -1,0 +1,332 @@
+{
+  "date": "2026-07-08",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "冲突重启、灾害基础设施、烦恼经济、赔偿正义、数字文本与AI访问权",
+  "introChinese": "今天的小报关键词是：infrastructure of pressure（压力的基础设施）。从霍尔木兹海峡的军事升级，到广西台风后的洪水与农田损失；从日常生活中的隐藏费用、机器人电话和取消订阅困难，到赔偿正义中的性别暴力；再到 ChatGPT 被形容为网络的“模糊 JPEG”，以及 AI 模型访问权被重新限制，今天的新闻都在提醒我们：真正塑造生活的，常常不是单个事件，而是事件背后那些让人被困住、被迫等待、被迫承担风险的系统。",
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "★ 1. News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "美伊停火阴影下，霍尔木兹海峡再度成为冲突焦点",
+          "dek": "ABC News 的伊朗实时更新显示，美国中央司令部称美军完成新一轮打击，目标超过 80 个。",
+          "summary": "ABC News 的实时更新显示，美国中央司令部称，美军对伊朗相关目标完成新一轮空袭，打击对象包括防空系统、指挥与控制网络、沿海雷达、反舰导弹能力以及革命卫队小艇等。报道将此次行动放在霍尔木兹海峡商船遇袭、停火承诺与航行自由的背景下理解。这个事件的重点不只是“打击了多少目标”，而是一个更脆弱的问题：当一份协议仍然存在，但双方都在以军事方式回应对方，所谓停火就会变成一种高度紧张的临时状态。",
+          "englishLine": "A ceasefire can reduce open warfare, but it cannot create trust by itself.",
+          "sourceLinks": [
+            {
+              "label": "ABC News｜Iran live updates",
+              "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "ceasefire violation",
+              "meaning": "违反停火协议",
+              "example": "Officials described the attacks on vessels as a ceasefire violation."
+            },
+            {
+              "expression": "freedom of navigation",
+              "meaning": "航行自由",
+              "example": "The Strait of Hormuz remains central to freedom of navigation."
+            },
+            {
+              "expression": "military escalation",
+              "meaning": "军事升级",
+              "example": "Military escalation can quickly undermine diplomatic progress."
+            }
+          ],
+          "linkedKeywords": [
+            "ceasefire",
+            "Hormuz",
+            "navigation",
+            "escalation"
+          ]
+        },
+        {
+          "title": "台风重创广西：洪水、茉莉花田与地方生计",
+          "dek": "Sixth Tone 报道，台风 Maysak 造成广西四人死亡、八人失踪，并冲击当地茉莉花茶产业。",
+          "summary": "Sixth Tone 报道称，台风 Maysak 登陆后给广西多地带来洪水、停水停电和交通中断，衡州已有超过 5.4 万人转移。当地水库漫溢或决口，62 条河流超过警戒水位，清水河出现有记录以来最大洪水。报道还写到，衡州是全球重要的茉莉花茶产地，台风到来正值采花旺季，农田被淹使一些农户遭受严重损失。灾害新闻不只是天气新闻，它也关乎农业、地方经济、基础设施、预警时间和人们能否及时撤离。",
+          "englishLine": "A climate disaster becomes a livelihood crisis when farms, roads, reservoirs, and local markets fail at the same time.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Typhoon Maysak in Guangxi",
+              "url": "https://www.sixthtone.com/news/1018748"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "flood-control measures",
+              "meaning": "防洪措施",
+              "example": "Local authorities raised flood-control measures to the highest level."
+            },
+            {
+              "expression": "livelihood crisis",
+              "meaning": "生计危机",
+              "example": "Crop losses can turn a storm into a livelihood crisis."
+            },
+            {
+              "expression": "disaster-relief response",
+              "meaning": "灾害救援响应",
+              "example": "A national disaster-relief response was activated after the flooding."
+            }
+          ],
+          "linkedKeywords": [
+            "flooding",
+            "livelihood",
+            "infrastructure",
+            "jasmine tea"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "★ 2. Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "Project 2029 与“烦恼经济”：日常摩擦也是经济成本",
+          "dek": "NPR Planet Money 介绍了 Project 2029 中一项针对 annoyance economy 的政策设想。",
+          "summary": "NPR Planet Money 的文章介绍了“Project 2029”及其针对“annoyance economy（烦恼经济）”的提案。所谓烦恼经济，指的是机器人电话、漫长等待、隐藏费用、取消订阅困难、保险理赔复杂等日常摩擦。文章提到，相关提案希望通过更标准化的理赔系统、click-to-cancel 规则、限制垃圾费用、打击诈骗和营销电话等方式，让人与公司打交道时少一点被消耗。这个金融栏目只写这一条，因为它很适合用来理解经济学的另一面：成本不总是价格，有时也是时间、注意力、情绪和信任的流失。",
+          "englishLine": "Everyday friction can be an economic cost when it drains people’s time, attention, trust, and civic energy.",
+          "sourceLinks": [
+            {
+              "label": "NPR Planet Money｜Project 2029",
+              "url": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "annoyance economy",
+              "meaning": "烦恼经济；靠复杂流程、隐藏成本和用户疲惫获利的经济现象",
+              "example": "Hidden fees and endless hold times are part of the annoyance economy."
+            },
+            {
+              "expression": "hidden fees",
+              "meaning": "隐藏费用",
+              "example": "Hidden fees make it harder for consumers to compare real prices."
+            },
+            {
+              "expression": "click-to-cancel rule",
+              "meaning": "一键取消规则",
+              "example": "A click-to-cancel rule would make subscriptions easier to end."
+            }
+          ],
+          "linkedKeywords": [
+            "annoyance economy",
+            "hidden fees",
+            "consumer protection"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "★ 3. Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "赔偿正义为什么必须看见性别暴力？",
+          "dek": "The Guardian 的 Cotton Capital 文章把 reparatory justice 与 gender-based violence 放在一起讨论。",
+          "summary": "The Guardian 的 Cotton Capital 系列文章将“赔偿正义”与“基于性别的暴力”联系起来。这个视角很重要，因为殖民、奴隶制、种族资本主义和性别暴力并不是彼此分离的历史。赔偿不只是金钱问题，也包括承认、记忆、制度修复和对身体伤害的命名。对于性别研究来说，这条新闻提醒我们：当我们谈 reparatory justice 时，不能只看劳动、土地和财富如何被掠夺，也要看女性和性少数身体如何成为控制、惩罚和沉默的场域。",
+          "englishLine": "Reparatory justice must address not only stolen wealth and labour, but also the gendered violence that made extraction possible.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Cotton Capital and gender-based violence",
+              "url": "https://www.theguardian.com/news/2026/jul/07/cotton-capital-reparatory-justice-gender-based-violence"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "reparatory justice",
+              "meaning": "赔偿正义；对历史伤害进行承认、修复和补偿的正义框架",
+              "example": "Reparatory justice asks what repair requires after historical violence."
+            },
+            {
+              "expression": "gender-based violence",
+              "meaning": "基于性别的暴力",
+              "example": "Gender-based violence is often tied to systems of power and control."
+            },
+            {
+              "expression": "historical harm",
+              "meaning": "历史伤害",
+              "example": "Historical harm can continue through institutions and social memory."
+            }
+          ],
+          "linkedKeywords": [
+            "reparatory justice",
+            "gender-based violence",
+            "memory"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "ChatGPT 是网络的“模糊 JPEG”：当文本变成压缩图像",
+          "dek": "The New Yorker 的经典评论用“blurry JPEG of the Web”比喻 ChatGPT 与网络文本之间的关系。",
+          "summary": "The New Yorker 这篇文章把 ChatGPT 比作网络的“模糊 JPEG”：它不是精确复制互联网，而是把大量文本压缩成一种看似清晰、实则会丢失细节和来源的表达方式。把这篇文章放在书籍媒体文化栏目里，是因为它讨论的不只是技术，而是写作、知识、风格和出处。当生成式 AI 能快速生产流畅文本时，我们更需要问：流畅是否等于准确？摘要是否保留了思想的纹理？一个句子看起来像知识，是否真的能把知识的来源、语境和责任带回来？",
+          "englishLine": "Fluent text is not the same as reliable knowledge, especially when the texture of sources has been compressed away.",
+          "sourceLinks": [
+            {
+              "label": "The New Yorker｜ChatGPT Is a Blurry JPEG of the Web",
+              "url": "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "compressed representation",
+              "meaning": "压缩后的表征",
+              "example": "A compressed representation may preserve patterns while losing details."
+            },
+            {
+              "expression": "source context",
+              "meaning": "来源语境",
+              "example": "Good writing keeps source context visible."
+            },
+            {
+              "expression": "fluent but unreliable",
+              "meaning": "流畅但不可靠",
+              "example": "AI-generated text can be fluent but unreliable."
+            }
+          ],
+          "linkedKeywords": [
+            "writing",
+            "compression",
+            "source context",
+            "AI text"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "★ 5. AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "模型访问权与公共权力：谁能决定 AI 预览版如何开放？",
+          "dek": "AI News 页面标题显示，OpenAI 在美国政府请求后限制 GPT-5.6 preview access。",
+          "summary": "AI News 这条来源标题指向一个值得关注的问题：如果一个前沿模型的预览访问权因为政府请求而被限制，AI 治理就不只是公司产品策略，也进入了公共权力、安全评估和信息控制的领域。由于该页面抓取时受到 Cloudflare 阻挡，这里不扩写未经核实的细节，只保留来源链接并聚焦结构性问题：谁可以使用未完全公开的模型？政府、安全机构、研究者、企业和普通用户之间的访问等级如何划分？当模型能力越来越强，“preview access” 本身也会成为一种资源与权力。",
+          "englishLine": "Access to frontier AI models is becoming a governance question, not merely a product feature.",
+          "sourceLinks": [
+            {
+              "label": "AI News｜OpenAI limits GPT-5.6 preview access",
+              "url": "https://www.ainews.com/p/openai-limits-gpt-5-6-preview-access-after-u-s-government-request"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "preview access",
+              "meaning": "预览访问权；在正式公开前使用产品或模型的权限",
+              "example": "Preview access can become a scarce and politically sensitive resource."
+            },
+            {
+              "expression": "frontier model",
+              "meaning": "前沿模型",
+              "example": "Frontier models require careful governance and evaluation."
+            },
+            {
+              "expression": "access control",
+              "meaning": "访问控制",
+              "example": "Access control determines who can use a powerful system."
+            }
+          ],
+          "linkedKeywords": [
+            "preview access",
+            "frontier AI",
+            "governance",
+            "public power"
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s stories are connected by systems that create pressure. A ceasefire can exist on paper while military strikes continue around a strategic waterway. A typhoon can become a livelihood crisis when reservoirs, roads, farms, and warning systems fail together. Hidden fees and endless customer-service loops can turn ordinary consumption into wasted time. Reparatory justice asks us to see how historical violence still shapes bodies and institutions. Even AI access is no longer just a technical issue; it is also about power, trust, and who gets to use the future first.",
+    "chinese": "今天的新闻由一些制造压力的系统连接在一起。停火可以存在于纸面上，而军事打击仍在关键水道附近继续。台风会在水库、道路、农田和预警系统同时失灵时，变成生计危机。隐藏费用和无尽客服循环会把普通消费变成时间浪费。赔偿正义要求我们看见历史暴力如何继续塑造身体与制度。甚至 AI 访问权也不再只是技术问题，它同样关乎权力、信任，以及谁能先使用未来。"
+  },
+  "keywords": [
+    {
+      "word": "ceasefire",
+      "meaning": "停火协议；冲突双方暂时停止战斗的安排",
+      "example": "A ceasefire can be fragile when trust is low."
+    },
+    {
+      "word": "livelihood",
+      "meaning": "生计；维持生活的收入和劳动来源",
+      "example": "Flooding can threaten farmers’ livelihoods."
+    },
+    {
+      "word": "annoyance economy",
+      "meaning": "烦恼经济；通过流程摩擦和隐藏成本消耗用户的经济现象",
+      "example": "The annoyance economy turns wasted time into a hidden cost."
+    },
+    {
+      "word": "reparatory justice",
+      "meaning": "赔偿正义；对历史伤害进行承认、修复与补偿",
+      "example": "Reparatory justice includes memory, recognition, and repair."
+    },
+    {
+      "word": "compression",
+      "meaning": "压缩；保留模式但可能丢失细节的处理方式",
+      "example": "Compression can make information easier to store but less precise."
+    },
+    {
+      "word": "access control",
+      "meaning": "访问控制；决定谁可以使用系统或资源的规则",
+      "example": "Access control becomes important when AI systems are powerful."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Everyday friction can be an economic cost when it drains people’s time, attention, trust, and civic energy.",
+    "analysisChinese": "这句话的主干是 Everyday friction can be an economic cost。when 引导条件/时间状语从句，解释为什么日常摩擦会成为经济成本：它消耗的不只是钱，还有 time、attention、trust 和 civic energy。写作时可以复用结构：X can be a cost when it drains Y."
+  },
+  "reflection": {
+    "heading": "Closing Thought｜今日收束",
+    "body": "今天的小报想留下一个问题：当世界让人疲惫时，疲惫并不总是个人脆弱。它可能来自航道、洪水、客服系统、历史暴力、文本压缩和技术访问权这些看不见的结构。读懂新闻，有时就是慢慢看见这些结构如何进入人的时间、身体和生活。"
+  },
+  "tags": [
+    "news focus",
+    "Iran",
+    "Strait of Hormuz",
+    "Guangxi",
+    "typhoon",
+    "annoyance economy",
+    "reparatory justice",
+    "gender-based violence",
+    "ChatGPT",
+    "AI access",
+    "infrastructure"
+  ],
+  "sources": [
+    {
+      "label": "ABC News｜Iran live updates",
+      "url": "https://abcnews.com/International/live-updates/iran-live-updates-thousands-throng-tehran-streets-khamenei/?id=134509610"
+    },
+    {
+      "label": "Sixth Tone｜Typhoon Maysak in Guangxi",
+      "url": "https://www.sixthtone.com/news/1018748"
+    },
+    {
+      "label": "NPR Planet Money｜Project 2029",
+      "url": "https://www.npr.org/sections/planet-money/2026/07/07/g-s1-131879/meet-project-2029-and-its-war-on-the-annoyance-economy"
+    },
+    {
+      "label": "The Guardian｜Cotton Capital",
+      "url": "https://www.theguardian.com/news/2026/jul/07/cotton-capital-reparatory-justice-gender-based-violence"
+    },
+    {
+      "label": "The New Yorker｜ChatGPT Is a Blurry JPEG of the Web",
+      "url": "https://www.newyorker.com/tech/annals-of-technology/chatgpt-is-a-blurry-jpeg-of-the-web"
+    },
+    {
+      "label": "AI News｜OpenAI limits GPT-5.6 preview access",
+      "url": "https://www.ainews.com/p/openai-limits-gpt-5-6-preview-access-after-u-s-government-request"
+    }
+  ],
+  "rawText": ""
+}
