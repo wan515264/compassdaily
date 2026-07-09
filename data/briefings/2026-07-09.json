@@ -233,10 +233,10 @@
       "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
       "items": [
         {
-          "title": "《Real Men on Top》：男性气质、权力与“在上方”的文化想象",
-          "dek": "New Books Network 页面指向 Real Men on Top 相关访谈，可作为阅读男性气质与权力关系的文化入口。",
-          "summary": "New Books Network 的链接标题指向 Real Men on Top 这一书籍访谈页面。页面抓取时返回 Too Many Requests，因此这里不扩写未经核实的章节内容，而把它作为一个文化阅读入口来理解：标题中的“real men”和“on top”已经提示了男性气质、社会等级、身体位置与权力想象之间的关系。文化研究读书节目常常有一个价值：它把学术问题从书架带进公共讨论。所谓“真正的男人”从来不是自然事实，而是一套被媒体、家庭、亲密关系、劳动市场和政治语言反复塑造的规范。读这类书，可以帮助我们把日常玩笑、流行文化和亲密关系中的性别脚本重新看清楚。",
-          "englishLine": "A book title can open a wider conversation about masculinity, hierarchy, and the cultural grammar of power.",
+          "title": "《Real Men on Top》：父权如何教我们看见世界",
+          "dek": "Robin Dembroff 在 Real Men on Top 中提出，父权并不只是男人支配女人的制度，它也是一种塑造现实、分类生命与制造等级的神话系统。",
+          "summary": "根据你提供的文本，Robin Dembroff 的 Real Men on Top 并不只是讨论“男性气质”，而是在追问父权如何塑造我们对现实的感知。Dembroff 认为，父权不是一个简单的“男人支配女人”的制度，而是一种更深的 reality-shaping force：它通过把人和生命划分为 Man、Woman、Animal、Child 等僵硬类别，来合理化经济剥削、政治不义和社会冷酷。这些类别被包装成自然真理，但其实是人为制造的神话。被标记为 Woman、Animal 或 Child，往往意味着被道德降级；而让一个男人“更不像男人”的手段，也常常正是女性化、去人化和幼稚化。更重要的是，这本书不仅是批判，也是转化指南。父权神话看似赞美 Man，承诺力量、优越和自由，但它并不是大多数男性的朋友。它制造孤立、情感压抑和持续证明自己的压力，同时支撑少数强者获利的系统。Real Men on Top 邀请读者看穿这些神话，并重新想象如何生活、联结与成为人。",
+          "englishLine": "Patriarchy is not only a hierarchy of gender; it is a reality-shaping mythology that teaches people how to rank bodies, lives, and forms of humanity.",
           "sourceLinks": [
             {
               "label": "New Books Network｜Real Men on Top",
@@ -245,33 +245,39 @@
           ],
           "expressions": [
             {
-              "expression": "masculinity",
-              "meaning": "男性气质",
-              "example": "Masculinity is shaped by culture, media, and social expectations."
+              "expression": "reality-shaping force",
+              "meaning": "塑造现实的力量",
+              "example": "Dembroff describes patriarchy as a reality-shaping force, not merely a social hierarchy."
             },
             {
-              "expression": "gender hierarchy",
-              "meaning": "性别等级结构",
-              "example": "Gender hierarchy can appear in language, work, and intimate life."
+              "expression": "man-made myths",
+              "meaning": "人为制造的神话",
+              "example": "Gender categories can appear natural while functioning as man-made myths."
             },
             {
-              "expression": "cultural criticism",
-              "meaning": "文化批评",
-              "example": "Cultural criticism helps us question what feels normal."
+              "expression": "moral degradation",
+              "meaning": "道德降级；被视为更低等或更不值得尊重",
+              "example": "Feminization and infantilization can be used as forms of moral degradation."
             },
             {
-              "expression": "power relations",
-              "meaning": "权力关系",
-              "example": "Power relations are often hidden inside everyday habits."
+              "expression": "emotional repression",
+              "meaning": "情感压抑",
+              "example": "Patriarchal ideals often fuel emotional repression among men."
+            },
+            {
+              "expression": "remaking reality",
+              "meaning": "重塑现实",
+              "example": "The book asks where we might begin the work of remaking reality."
             }
           ],
           "linkedKeywords": [
+            "patriarchy",
             "masculinity",
-            "gender hierarchy",
-            "book interview",
-            "culture"
+            "dehumanization",
+            "emotional repression",
+            "remaking reality"
           ],
-          "englishTranslation": "The New Books Network link points to a book interview page for Real Men on Top. Because the page returned a Too Many Requests response during retrieval, this item does not expand on unverified chapter details. Instead, it treats the page as an entry point for cultural reading: the phrase “real men” and the expression “on top” already suggest links among masculinity, social hierarchy, bodily position, and the imagination of power. Book interview programs in cultural studies are valuable because they bring academic questions from the bookshelf into public discussion. The idea of a “real man” is never a natural fact. It is a norm repeatedly shaped by media, family, intimate relationships, labor markets, and political language. Reading books like this can help us see gender scripts in jokes, popular culture, and intimate life more clearly."
+          "englishTranslation": "Based on the text you provided, Robin Dembroff’s Real Men on Top is not simply a book about masculinity. It asks how patriarchy shapes the way we perceive reality itself. Dembroff argues that patriarchy is not only a system in which men dominate women. It is a deeper reality-shaping force that legitimizes economic exploitation, political injustice, and social cruelty by dividing people and lives into rigid categories such as Man, Woman, Animal, and Child. These categories are presented as natural truths, but Dembroff reveals them as man-made myths. To be characterized as Woman, Animal, or Child is often to be marked as morally degraded; and the very ways used to make a man seem ‘less of a man’ are feminization, dehumanization, and infantilization. Yet the book is not only a critique. It is also a guide to transformation, especially for those trying to understand what it means to be a man under patriarchy. Patriarchal myths appear to celebrate the identity Man and promise strength, superiority, and freedom, but they are no friend to most men. Instead, they create isolation, emotional repression, and relentless pressure to prove oneself, while supporting systems that enrich the powerful few. Real Men on Top invites readers to see through these myths and to imagine new possibilities for living, relating, and becoming human."
         }
       ]
     },
