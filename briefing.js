@@ -110,7 +110,11 @@ function orderedSections(sections = []) {
 
 function displaySectionHeading(section = {}) {
   const normalizedId = normalizeSectionId(section);
-  return SECTION_LABELS[section.id] || SECTION_LABELS[section.heading] || SECTION_LABELS[normalizedId] || section.heading || "Briefing";
+  return cleanSectionHeading(SECTION_LABELS[section.id] || SECTION_LABELS[section.heading] || SECTION_LABELS[normalizedId] || section.heading || "Briefing");
+}
+
+function cleanSectionHeading(heading = "") {
+  return String(heading).replace(/^\s*[★☆✦✧]\s*\d+[\.)]?\s*/, "").replace(/^\s*\d+[\.)]\s*/, "");
 }
 
 function renderExpressions(expressions = []) {
@@ -206,23 +210,17 @@ function renderSection(section) {
   const itemMarkup = items
     .map((item) => {
       const summary = item.summaryChinese || item.summary || "";
-      const englishLine = item.correspondingEnglish || item.englishLine || "";
       const englishTranslation = item.englishTranslation || "";
       const expressions = item.englishExpressions || item.expressions || [];
       const linkedKeywords = Array.isArray(item.linkedKeywords) && item.linkedKeywords.length
         ? `<div class="tag-row item-keyword-row">${item.linkedKeywords.map((tag) => `<span>${escapeHtml(tag)}</span>`).join("")}</div>`
         : "";
-      const speakText = [item.title, summary, englishLine].filter(Boolean).join(". ");
+      const speakText = [item.title, summary, englishTranslation].filter(Boolean).join(". ");
       return `
         <article class="briefing-item">
           <h4>${item.title || "Briefing item"}</h4>
           ${item.dek ? `<p class="item-dek">${renderClickableWords(item.dek, savedWords)}</p>` : ""}
           ${summary ? `<p class="briefing-cn">${summary}</p>` : ""}
-          ${
-            englishLine
-              ? `<div class="corresponding-english"><strong>English Learning Line｜英文表达句</strong><p>${renderClickableWords(englishLine, savedWords)}</p></div>`
-              : ""
-          }
           ${
             englishTranslation
               ? `<div class="english-translation"><h4>Full English Translation｜完整英文翻译</h4><p>${renderClickableWords(englishTranslation, savedWords)}</p></div>`
@@ -251,49 +249,11 @@ function renderSection(section) {
   `;
 }
 
-function renderKeywordTable(keywords = []) {
-  if (!keywords.length) return "";
-  return `
-    <section class="briefing-subblock keyword-table-card">
-      <h3>今日关键词 / Today’s Keywords</h3>
-      <div class="expression-table-wrap">
-        <table class="expression-table keyword-table has-example">
-          <thead>
-            <tr>
-              <th>Keyword</th>
-              <th>中文解释</th>
-              <th>Example sentence</th>
-            </tr>
-          </thead>
-          <tbody>
-            ${keywords
-              .map(
-                (item) => `
-                  <tr>
-                    <td data-label="Keyword">
-                      <button class="expression-term" type="button" data-word="${escapeAttribute(item.word || "")}" data-sentence="${escapeAttribute(item.example || "")}">
-                        ${item.word || ""}
-                      </button>
-                    </td>
-                    <td data-label="中文解释">${item.meaningChinese || item.meaning || ""}</td>
-                    <td data-label="Example sentence">${item.example || "—"}</td>
-                  </tr>
-                `,
-              )
-              .join("")}
-          </tbody>
-        </table>
-      </div>
-    </section>
-  `;
-}
-
 function renderBriefing(briefing) {
   document.title = `${SITE_TITLE} | ${briefing.date}`;
   const sections = orderedSections(briefing.sections || []).map(renderSection).join("");
 
   const topSources = renderSourceLinks(briefing.sourceLinks || briefing.sources || []);
-  const vocabulary = briefing.vocabulary || briefing.keywords || [];
   const englishHeading = briefing.englishParagraph?.heading || "今日英文阅读 / One English Paragraph";
   const englishParagraph = briefing.englishParagraph?.english
     ? `
@@ -302,30 +262,6 @@ function renderBriefing(briefing) {
         <p>${renderClickableWords(briefing.englishParagraph.english, savedWords)}</p>
         ${briefing.englishParagraph.chinese ? `<p class="briefing-cn">${briefing.englishParagraph.chinese}</p>` : ""}
         <button class="text-button" type="button" data-sentence-speak="${escapeAttribute(briefing.englishParagraph.english)}">朗读英文段落</button>
-      </section>
-    `
-    : "";
-  const sentenceData = briefing.sentenceAnalysis?.sentence
-    ? {
-        sentence: briefing.sentenceAnalysis.sentence,
-        translationChinese: briefing.sentenceAnalysis.translationChinese || "",
-        notesChinese: briefing.sentenceAnalysis.notesChinese || "",
-      }
-    : briefing.sentenceLab?.sentence
-      ? {
-          sentence: briefing.sentenceLab.sentence,
-          translationChinese: "",
-          notesChinese: briefing.sentenceLab.analysisChinese || "",
-        }
-      : null;
-  const sentenceLab = sentenceData
-    ? `
-      <section class="briefing-subblock">
-        <h3>长句拆解 / Sentence Lab</h3>
-        <p class="sentence-focus">${renderClickableWords(sentenceData.sentence, savedWords)}</p>
-        ${sentenceData.translationChinese ? `<p class="briefing-cn">${sentenceData.translationChinese}</p>` : ""}
-        <p>${sentenceData.notesChinese || ""}</p>
-        <button class="text-button" type="button" data-sentence-speak="${escapeAttribute(sentenceData.sentence)}">朗读长句</button>
       </section>
     `
     : "";
@@ -338,19 +274,6 @@ function renderBriefing(briefing) {
       </section>
     `
     : "";
-  const reflectionText = briefing.reflection
-    ? [briefing.reflection.body, briefing.reflection.english, briefing.reflection.chinese].filter(Boolean).join("\n")
-    : briefing.closing;
-  const reflectionHeading = briefing.reflection?.heading || "今日思考 / Reflection";
-  const closing = reflectionText
-    ? `
-      <section class="briefing-subblock reflection-card">
-        <h3>${reflectionHeading}</h3>
-        <p class="briefing-cn">${reflectionText}</p>
-      </section>
-    `
-    : "";
-  const keywordTable = renderKeywordTable(vocabulary);
   const detailTitle = briefing.title || SITE_TITLE;
   const metaParts = [briefing.date, briefing.type, briefing.theme || briefing.subtitle].filter(Boolean);
   const introHeading = briefing.intro?.heading || "中文导读 / Chinese Intro";
@@ -381,15 +304,11 @@ function renderBriefing(briefing) {
         : ""
     }
     <section class="briefing-subblock">
-      <h3>今日版面 / Today's Sections</h3>
       <div class="article-body detail-body">${sections}</div>
     </section>
     ${englishParagraph}
-    ${keywordTable}
-    ${sentenceLab}
     ${writingPrompt}
     ${studyNote}
-    ${closing}
   `;
 
 }
