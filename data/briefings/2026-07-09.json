@@ -1,0 +1,420 @@
+{
+  "date": "2026-07-09",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "政治讽刺、科技估值、女性叙事、足球机会、男性气质与AI发布节奏",
+  "introChinese": "今天的小报关键词是：status and systems（位置与系统）。印度年轻人把“蟑螂”变成政治讽刺语言，科技公司在资本市场里被重新定价，女性向无 CP 文学与足球教练访谈都在讨论谁能进入公共空间，而 AI 模型发布则提醒我们：技术更新越来越像一场面向公众、市场和制度的仪式。今天我们读的不是单个事件，而是人们如何在系统里寻找位置、话语和未来感。",
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "★ 1. News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "印度年轻人为什么自称“蟑螂”？",
+          "dek": "D+C 报道，Cockroach Janta Party 起初是社交媒体上的玩笑，后来成为印度青年表达政治不满的讽刺符号。",
+          "summary": "D+C 的文章写到，Cockroach Janta Party 起初只是社交媒体上的一个玩笑。许多印度年轻人自称“蟑螂”，用这种看似自嘲的方式嘲讽政治建制，并表达对就业、教育和生活成本上升的不满。这个现象很适合作为今天的新闻聚焦，因为它显示政治表达不一定总是正式声明、政党纲领或街头抗议。它也可能是一种网络梗、一种低姿态的自我命名、一种把羞辱转化为共同语言的讽刺实践。所谓“蟑螂”，在这里不是单纯的贬义，而是一种顽强生存、拒绝消失、也拒绝被体面政治话语收编的姿态。",
+          "englishLine": "Political satire can turn humiliation into a shared language of protest.",
+          "sourceLinks": [
+            {
+              "label": "D+C｜Why young Indians are proud to call themselves cockroaches",
+              "url": "https://www.dandc.eu/en/article/india/cockroach-party-political-satire"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "political satire",
+              "meaning": "政治讽刺",
+              "example": "Political satire can express anger without using formal political language."
+            },
+            {
+              "expression": "political establishment",
+              "meaning": "政治建制；既有政治权力结构",
+              "example": "Young people used humor to mock the political establishment."
+            },
+            {
+              "expression": "rising living costs",
+              "meaning": "不断上升的生活成本",
+              "example": "Rising living costs have become a source of youth frustration."
+            },
+            {
+              "expression": "youth anger",
+              "meaning": "青年愤怒",
+              "example": "The movement became a symbol of youth anger."
+            }
+          ],
+          "linkedKeywords": [
+            "satire",
+            "youth anger",
+            "political establishment",
+            "living costs"
+          ],
+          "englishTranslation": "The D+C article explains that the Cockroach Janta Party began as a joke on social media. Many young Indians started calling themselves “cockroaches” as a self-mocking way to criticize the political establishment and express frustration about jobs, education, and rising living costs. This story works well as today’s news focus because it shows that political expression does not always appear as a formal statement, a party manifesto, or a street protest. It can also take the form of an internet joke, a low-status self-naming practice, and a way of turning humiliation into a shared language. In this context, “cockroach” is not simply an insult. It becomes a posture of stubborn survival: refusing to disappear, while also refusing to be absorbed into respectable political language."
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "★ 2. Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "SpaceX 跌破 IPO 开盘价：未来叙事也会遇到市场压力",
+          "dek": "Yahoo Finance 页面标题显示，SpaceX 股价触及历史低点并跌破 IPO 开盘价，同时竞争对手 Blue Origin 寻求新融资。",
+          "summary": "Yahoo Finance 的链接标题显示，SpaceX 股价触及历史低点，并跌破 IPO 开盘价；同一标题还提到竞争对手 Blue Origin 正在寻求新融资。由于页面抓取时返回 Too Many Requests，这里不扩写未经核实的细节，只把它作为金融信号来读：即使一家企业拥有强烈的未来科技叙事，市场仍会用流动性、估值、竞争和融资环境重新衡量它。太空、卫星互联网与 AI 基础设施都很容易被讲成“未来故事”，但未来故事进入市场之后，就会变成价格、预期、风险和比较。",
+          "englishLine": "A futuristic company can still face ordinary market pressure.",
+          "sourceLinks": [
+            {
+              "label": "Yahoo Finance｜SpaceX all-time low",
+              "url": "https://finance.yahoo.com/markets/stocks/article/spacex-hits-all-time-low-dips-below-ipo-opening-price-as-rival-blue-origin-seeks-new-funding-155049263.html"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "all-time low",
+              "meaning": "历史低点",
+              "example": "The stock hit an all-time low after investor sentiment weakened."
+            },
+            {
+              "expression": "IPO opening price",
+              "meaning": "IPO 开盘价",
+              "example": "The share price fell below its IPO opening price."
+            },
+            {
+              "expression": "market pressure",
+              "meaning": "市场压力",
+              "example": "Even popular companies can face market pressure."
+            },
+            {
+              "expression": "rival funding",
+              "meaning": "竞争对手融资",
+              "example": "Rival funding can change how investors compare companies."
+            }
+          ],
+          "linkedKeywords": [
+            "SpaceX",
+            "IPO",
+            "valuation",
+            "market pressure"
+          ],
+          "englishTranslation": "The Yahoo Finance headline indicates that SpaceX shares hit an all-time low and dipped below their IPO opening price. The same headline also says that rival Blue Origin is seeking new funding. Because the page returned a Too Many Requests response during retrieval, this item does not expand on unverified details. Instead, it reads the story as a market signal: even a company with a powerful future-technology narrative can still be re-evaluated through liquidity, valuation, competition, and the broader funding environment. Space, satellite internet, and AI infrastructure are easily framed as stories about the future. But once those stories enter the market, they become questions of price, expectation, risk, and comparison."
+        },
+        {
+          "title": "Nvidia 估值走低：营收纪录不等于估值安全",
+          "dek": "Yahoo Finance 页面标题显示，Nvidia 估值触及多年低位，即使营收仍创纪录。",
+          "summary": "另一条 Yahoo Finance 链接标题显示，Nvidia 的估值触及多年低位，即使公司营收创下纪录。这个标题本身就很适合学习金融阅读：revenue 和 valuation 不是同一个概念。营收记录说明企业业务仍在增长，但估值还包含投资者对未来增长、利润率、竞争格局、监管风险和市场利率的判断。AI 热潮让 Nvidia 成为基础设施叙事的中心，但市场也会不断问：增长是否已经被提前定价？供应链和数据中心需求是否能持续？高增长公司最脆弱的地方，往往不是今天赚了多少钱，而是市场是否仍相信明天会更快增长。",
+          "englishLine": "Record revenue does not always protect a company from valuation pressure.",
+          "sourceLinks": [
+            {
+              "label": "Yahoo Finance｜Nvidia valuation",
+              "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "valuation",
+              "meaning": "估值；市场对公司价值的判断",
+              "example": "A company’s valuation can fall even when revenue grows."
+            },
+            {
+              "expression": "record revenue",
+              "meaning": "创纪录营收",
+              "example": "Record revenue does not always satisfy investors."
+            },
+            {
+              "expression": "priced in",
+              "meaning": "已被计入价格",
+              "example": "Investors may think future growth is already priced in."
+            },
+            {
+              "expression": "growth expectations",
+              "meaning": "增长预期",
+              "example": "Growth expectations shape how markets value technology companies."
+            }
+          ],
+          "linkedKeywords": [
+            "Nvidia",
+            "valuation",
+            "record revenue",
+            "AI infrastructure"
+          ],
+          "englishTranslation": "Another Yahoo Finance headline says that Nvidia’s valuation has reached a multiyear low even as the company’s revenue sets records. The headline itself is useful for financial reading: revenue and valuation are not the same thing. Record revenue shows that a company’s business is still growing, but valuation also includes investors’ judgments about future growth, margins, competition, regulatory risk, and market interest rates. The AI boom has placed Nvidia at the center of the infrastructure narrative. Yet the market will keep asking whether growth has already been priced in, whether supply chains and data-center demand can continue, and whether tomorrow’s growth will still be faster. For high-growth companies, the fragile point is often not how much money they make today, but whether the market still believes tomorrow will grow faster."
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "★ 3. Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "无 CP 女主叙事走进线下漫展：不恋爱，也可以成为故事中心",
+          "dek": "Sixth Tone 报道，中国顶级动漫展上出现专门展示“女无”文学的摊位，强调女性主角的成长与非恋爱关系。",
+          "summary": "Sixth Tone 报道，在 CP32 动漫展上，首次出现了专门展示“女无”文学的摊位。“女无”通常指以女性为主角、避免主要恋爱线或男性恋爱对象的女性向叙事。它关注女性角色的个人成长、友情、亲情、师生关系、事业追求和精神世界，而不是把爱情作为故事的必然终点。这个现象很适合放在性别视角里，因为它说明读者并不只是想看到“女性被爱”，也想看到女性不围绕爱情被理解、不被异性恋浪漫结构固定、不必通过配对来证明故事价值。当一种小众类型走进线下漫展，它也把阅读偏好变成了可见的公共文化空间。",
+          "englishLine": "A genre can become a social space when readers take it offline.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜No Woo",
+              "url": "https://www.sixthtone.com/news/1018736"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "female-led narrative",
+              "meaning": "女性主导叙事",
+              "example": "Female-led narratives do not always need a romance plot."
+            },
+            {
+              "expression": "platonic relationship",
+              "meaning": "非恋爱关系；柏拉图式关系",
+              "example": "The story focuses on platonic relationships and personal growth."
+            },
+            {
+              "expression": "niche genre",
+              "meaning": "小众类型",
+              "example": "A niche genre can reveal changing reader expectations."
+            },
+            {
+              "expression": "fan culture",
+              "meaning": "粉丝文化",
+              "example": "Fan culture can move from online platforms into physical conventions."
+            }
+          ],
+          "linkedKeywords": [
+            "nüwu",
+            "female-led narrative",
+            "fan culture",
+            "visibility"
+          ],
+          "englishTranslation": "Sixth Tone reports that at the CP32 anime convention, there was a booth dedicated to nüwu literature for the first time. Nüwu usually refers to female-oriented stories led by female protagonists that avoid a central romance plot or a male love interest. These stories focus on women’s personal growth, friendship, family ties, mentorship, careers, and inner worlds, rather than treating romantic love as the inevitable destination of a story. This phenomenon belongs in the gender section because it shows that readers do not only want to see women being loved. They also want to see women understood outside romance, outside fixed heterosexual structures, and outside the need for pairing to prove narrative value. When a niche genre enters an offline convention, it turns a reading preference into a visible public cultural space."
+        },
+        {
+          "title": "Carolin Braun 与足球教练席：为什么第一反应总是“我们需要一个男人”？",
+          "dek": "D+C 访谈显示，德国足球教练 Carolin Braun 很可能是第一位进入男子国家队教练组的女性之一，如今她在 FIFA 工作。",
+          "summary": "D+C 对德国运动科学家和足球教练 Carolin Braun 的访谈，讨论了足球中的多样性、国际赛事不平等，以及她在博茨瓦纳进入男子国家队教练组的经历。文章标题引用了一个很有代表性的句子：“第一反应是：我们需要一个男人。”这句话揭示了体育行业里的性别默认值：专业能力常常被预设为男性，女性即使拥有训练、经验和知识，也需要先穿过怀疑的门槛。把这条放在性别视角里，是因为它不只关于足球，而是关于谁被自然地想象为领导者、教练、专家和权威。",
+          "englishLine": "When expertise is imagined as male by default, women must prove themselves before they are even seen as possible.",
+          "sourceLinks": [
+            {
+              "label": "D+C｜Interview with Carolin Braun",
+              "url": "https://www.dandc.eu/en/article/interview-carolin-braun-coach-fifa"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "gender default",
+              "meaning": "性别默认值",
+              "example": "The gender default in coaching often imagines authority as male."
+            },
+            {
+              "expression": "coaching staff",
+              "meaning": "教练组",
+              "example": "She joined the coaching staff of a men’s national team."
+            },
+            {
+              "expression": "diversity in football",
+              "meaning": "足球中的多样性",
+              "example": "Diversity in football includes who gets to coach and lead."
+            },
+            {
+              "expression": "international inequality",
+              "meaning": "国际不平等",
+              "example": "International inequality shapes tournament resources and opportunities."
+            }
+          ],
+          "linkedKeywords": [
+            "football",
+            "gender default",
+            "coaching",
+            "authority"
+          ],
+          "englishTranslation": "D+C’s interview with German sports scientist and football coach Carolin Braun discusses diversity in football, inequality in international tournaments, and her experience joining the coaching staff of a men’s national team in Botswana. The article’s title quotes a revealing sentence: “The first thought is: We need a man for this.” That sentence exposes a gender default in sport: expertise is often presumed to be male. Even when women have training, experience, and knowledge, they must first pass through a gate of doubt. This story belongs in the gender section because it is not only about football. It is about who is naturally imagined as a leader, a coach, an expert, and an authority."
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "★ 4. Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "《Real Men on Top》：男性气质、权力与“在上方”的文化想象",
+          "dek": "New Books Network 页面指向 Real Men on Top 相关访谈，可作为阅读男性气质与权力关系的文化入口。",
+          "summary": "New Books Network 的链接标题指向 Real Men on Top 这一书籍访谈页面。页面抓取时返回 Too Many Requests，因此这里不扩写未经核实的章节内容，而把它作为一个文化阅读入口来理解：标题中的“real men”和“on top”已经提示了男性气质、社会等级、身体位置与权力想象之间的关系。文化研究读书节目常常有一个价值：它把学术问题从书架带进公共讨论。所谓“真正的男人”从来不是自然事实，而是一套被媒体、家庭、亲密关系、劳动市场和政治语言反复塑造的规范。读这类书，可以帮助我们把日常玩笑、流行文化和亲密关系中的性别脚本重新看清楚。",
+          "englishLine": "A book title can open a wider conversation about masculinity, hierarchy, and the cultural grammar of power.",
+          "sourceLinks": [
+            {
+              "label": "New Books Network｜Real Men on Top",
+              "url": "https://newbooksnetwork.com/real-men-on-top"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "masculinity",
+              "meaning": "男性气质",
+              "example": "Masculinity is shaped by culture, media, and social expectations."
+            },
+            {
+              "expression": "gender hierarchy",
+              "meaning": "性别等级结构",
+              "example": "Gender hierarchy can appear in language, work, and intimate life."
+            },
+            {
+              "expression": "cultural criticism",
+              "meaning": "文化批评",
+              "example": "Cultural criticism helps us question what feels normal."
+            },
+            {
+              "expression": "power relations",
+              "meaning": "权力关系",
+              "example": "Power relations are often hidden inside everyday habits."
+            }
+          ],
+          "linkedKeywords": [
+            "masculinity",
+            "gender hierarchy",
+            "book interview",
+            "culture"
+          ],
+          "englishTranslation": "The New Books Network link points to a book interview page for Real Men on Top. Because the page returned a Too Many Requests response during retrieval, this item does not expand on unverified chapter details. Instead, it treats the page as an entry point for cultural reading: the phrase “real men” and the expression “on top” already suggest links among masculinity, social hierarchy, bodily position, and the imagination of power. Book interview programs in cultural studies are valuable because they bring academic questions from the bookshelf into public discussion. The idea of a “real man” is never a natural fact. It is a norm repeatedly shaped by media, family, intimate relationships, labor markets, and political language. Reading books like this can help us see gender scripts in jokes, popular culture, and intimate life more clearly."
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "★ 5. AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "OpenAI 新模型发布预告：AI 更新正在变成公共事件",
+          "dek": "Yahoo Finance 视频标题显示，OpenAI 将发布 ChatGPT 5.6 models，并有 GPT Live 相关活动。",
+          "summary": "Yahoo Finance 视频链接标题显示，OpenAI 将发布 ChatGPT 5.6 models，并围绕 GPT Live 进行说明。由于页面抓取时没有完整返回，这里不补未经核实的功能细节，而关注一个更稳定的趋势：AI 模型发布正在从工程更新变成公共事件。一次模型更新不仅影响开发者，也影响学生、内容创作者、企业用户、教育者和监管者。模型版本号、预览权限、直播演示和媒体解读共同组成一种新的技术仪式。它让用户期待能力提升，也让社会继续追问：模型越强，谁获得访问权？谁承担错误成本？谁决定发布节奏？",
+          "englishLine": "Model releases are now public events, not only technical updates.",
+          "sourceLinks": [
+            {
+              "label": "Yahoo Finance｜OpenAI ChatGPT 5.6 models",
+              "url": "https://finance.yahoo.com/video/openai-to-release-chatgpt-56-models--gpt-live-on-thursday-what-to-know-202217707.html"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "model release",
+              "meaning": "模型发布",
+              "example": "A model release can affect developers, teachers, and ordinary users."
+            },
+            {
+              "expression": "live demo",
+              "meaning": "现场演示 / 直播演示",
+              "example": "The live demo turned a technical update into a public event."
+            },
+            {
+              "expression": "product cycle",
+              "meaning": "产品周期",
+              "example": "AI companies are accelerating their product cycles."
+            },
+            {
+              "expression": "public expectation",
+              "meaning": "公众期待",
+              "example": "Public expectation rises before each major AI announcement."
+            }
+          ],
+          "linkedKeywords": [
+            "OpenAI",
+            "model release",
+            "GPT Live",
+            "AI access"
+          ],
+          "englishTranslation": "The Yahoo Finance video headline indicates that OpenAI will release ChatGPT 5.6 models and provide information around GPT Live. Because the page did not return fully during retrieval, this item does not add unverified feature details. Instead, it focuses on a more stable trend: AI model releases are becoming public events rather than ordinary engineering updates. A model update affects not only developers, but also students, content creators, enterprise users, educators, and regulators. Model version numbers, preview access, live demonstrations, and media explanations now form a new kind of technological ritual. They raise expectations about improved capabilities while also keeping social questions alive: as models become stronger, who gets access, who bears the cost of errors, and who decides the release schedule?"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s stories are about how people and institutions search for position inside larger systems. Young Indians use satire to turn frustration into a public language. Technology companies discover that future narratives can still be re-priced by markets. Readers and fans create spaces where women do not have to be defined by romance, while women coaches challenge the assumption that expertise belongs to men. Even AI model releases are no longer private technical updates; they are public moments shaped by expectation, access, and power.",
+    "chinese": "今天的新闻都在讲人和机构如何在更大的系统中寻找位置。印度年轻人用讽刺把挫败感变成公共语言。科技公司发现，关于未来的叙事仍然会被市场重新定价。读者和粉丝创造空间，让女性不必总被爱情定义；女性教练则挑战“专业权威天然属于男性”的假设。甚至 AI 模型发布也不再是私下的技术更新，而是由期待、访问权和权力共同塑造的公共时刻。"
+  },
+  "keywords": [
+    {
+      "word": "satire",
+      "meaning": "讽刺；用幽默或夸张批评现实的表达方式",
+      "example": "Satire can make political anger easier to share."
+    },
+    {
+      "word": "valuation",
+      "meaning": "估值；市场对公司价值的判断",
+      "example": "A company’s valuation depends on both current results and future expectations."
+    },
+    {
+      "word": "masculinity",
+      "meaning": "男性气质；社会对“像男人”的行为、身份和权力的期待",
+      "example": "Masculinity is shaped by social norms rather than biology alone."
+    },
+    {
+      "word": "niche",
+      "meaning": "小众的；面向特定群体或兴趣领域的",
+      "example": "A niche genre can grow into a visible cultural community."
+    },
+    {
+      "word": "authority",
+      "meaning": "权威；被承认为有资格判断、领导或发言的位置",
+      "example": "Authority is often shaped by gendered expectations."
+    },
+    {
+      "word": "release cycle",
+      "meaning": "发布周期；产品或技术更新推出的节奏",
+      "example": "AI release cycles are becoming faster and more public."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "A futuristic company can still face ordinary market pressure.",
+    "analysisChinese": "这句话的主干是 A company can face pressure。futuristic 修饰 company，表示“带有未来科技想象的公司”；ordinary market pressure 强调即使叙事很未来，资本市场的估值、竞争和融资压力仍然很现实。可以复用结构：A seemingly X institution can still face ordinary Y pressure."
+  },
+  "reflection": {
+    "heading": "Closing Thought｜今日收束",
+    "body": "今天的小报想留下一个问题：当一个人、一本书、一家公司或一个模型被放进公共视野，它获得的从来不只是关注，也会获得新的评价、误读、期待和压力。读新闻时，我们不只要看谁被看见，也要看他们被放在怎样的系统里被看见。"
+  },
+  "tags": [
+    "news focus",
+    "political satire",
+    "India",
+    "youth anger",
+    "SpaceX",
+    "Nvidia",
+    "valuation",
+    "finance",
+    "nüwu",
+    "fan culture",
+    "football",
+    "gender",
+    "masculinity",
+    "books",
+    "OpenAI",
+    "model release"
+  ],
+  "sources": [
+    {
+      "label": "D+C｜Cockroach Party political satire",
+      "url": "https://www.dandc.eu/en/article/india/cockroach-party-political-satire"
+    },
+    {
+      "label": "Yahoo Finance｜SpaceX all-time low",
+      "url": "https://finance.yahoo.com/markets/stocks/article/spacex-hits-all-time-low-dips-below-ipo-opening-price-as-rival-blue-origin-seeks-new-funding-155049263.html"
+    },
+    {
+      "label": "Yahoo Finance｜Nvidia valuation",
+      "url": "https://finance.yahoo.com/technology/article/nvidias-valuation-just-hit-a-multiyear-low--even-as-revenue-sets-records-155948933.html"
+    },
+    {
+      "label": "Sixth Tone｜No Woo",
+      "url": "https://www.sixthtone.com/news/1018736"
+    },
+    {
+      "label": "D+C｜Interview with Carolin Braun",
+      "url": "https://www.dandc.eu/en/article/interview-carolin-braun-coach-fifa"
+    },
+    {
+      "label": "New Books Network｜Real Men on Top",
+      "url": "https://newbooksnetwork.com/real-men-on-top"
+    },
+    {
+      "label": "Yahoo Finance｜OpenAI ChatGPT 5.6 models",
+      "url": "https://finance.yahoo.com/video/openai-to-release-chatgpt-56-models--gpt-live-on-thursday-what-to-know-202217707.html"
+    }
+  ],
+  "rawText": ""
+}
