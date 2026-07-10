@@ -1,0 +1,368 @@
+{
+  "date": "2026-07-10",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "克隆技术、海上求生、黄金储备、性别暴力、文学记忆与AI责任",
+  "introChinese": "今天的小报关键词是：bodies and systems（身体与系统）。从 Dolly 羊之后的克隆技术，到一位中国商人在海上漂流六天的求生故事；从央行黄金储备攀升，到巴西女性被杀问题；从一部关于龙眼的小说书评，到 AI 深度伪造伤害的集体诉讼，今天的新闻都在提醒我们：技术、市场和制度最终都会落到身体、记忆、风险和责任之上。",
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "Dolly 羊诞生三十年后：克隆技术走到哪里了？",
+          "dek": "The Conversation 以 Dolly 羊诞生三十年为节点，回看克隆技术从轰动新闻走向更复杂的科学、伦理与应用现场。",
+          "summary": "Dolly 羊曾经让“克隆”这个词进入全球公共想象。它不只是一次实验成功，也让人们开始讨论生命能否被复制、科学边界在哪里、伦理与监管应如何跟上技术进展。三十年后，克隆技术已经不再只是关于“复制一个生命”的科幻式问题，而更多进入动物育种、医学研究、干细胞技术、濒危物种保护争议和生殖伦理讨论之中。真正值得注意的是：技术成熟并不意味着问题变简单。克隆越从新闻奇观变成工具，社会越需要问清楚它服务谁、风险由谁承担、以及生命何时会被重新理解为可设计、可保存、可替换的对象。",
+          "englishLine": "Cloning technology has moved from public spectacle to a quieter but more complicated scientific toolkit.",
+          "sourceLinks": [
+            {
+              "label": "The Conversation｜Dolly the sheep and cloning technology",
+              "url": "https://theconversation.com/30-years-since-dolly-the-sheep-was-born-where-is-cloning-technology-at-now-285886"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "cloning technology",
+              "meaning": "克隆技术",
+              "example": "Cloning technology raises scientific and ethical questions."
+            },
+            {
+              "expression": "bioethics",
+              "meaning": "生命伦理",
+              "example": "Bioethics helps societies debate the limits of biological research."
+            },
+            {
+              "expression": "scientific toolkit",
+              "meaning": "科学工具箱；可被研究者使用的一组技术方法",
+              "example": "A once sensational discovery can become part of a scientific toolkit."
+            },
+            {
+              "expression": "regulatory framework",
+              "meaning": "监管框架",
+              "example": "New technologies often require a clear regulatory framework."
+            }
+          ],
+          "linkedKeywords": [
+            "cloning",
+            "bioethics",
+            "Dolly",
+            "regulation"
+          ],
+          "englishTranslation": "Dolly the sheep once brought the word “cloning” into the global public imagination. It was not only a successful experiment; it also pushed people to ask whether life could be copied, where the boundaries of science should be drawn, and how ethics and regulation should respond to technological progress. Thirty years later, cloning technology is no longer only a science-fiction question about “copying a life.” It has moved into discussions of animal breeding, biomedical research, stem-cell technologies, endangered-species conservation, and reproductive ethics. The important point is that technological maturity does not make the questions simpler. As cloning moves from public spectacle into a usable tool, society has to ask who it serves, who bears the risks, and when life begins to be understood as something that can be designed, preserved, or replaced."
+        },
+        {
+          "title": "六天漂流：一个中国商人的海上求生故事",
+          "dek": "Sixth Tone 讲述 41 岁创业者秦建平在海南落海后漂流六天、最终获救的经历。",
+          "summary": "Sixth Tone 这篇报道读起来像一则极端求生故事，也像一则关于身体极限的新闻。41 岁创业者秦建平在海南夜间落海后，被海流带入琼州海峡附近。他靠抓住浮标、吃生蟹和海草、忍受水母蜇伤、寒冷、饥饿与幻觉，撑过了六天。家人一度以为他已经遇难，最后他被当地渔民救起。这个故事之所以值得放进新闻聚焦，不只是因为它惊险，而是因为它把“生存”这个词从抽象概念拉回身体：盐水、疼痛、寒冷、恐惧、意志，以及陌生人的救援。",
+          "englishLine": "A survival story can turn the abstract idea of resilience back into the reality of the body.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Alone and Adrift",
+              "url": "https://www.sixthtone.com/news/1018758"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "open water",
+              "meaning": "开放水域；远离岸边的水域",
+              "example": "He survived for days in open water."
+            },
+            {
+              "expression": "ordeal",
+              "meaning": "艰难痛苦的经历",
+              "example": "The ordeal tested his physical and mental limits."
+            },
+            {
+              "expression": "cling to",
+              "meaning": "紧紧抓住",
+              "example": "He tried to cling to buoys to stay afloat."
+            },
+            {
+              "expression": "resilience",
+              "meaning": "韧性；在困难中坚持和恢复的能力",
+              "example": "Resilience can mean simply surviving the next hour."
+            }
+          ],
+          "linkedKeywords": [
+            "survival",
+            "open water",
+            "resilience",
+            "body"
+          ],
+          "englishTranslation": "The Sixth Tone report reads like an extreme survival story, but also like a piece of news about the limits of the body. Qin Jianping, a 41-year-old entrepreneur, fell into the sea at night in Hainan and was carried by currents toward the Qiongzhou Strait. He survived for six days by clinging to buoys, eating raw crabs and seaweed, and enduring jellyfish stings, cold, hunger, fear, and hallucinations. His family at one point believed he had died, but he was eventually rescued by local fishermen. The story matters not only because it is dramatic, but because it pulls the word “survival” back from abstraction into the body: salt water, pain, cold, fear, willpower, and the help of strangers."
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "央行黄金储备创五十年高位：为什么各国重新拥抱黄金？",
+          "dek": "The Conversation 讨论央行黄金持有量升至五十年来高位背后的储备逻辑、地缘风险与信任问题。",
+          "summary": "央行黄金储备上升不是普通投资新闻，而是全球金融信任变化的一种信号。黄金通常被视为储备资产和避险资产：它不依赖某一个国家的信用，不像外汇储备那样直接受货币政策、制裁风险和金融系统信任影响。当各国央行增加黄金持有量时，背后往往有几层考虑：分散储备风险、应对通胀与汇率波动、降低对单一货币系统的依赖，以及在地缘政治不确定时期保留更稳固的价值锚点。对普通读者来说，这条新闻不是买卖建议，而是理解全球金融心理的一扇窗口：当制度信任变弱时，古老的金属会重新变得重要。",
+          "englishLine": "Central bank gold buying is not only about metal; it is also about trust, risk, and reserve strategy.",
+          "sourceLinks": [
+            {
+              "label": "The Conversation｜Central bank gold holdings",
+              "url": "https://theconversation.com/central-bank-gold-holdings-are-at-a-50-year-high-whats-behind-the-jump-in-reserves-284689"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "gold reserves",
+              "meaning": "黄金储备",
+              "example": "Central banks use gold reserves as part of their financial safety net."
+            },
+            {
+              "expression": "safe-haven asset",
+              "meaning": "避险资产",
+              "example": "Gold is often treated as a safe-haven asset during uncertainty."
+            },
+            {
+              "expression": "diversify reserves",
+              "meaning": "分散储备",
+              "example": "Countries may diversify reserves to reduce currency risk."
+            },
+            {
+              "expression": "geopolitical uncertainty",
+              "meaning": "地缘政治不确定性",
+              "example": "Geopolitical uncertainty can increase demand for gold."
+            }
+          ],
+          "linkedKeywords": [
+            "gold reserves",
+            "central banks",
+            "safe haven",
+            "financial trust"
+          ],
+          "englishTranslation": "The rise in central bank gold reserves is not just an ordinary investment story. It is a signal about changing trust in the global financial system. Gold is usually seen as both a reserve asset and a safe-haven asset. It does not depend on the credit of one specific country, and it is not as directly exposed as foreign-exchange reserves to monetary policy, sanctions risk, or confidence in a particular financial system. When central banks increase their gold holdings, several concerns may be involved: diversifying reserve risk, responding to inflation and exchange-rate volatility, reducing dependence on a single currency system, and preserving a more stable store of value during geopolitical uncertainty. For ordinary readers, this story is not a buy-or-sell recommendation. It is a window into global financial psychology: when trust in institutions weakens, an old metal can become newly important."
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "巴西女性被杀：如果女性必须武装自己，国家保护就已经失败",
+          "dek": "D+C 关注巴西女性被杀、亲密关系暴力和保护系统缺口，指出形式法律与象征姿态远远不够。",
+          "summary": "D+C 的文章把巴西 femicide（女性因性别而被杀害）问题放在国家责任的框架里讨论。文章指出，巴西女性被杀数量、亲密关系暴力和保护系统缺口都显示，针对女性的暴力不能只靠象征性姿态或纸面法律来解决。当女性被迫考虑武装自己以求自保时，问题已经不只是个人安全，而是国家保护、司法回应、社会规范和公共资源是否失效。性别暴力最残酷的地方在于，它常常发生在亲密关系、家庭空间和日常生活中，却需要制度层面的长期回应：报警是否有效，保护令是否执行，庇护所是否足够，社区是否相信受害者，司法是否真正追责。",
+          "englishLine": "Gender-based violence becomes a state failure when women are forced to protect themselves alone.",
+          "sourceLinks": [
+            {
+              "label": "D+C｜Femicide in Brazil",
+              "url": "https://www.dandc.eu/en/article/femicides-brazil-gender-violence"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "femicide",
+              "meaning": "女性因性别而被杀害；杀害女性",
+              "example": "Femicide is a severe form of gender-based violence."
+            },
+            {
+              "expression": "intimate partner violence",
+              "meaning": "亲密伴侣暴力",
+              "example": "Intimate partner violence often happens behind closed doors."
+            },
+            {
+              "expression": "protection system",
+              "meaning": "保护系统",
+              "example": "A protection system must respond before violence becomes fatal."
+            },
+            {
+              "expression": "symbolic gesture",
+              "meaning": "象征性姿态",
+              "example": "Symbolic gestures are not enough without enforcement."
+            }
+          ],
+          "linkedKeywords": [
+            "femicide",
+            "gender violence",
+            "state failure",
+            "protection"
+          ],
+          "englishTranslation": "The D+C article discusses femicide in Brazil through the framework of state responsibility. It argues that record numbers of femicides, violence in intimate relationships, and gaps in the protection system show that violence against women cannot be solved through symbolic gestures or laws that exist only on paper. When women are forced to consider arming themselves in order to stay safe, the issue is no longer only personal security. It is about whether state protection, judicial response, social norms, and public resources have failed. The cruelty of gender-based violence is that it often takes place inside intimate relationships, family spaces, and everyday life, yet it requires long-term institutional responses: whether police reports are taken seriously, whether protection orders are enforced, whether shelters are available, whether communities believe survivors, and whether the justice system truly holds perpetrators accountable."
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "《A Short History of Longans》：一颗龙眼如何承载记忆、迁徙与味觉",
+          "dek": "The Guardian 的书评关注 Mirani Riwoe 的 A Short History of Longans，把食物、历史、家庭记忆和文学叙事放在一起读。",
+          "summary": "The Guardian 这篇书评让“龙眼”不只是水果，而成为一种文学入口。食物在文学里常常承担双重功能：它既具体又象征，既属于舌尖，也属于记忆。一个水果、一种气味、一道菜，可能牵出家庭史、迁徙经验、殖民痕迹、女性劳动和代际关系。A Short History of Longans 这个标题本身就很有意思：它把“短史”与一种小小的果实连接起来，提醒我们历史不一定只存在于宏大叙事里，也可能藏在厨房、市场、身体感官和亲密记忆中。读这样的书评时，可以练习一种文化阅读方式：不要只问故事发生了什么，也要问物件如何保存历史，味觉如何承载身份。",
+          "englishLine": "A fruit in literature can become a small archive of memory, migration, and identity.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜A Short History of Longans review",
+              "url": "https://www.theguardian.com/books/2026/jul/10/a-short-history-of-longans-book-review-author-mirani-riwoe"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "book review",
+              "meaning": "书评",
+              "example": "A good book review can open a wider cultural conversation."
+            },
+            {
+              "expression": "cultural memory",
+              "meaning": "文化记忆",
+              "example": "Food often carries cultural memory across generations."
+            },
+            {
+              "expression": "sensory detail",
+              "meaning": "感官细节",
+              "example": "Sensory detail can make history feel intimate."
+            },
+            {
+              "expression": "literary archive",
+              "meaning": "文学档案；由文本保存的记忆空间",
+              "example": "A novel can become a literary archive of migration."
+            }
+          ],
+          "linkedKeywords": [
+            "books",
+            "longans",
+            "memory",
+            "migration",
+            "food writing"
+          ],
+          "englishTranslation": "The Guardian review makes the longan more than a fruit; it becomes an entrance into literature. Food in literature often has a double function: it is concrete and symbolic, belonging both to taste and to memory. A fruit, a smell, or a dish can open onto family history, migration, colonial traces, women’s labor, and intergenerational relationships. The title A Short History of Longans is itself suggestive because it connects a “short history” with a small fruit. It reminds us that history does not exist only in grand narratives. It can also hide in kitchens, markets, bodily senses, and intimate memories. When reading a review like this, we can practice a form of cultural reading: do not only ask what happens in the story; also ask how objects preserve history and how taste carries identity."
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "AI 深度伪造与 CSAM 集体诉讼：生成式技术的责任边界在哪里？",
+          "dek": "NPR 链接指向一则关于 SpaceXAI、Stability AI、deepfake CSAM 与集体诉讼的报道，核心问题是生成式 AI 如何处理真实伤害、平台责任与法律追责。",
+          "summary": "NPR 这条链接把 AI 深度伪造、儿童性虐待材料（CSAM）和集体诉讼放在同一个公共议题中。这里最重要的不是某一个模型是否“先进”，而是生成式技术一旦被用于制造、传播或放大伤害，责任应该如何分配。deepfake 技术会模糊真实与伪造的边界，也会让受害者承受真实的心理、社会和法律后果。CSAM 更是极端严重的伤害类型，不能被当作普通内容审核问题处理。AI 公司、模型提供者、平台、用户和监管者都在这个问题里被迫面对同一个难题：当工具可以高速生成图像、声音和身份伪装时，法律、平台治理和技术防护是否仍然跟得上？",
+          "englishLine": "Generative AI accountability begins where technical capability becomes real-world harm.",
+          "sourceLinks": [
+            {
+              "label": "NPR｜Deepfake CSAM class action",
+              "url": "https://www.npr.org/2026/07/09/nx-s1-5885052/spacexai-stabilityai-deepfake-csam-class-action"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "deepfake",
+              "meaning": "深度伪造；用 AI 合成或篡改的影像、声音或身份内容",
+              "example": "Deepfake technology can create convincing but false media."
+            },
+            {
+              "expression": "class action",
+              "meaning": "集体诉讼",
+              "example": "A class action can bring many related claims into one case."
+            },
+            {
+              "expression": "platform accountability",
+              "meaning": "平台问责",
+              "example": "Platform accountability becomes urgent when digital tools cause harm."
+            },
+            {
+              "expression": "real-world harm",
+              "meaning": "现实世界中的伤害",
+              "example": "Digital content can create real-world harm."
+            }
+          ],
+          "linkedKeywords": [
+            "deepfake",
+            "CSAM",
+            "class action",
+            "AI accountability"
+          ],
+          "englishTranslation": "The NPR link places AI deepfakes, child sexual abuse material, and a class action lawsuit within the same public issue. The most important question here is not whether a model is technically advanced, but how responsibility should be distributed once generative technology is used to create, spread, or amplify harm. Deepfake technology blurs the boundary between the real and the fabricated, while victims may suffer real psychological, social, and legal consequences. CSAM is an especially severe form of harm and cannot be treated as an ordinary content-moderation problem. AI companies, model providers, platforms, users, and regulators are all forced to confront the same question: when tools can generate images, voices, and identity simulations at high speed, can law, platform governance, and technical safeguards still keep up?"
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s stories remind us that systems become real through bodies. Cloning technology raises questions about what life can become under scientific control. A man drifting at sea shows how survival depends on the body’s endurance and the help of others. Gold reserves reveal how institutions respond when trust becomes fragile. Femicide exposes the failure of protection systems, while literature turns food and memory into cultural archives. Even AI deepfakes are not only digital events; they create real harm for real people. To read the news carefully is to ask where responsibility lands.",
+    "chinese": "今天的新闻提醒我们，系统最终会通过身体变成现实。克隆技术提出的问题是：生命在科学控制之下会变成什么。一个人在海上漂流的故事说明，生存依赖身体的承受力，也依赖他人的救援。黄金储备揭示了制度在信任变脆弱时如何回应。女性被杀暴露了保护系统的失败，而文学则把食物与记忆变成文化档案。即使 AI 深度伪造也不只是数字事件，它会给真实的人造成真实伤害。认真读新闻，就是追问责任最终落在哪里。"
+  },
+  "keywords": [
+    {
+      "word": "cloning",
+      "meaning": "克隆；通过生物技术复制遗传相似个体或细胞的过程",
+      "example": "Cloning raises questions about science, ethics, and regulation."
+    },
+    {
+      "word": "resilience",
+      "meaning": "韧性；在压力、危险或创伤中坚持和恢复的能力",
+      "example": "The survival story revealed extraordinary resilience."
+    },
+    {
+      "word": "safe haven",
+      "meaning": "避险资产或安全选择",
+      "example": "Gold is often described as a safe haven during uncertainty."
+    },
+    {
+      "word": "femicide",
+      "meaning": "女性因性别而被杀害",
+      "example": "Femicide requires institutional prevention, not only public mourning."
+    },
+    {
+      "word": "deepfake",
+      "meaning": "深度伪造；AI 合成或篡改的逼真媒体内容",
+      "example": "Deepfake abuse can cause real-world harm."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Technological maturity does not make ethical questions disappear.",
+    "analysisChinese": "这句话的主干是 Technological maturity does not make questions disappear。ethical 修饰 questions，强调技术越成熟，伦理问题并不会自动消失。可以复用结构：X does not make Y disappear."
+  },
+  "reflection": {
+    "heading": "Closing Thought｜今日收束",
+    "body": "今天的小报想留下一个问题：当技术、市场和制度越来越强大时，我们是否也在认真照看那些被它们影响的身体、记忆与生活？"
+  },
+  "tags": [
+    "cloning",
+    "Dolly",
+    "Sixth Tone",
+    "survival",
+    "gold reserves",
+    "central banks",
+    "femicide",
+    "Brazil",
+    "books",
+    "Mirani Riwoe",
+    "deepfake",
+    "CSAM",
+    "AI accountability"
+  ],
+  "sources": [
+    {
+      "label": "The Conversation｜Dolly the sheep and cloning technology",
+      "url": "https://theconversation.com/30-years-since-dolly-the-sheep-was-born-where-is-cloning-technology-at-now-285886"
+    },
+    {
+      "label": "Sixth Tone｜Alone and Adrift",
+      "url": "https://www.sixthtone.com/news/1018758"
+    },
+    {
+      "label": "The Conversation｜Central bank gold holdings",
+      "url": "https://theconversation.com/central-bank-gold-holdings-are-at-a-50-year-high-whats-behind-the-jump-in-reserves-284689"
+    },
+    {
+      "label": "D+C｜Femicide in Brazil",
+      "url": "https://www.dandc.eu/en/article/femicides-brazil-gender-violence"
+    },
+    {
+      "label": "The Guardian｜A Short History of Longans review",
+      "url": "https://www.theguardian.com/books/2026/jul/10/a-short-history-of-longans-book-review-author-mirani-riwoe"
+    },
+    {
+      "label": "NPR｜Deepfake CSAM class action",
+      "url": "https://www.npr.org/2026/07/09/nx-s1-5885052/spacexai-stabilityai-deepfake-csam-class-action"
+    }
+  ],
+  "rawText": ""
+}
