@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-07-07",
+    "title": "Editorial note",
+    "description": "从 2026 年 7 月 7 日起，每日小报的新闻来源由开发者人工筛选与整理，以保持主题更清晰、来源更克制、阅读体验更稳定。",
+    "type": "editorial",
+    "relatedDate": "2026-07-07",
+    "link": ""
+  },
+  {
     "date": "2026-07-10",
     "title": "Published July 10 briefing",
     "description": "Added the July 10 Daily Compass with full English translations, covering cloning after Dolly, a Sixth Tone survival story, central-bank gold reserves, femicide in Brazil, a Guardian book review, and AI deepfake accountability.",
