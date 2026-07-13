@@ -1,0 +1,395 @@
+{
+  "date": "2026-07-13",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "德国庭审、媒体边界、NAIDOC记忆、平台定价、性别暴力、印象派展览与AI模型发布",
+  "introChinese": "今天的小报关键词是：accountability and public memory（责任与公共记忆）。从德国“老司机群”相关庭审中，中国媒体报道成为量刑辩论材料，到 NAIDOC Week 的五十年历史；从零工经济的动态定价，到跨国打击药物辅助性侵；从澳大利亚首次集中呈现 Monet 到 Matisse 的展览，到 GPT-5.6 Sol 的有限预览，今天的新闻都在提醒我们：公共信息、法律程序、市场算法、文化记忆与技术发布，都需要面对责任边界。",
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "中国媒体报道进入德国庭审：公众知情权、无罪推定与性暴力案件报道边界",
+          "dek": "一篇中文庭审纪实显示，在“德国老司机驾校群”相关案件中，中国媒体和社交媒体传播本身成为德国法院量刑时讨论的辩护材料。",
+          "summary": "这篇庭审纪实最重要的地方，不只是记录了 Zhiting S. 在柏林地方法院一审被判五年有期徒刑，也揭示了一个复杂问题：中国媒体报道和社交媒体传播如何进入德国刑事审判。辩方提交了包含德国《明镜周刊》、中文媒体和微博等内容的中德文材料，认为被告身份、照片、姓名、家庭和学校信息被大规模传播，已经造成“社会性死亡”，违反无罪推定和人格权保护。柏林法院在量刑中采纳了这一点，认为中国已有大量可识别身份并带有预先定罪倾向的报道，使被告承受了尤其严重的个人后果。与此同时，案件本身涉及药物迷奸、性侵、偷拍和跨国网络犯罪，公众对风险识别、潜在受害者保护和犯罪网络曝光有强烈公共利益。真正困难的问题在于：媒体如何既回应公众知情权和性暴力受害者保护，又不让报道变成司法程序之外的额外社会惩罚。",
+          "englishLine": "In transnational sexual-violence cases, media exposure can protect the public interest, but it can also complicate the presumption of innocence and personality rights.",
+          "sourceLinks": [
+            {
+              "label": "WeChat｜德国庭审纪实与媒体报道边界",
+              "url": "https://mp.weixin.qq.com/s/rW2elCN8SuvTk5dcj22DmA"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "presumption of innocence",
+              "meaning": "无罪推定",
+              "example": "The presumption of innocence requires careful reporting before a final judgment."
+            },
+            {
+              "expression": "personality rights",
+              "meaning": "人格权；个人身份、肖像、名誉和隐私等权利",
+              "example": "German courts place strong emphasis on personality rights."
+            },
+            {
+              "expression": "public interest",
+              "meaning": "公共利益",
+              "example": "Public interest may justify reporting on serious criminal networks."
+            },
+            {
+              "expression": "social punishment",
+              "meaning": "社会性惩罚；司法之外由舆论造成的惩罚",
+              "example": "Media exposure can become a form of social punishment."
+            },
+            {
+              "expression": "sentencing factor",
+              "meaning": "量刑因素",
+              "example": "The court treated media exposure as a sentencing factor."
+            }
+          ],
+          "linkedKeywords": [
+            "presumption of innocence",
+            "personality rights",
+            "media ethics",
+            "sexual violence",
+            "public interest"
+          ],
+          "englishTranslation": "The most important part of this courtroom report is not only that Zhiting S. was sentenced by the Berlin Regional Court to five years in prison at first instance. It also reveals a difficult question: how Chinese media reports and social media circulation entered a German criminal trial. The defense submitted a bilingual collection of media materials, including German and Chinese news coverage as well as posts from platforms such as Weibo. The defense argued that the defendant’s identity, photos, name, family details, and school information had been widely circulated, causing what it described as “social death” and violating the presumption of innocence and personality rights. The Berlin court accepted this as a mitigating factor in sentencing, finding that reports in China had made the defendant identifiable and had created an impression of guilt before judgment, causing especially serious personal consequences. At the same time, the case itself involves drug-facilitated rape, sexual assault, voyeuristic recording, and a transnational online criminal network. The public has a strong interest in identifying risks, protecting potential victims, and exposing how such networks operate. The hardest question is therefore not whether the media should report on the case, but how reporting can serve public knowledge and survivor protection without becoming an extra form of social punishment outside the judicial process."
+        },
+        {
+          "title": "NAIDOC Week 五十年：纪念、抗议与 First Nations 文化力量",
+          "dek": "SBS 报道 2026 年 NAIDOC Week 以 “50 Years of Deadly” 为主题，庆祝 Aboriginal and Torres Strait Islander peoples 的历史、文化与成就。",
+          "summary": "SBS 报道称，2026 年 NAIDOC Week 于 7 月 5 日至 12 日举行，今年主题是 “50 Years of Deadly”，纪念由 Indigenous-led NAIDOC committee 形成以来超过五十年的历史。NAIDOC 的根源可追溯到 1920 年代 First Nations peoples 对自身地位和待遇的抗议，也与 Day of Mourning、Survival Day 等历史记忆相连。今天的 NAIDOC Week 不只是庆祝活动，也包括文化展览、工作坊、体育、艺术、海报竞赛和社区聚会。它提醒我们，纪念不是安静地回望过去，而是一种持续的公共行动：讲述历史、确认文化、承认伤痛，也为下一代保留声音和空间。",
+          "englishLine": "Commemoration can be a form of public action when it preserves history, culture, and political memory.",
+          "sourceLinks": [
+            {
+              "label": "SBS News｜50 Years of Deadly",
+              "url": "https://www.sbs.com.au/news/article/50-years-of-deadly-inside-naidoc-week-celebrations/x5snudwmv"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "truth-telling",
+              "meaning": "讲述真相；尤其指面对殖民、创伤与历史不公",
+              "example": "NAIDOC Week creates space for truth-telling and celebration."
+            },
+            {
+              "expression": "cultural contribution",
+              "meaning": "文化贡献",
+              "example": "The awards recognise cultural contributions by First Nations people."
+            },
+            {
+              "expression": "public memory",
+              "meaning": "公共记忆",
+              "example": "Public memory shapes how a nation understands itself."
+            },
+            {
+              "expression": "Indigenous-led",
+              "meaning": "由原住民主导的",
+              "example": "An Indigenous-led committee helped shape the movement."
+            }
+          ],
+          "linkedKeywords": [
+            "NAIDOC",
+            "First Nations",
+            "public memory",
+            "truth-telling"
+          ],
+          "englishTranslation": "SBS reports that NAIDOC Week 2026 runs from July 5 to July 12, with the theme “50 Years of Deadly,” marking more than five decades since the formation of an Indigenous-led NAIDOC committee. NAIDOC’s roots can be traced back to First Nations protests in the 1920s over status and treatment, and its history is connected to the Day of Mourning, Survival Day, and other forms of political memory. Today, NAIDOC Week is not only a celebration. It includes cultural exhibitions, workshops, sport, art, poster competitions, and community gatherings. It reminds us that commemoration is not simply a quiet look back at the past. It can also be an ongoing public action: telling history, affirming culture, acknowledging harm, and preserving voice and space for the next generation."
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "动态定价坏了吗？零工经济需要更聪明的匹配方式",
+          "dek": "The Conversation 讨论 surge pricing 的问题，并提出更聪明地匹配 gig workers 与消费者的可能性。",
+          "summary": "动态定价原本试图解决供需不平衡：需求高、供给少时，价格上升，以吸引更多劳动者进入平台。但在零工经济中，这套逻辑也容易制造不信任。消费者会觉得被临时加价，劳动者也未必真正得到稳定、更公平的收入。The Conversation 这篇文章的标题提出一个重要判断：surge pricing is broken，问题不只是价格高低，而是平台如何把消费者、劳动者、时间、地点和风险连接起来。更好的匹配机制应当考虑等待时间、劳动者收入稳定性、消费者可承受性和平台透明度，而不是只把价格当成唯一信号。金融栏目读这条新闻，不是为了讨论投资，而是为了理解数字平台如何把算法、市场和劳动组织在一起。",
+          "englishLine": "Platform pricing is not only about price; it is about how algorithms distribute risk, waiting time, and income.",
+          "sourceLinks": [
+            {
+              "label": "The Conversation｜Surge pricing and gig work",
+              "url": "https://theconversation.com/surge-pricing-is-broken-but-theres-a-smarter-way-to-match-gig-workers-with-consumers-285976"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "surge pricing",
+              "meaning": "动态加价；需求高时价格临时上升",
+              "example": "Surge pricing can make consumers feel punished for using a service at peak time."
+            },
+            {
+              "expression": "gig workers",
+              "meaning": "零工经济劳动者",
+              "example": "Gig workers often depend on platform algorithms for work opportunities."
+            },
+            {
+              "expression": "matching mechanism",
+              "meaning": "匹配机制",
+              "example": "A better matching mechanism could reduce waiting time and uncertainty."
+            },
+            {
+              "expression": "algorithmic market",
+              "meaning": "算法市场；由平台算法组织供需关系的市场",
+              "example": "An algorithmic market can hide power behind technical design."
+            }
+          ],
+          "linkedKeywords": [
+            "surge pricing",
+            "gig economy",
+            "platform labor",
+            "algorithmic market"
+          ],
+          "englishTranslation": "Surge pricing was originally designed to solve a supply-and-demand problem: when demand is high and supply is low, prices rise in order to attract more workers onto the platform. But in the gig economy, this logic can also create distrust. Consumers may feel that they are being charged unfairly at the last minute, while workers may not actually receive more stable or fairer income. The title of The Conversation article makes an important claim: surge pricing is broken. The issue is not only whether the price is high or low, but how platforms connect consumers, workers, time, location, and risk. A smarter matching system should consider waiting time, income stability for workers, affordability for consumers, and platform transparency, rather than treating price as the only signal. In the Finance & Markets section, this story is not about investment advice. It is about understanding how digital platforms organize algorithms, markets, and labor."
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "Project Medusa：跨国打击药物辅助性侵与看不见的暴力证据",
+          "dek": "Europol 的 Project Medusa 聚焦 drug-facilitated sexual assault，并在一次行动中识别出 156 名相关人员、产生 274 条新调查线索。",
+          "summary": "Europol 的 Project Medusa 把 drug-facilitated sexual assault（药物辅助性侵）放进跨国执法框架中。相关通报显示，这类案件往往难以侦办：受害者可能记忆断裂、证据窗口很短、药物检测困难，犯罪者也可能跨平台、跨地点行动。Europol 新闻称，一次首次同类行动识别出 156 名相关人员，并带来 274 条新的调查线索。对性别视角而言，这条新闻的重要性在于：性暴力不总是以清晰、可见、容易被社会相信的方式出现。药物辅助性侵尤其挑战司法系统，因为它发生在控制、失忆、羞耻和证据流失之间。真正的保护不仅需要事后惩罚，也需要跨国协作、医疗证据保存、受害者支持和公众教育。",
+          "englishLine": "Drug-facilitated sexual assault shows how gendered violence can hide inside gaps in memory, evidence, and institutional response.",
+          "sourceLinks": [
+            {
+              "label": "Europol｜Project Medusa",
+              "url": "https://www.europol.europa.eu/operations-services-and-innovation/operations/project-medusa"
+            },
+            {
+              "label": "Europol｜156 individuals identified",
+              "url": "https://www.europol.europa.eu/media-press/newsroom/news/156-individuals-identified-in-first-of-its-kind-drug-facilitated-sexual-assaults-operation"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "drug-facilitated sexual assault",
+              "meaning": "药物辅助性侵",
+              "example": "Drug-facilitated sexual assault can be difficult to investigate because evidence may disappear quickly."
+            },
+            {
+              "expression": "investigative lead",
+              "meaning": "调查线索",
+              "example": "The operation generated hundreds of investigative leads."
+            },
+            {
+              "expression": "victim support",
+              "meaning": "受害者支持",
+              "example": "Victim support must include medical, legal, and psychological care."
+            },
+            {
+              "expression": "cross-border cooperation",
+              "meaning": "跨境合作",
+              "example": "Cross-border cooperation is essential when offenders move across jurisdictions."
+            }
+          ],
+          "linkedKeywords": [
+            "sexual assault",
+            "Europol",
+            "Project Medusa",
+            "victim support"
+          ],
+          "englishTranslation": "Europol’s Project Medusa places drug-facilitated sexual assault within a cross-border law-enforcement framework. These cases are often difficult to investigate: survivors may experience memory gaps, the evidence window may be short, toxicology testing can be difficult, and offenders may operate across platforms and locations. Europol’s news release says that a first-of-its-kind operation identified 156 individuals and generated 274 new investigative leads. From a gender perspective, the importance of this story is that sexual violence does not always appear in clear, visible, or socially believable forms. Drug-facilitated sexual assault is especially challenging for justice systems because it happens between control, memory loss, shame, and the disappearance of evidence. Real protection requires not only punishment after the fact, but also cross-border cooperation, medical evidence preservation, survivor support, and public education."
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "Monet to Matisse 到 Adelaide：当经典现代艺术成为冬季城市事件",
+          "dek": "The Design Files 与 AEDASA 都关注 Art Gallery of South Australia 的 Monet to Matisse: Defying Tradition 展览；两篇合并来看，它既是艺术展，也是城市文化与冬季旅游事件。",
+          "summary": "The Design Files 报道，Monet to Matisse: Defying Tradition 于 7 月 11 日在 Art Gallery of South Australia 开幕，汇集来自 Toledo Museum of Art 的重要作品，涵盖 Monet、van Gogh、Matisse、Picasso、Cézanne、Berthe Morisot、Degas、Mondrian、Rauschenberg、Helen Frankenthaler 等艺术家。展览追踪从印象派到立体主义、超现实主义和抽象表现主义的现代艺术演变。AEDASA 的文章则把它放进 Adelaide winter exhibition 的城市体验语境中。两篇合起来看，这不只是一次“看名画”的机会，也是一种城市文化策划：博物馆、旅游、夜间活动、家庭工作坊、餐饮和地方形象共同组成一个艺术事件。它也提醒我们，在数字图像无处不在的时代，亲眼观看原作仍然有不可替代的身体经验。",
+          "englishLine": "A major exhibition can turn art history into a shared urban experience.",
+          "sourceLinks": [
+            {
+              "label": "The Design Files｜Monet to Matisse",
+              "url": "https://thedesignfiles.net/2026/07/art-monet-to-matisse-art-gallery-south-australia"
+            },
+            {
+              "label": "AEDASA｜Adelaide winter exhibition",
+              "url": "https://www.aedasa.com.au/blog/monet-to-matisse-adelaide-winter-exhibition/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "modern art",
+              "meaning": "现代艺术",
+              "example": "The exhibition traces the evolution of modern art."
+            },
+            {
+              "expression": "urban experience",
+              "meaning": "城市体验",
+              "example": "Museums can turn exhibitions into wider urban experiences."
+            },
+            {
+              "expression": "cultural programming",
+              "meaning": "文化策划；围绕展览、活动和观众体验的整体安排",
+              "example": "Cultural programming connects art, tourism, education, and public space."
+            },
+            {
+              "expression": "see the real thing",
+              "meaning": "亲眼看见原作",
+              "example": "Seeing the real thing can change how viewers understand a painting."
+            }
+          ],
+          "linkedKeywords": [
+            "Monet",
+            "Matisse",
+            "modern art",
+            "Adelaide",
+            "museum"
+          ],
+          "englishTranslation": "The Design Files reports that Monet to Matisse: Defying Tradition opens on July 11 at the Art Gallery of South Australia, bringing together major works from the Toledo Museum of Art. The exhibition includes artists such as Monet, van Gogh, Matisse, Picasso, Cézanne, Berthe Morisot, Degas, Mondrian, Rauschenberg, and Helen Frankenthaler. It traces the evolution of modern art from Impressionism through Cubism, Surrealism, and Abstract Expressionism. The AEDASA article places the exhibition within the context of Adelaide’s winter cultural experience. Read together, the two pieces show that this is not only a chance to see famous paintings. It is also a form of urban cultural programming: museum exhibitions, tourism, night events, family workshops, dining, and local identity all come together to create an art event. The story also reminds us that in an age of endless digital images, seeing original works in person remains an irreplaceable bodily experience."
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "GPT-5.6 Sol 有限预览：模型发布、能力边界与安全栈",
+          "dek": "OpenAI 介绍 GPT-5.6 系列的有限预览，包括 Sol、Terra、Luna，并强调更强能力、分层安全防护和逐步开放。",
+          "summary": "OpenAI 的发布页面显示，GPT-5.6 系列进入有限预览，包括旗舰模型 Sol、日常工作平衡模型 Terra，以及更快、更低成本的 Luna。页面强调 Sol 在 coding、biology workflows 和 cybersecurity 等方面的能力提升，同时也把安全放在发布叙事中心：更强的 cyber safeguards、分层安全栈、自动红队测试、实时检测、账户层面信号和逐步开放。值得注意的是，OpenAI 也说明这次先面向一小组 trusted partners 预览，并表示不认为这种政府访问流程应成为长期默认。对 AI 读者来说，这条新闻不仅是“新模型更强”，而是关于模型发布如何变成一种制度过程：能力、价格、访问权、安全、政府关系和全球用户需求同时被放进同一个发布框架。",
+          "englishLine": "A frontier model release is not only a technical event; it is also a governance event about access, safety, and institutional trust.",
+          "sourceLinks": [
+            {
+              "label": "OpenAI｜Previewing GPT-5.6 Sol",
+              "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "limited preview",
+              "meaning": "有限预览；先向少量用户或合作方开放",
+              "example": "The model is beginning with a limited preview before broader release."
+            },
+            {
+              "expression": "layered safeguard stack",
+              "meaning": "分层安全防护体系",
+              "example": "A layered safeguard stack can reduce misuse risk."
+            },
+            {
+              "expression": "trusted partners",
+              "meaning": "可信合作伙伴",
+              "example": "Access will initially be limited to trusted partners."
+            },
+            {
+              "expression": "broader availability",
+              "meaning": "更广泛开放",
+              "example": "The company plans broader availability in the coming weeks."
+            }
+          ],
+          "linkedKeywords": [
+            "GPT-5.6",
+            "model release",
+            "safety",
+            "access",
+            "AI governance"
+          ],
+          "englishTranslation": "OpenAI’s release page says that the GPT-5.6 series is entering a limited preview. The series includes Sol, the flagship model; Terra, a balanced model for everyday work; and Luna, a faster and lower-cost model. The page emphasizes Sol’s improved capabilities in areas such as coding, biology workflows, and cybersecurity, while also placing safety at the center of the release narrative: stronger cyber safeguards, a layered safeguard stack, automated red-teaming, real-time checks, account-level signals, and phased access. It is also notable that OpenAI says this preview begins with a small group of trusted partners and that it does not believe this kind of government access process should become the long-term default. For AI readers, this story is not simply about a stronger new model. It is about how model releases have become institutional events, where capability, pricing, access, safety, government relations, and global user needs are placed inside the same release framework."
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s briefing is about how public systems define responsibility. A German trial shows that media exposure can enter a courtroom and become part of sentencing. NAIDOC Week shows how memory can become public action. Surge pricing reveals how platforms distribute risk between workers and consumers. Project Medusa shows that gendered violence often hides in gaps of evidence and institutional response. A major exhibition turns art history into an urban experience, while a frontier model release becomes a governance event. To read these stories together is to ask how law, media, markets, culture, and technology decide what counts as harm and who must answer for it.",
+    "chinese": "今天的小报关注公共系统如何定义责任。德国庭审显示，媒体曝光可能进入法庭，并成为量刑的一部分。NAIDOC Week 显示记忆如何成为公共行动。动态定价揭示平台如何在劳动者与消费者之间分配风险。Project Medusa 说明性别暴力常常隐藏在证据与制度回应的缝隙里。一场大型展览把艺术史变成城市体验，而前沿模型发布则成为治理事件。把这些新闻放在一起读，就是在追问：法律、媒体、市场、文化与技术如何决定什么算作伤害，以及谁必须为此负责。"
+  },
+  "keywords": [
+    {
+      "word": "presumption of innocence",
+      "meaning": "无罪推定；在法院作出判决前，被告应被视为无罪的原则",
+      "example": "The presumption of innocence matters even in highly emotional criminal cases."
+    },
+    {
+      "word": "truth-telling",
+      "meaning": "讲述真相；面对历史伤害和不公的公共叙事",
+      "example": "Truth-telling is central to public memory."
+    },
+    {
+      "word": "surge pricing",
+      "meaning": "动态加价；需求高时价格临时上升",
+      "example": "Surge pricing can create distrust when users feel prices are unfair."
+    },
+    {
+      "word": "victim support",
+      "meaning": "受害者支持，包括医疗、法律与心理援助",
+      "example": "Victim support must continue after an investigation begins."
+    },
+    {
+      "word": "limited preview",
+      "meaning": "有限预览；先对部分用户开放的新产品或模型阶段",
+      "example": "A limited preview allows further testing before broader release."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "A frontier model release is not only a technical event; it is also a governance event.",
+    "analysisChinese": "这句话使用 not only... also... 结构，把“技术事件”和“治理事件”并列起来。frontier model release 是主语，technical event 与 governance event 是两个判断。可复用结构：X is not only a Y; it is also a Z."
+  },
+  "reflection": {
+    "heading": "Closing Thought｜今日收束",
+    "body": "今天的小报想留下一个问题：当信息越来越多、平台越来越复杂、技术越来越强时，我们是否也在学习更认真地筛选、更清楚地解释，并更温柔地承担责任？"
+  },
+  "tags": [
+    "presumption of innocence",
+    "personality rights",
+    "media ethics",
+    "German trial",
+    "Berlin court",
+    "WeChat",
+    "NAIDOC",
+    "First Nations",
+    "surge pricing",
+    "gig economy",
+    "Project Medusa",
+    "sexual assault",
+    "Monet",
+    "Matisse",
+    "Adelaide",
+    "GPT-5.6",
+    "AI safety"
+  ],
+  "sources": [
+    {
+      "label": "WeChat｜德国庭审纪实与媒体报道边界",
+      "url": "https://mp.weixin.qq.com/s/rW2elCN8SuvTk5dcj22DmA"
+    },
+    {
+      "label": "SBS News｜50 Years of Deadly",
+      "url": "https://www.sbs.com.au/news/article/50-years-of-deadly-inside-naidoc-week-celebrations/x5snudwmv"
+    },
+    {
+      "label": "The Conversation｜Surge pricing and gig work",
+      "url": "https://theconversation.com/surge-pricing-is-broken-but-theres-a-smarter-way-to-match-gig-workers-with-consumers-285976"
+    },
+    {
+      "label": "Europol｜Project Medusa",
+      "url": "https://www.europol.europa.eu/operations-services-and-innovation/operations/project-medusa"
+    },
+    {
+      "label": "Europol｜156 individuals identified",
+      "url": "https://www.europol.europa.eu/media-press/newsroom/news/156-individuals-identified-in-first-of-its-kind-drug-facilitated-sexual-assaults-operation"
+    },
+    {
+      "label": "The Design Files｜Monet to Matisse",
+      "url": "https://thedesignfiles.net/2026/07/art-monet-to-matisse-art-gallery-south-australia"
+    },
+    {
+      "label": "AEDASA｜Adelaide winter exhibition",
+      "url": "https://www.aedasa.com.au/blog/monet-to-matisse-adelaide-winter-exhibition/"
+    },
+    {
+      "label": "OpenAI｜Previewing GPT-5.6 Sol",
+      "url": "https://openai.com/index/previewing-gpt-5-6-sol/"
+    }
+  ],
+  "rawText": ""
+}

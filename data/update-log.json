@@ -2,10 +2,18 @@
   {
     "date": "2026-07-07",
     "title": "Editorial note",
-    "description": "从 2026 年 7 月 7 日起，每日小报的新闻来源由开发者人工筛选与整理，以保持主题更清晰、来源更克制、阅读体验更稳定。",
+    "description": "从 2026 年 7 月 7 日起，每日小报的新闻来源由开发者人工筛选与整理，以保持主题更清晰、来源更克制、阅读体验更稳定。Starting July 7, 2026, each Daily Compass briefing is manually selected and edited by the developer to keep the themes clearer, the sources more focused, and the reading experience more stable.",
     "type": "editorial",
     "relatedDate": "2026-07-07",
     "link": ""
+  },
+  {
+    "date": "2026-07-13",
+    "title": "Published July 13 briefing",
+    "description": "Updated the July 13 Daily Compass with full English translations, covering a German court case where Chinese media reporting became sentencing material, NAIDOC Week, surge pricing, Project Medusa, Monet to Matisse, and GPT-5.6 Sol.",
+    "type": "briefing",
+    "relatedDate": "2026-07-13",
+    "link": "briefing.html?date=2026-07-13"
   },
   {
     "date": "2026-07-10",

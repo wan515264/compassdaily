@@ -274,7 +274,6 @@ function renderBriefing(briefing) {
       </section>
     `
     : "";
-  const detailTitle = briefing.title || SITE_TITLE;
   const metaParts = [briefing.date, briefing.type, briefing.theme || briefing.subtitle].filter(Boolean);
   const introHeading = briefing.intro?.heading || "中文导读 / Chinese Intro";
   const introText = briefing.introChinese || briefing.intro?.body || "";
@@ -290,8 +289,6 @@ function renderBriefing(briefing) {
 
   briefingDetail.innerHTML = `
     <span class="topic-pill">今日小报</span>
-    <h2 class="detail-title">${detailTitle}</h2>
-    ${briefing.subtitle ? `<p class="detail-subtitle">${briefing.subtitle}</p>` : ""}
     <p class="meta">${metaParts.join(" · ")}</p>
     ${topicTags}
     ${topSources}
