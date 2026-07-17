@@ -1,0 +1,411 @@
+{
+  "date": "2026-07-17",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "退休社群、极端降雨、长期战争、海南燃油车禁售、军事阳刚气质、史诗电影与AI平台竞争",
+  "introChinese": "今天的小报关键词是：systems under pressure（承压中的系统）。从中国退休者寻找新的社群生活，到气候变化加剧暴雨与山洪；从伊朗问题把美国拖入更长战争的风险，到海南推动燃油车禁售；从军队中的睾酮筛查想象，到《奥德赛》被重新拍成现代史诗，再到欧盟要求 Google 向 AI 竞争者开放 Android，我们看到的不是单个事件，而是制度、市场、身体、气候和平台结构在压力下如何重新排列。",
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "退休之后，人仍然需要社群：老年生活正在被重新组织",
+          "dek": "Sixth Tone 关注中国退休者的社群生活。退休不只是离开工作，也是在重新寻找身份、节奏和人与人的连接。",
+          "summary": "Sixth Tone 的报道把我们带到退休生活的一个细小但重要的现场：当工作不再定义一天的结构，人仍然需要新的时间表、新的朋友、新的身体活动和新的公共空间。中国正在快速进入老龄社会，但“养老”不应只被理解为医疗、照护和家庭责任。许多退休者真正需要的，是能让他们继续参与社会的社群：一起学习、锻炼、旅行、唱歌、跳舞、聊天，或者只是有一个固定出现的地方。这个新闻提醒我们，老年并不等于被动等待照顾。退休者也在主动组织生活，创造新的关系网络，并重新定义什么叫有意义的一天。对城市和公共政策来说，关键问题是：有没有足够温和、可进入、价格可承受的空间，让人在人生后半段继续被看见、被需要、被连接？",
+          "englishLine": "Retirement is not only an exit from work; it is also a search for new rhythms, communities, and forms of social belonging.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Retirement communities",
+              "url": "https://www.sixthtone.com/news/1018772"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "retirement community",
+              "meaning": "退休社群",
+              "example": "Retirement communities can help older adults maintain social connection."
+            },
+            {
+              "expression": "active ageing",
+              "meaning": "积极老龄化",
+              "example": "Active ageing emphasizes participation, health, and dignity."
+            },
+            {
+              "expression": "social belonging",
+              "meaning": "社会归属感",
+              "example": "Social belonging is important after people leave full-time work."
+            }
+          ],
+          "linkedKeywords": [
+            "retirement",
+            "ageing",
+            "community",
+            "belonging"
+          ],
+          "englishTranslation": "The Sixth Tone report brings us into a small but important scene of retirement life: when work no longer defines the structure of the day, people still need new schedules, new friends, new bodily routines, and new public spaces. China is rapidly becoming an ageing society, but “elder care” should not be understood only as medicine, caregiving, and family responsibility. What many retirees need is a form of community that allows them to keep participating in society: learning, exercising, travelling, singing, dancing, chatting, or simply having a place where they regularly appear. This story reminds us that old age does not mean passively waiting to be cared for. Retirees are also actively organizing life, creating new networks of relationship, and redefining what a meaningful day can be. For cities and public policy, the key question is whether there are enough gentle, accessible, and affordable spaces where people can continue to be seen, needed, and connected in the second half of life."
+        },
+        {
+          "title": "暴雨与山洪：气候变化正在改变灾害发生的速度",
+          "dek": "The Guardian 关注气候变化、极端降雨与 flash floods。更热的大气让暴雨更强，也让城市和预警系统承受更大压力。",
+          "summary": "The Guardian 的报道指出，气候变化正在改变暴雨和山洪的风险结构。更温暖的大气可以容纳更多水汽，因此强降雨事件更容易在短时间内释放大量雨水。问题不只是“雨更大”，而是灾害发生的速度更快、空间更局部、预警更困难。山洪尤其危险，因为它可以在很短时间内把道路、营地、低洼社区和排水系统变成风险现场。对普通人来说，这类新闻提醒我们：气候变化不是遥远的平均温度曲线，而是越来越频繁地进入日常基础设施。城市排水、气象预警、土地使用、保险制度、应急通信和社区互助都必须重新适应新的降雨现实。",
+          "englishLine": "Extreme rainfall turns climate change from an abstract temperature trend into an immediate infrastructure problem.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Climate change, rains, and flash floods",
+              "url": "https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "flash flood",
+              "meaning": "山洪；突发性洪水",
+              "example": "Flash floods can develop rapidly after intense rainfall."
+            },
+            {
+              "expression": "extreme rainfall",
+              "meaning": "极端降雨",
+              "example": "Extreme rainfall is becoming more common in a warming climate."
+            },
+            {
+              "expression": "flood preparedness",
+              "meaning": "洪水应对准备",
+              "example": "Flood preparedness includes warning systems, drainage, and evacuation plans."
+            }
+          ],
+          "linkedKeywords": [
+            "climate change",
+            "flash floods",
+            "infrastructure",
+            "preparedness"
+          ],
+          "englishTranslation": "The Guardian report points out that climate change is changing the risk structure of heavy rain and flash floods. A warmer atmosphere can hold more water vapour, which means intense rainfall events can release large amounts of rain in a short period of time. The problem is not only that “the rain is heavier.” It is also that disasters can happen faster, become more localized, and become harder to warn against. Flash floods are especially dangerous because roads, campsites, low-lying communities, and drainage systems can become risk zones in a very short time. For ordinary readers, this kind of news reminds us that climate change is not a distant curve of average temperatures. It is increasingly entering everyday infrastructure. Urban drainage, weather warnings, land use, insurance systems, emergency communication, and community mutual aid all have to adapt to a new rainfall reality."
+        },
+        {
+          "title": "伊朗问题与美国长期战争风险：短期愿望无法取消战略牵连",
+          "dek": "The Conversation 的文章标题提醒我们：即使政治领导人希望快速抽身，地区冲突也可能把美国拖入更长的战争结构。",
+          "summary": "The Conversation 的标题提出了一个值得注意的判断：尽管特朗普希望避免被拖入长期战争，伊朗问题仍可能把美国卷进更持久的冲突结构。这类文章最适合从“战略牵连”来理解。中东冲突很少只由一次打击、一次谈判或一句强硬表态决定。它往往涉及盟友关系、能源通道、核问题、地区代理力量、国内政治和威慑逻辑。领导人可以希望战争短促、成本可控、目标明确，但现实中的冲突经常会自我延长：每一次升级都需要回应，每一次回应又制造新的风险。读这条新闻时，重要的不是预测下一步一定会发生什么，而是理解“long war”这个表达：它指的是一种政治和军事系统，一旦进入，就很难按个人意愿简单退出。",
+          "englishLine": "A long war is not only a military timeline; it is a system of alliances, retaliation, deterrence, and political pressure.",
+          "sourceLinks": [
+            {
+              "label": "The Conversation｜Iran and long war",
+              "url": "https://theconversation.com/despite-trumps-wishes-iran-is-dragging-the-us-into-a-long-war-287163"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "long war",
+              "meaning": "长期战争",
+              "example": "A long war can continue even when leaders prefer a quick exit."
+            },
+            {
+              "expression": "strategic entanglement",
+              "meaning": "战略牵连",
+              "example": "Strategic entanglement makes it difficult for a country to disengage."
+            },
+            {
+              "expression": "deterrence logic",
+              "meaning": "威慑逻辑",
+              "example": "Deterrence logic can make each side feel pressure to respond."
+            }
+          ],
+          "linkedKeywords": [
+            "Iran",
+            "long war",
+            "strategic entanglement",
+            "deterrence"
+          ],
+          "englishTranslation": "The title of the Conversation article makes an important claim: although Trump may want to avoid being pulled into a long war, the Iran issue may still draw the United States into a more durable structure of conflict. This kind of article is best understood through the idea of strategic entanglement. Conflict in the Middle East is rarely determined by a single strike, a single negotiation, or a single hard-line statement. It often involves alliances, energy routes, nuclear issues, regional proxy forces, domestic politics, and the logic of deterrence. A leader may want a war to be short, controllable, and clearly defined. But in reality, conflict often extends itself: every escalation requires a response, and every response creates new risks. When reading this story, the point is not to predict exactly what will happen next. The point is to understand the phrase “long war”: it describes a political and military system that becomes difficult to leave once a country enters it."
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "海南 2030 年禁售燃油车：新能源转型也是财政、基础设施与市场重排",
+          "dek": "Sixth Tone 报道，海南将从 2030 年起禁止销售燃油车，成为中国首个实施此类禁售的省份。",
+          "summary": "Sixth Tone 报道，海南将从 2030 年起禁止销售燃油车，新售车辆将以新能源汽车为主。这条新闻表面上是交通政策，放进金融与市场栏目里读，则更像一场地方经济结构调整。海南是岛屿省份，地理边界清晰，气候较温暖，环岛出行距离相对适合电动车，因此更容易成为试点。但禁售燃油车并不只是消费者换车的问题。它涉及充电桩建设、电网承载、汽车销售结构、旅游租车、公交出租系统、燃油附加费、道路维护资金以及石油消费下降后的财政安排。报道也提到，海南长期把养路费和通行费纳入燃油附加费，燃油车减少后，维护资金来源也会变化。新能源转型的真正难点往往在这里：当旧系统的收入、基础设施和习惯被改变，新系统必须同时解决便利性、公平性和公共财政问题。",
+          "englishLine": "The EV transition is not only about cleaner cars; it also rearranges infrastructure, public finance, and everyday mobility.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Hainan gas-powered vehicle ban",
+              "url": "https://www.sixthtone.com/news/1018782"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "gas-powered vehicles",
+              "meaning": "燃油车",
+              "example": "Hainan plans to ban the sale of gas-powered vehicles from 2030."
+            },
+            {
+              "expression": "EV adoption",
+              "meaning": "电动车普及",
+              "example": "EV adoption depends on charging infrastructure and consumer confidence."
+            },
+            {
+              "expression": "public finance",
+              "meaning": "公共财政",
+              "example": "Public finance can be affected when fuel-related revenue declines."
+            },
+            {
+              "expression": "structural transition",
+              "meaning": "结构性转型",
+              "example": "A structural transition changes markets, habits, and infrastructure together."
+            }
+          ],
+          "linkedKeywords": [
+            "EV",
+            "Hainan",
+            "transport",
+            "public finance",
+            "energy transition"
+          ],
+          "englishTranslation": "Sixth Tone reports that Hainan will ban the sale of gasoline-powered vehicles from 2030, making new vehicle sales increasingly centered on electric vehicles. On the surface, this is a transport policy. But in the Finance & Markets section, it reads more like a local economic restructuring. Hainan is an island province with clear geographic boundaries, a warm climate, and travel distances that are relatively suitable for electric vehicles, which makes it easier to use as a pilot region. But banning gasoline-powered vehicles is not only about consumers buying different cars. It involves charging stations, grid capacity, car sales structures, tourism car rentals, bus and taxi systems, fuel surcharges, road-maintenance funding, and fiscal arrangements after oil consumption declines. The report also notes that Hainan has long bundled road-maintenance fees and tolls into a fuel surcharge. As the number of gasoline-powered vehicles falls, the source of maintenance funding will also change. The real difficulty of the new-energy transition often lies here: when the revenue, infrastructure, and habits of the old system are changed, the new system must solve convenience, fairness, and public-finance problems at the same time."
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "睾酮、军队与阳刚气质：把战斗力还原成激素指标的危险",
+          "dek": "The Guardian 评论 Pete Hegseth 与军队 testosterone screening 争议，指出身体指标如何被用来重新定义军事能力和性别秩序。",
+          "summary": "The Guardian 的评论文章围绕 Pete Hegseth、军队和 testosterone screening 展开。它值得放进性别视角，因为这里讨论的不是单纯的体检技术，而是“什么样的身体被认为适合保卫国家”。当睾酮被想象成勇气、战斗力、纪律和领导力的生物基础，军事能力就可能被重新编码成一种狭窄的阳刚气质。问题在于，军队真正需要的能力远不止激素水平：判断力、协作、技术训练、心理韧性、伦理责任和长期健康同样重要。把复杂能力简化成生物指标，容易强化 biological essentialism（生物本质主义），也可能排除女性、跨性别者、非典型身体和不符合传统阳刚想象的男性。性别政治常常就藏在这样的制度细节里：一项看似中性的筛查，可能重新划定谁被认为强壮、正常、可靠，以及谁被认为不够资格。",
+          "englishLine": "A biological test can become a cultural test of who is allowed to count as strong, normal, and fit to serve.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Pete Hegseth and testosterone screening",
+              "url": "https://www.theguardian.com/commentisfree/2026/jul/16/pete-hegseth-testosterone-screening-troops"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "testosterone screening",
+              "meaning": "睾酮筛查",
+              "example": "Testosterone screening can become politically charged in military settings."
+            },
+            {
+              "expression": "military readiness",
+              "meaning": "军事准备状态；战备能力",
+              "example": "Military readiness includes training, judgment, coordination, and health."
+            },
+            {
+              "expression": "biological essentialism",
+              "meaning": "生物本质主义",
+              "example": "Biological essentialism reduces social ability to bodily traits."
+            },
+            {
+              "expression": "gendered standards",
+              "meaning": "带有性别预设的标准",
+              "example": "Gendered standards can exclude people who do not fit traditional norms."
+            }
+          ],
+          "linkedKeywords": [
+            "testosterone",
+            "military",
+            "masculinity",
+            "biological essentialism"
+          ],
+          "englishTranslation": "The Guardian opinion piece focuses on Pete Hegseth, the military, and testosterone screening. It belongs in the Gender Perspective section because the issue is not simply a medical test. It is about what kind of body is considered fit to defend the nation. When testosterone is imagined as the biological basis of courage, combat ability, discipline, and leadership, military capacity can be recoded into a narrow idea of masculinity. The problem is that the military needs far more than hormone levels: judgment, cooperation, technical training, psychological resilience, ethical responsibility, and long-term health also matter. Reducing complex ability to a biological indicator can reinforce biological essentialism. It can also exclude women, trans people, non-normative bodies, and men who do not fit traditional ideas of masculinity. Gender politics often hides in institutional details like this. A seemingly neutral screening tool may redraw the boundary around who is considered strong, normal, reliable, and qualified."
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "《奥德赛》被重新拍成大片：古典史诗如何进入当代电影机器",
+          "dek": "TIME 与 NPR 都评论 Christopher Nolan 的 The Odyssey。一个古老归乡故事，被重新放进现代电影工业、明星表演和大银幕奇观之中。",
+          "summary": "TIME 和 NPR 对 Christopher Nolan 的 The Odyssey 的评论可以合在一起读：这不只是一部电影评论，也是一场关于古典文本如何被当代电影工业重新组织的讨论。《奥德赛》原本就是关于归乡、诱惑、迷失、暴力、记忆和身份的史诗。Nolan 这样的导演把它拍成大银幕作品时，观众看的不仅是故事本身，也是在看现代电影如何处理 mythic scale（神话尺度）：怎样让古老文本变成视觉奇观，怎样让英雄旅程重新获得当代情绪，怎样在熟悉的故事里制造新的节奏。NPR 的评论标题称它是只有 Nolan 能拍出的史诗，TIME 的评论则把影片放进更广阔的文化期待中。对文化栏目来说，这条新闻提醒我们：改编从来不是简单复述。每一次重新讲述经典，都是在回答一个时代如何想象英雄、命运、归家与电影本身。",
+          "englishLine": "A classical epic becomes contemporary again when a new medium changes its scale, rhythm, and emotional address.",
+          "sourceLinks": [
+            {
+              "label": "TIME｜The Odyssey review",
+              "url": "https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/"
+            },
+            {
+              "label": "NPR｜The Odyssey movie review",
+              "url": "https://www.npr.org/2026/07/17/nx-s1-5872759/the-odyssey-movie-review-christopher-nolan"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "epic adaptation",
+              "meaning": "史诗改编",
+              "example": "An epic adaptation must balance ancient material with modern cinematic language."
+            },
+            {
+              "expression": "mythic scale",
+              "meaning": "神话尺度；宏大的神话感",
+              "example": "The film uses visual spectacle to create mythic scale."
+            },
+            {
+              "expression": "source material",
+              "meaning": "原始文本；改编来源",
+              "example": "Directors often reinterpret source material for a new audience."
+            },
+            {
+              "expression": "cinematic spectacle",
+              "meaning": "电影奇观",
+              "example": "Cinematic spectacle can make an old story feel newly immediate."
+            }
+          ],
+          "linkedKeywords": [
+            "The Odyssey",
+            "Christopher Nolan",
+            "film review",
+            "adaptation",
+            "myth"
+          ],
+          "englishTranslation": "The TIME and NPR reviews of Christopher Nolan’s The Odyssey can be read together. This is not only a film-review story. It is also a discussion of how a classical text is reorganized by the contemporary film industry. The Odyssey has always been an epic about homecoming, temptation, wandering, violence, memory, and identity. When a director such as Nolan turns it into a big-screen work, audiences are not only watching the story itself. They are also watching how modern cinema handles mythic scale: how an ancient text becomes visual spectacle, how the hero’s journey receives contemporary emotion, and how a familiar story gains a new rhythm. NPR’s title describes it as the epic only Nolan could make, while TIME places the film inside a broader field of cultural expectation. For the culture section, this story reminds us that adaptation is never simple repetition. Every retelling of a classic answers a question about how one era imagines heroism, fate, homecoming, and cinema itself."
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "欧盟要求 Google 向 AI 竞争者开放 Android：平台入口也是权力入口",
+          "dek": "Engadget 报道，欧盟要求 Google 给 AI 竞争者更多 Android 访问权。这是 AI 时代平台竞争的新版本。",
+          "summary": "Engadget 的报道显示，欧盟正在要求 Google 向 AI 竞争者提供更多 Android 访问权。这条新闻表面上是技术接口和移动操作系统的问题，本质上却是 platform gatekeeping（平台守门权）的问题。Android 是数十亿用户进入移动互联网的入口。如果某家公司控制默认设置、系统权限、助手入口、应用分发和数据连接，它就不仅是在提供操作系统，也是在决定哪些 AI 服务更容易被看见、被调用、被信任。欧盟的要求延续了近几年数字监管的核心思路：大型平台不能利用基础设施位置，把后来者永远挡在门外。AI 竞争越是进入手机、浏览器和操作系统，interoperability（互操作性）就越重要。真正的问题不是用户能不能下载另一个 AI 工具，而是系统是否给不同服务公平出现和运行的机会。",
+          "englishLine": "In the AI era, control over the operating system can become control over which intelligence reaches users first.",
+          "sourceLinks": [
+            {
+              "label": "Engadget｜EU demands Android access for AI rivals",
+              "url": "https://www.engadget.com/2216454/eu-demands-google-give-ai-rivals-more-access-to-android/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "platform gatekeeping",
+              "meaning": "平台守门权；平台控制入口和可见性的能力",
+              "example": "Platform gatekeeping can shape which services users discover first."
+            },
+            {
+              "expression": "AI rivals",
+              "meaning": "AI 竞争者",
+              "example": "Regulators want AI rivals to have fair access to mobile ecosystems."
+            },
+            {
+              "expression": "interoperability",
+              "meaning": "互操作性；不同系统之间协同运行的能力",
+              "example": "Interoperability is central to competition in digital markets."
+            },
+            {
+              "expression": "Android ecosystem",
+              "meaning": "Android 生态系统",
+              "example": "The Android ecosystem includes devices, apps, services, and system permissions."
+            }
+          ],
+          "linkedKeywords": [
+            "Google",
+            "Android",
+            "AI competition",
+            "EU regulation",
+            "interoperability"
+          ],
+          "englishTranslation": "The Engadget report shows that the European Union is demanding that Google give AI rivals more access to Android. On the surface, this is a story about technical interfaces and mobile operating systems. At a deeper level, it is about platform gatekeeping. Android is an entry point through which billions of users enter the mobile internet. If one company controls default settings, system permissions, assistant entry points, app distribution, and data connections, it is not only providing an operating system. It is also deciding which AI services are easier to see, use, and trust. The EU’s demand continues a central idea in recent digital regulation: large platforms should not use their infrastructure position to keep later competitors permanently outside the gate. As AI competition moves into phones, browsers, and operating systems, interoperability becomes increasingly important. The real question is not only whether users can download another AI tool. It is whether the system gives different services a fair chance to appear and function."
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s news shows how pressure reveals the hidden structure of systems. Retirement communities reveal that ageing is not only a private family matter, but also a question of public space and social belonging. Flash floods reveal that climate change is now testing drainage, warning systems, and emergency planning. EV policy in Hainan reveals that the energy transition changes public finance as well as consumer choice. Gender debates in the military reveal how biological language can become a political standard. And the EU’s pressure on Google shows that AI competition depends not only on better models, but also on access to the platforms where users actually live.",
+    "chinese": "今天的新闻让我们看到，压力会让系统背后的结构浮现出来。退休社群说明，老龄化不只是私人家庭问题，也关乎公共空间和社会归属。山洪说明，气候变化正在考验排水、预警和应急规划。海南的新能源车政策说明，能源转型改变的不只是消费者选择，也包括公共财政。军队中的性别争议说明，生物语言可能变成政治标准。欧盟对 Google 的施压则说明，AI 竞争不仅取决于模型更好，也取决于谁能进入用户真正生活的平台入口。"
+  },
+  "keywords": [
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；支撑社会、技术或公共生活运行的系统",
+      "example": "Climate change is putting pressure on urban infrastructure."
+    },
+    {
+      "word": "belonging",
+      "meaning": "归属感；被连接、被接纳、被需要的状态",
+      "example": "Retirement communities can create a stronger sense of belonging."
+    },
+    {
+      "word": "transition",
+      "meaning": "转型；从一种系统或状态转向另一种系统或状态",
+      "example": "The EV transition changes markets, infrastructure, and public finance."
+    },
+    {
+      "word": "gatekeeping",
+      "meaning": "守门；控制入口、可见性和机会的权力",
+      "example": "Platform gatekeeping can limit competition in AI services."
+    },
+    {
+      "word": "essentialism",
+      "meaning": "本质主义；把复杂社会能力归结为固定本质的思维方式",
+      "example": "Biological essentialism can turn gender assumptions into institutional rules."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "Extreme rainfall turns climate change from an abstract temperature trend into an immediate infrastructure problem.",
+    "analysisChinese": "这句话的主干是 Extreme rainfall turns A into B，意思是“极端降雨把 A 变成 B”。from an abstract temperature trend 说明气候变化原本容易被理解成抽象趋势；into an immediate infrastructure problem 强调它已经变成排水、道路、预警和城市系统必须面对的现实问题。"
+  },
+  "reflection": {
+    "english": "A system often looks stable until pressure makes its hidden dependencies visible.",
+    "chinese": "一个系统常常看起来稳定，直到压力让它隐藏的依赖关系浮出水面。"
+  },
+  "tags": [
+    "Sixth Tone",
+    "retirement",
+    "active ageing",
+    "climate change",
+    "flash floods",
+    "Iran",
+    "long war",
+    "Hainan",
+    "EV transition",
+    "testosterone",
+    "masculinity",
+    "The Odyssey",
+    "Christopher Nolan",
+    "Google",
+    "Android",
+    "AI competition",
+    "EU regulation"
+  ],
+  "sources": [
+    {
+      "label": "Sixth Tone｜Retirement communities",
+      "url": "https://www.sixthtone.com/news/1018772"
+    },
+    {
+      "label": "The Guardian｜Climate change, rains, and flash floods",
+      "url": "https://www.theguardian.com/us-news/2026/jul/17/climate-change-rains-flash-floods"
+    },
+    {
+      "label": "The Conversation｜Iran and long war",
+      "url": "https://theconversation.com/despite-trumps-wishes-iran-is-dragging-the-us-into-a-long-war-287163"
+    },
+    {
+      "label": "Sixth Tone｜Hainan gas-powered vehicle ban",
+      "url": "https://www.sixthtone.com/news/1018782"
+    },
+    {
+      "label": "The Guardian｜Pete Hegseth and testosterone screening",
+      "url": "https://www.theguardian.com/commentisfree/2026/jul/16/pete-hegseth-testosterone-screening-troops"
+    },
+    {
+      "label": "TIME｜The Odyssey review",
+      "url": "https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/"
+    },
+    {
+      "label": "NPR｜The Odyssey movie review",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5872759/the-odyssey-movie-review-christopher-nolan"
+    },
+    {
+      "label": "Engadget｜EU demands Android access for AI rivals",
+      "url": "https://www.engadget.com/2216454/eu-demands-google-give-ai-rivals-more-access-to-android/"
+    }
+  ]
+}
