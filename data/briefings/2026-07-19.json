@@ -1,0 +1,450 @@
+{
+  "date": "2026-07-19",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "住宅火灾、印度教育抗议、芯片股抛售、信息速度差、阿富汗童婚、爱尔兰深时文学与硅谷科幻想象",
+  "introChinese": "今天的小报关键词是：fragile systems（脆弱系统）。挪威住宅火灾让人看见安全系统如何被风、热和住宅密度考验；印度教育抗议显示考试、公平和青年信任如何连成政治问题；金融市场里，AI 芯片股抛售和 Truth Social 高速信息服务提醒我们，资本不仅追逐未来，也追逐信息速度差；阿富汗童婚新闻让性别、贫困和教育禁令交织成令人痛心的现实；《The Red Mouth》把爱尔兰沼泽写成深时记忆；Aeon 则批评硅谷从科幻中偷走美学，却常常丢掉其中的民主、警示和伦理核心。",
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "挪威现代史上最大住宅火灾：当安全系统遇到风、热与住宅密度",
+          "dek": "ABC Australia 与 AP 报道，挪威南部 Drammen 附近一场大火烧毁超过 100 栋住宅，数百人被迫撤离。",
+          "summary": "挪威南部 Drammen 附近的 Krokstadelva 村发生大规模住宅火灾，火势从一栋联排住宅开始，随后蔓延到周边房屋和附近森林。超过 100 栋住宅被毁，数百名居民撤离到安置中心或亲友家中。挪威民防部门称，这是该国现代史上同类住宅火灾中规模最大的一次。幸运的是，目前没有居民被报告失踪。这个事件让我们看到，灾害不是单个火点的问题，而是住宅结构、风力、天气、消防资源、疏散安排和社区韧性共同承受压力的结果。挪威通常被想象成寒冷、秩序良好和基础设施可靠的国家，但这场火灾提醒我们：在极端天气和复杂居住结构面前，任何社会的安全系统都可能被迅速测试。",
+          "englishLine": "A residential fire becomes a systems story when wind, heat, housing density, and evacuation capacity collide.",
+          "sourceLinks": [
+            {
+              "label": "ABC News｜Norway residential fire",
+              "url": "https://www.abc.net.au/news/2026-07-19/norway-massive-fire-largest-in-modern-times/106931942"
+            },
+            {
+              "label": "AP News｜Norway fire",
+              "url": "https://apnews.com/article/50b5e38bb46051faf8cb98a477127d86"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "residential fire",
+              "meaning": "住宅火灾",
+              "example": "The residential fire destroyed more than 100 homes."
+            },
+            {
+              "expression": "mass evacuation",
+              "meaning": "大规模疏散",
+              "example": "Authorities organized a mass evacuation as the fire spread."
+            },
+            {
+              "expression": "civil protection",
+              "meaning": "民防；公共安全保护",
+              "example": "Civil protection agencies assess risks during large disasters."
+            },
+            {
+              "expression": "community resilience",
+              "meaning": "社区韧性",
+              "example": "Community resilience matters when residents need shelter and support."
+            }
+          ],
+          "linkedKeywords": [
+            "Norway",
+            "fire",
+            "evacuation",
+            "civil protection",
+            "community resilience"
+          ],
+          "englishTranslation": "A large residential fire broke out in Krokstadelva near Drammen in southern Norway. The fire began in a townhouse and then spread to nearby homes and surrounding forest. More than 100 homes were destroyed, and hundreds of residents were evacuated to a shelter centre or to the homes of friends and relatives. Norway’s civil protection authorities described it as the largest residential fire of its kind in the country’s modern history. Fortunately, no residents have been reported missing so far. The incident shows that a disaster is not only about a single point of ignition. It is also the result of pressure on housing design, wind conditions, weather, firefighting resources, evacuation arrangements, and community resilience. Norway is often imagined as cold, orderly, and supported by reliable infrastructure. But this fire reminds us that in the face of extreme conditions and complex residential environments, the safety systems of any society can be tested very quickly."
+        },
+        {
+          "title": "印度教育抗议升级：绝食、考试丑闻与青年公共信任",
+          "dek": "ABC Australia 与 AP 报道，印度活动人士 Sonam Wangchuk 在绝食约 20 天后被警方强制送医，抗议焦点是影响数百万学生的考试泄题丑闻。",
+          "summary": "印度活动人士、工程师 Sonam Wangchuk 因绝食抗议身体恶化，被警方从新德里 Jantar Mantar 抗议现场移送医院。他的行动与 Cockroach Janta Party 及学生抗议相关，诉求指向医学入学考试泄题丑闻、教育部长辞职以及教育系统问责。报道提到，这场考试风波影响了超过 200 万学生，并与多起学生自杀事件联系在一起。绝食抗议之所以引发全国关注，是因为它把一个看似技术性的考试管理问题，变成了公共信任问题：如果年轻人觉得竞争规则被破坏，教育就不再只是上升通道，而会变成压力、羞辱和愤怒的来源。警方以健康风险和法院指令为由送医，但抗议者认为这是强制压制。这条新闻最值得读的是：当制度无法让人相信公平仍然存在，身体本身就可能成为最后的抗议语言。",
+          "englishLine": "When young people lose faith in educational fairness, the body can become a final language of protest.",
+          "sourceLinks": [
+            {
+              "label": "ABC News｜Sonam Wangchuk hunger strike",
+              "url": "https://www.abc.net.au/news/2026-07-18/indian-activist-sonam-wangchuk-hospitalised-by-police/106931802"
+            },
+            {
+              "label": "AP News｜Cockroach Party activist hospitalized",
+              "url": "https://apnews.com/article/0bb7c16a58f21649fb5df72db9714c31"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "hunger strike",
+              "meaning": "绝食抗议",
+              "example": "The activist was taken to hospital after a prolonged hunger strike."
+            },
+            {
+              "expression": "examination scandal",
+              "meaning": "考试丑闻",
+              "example": "The examination scandal affected millions of students."
+            },
+            {
+              "expression": "public trust",
+              "meaning": "公共信任",
+              "example": "Public trust collapses when people believe the rules are unfair."
+            },
+            {
+              "expression": "education reform",
+              "meaning": "教育改革",
+              "example": "Student groups called for education reform and accountability."
+            }
+          ],
+          "linkedKeywords": [
+            "India",
+            "education",
+            "hunger strike",
+            "public trust",
+            "youth protest"
+          ],
+          "englishTranslation": "Indian activist and engineer Sonam Wangchuk was moved from the protest site at Jantar Mantar in New Delhi to a hospital after his health deteriorated during a hunger strike. His action is connected to the Cockroach Janta Party and student protests demanding accountability over a medical entrance examination scandal, including calls for the resignation of India’s education minister. Reports say the exam controversy affected more than two million students and has been linked to several student suicides. The hunger strike has drawn national attention because it turns what may seem like a technical problem of exam administration into a question of public trust. If young people believe that the rules of competition have been broken, education no longer feels like a path of mobility. It becomes a source of pressure, humiliation, and anger. Police said Wangchuk was hospitalized because of health risks and a court directive, while protesters described the move as coercive. The most important point in this story is that when institutions fail to convince people that fairness still exists, the body itself can become the final language of protest."
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "全球科技股下跌：AI 芯片叙事开始接受市场压力测试",
+          "dek": "The Guardian 的市场直播显示，全球科技股和半导体股票下跌，投资者重新评估 AI 热潮、芯片估值和资本开支。",
+          "summary": "全球市场在 7 月中旬出现科技股和芯片股抛售。The Guardian 的市场报道提到，半导体板块跌幅加深，AI 相关股票承受压力，投资者开始怀疑高估值和巨额资本开支是否能被未来收益支撑。金融栏目读这条新闻，不是为了判断某只股票应该买入还是卖出，而是为了理解市场叙事如何变化。过去几个月，AI 经常被讲成无限增长的基础设施故事：更多模型、更多芯片、更多数据中心、更多算力需求。但市场会反复追问一个朴素问题：这些投入什么时候转化为现金流、利润和稳定需求？当叙事过热时，价格调整并不一定说明 AI 不重要，而是说明资本开始要求未来想象回到财务现实。AI 产业的关键矛盾正在变得清楚：技术可能继续进步，但投资者不一定愿意无限期为尚未兑现的未来付费。",
+          "englishLine": "A tech sell-off does not mean AI is irrelevant; it means investors are asking whether the future can justify today’s prices.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Global tech stocks fall",
+              "url": "https://www.theguardian.com/business/live/2026/jul/17/global-tech-stocks-fall-chip-sell-off-burberry-sales-boost-economy-latest-news"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "tech sell-off",
+              "meaning": "科技股抛售",
+              "example": "The tech sell-off reflected concerns about high valuations."
+            },
+            {
+              "expression": "chip stocks",
+              "meaning": "芯片股",
+              "example": "Chip stocks came under pressure as investors questioned AI spending."
+            },
+            {
+              "expression": "capital expenditure",
+              "meaning": "资本开支",
+              "example": "AI infrastructure requires large capital expenditure."
+            },
+            {
+              "expression": "market narrative",
+              "meaning": "市场叙事",
+              "example": "A market narrative can change quickly when earnings expectations shift."
+            }
+          ],
+          "linkedKeywords": [
+            "tech stocks",
+            "chip sell-off",
+            "AI investment",
+            "valuation"
+          ],
+          "englishTranslation": "Global markets saw a sell-off in technology and semiconductor stocks in mid-July. The Guardian’s market coverage reported that losses in the semiconductor sector deepened, AI-related shares came under pressure, and investors began to question whether high valuations and huge capital expenditures could be supported by future earnings. In the Finance & Markets section, this story is not about deciding whether to buy or sell a particular stock. It is about understanding how market narratives change. In recent months, AI has often been described as an infrastructure story of unlimited growth: more models, more chips, more data centres, and more demand for computing power. But markets repeatedly ask a simple question: when will these investments become cash flow, profit, and stable demand? When a narrative becomes overheated, price adjustment does not necessarily mean that AI is unimportant. It means that capital is asking future imagination to return to financial reality. The central tension in the AI industry is becoming clearer: technology may continue to advance, but investors may not be willing to pay indefinitely for a future that has not yet arrived."
+        },
+        {
+          "title": "Truth Social 高速信息服务：信息速度差如何变成金融商品",
+          "dek": "The Guardian 报道，Trump Media 计划向交易公司和机构出售 Truth Social 帖子的高速访问权，引发腐败与市场公平争议。",
+          "summary": "Trump Media 计划推出 Truth API，向华尔街交易公司和其他机构出售对 Truth Social 重要帖子的高速访问服务。这个产品的商业逻辑很直接：如果某些政治人物或高影响力账号的帖子会影响股市、债券、利率或公司价格，那么谁更早看到信息，谁就可能更早交易。金融栏目读这条新闻，重点不是社交媒体本身，而是 information asymmetry（信息不对称）如何被商品化。过去，社交平台把注意力变成广告收入；现在，平台还可以把毫秒级信息速度差变成金融优势。争议也正来自这里：如果一个政治人物本人、相关企业和金融市场同时处在这套信息系统里，公共表达、私人收益和市场公平之间的边界就会变得非常模糊。新闻提醒我们，现代金融市场不只交易公司业绩，也交易速度、接近权和影响力。",
+          "englishLine": "When access to political speech is sold by the millisecond, information itself becomes a financial asset.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Truth Social priority access",
+              "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-media-truth-social-posts"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "priority access",
+              "meaning": "优先访问权",
+              "example": "Priority access to posts could give traders an informational advantage."
+            },
+            {
+              "expression": "information asymmetry",
+              "meaning": "信息不对称",
+              "example": "Information asymmetry can make markets less fair."
+            },
+            {
+              "expression": "market-moving posts",
+              "meaning": "可能影响市场走势的帖子",
+              "example": "Market-moving posts can affect stocks, bonds, and interest rates."
+            },
+            {
+              "expression": "financial advantage",
+              "meaning": "金融优势；交易优势",
+              "example": "Speed can become a financial advantage in automated markets."
+            }
+          ],
+          "linkedKeywords": [
+            "Truth Social",
+            "Trump Media",
+            "information asymmetry",
+            "market fairness"
+          ],
+          "englishTranslation": "Trump Media plans to launch Truth API, a service that would sell high-speed access to important Truth Social posts to Wall Street trading firms and other institutions. The commercial logic is direct: if posts by political figures or high-impact accounts can affect stocks, bonds, interest rates, or company prices, then whoever sees the information earlier may be able to trade earlier. In the Finance & Markets section, the main issue is not social media itself. It is how information asymmetry becomes a commodity. In the past, social platforms turned attention into advertising revenue. Now, a platform can also turn millisecond-level differences in information speed into financial advantage. The controversy comes from this overlap: when a political figure, a related media company, and financial markets all sit inside the same information system, the boundary between public speech, private profit, and market fairness becomes very blurred. The story reminds us that modern financial markets do not trade only corporate performance. They also trade speed, access, and influence."
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "阿富汗童婚回潮：当贫困、债务和教育禁令一起压向女孩",
+          "dek": "The Guardian 与 Zan Times 报道，阿富汗童婚和未成年母亲数量上升，部分家庭因饥饿、债务和绝望把年幼女儿许配出去。",
+          "summary": "The Guardian 与 Zan Times 的报道极其沉重：阿富汗正在出现童婚和未成年母亲增加的趋势。报道中的家庭因为债务、饥饿和生存压力，把年幼女儿许配出去，有的孩子甚至在很小的时候就被承诺给未来丈夫，等到七八岁时被带走。塔利班重新掌权后，女孩接受中学和大学教育的通道被关闭，女性就业和行动自由受限，贫困与债务进一步加深。童婚在这里不是一个孤立的“传统问题”，而是教育剥夺、经济崩溃、父权控制和人道危机共同作用的结果。它让女孩的身体成为家庭债务的偿还方式，也让童年被迫变成婚姻、生育和照护劳动。性别视角读这条新闻，最重要的是看见：当一个社会剥夺女孩学习、工作和移动的权利，所谓“家庭选择”往往已经不是真正自由的选择。",
+          "englishLine": "Child marriage is not only a harmful tradition; it is also a survival strategy produced by poverty, debt, and the removal of girls’ rights.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Afghan girls sold into child marriage",
+              "url": "https://www.theguardian.com/global-development/2026/jul/15/afghanistan-girls-sold-into-child-marriage"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "child marriage",
+              "meaning": "童婚",
+              "example": "Child marriage often increases when poverty and insecurity deepen."
+            },
+            {
+              "expression": "forced marriage",
+              "meaning": "强迫婚姻",
+              "example": "Forced marriage violates a girl’s autonomy and safety."
+            },
+            {
+              "expression": "maternal mortality",
+              "meaning": "孕产妇死亡率",
+              "example": "Early pregnancy can increase the risk of maternal mortality."
+            },
+            {
+              "expression": "rights deprivation",
+              "meaning": "权利剥夺",
+              "example": "Rights deprivation can turn survival decisions into coercion."
+            }
+          ],
+          "linkedKeywords": [
+            "Afghanistan",
+            "child marriage",
+            "Taliban",
+            "girls' education",
+            "poverty"
+          ],
+          "englishTranslation": "The Guardian and Zan Times report is extremely painful: Afghanistan is seeing an increase in child marriage and underage motherhood. Some families, under the pressure of debt, hunger, and survival, are promising very young daughters to future husbands. In some cases, girls are pledged when they are still small children and are expected to be taken away when they reach the age of seven or eight. Since the Taliban returned to power, girls have been blocked from secondary and university education, women’s work and mobility have been restricted, and poverty and debt have deepened. Child marriage here is not an isolated “traditional problem.” It is the result of education deprivation, economic collapse, patriarchal control, and humanitarian crisis acting together. It turns girls’ bodies into a way of repaying family debt, and it forces childhood into marriage, childbirth, and care work. From a gender perspective, the most important lesson is this: when a society takes away girls’ rights to study, work, and move freely, so-called “family choices” are often no longer truly free choices."
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "《The Red Mouth》：沼泽、深时与被埋藏的记忆",
+          "dek": "The Guardian 评论 Sheila Armstrong 的第二部长篇小说 The Red Mouth，称其为对爱尔兰 deep time 的深刻探索。",
+          "summary": "The Guardian 评论 Sheila Armstrong 的 The Red Mouth，把它描述为一部围绕爱尔兰沼泽、古老遗骸和深时记忆展开的小说。故事中，两次发现把不同人物的生命连接起来：一只古代巨型爱尔兰鹿的鹿角，以及被称为 Belroe Woman 的受损女性遗体。小说关心的不只是考古发现，而是土地如何保存暴力、悲伤、生态变化和人类欲望。沼泽在这里不是背景，而像一个缓慢呼吸的档案：它把过去埋藏起来，也在某个时刻把过去重新推到人面前。这个文学条目很适合今天的小报，因为它与新闻里的系统压力形成呼应。火灾、市场、童婚和平台权力都让我们看到当下的结构；而 The Red Mouth 则提醒我们，结构也有时间深度。很多事情并没有真正消失，只是暂时被埋在地表之下。",
+          "englishLine": "A bog can become an archive of deep time, holding violence, memory, ecology, and grief beneath the surface.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜The Red Mouth review",
+              "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time"
+            },
+            {
+              "label": "Bloomsbury｜The Red Mouth",
+              "url": "https://www.bloomsbury.com/uk/red-mouth-9781526691118/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "deep time",
+              "meaning": "深时；超越人类日常尺度的漫长地质时间",
+              "example": "The novel explores Ireland’s landscape through the idea of deep time."
+            },
+            {
+              "expression": "bogland",
+              "meaning": "沼泽地",
+              "example": "The bogland preserves traces of ancient life."
+            },
+            {
+              "expression": "buried memory",
+              "meaning": "被埋藏的记忆",
+              "example": "Buried memory returns through objects found in the earth."
+            },
+            {
+              "expression": "ecological change",
+              "meaning": "生态变化",
+              "example": "Ecological change shapes the novel’s sense of loss."
+            }
+          ],
+          "linkedKeywords": [
+            "The Red Mouth",
+            "Sheila Armstrong",
+            "Irish literature",
+            "deep time",
+            "bogland"
+          ],
+          "englishTranslation": "The Guardian review of Sheila Armstrong’s The Red Mouth describes the novel as a profound exploration of Irish bogland, ancient remains, and deep time. In the story, two discoveries connect the lives of different characters: the antler of a giant Irish elk and the damaged body of a woman known as the Belroe Woman. The novel is not only about archaeological discovery. It is about how land preserves violence, grief, ecological change, and human desire. The bog is not simply a background. It becomes a slow-breathing archive: it buries the past, but at certain moments it pushes the past back into view. This literary item fits today’s briefing because it echoes the idea of systems under pressure. Fire, markets, child marriage, and platform power all show us the structures of the present. The Red Mouth reminds us that structures also have depth in time. Many things do not really disappear. They are only temporarily buried beneath the surface."
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "硅谷的科幻问题：偷走未来美学，丢掉伦理警告",
+          "dek": "Aeon 文章批评科技精英选择性挪用科幻作品：借走飞船、赛博空间和未来感，却常常忽略其中对资本、监控、军事化和权力的警示。",
+          "summary": "Aeon 的 Ali Rıza Taşkale 写了一篇很适合放进 AI 与科技栏目的长文：硅谷并不是没有想象力，而是太擅长选择性阅读科幻。文章讨论 Musk 对 Star Trek 和 Asimov 的借用、Zuckerberg 对 Snow Crash 中 metaverse 的挪用、Palantir 名字背后的 Tolkien 意象，以及网络空间、长远主义和 AI 风险叙事如何被科技公司重新包装。核心批评是：科技精英喜欢科幻里的飞船、殖民、赛博空间、英雄创业者和未来美学，却经常丢掉原作中的政治基础、民主制度、反资本主义警告和对权力腐败的恐惧。这样一来，科幻不再是帮助社会想象更好未来的文学形式，而变成资本扩张、军事化和平台统治的叙事燃料。读这条新闻时，我们可以记住一个问题：谁有权把“未来”讲成自己的项目？如果未来只由少数科技富豪的幻想来定义，它可能并不会更自由，只会更会包装自己。",
+          "englishLine": "The problem is not that Silicon Valley reads science fiction, but that it often borrows the aesthetics while discarding the warnings.",
+          "sourceLinks": [
+            {
+              "label": "Aeon｜Silicon Valley has a science fiction problem",
+              "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "science-fiction aesthetics",
+              "meaning": "科幻美学",
+              "example": "Science-fiction aesthetics can make technological projects feel exciting and inevitable."
+            },
+            {
+              "expression": "selective reading",
+              "meaning": "选择性阅读",
+              "example": "Selective reading takes the imagery of a story while ignoring its warning."
+            },
+            {
+              "expression": "reactionary futurism",
+              "meaning": "反动未来主义；用未来美学包装倒退的政治项目",
+              "example": "Reactionary futurism can turn technological progress into social regression."
+            },
+            {
+              "expression": "platform capitalism",
+              "meaning": "平台资本主义",
+              "example": "Platform capitalism turns digital spaces into corporate infrastructure."
+            }
+          ],
+          "linkedKeywords": [
+            "Aeon",
+            "science fiction",
+            "Silicon Valley",
+            "AI narratives",
+            "platform capitalism"
+          ],
+          "englishTranslation": "Ali Rıza Taşkale’s Aeon essay is a strong fit for the AI & Tech section. It argues that Silicon Valley does not lack imagination. Instead, it is extremely skilled at reading science fiction selectively. The essay discusses Musk’s use of Star Trek and Asimov, Zuckerberg’s borrowing of the metaverse from Snow Crash, the Tolkien imagery behind the name Palantir, and the ways in which cyberspace, longtermism, and AI-risk narratives are repackaged by technology companies. The central criticism is that tech elites often like the spaceships, colonies, cyberspace, heroic founders, and futuristic aesthetics of science fiction, while leaving behind the political foundations, democratic institutions, anti-capitalist warnings, and fears of corrupting power in the original works. In this process, science fiction stops being a literary form that helps society imagine better futures. It becomes narrative fuel for capital expansion, militarization, and platform rule. When reading this story, we can remember one question: who has the right to describe the future as their own project? If the future is defined only by the fantasies of a few wealthy technology leaders, it may not become freer. It may simply become better at branding itself."
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s stories are all about fragile systems. A fire in Norway shows how quickly housing, weather, evacuation, and public safety can become one crisis. A hunger strike in India shows how educational unfairness can become a national question of trust. Market stories show that both AI stocks and political social-media posts depend on speed, access, and belief. The report on Afghan child marriage reminds us that gender violence is often produced by poverty, debt, and the removal of education. And the Aeon essay asks us to look carefully at the futures sold by technology elites: are they collective dreams, or private fantasies dressed as destiny?",
+    "chinese": "今天的新闻都在讲脆弱的系统。挪威火灾显示，住宅、天气、疏散和公共安全可以多快变成同一场危机。印度绝食抗议显示，教育不公平如何变成全国性的信任问题。金融新闻提醒我们，AI 股票和政治社交媒体帖子都依赖速度、接近权和信念。阿富汗童婚报道让我们看到，性别暴力常常由贫困、债务和教育剥夺共同制造。Aeon 的文章则提醒我们仔细审视科技精英出售的未来：那是共同梦想，还是被包装成命运的私人幻想？"
+  },
+  "keywords": [
+    {
+      "word": "fragile",
+      "meaning": "脆弱的；容易在压力下受损的",
+      "example": "A fragile system can fail quickly when several risks happen at once."
+    },
+    {
+      "word": "evacuation",
+      "meaning": "疏散；把人从危险地区转移出去",
+      "example": "The fire forced a mass evacuation of local residents."
+    },
+    {
+      "word": "information asymmetry",
+      "meaning": "信息不对称；不同人获得信息的时间或质量不一样",
+      "example": "Information asymmetry can give some traders an unfair advantage."
+    },
+    {
+      "word": "child marriage",
+      "meaning": "童婚；未成年人被迫或被安排进入婚姻",
+      "example": "Child marriage often rises when poverty and gender inequality deepen."
+    },
+    {
+      "word": "deep time",
+      "meaning": "深时；远远超过人类生活尺度的漫长时间",
+      "example": "The novel uses deep time to connect landscape, memory, and loss."
+    },
+    {
+      "word": "selective reading",
+      "meaning": "选择性阅读；只取自己想要的部分，忽略其他含义",
+      "example": "Selective reading can turn a warning into a business vision."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "If the future is defined only by the fantasies of a few wealthy technology leaders, it may not become freer.",
+    "analysisChinese": "这句话是条件句。If 引导条件：如果未来只由少数富有科技领袖的幻想来定义；主句 it may not become freer 表示结果：它可能不会变得更自由。defined by 表示“被……定义”，wealthy technology leaders 指拥有资本与技术影响力的科技精英。"
+  },
+  "reflection": {
+    "english": "A future worth living in should be built through shared care, not only through private visions of power.",
+    "chinese": "一个值得生活其中的未来，应该由共同照护来建成，而不只是由少数人的权力幻想来定义。"
+  },
+  "tags": [
+    "Norway fire",
+    "Drammen",
+    "Sonam Wangchuk",
+    "education protest",
+    "India",
+    "chip sell-off",
+    "AI stocks",
+    "Truth Social",
+    "information asymmetry",
+    "Afghanistan",
+    "child marriage",
+    "The Red Mouth",
+    "Sheila Armstrong",
+    "deep time",
+    "Aeon",
+    "science fiction",
+    "Silicon Valley",
+    "platform capitalism"
+  ],
+  "sources": [
+    {
+      "label": "ABC News｜Norway residential fire",
+      "url": "https://www.abc.net.au/news/2026-07-19/norway-massive-fire-largest-in-modern-times/106931942"
+    },
+    {
+      "label": "AP News｜Norway fire",
+      "url": "https://apnews.com/article/50b5e38bb46051faf8cb98a477127d86"
+    },
+    {
+      "label": "ABC News｜Sonam Wangchuk hunger strike",
+      "url": "https://www.abc.net.au/news/2026-07-18/indian-activist-sonam-wangchuk-hospitalised-by-police/106931802"
+    },
+    {
+      "label": "AP News｜Cockroach Party activist hospitalized",
+      "url": "https://apnews.com/article/0bb7c16a58f21649fb5df72db9714c31"
+    },
+    {
+      "label": "The Guardian｜Global tech stocks fall",
+      "url": "https://www.theguardian.com/business/live/2026/jul/17/global-tech-stocks-fall-chip-sell-off-burberry-sales-boost-economy-latest-news"
+    },
+    {
+      "label": "The Guardian｜Truth Social priority access",
+      "url": "https://www.theguardian.com/us-news/2026/jul/16/trump-media-truth-social-posts"
+    },
+    {
+      "label": "The Guardian｜Afghan girls sold into child marriage",
+      "url": "https://www.theguardian.com/global-development/2026/jul/15/afghanistan-girls-sold-into-child-marriage"
+    },
+    {
+      "label": "The Guardian｜The Red Mouth review",
+      "url": "https://www.theguardian.com/books/2026/jul/17/the-red-mouth-by-sheila-armstrong-review-profound-exploration-of-irelands-deep-time"
+    },
+    {
+      "label": "Bloomsbury｜The Red Mouth",
+      "url": "https://www.bloomsbury.com/uk/red-mouth-9781526691118/"
+    },
+    {
+      "label": "Aeon｜Silicon Valley has a science fiction problem",
+      "url": "https://aeon.co/essays/silicon-valley-has-a-science-fiction-problem"
+    }
+  ]
+}
