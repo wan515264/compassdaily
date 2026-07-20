@@ -1,0 +1,501 @@
+{
+  "date": "2026-07-20",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "国家控制、公共所有权、科技估值、政治性别差距、性别批判争议、LGBTQ社群、胶片摄影、宜居行星与AI意识",
+  "introChinese": "今天的小报关键词是：control and imagination（控制与想象）。英国政治和产业新闻围绕国家控制、公共所有权与市场信心展开；性别栏目里，瑞典政治性别差距和英国慈善合唱团争议都在追问公共空间如何定义包容；文化栏目从 Heartstopper 的 LGBTQ 社群连接读到 Z 世代重新爱上胶片摄影；AI 与科技栏目则把目光投向两种未来想象：寻找类地行星，以及追问 AI 是否可能拥有意识。今天的共同线索是：社会总是在控制与想象之间摆动，一边制定边界，一边寻找新的可能。",
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "英国新工党政府与“更多国家控制”：治理承诺还是权力扩张？",
+          "dek": "The European Conservative 报道英国新任工党首相提出更强国家介入议程，引发围绕公共服务、经济治理与国家权力边界的争论。",
+          "summary": "The European Conservative 的报道把英国新工党政府描述为一个更强调国家介入、公共部门和集中治理的政治项目。文章批评新政府可能扩大国家控制，并把产业、公共服务和社会政策更多纳入政府规划之中。读这条新闻时，需要注意媒体立场：European Conservative 本身具有明确保守主义视角，因此它对“state control”的用词带有警惕和批评意味。但这也正好提供了一个可讨论的政治问题：当社会面对经济停滞、公共服务压力、能源转型和产业安全时，政府介入究竟是必要修复，还是会压缩市场和个人自由？政治新闻里，“国家控制”常常不是一个中性词。支持者可能称之为公共治理、产业政策和社会保护；反对者则可能称之为官僚扩张、自由受限和税负增加。真正值得观察的，是政策最后如何落到医疗、能源、就业、教育和地方财政这些具体系统里。",
+          "englishLine": "The phrase “state control” is never neutral; it depends on whether people see government intervention as repair, protection, or overreach.",
+          "sourceLinks": [
+            {
+              "label": "The European Conservative｜Britain's new Labour PM",
+              "url": "https://europeanconservative.com/articles/news/britains-new-labour-pm-promises-more-state-control/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "state control",
+              "meaning": "国家控制；政府对经济或社会事务的更强介入",
+              "example": "The debate over state control often reflects deeper disagreements about freedom and security."
+            },
+            {
+              "expression": "government intervention",
+              "meaning": "政府干预",
+              "example": "Government intervention can be seen as either necessary repair or excessive control."
+            },
+            {
+              "expression": "public services",
+              "meaning": "公共服务",
+              "example": "Public services are under pressure when budgets and demand move in opposite directions."
+            },
+            {
+              "expression": "policy overreach",
+              "meaning": "政策越界；政府权力过度扩张",
+              "example": "Critics warned that the plan could become policy overreach."
+            }
+          ],
+          "linkedKeywords": [
+            "state control",
+            "Labour",
+            "public services",
+            "government intervention"
+          ],
+          "englishTranslation": "The European Conservative presents Britain’s new Labour government as a political project that places greater emphasis on state intervention, the public sector, and centralized governance. The article criticizes the new government for potentially expanding state control and bringing more areas of industry, public services, and social policy under government planning. When reading this story, it is important to notice the outlet’s position: The European Conservative has a clear conservative perspective, so its use of the phrase “state control” carries a tone of warning and criticism. But that makes the story useful for political analysis. When a society faces economic stagnation, pressure on public services, energy transition, and concerns about industrial security, is stronger government intervention a necessary repair, or does it restrict markets and personal freedom? In political news, “state control” is rarely a neutral phrase. Supporters may call it public governance, industrial policy, and social protection. Critics may call it bureaucratic expansion, restricted freedom, and higher taxes. The real question is how these policies eventually affect concrete systems such as healthcare, energy, employment, education, and local public finance."
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "British Steel 公有化：市场失灵之后，国家重新进入产业现场",
+          "dek": "The Guardian 报道 British Steel 被纳入公共所有权。钢铁问题不只是企业命运，也关乎产业安全、就业和国家基础设施。",
+          "summary": "The Guardian 报道英国政府将 British Steel 纳入公共所有权。这条新闻适合放在金融与市场栏目，因为它让我们看到市场和国家之间的边界并不是固定的。当一个产业关系到基础设施、国防、能源转型、就业和地方经济时，政府往往不能把它完全交给市场周期。钢铁不是普通商品，它支撑铁路、建筑、能源设施和制造业供应链。公有化的支持者会说，这是在保护战略产业和工作岗位；批评者则会担心财政负担、效率低下和政治化管理。金融层面的重点是：当私营资本不愿或不能维持某些基础产业时，国家是否必须成为最后买家、最后管理者和最后风险承担者？British Steel 的故事提醒我们，产业政策不是抽象口号，而是关于谁来承担长期投资、亏损和公共责任的问题。",
+          "englishLine": "When a strategic industry becomes too important to fail, public ownership turns market risk into a political responsibility.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜British Steel public ownership",
+              "url": "https://www.theguardian.com/business/live/2026/jul/16/uk-government-british-steel-public-ownership-gdp-economy-latest-news-updates"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "public ownership",
+              "meaning": "公共所有权；由国家或公共机构持有和管理",
+              "example": "Public ownership can be used to protect strategic industries."
+            },
+            {
+              "expression": "strategic industry",
+              "meaning": "战略产业",
+              "example": "Steel is often treated as a strategic industry because it supports infrastructure."
+            },
+            {
+              "expression": "market failure",
+              "meaning": "市场失灵",
+              "example": "Market failure can lead governments to intervene."
+            },
+            {
+              "expression": "industrial policy",
+              "meaning": "产业政策",
+              "example": "Industrial policy shapes which sectors receive public support."
+            }
+          ],
+          "linkedKeywords": [
+            "British Steel",
+            "public ownership",
+            "industrial policy",
+            "market failure"
+          ],
+          "englishTranslation": "The Guardian reports that the UK government has brought British Steel under public ownership. This story belongs in Finance & Markets because it shows that the boundary between the market and the state is not fixed. When an industry is connected to infrastructure, defence, the energy transition, employment, and local economies, governments often cannot leave it entirely to market cycles. Steel is not an ordinary commodity. It supports railways, buildings, energy facilities, and manufacturing supply chains. Supporters of public ownership may say that the move protects a strategic industry and jobs. Critics may worry about fiscal costs, inefficiency, and politicized management. The financial question is this: when private capital is unwilling or unable to maintain certain foundational industries, must the state become the buyer of last resort, the manager of last resort, and the bearer of last resort? The British Steel story reminds us that industrial policy is not an abstract slogan. It is about who carries long-term investment, losses, and public responsibility."
+        },
+        {
+          "title": "IBM 股价重挫：老牌科技公司的 AI 转型也会被市场审问",
+          "dek": "The Guardian 市场报道提到 IBM 股价大跌。即使是历史悠久的科技公司，也必须向市场证明 AI 和软件增长叙事能够兑现。",
+          "summary": "The Guardian 的市场报道提到，IBM 股价出现大幅下跌。对金融栏目来说，这条新闻可以作为一个观察窗口：AI 热潮并不会自动拯救所有科技公司。IBM 这样的老牌科技企业拥有深厚的企业服务、云、软件和咨询基础，但市场关注的是增长是否足够快、利润是否稳定、AI 相关投入是否真正转化为收入。过去一年，很多科技公司都试图把自己重新叙述为 AI 公司；但投资者最终会回到具体数字：订单、利润率、客户需求、资本开支和未来指引。IBM 的股价波动提醒我们，AI 转型不是贴上标签就完成。老牌企业既有优势，也有包袱：它们有客户、信誉和基础设施，但也面临组织惯性、产品更新速度和市场想象力不足的问题。市场真正问的是：这家公司是在讲 AI 故事，还是已经把 AI 变成可持续收入？",
+          "englishLine": "In financial markets, calling oneself an AI company is not enough; investors want evidence that the story is becoming revenue.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜IBM shares plunge",
+              "url": "https://www.theguardian.com/business/all"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "share price plunge",
+              "meaning": "股价重挫",
+              "example": "A share price plunge can reflect disappointment in earnings or guidance."
+            },
+            {
+              "expression": "growth narrative",
+              "meaning": "增长叙事",
+              "example": "Investors questioned whether the growth narrative was strong enough."
+            },
+            {
+              "expression": "enterprise software",
+              "meaning": "企业软件",
+              "example": "Enterprise software companies depend on long-term corporate customers."
+            },
+            {
+              "expression": "revenue conversion",
+              "meaning": "收入转化",
+              "example": "AI investment must eventually show revenue conversion."
+            }
+          ],
+          "linkedKeywords": [
+            "IBM",
+            "AI transition",
+            "share price",
+            "enterprise software"
+          ],
+          "englishTranslation": "The Guardian’s market coverage noted a sharp fall in IBM’s share price. For the Finance & Markets section, this story offers a useful window into a larger question: the AI boom does not automatically rescue every technology company. A long-established technology firm such as IBM has deep foundations in enterprise services, cloud, software, and consulting. But markets care about whether growth is fast enough, whether profits are stable, and whether AI-related investment is turning into real revenue. Over the past year, many technology companies have tried to redescribe themselves as AI companies. Investors eventually return to concrete numbers: orders, margins, customer demand, capital expenditure, and future guidance. IBM’s share-price movement reminds us that AI transformation is not completed by changing the label. Older companies have advantages, but they also carry burdens. They have customers, credibility, and infrastructure, but they also face organizational inertia, slower product renewal, and sometimes a weaker hold on market imagination. The real question from markets is this: is the company only telling an AI story, or has it already turned AI into sustainable revenue?"
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "瑞典政治性别差距：平等国家也会出现代表性倒退",
+          "dek": "The Guardian 关注瑞典政治中的性别差距扩大。一个以平等自豪的国家，也需要面对政治代表性和代际分歧的新问题。",
+          "summary": "瑞典常被视为性别平等的代表国家，但 The Guardian 的报道提醒我们，平等并不是一旦取得就会自动维持的状态。政治性别差距扩大，意味着女性和男性在投票倾向、政党认同、候选人代表性或公共议题关注上可能出现越来越明显的分化。这个问题有意思的地方在于，它挑战了“北欧已经解决性别问题”的想象。性别平等不只是法律、福利和劳动参与率，也包括谁在政治中被代表、谁的焦虑被政党听见、谁的生活经验能进入政策语言。年轻一代的政治分化、反女权情绪、移民争议、经济压力和社交媒体环境，都可能重新改变性别与政治之间的关系。性别视角读这条新闻，最重要的是记住：平等不是历史终点，而是一套需要持续维护的制度和文化实践。",
+          "englishLine": "Gender equality is not a finished achievement; it is a political practice that can weaken when representation and trust begin to split.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Sweden's political gender gap",
+              "url": "https://www.theguardian.com/world/gender"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "political gender gap",
+              "meaning": "政治性别差距",
+              "example": "A political gender gap can appear in voting patterns and party support."
+            },
+            {
+              "expression": "representation",
+              "meaning": "代表性；被政治系统呈现和听见",
+              "example": "Representation matters when people decide whether politics speaks for them."
+            },
+            {
+              "expression": "gender equality",
+              "meaning": "性别平等",
+              "example": "Gender equality requires continuous political and cultural work."
+            }
+          ],
+          "linkedKeywords": [
+            "Sweden",
+            "gender equality",
+            "political gender gap",
+            "representation"
+          ],
+          "englishTranslation": "Sweden is often seen as a model of gender equality, but the Guardian report reminds us that equality is not a condition that automatically maintains itself once achieved. A growing political gender gap may mean that women and men are becoming more divided in voting preferences, party identification, candidate representation, or the public issues they prioritize. What makes this story interesting is that it challenges the idea that Nordic countries have already solved gender politics. Gender equality is not only about law, welfare, and labour-force participation. It is also about who is represented in politics, whose anxieties are heard by political parties, and whose life experiences enter the language of policy. Political polarization among younger generations, anti-feminist sentiment, migration debates, economic pressure, and social media environments may all reshape the relationship between gender and politics. From a gender perspective, the key point is this: equality is not the end of history. It is a set of institutions and cultural practices that must be continuously maintained."
+        },
+        {
+          "title": "英国慈善合唱团争议：包容空间如何处理“性别批判”信念？",
+          "dek": "The European Conservative 报道，英国慈善机构 Scope 的马拉松合唱团因成员性别批判信念争议被禁止演出，引发言论、包容与安全边界讨论。",
+          "summary": "The European Conservative 报道，英国慈善机构 Scope 的一个马拉松合唱团因涉及成员 gender-critical beliefs（性别批判信念）争议而被禁止参与活动。这条新闻处在英国性别政治中非常敏感的位置：一边是言论自由、宗教或哲学信念保护；另一边是跨性别者尊严、公共活动安全和组织包容承诺。保守媒体通常会把这类事件解释为“取消文化”或对性别批判者的排斥，而 LGBTQ 和跨性别权利倡导者则可能强调，某些表达会让跨性别参与者感到被否定或不安全。对我们来说，重要的不是把争议简化成哪一方完全正确，而是看见公共空间如何管理冲突价值：谁被允许发声，谁被要求沉默，什么样的信念被视为可接受，什么样的表达会被认为伤害他人。性别政治的难处就在这里：包容从来不只是把所有人放进同一个房间，也包括决定房间里的规则。",
+          "englishLine": "Inclusive spaces are difficult because they must decide not only who may enter, but also what forms of speech make participation possible.",
+          "sourceLinks": [
+            {
+              "label": "The European Conservative｜Scope choir and gender-critical beliefs",
+              "url": "https://europeanconservative.com/articles/news-corner/uk-charity-scope-marathon-choir-banned-gender-critical-beliefs/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "gender-critical beliefs",
+              "meaning": "性别批判信念；通常指围绕生理性别和性别身份的批判立场",
+              "example": "Gender-critical beliefs remain a highly contested issue in the UK."
+            },
+            {
+              "expression": "inclusive space",
+              "meaning": "包容空间",
+              "example": "An inclusive space must consider both speech and safety."
+            },
+            {
+              "expression": "freedom of expression",
+              "meaning": "表达自由",
+              "example": "Freedom of expression can conflict with organizational inclusion policies."
+            },
+            {
+              "expression": "public participation",
+              "meaning": "公共参与",
+              "example": "Public participation depends on rules that make people feel safe enough to join."
+            }
+          ],
+          "linkedKeywords": [
+            "gender-critical",
+            "Scope",
+            "choir",
+            "trans rights",
+            "inclusive space"
+          ],
+          "englishTranslation": "The European Conservative reports that a marathon choir connected to the UK charity Scope was barred from participating in an event because of a dispute involving members’ gender-critical beliefs. This story sits in a highly sensitive area of British gender politics. On one side are questions of freedom of expression and protection for religious or philosophical belief. On the other side are questions of trans dignity, safety in public events, and organizational commitments to inclusion. Conservative media often interpret such incidents as examples of “cancel culture” or exclusion of gender-critical people. LGBTQ and trans-rights advocates may emphasize that some forms of expression can make trans participants feel denied or unsafe. For us, the important task is not to simplify the dispute into one side being completely right. It is to see how public spaces manage conflicting values: who is allowed to speak, who is asked to remain silent, what beliefs are treated as acceptable, and what forms of expression are understood as harmful. This is why gender politics is difficult. Inclusion is never only about putting everyone in the same room. It is also about deciding the rules of the room."
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "Heartstopper 与跨时空社群：粉丝如何在故事里找到希望",
+          "dek": "The Conversation 讨论 Heartstopper 如何帮助 LGBTQ 粉丝跨越时间与空间找到希望、社群和自我理解。",
+          "summary": "The Conversation 的文章把 Heartstopper 放在 LGBTQ 粉丝文化和情感社群中来读。Heartstopper 之所以重要，不只是因为它讲述了酷儿青少年的爱情故事，也因为它提供了一种温柔的可想象未来。对许多 LGBTQ 观众和读者来说，流行文化中的代表性不是装饰，而是心理支撑：它让人知道自己并不孤单，让某些难以在现实生活中说出口的感受获得语言。文章标题中的“across time and space”很美，因为粉丝社群确实常常跨越地理、年龄和人生阶段。一个人可能在不同城市、不同年代、不同屏幕前，被同一个故事安慰。文化栏目读这条新闻，最值得记住的是：媒介作品不只是被消费，它也会成为人们建立身份、寻找同伴、保存希望的基础设施。",
+          "englishLine": "Representation becomes powerful when a story gives people not only visibility, but also a livable future to imagine.",
+          "sourceLinks": [
+            {
+              "label": "The Conversation｜Heartstopper and LGBTQ fans",
+              "url": "https://theconversation.com/heartstopper-is-helping-lgbtq-fans-find-hope-and-community-across-time-and-space-287350"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "fan community",
+              "meaning": "粉丝社群",
+              "example": "Fan communities can create emotional support across distance."
+            },
+            {
+              "expression": "queer representation",
+              "meaning": "酷儿呈现；LGBTQ 群体在文化作品中的可见性",
+              "example": "Queer representation can help viewers understand their own experiences."
+            },
+            {
+              "expression": "emotional infrastructure",
+              "meaning": "情感基础设施",
+              "example": "Stories can become emotional infrastructure for marginalized communities."
+            }
+          ],
+          "linkedKeywords": [
+            "Heartstopper",
+            "LGBTQ",
+            "fan community",
+            "representation"
+          ],
+          "englishTranslation": "The Conversation article reads Heartstopper through LGBTQ fan culture and emotional community. Heartstopper matters not only because it tells a love story about queer teenagers. It also offers a gentle future that people can imagine living in. For many LGBTQ viewers and readers, representation in popular culture is not decoration. It is psychological support. It tells people that they are not alone, and it gives language to feelings that may be difficult to express in everyday life. The phrase “across time and space” in the title is beautiful because fan communities really do cross geography, age, and life stages. A person in a different city, a different generation, or in front of a different screen can still be comforted by the same story. In the culture section, the most important point is this: media works are not only consumed. They can also become infrastructure for building identity, finding companions, and preserving hope."
+        },
+        {
+          "title": "Z 世代重新爱上胶片摄影：慢媒介、触感与反算法审美",
+          "dek": "The Conversation 讨论为什么 Z 世代重新迷恋胶片摄影。胶片不只是复古风格，也是一种对即时数字图像的温柔抵抗。",
+          "summary": "The Conversation 的文章关注 Z 世代为什么重新爱上 film photography（胶片摄影）。在手机相机、滤镜、社交平台和 AI 图像越来越普遍的时代，胶片摄影的吸引力恰恰来自它的不方便：拍摄次数有限、不能立刻查看、需要等待冲洗、色彩和颗粒也更不可控。对年轻人来说，这种慢并不只是怀旧，而是一种与算法速度保持距离的方式。数字图像太容易被生产、修改、发布和遗忘；胶片则让图像重新拥有重量、风险和等待。它也给身体经验留出空间：装卷、按下快门、等待、拿到照片、触摸纸面。文化栏目读这条新闻，可以把它看作一种“反效率”的审美实践。Z 世代不是拒绝技术，而是在过度数字化生活中寻找一种更慢、更不完美、更有物质感的观看方式。",
+          "englishLine": "Film photography appeals to Gen Z because its slowness turns image-making back into an embodied, uncertain, and material experience.",
+          "sourceLinks": [
+            {
+              "label": "The Conversation｜Gen Z and film photography",
+              "url": "https://theconversation.com/why-gen-z-is-falling-in-love-with-film-photography-282454"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "film photography",
+              "meaning": "胶片摄影",
+              "example": "Film photography has become popular among younger photographers."
+            },
+            {
+              "expression": "slow media",
+              "meaning": "慢媒介",
+              "example": "Slow media encourages attention, patience, and material engagement."
+            },
+            {
+              "expression": "anti-algorithmic aesthetics",
+              "meaning": "反算法审美",
+              "example": "Anti-algorithmic aesthetics value imperfection and unpredictability."
+            },
+            {
+              "expression": "material experience",
+              "meaning": "物质性经验；可触摸、可等待、可感知的经验",
+              "example": "Printing photos creates a material experience that digital images often lack."
+            }
+          ],
+          "linkedKeywords": [
+            "film photography",
+            "Gen Z",
+            "slow media",
+            "analog culture"
+          ],
+          "englishTranslation": "The Conversation article explores why Gen Z is falling in love with film photography again. In an age of phone cameras, filters, social platforms, and increasingly common AI images, the appeal of film photography comes precisely from its inconvenience. The number of shots is limited, the image cannot be checked immediately, development requires waiting, and colour and grain remain less controllable. For young people, this slowness is not only nostalgia. It is also a way to keep some distance from algorithmic speed. Digital images are too easy to produce, edit, post, and forget. Film gives images weight, risk, and waiting again. It also makes room for bodily experience: loading the roll, pressing the shutter, waiting, receiving the prints, and touching the paper surface. In the culture section, we can read this as an aesthetic practice of anti-efficiency. Gen Z is not rejecting technology. It is searching inside an over-digitalized life for a slower, less perfect, and more material way of seeing."
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "寻找类地行星的新进展：宇宙尺度上的“宜居”想象",
+          "dek": "WIRED 报道寻找类地行星取得新进展。太空科学让我们重新思考生命、环境和地球的独特性。",
+          "summary": "WIRED 的报道关注寻找 Earth-like planet（类地行星）的新进展。这样的新闻常常听起来遥远而浪漫，但它其实非常适合放进 AI 与科技栏目：现代天文学依赖望远镜、光谱分析、数据处理、算法模型和长期国际合作，才能从微弱信号中判断一颗遥远行星是否可能拥有岩石表面、适宜温度、大气层或液态水。寻找类地行星不仅是寻找“另一个地球”，也是在反过来理解地球为何珍贵。所谓 habitable（宜居）不是一个简单标签，而是一整套条件：恒星距离、轨道稳定、大气成分、磁场、化学循环和时间。读这条新闻时，可以把它看作一种科学上的谦卑训练。我们越努力寻找其他可能的家园，就越清楚地意识到，地球并不是理所当然的背景，而是一套极其复杂、脆弱又幸运的生命系统。",
+          "englishLine": "The search for Earth-like planets is also a lesson in how rare, complex, and fragile habitability may be.",
+          "sourceLinks": [
+            {
+              "label": "WIRED｜Search for Earth-like planet",
+              "url": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "Earth-like planet",
+              "meaning": "类地行星",
+              "example": "Scientists are searching for Earth-like planets beyond our solar system."
+            },
+            {
+              "expression": "habitability",
+              "meaning": "宜居性；适合生命存在的条件",
+              "example": "Habitability depends on temperature, atmosphere, water, and many other factors."
+            },
+            {
+              "expression": "spectral analysis",
+              "meaning": "光谱分析",
+              "example": "Spectral analysis can reveal clues about a planet’s atmosphere."
+            },
+            {
+              "expression": "exoplanet",
+              "meaning": "系外行星",
+              "example": "An exoplanet is a planet outside our solar system."
+            }
+          ],
+          "linkedKeywords": [
+            "Earth-like planet",
+            "exoplanet",
+            "habitability",
+            "space science"
+          ],
+          "englishTranslation": "The WIRED report focuses on a new step forward in the search for Earth-like planets. News like this can sound distant and romantic, but it belongs in the AI & Tech section because modern astronomy depends on telescopes, spectral analysis, data processing, algorithmic models, and long-term international cooperation. Scientists must interpret very faint signals to decide whether a faraway planet may have a rocky surface, suitable temperature, an atmosphere, or liquid water. Searching for an Earth-like planet is not only about looking for “another Earth.” It is also a way of understanding why Earth is precious. Habitability is not a simple label. It is a whole set of conditions: distance from a star, orbital stability, atmospheric composition, magnetic fields, chemical cycles, and time. When reading this story, we can treat it as a scientific training in humility. The harder we search for other possible homes, the more clearly we realize that Earth is not an obvious background. It is a complex, fragile, and fortunate life system."
+        },
+        {
+          "title": "AI 可能有意识吗？哲学问题正在进入技术治理",
+          "dek": "The Guardian 讨论 AI 是否可能拥有意识。这个问题听起来像哲学想象，但已经影响 AI 安全、伦理和公众认知。",
+          "summary": "The Guardian 的文章讨论一个越来越常被提出的问题：AI 是否可能拥有 consciousness（意识）？这类问题容易被误解成科幻辩论，但它正在进入现实技术治理。当前 AI 系统可以模仿情绪、表达偏好、进行对话并描述自身状态，这并不等于它真的拥有主观体验。但如果模型越来越像“会说自己有感受的存在”，公众、公司和监管机构就必须决定如何回应。过早宣称 AI 有意识，可能导致拟人化、商业操控和责任转移；完全拒绝讨论，又可能让社会在技术快速变化时缺乏伦理准备。真正重要的或许不是马上回答“AI 有没有意识”，而是建立更清楚的问题框架：意识、智能、痛苦、权利、责任和模拟之间有什么区别？AI 时代的伦理难题常常就在这里：系统越会说人话，我们越需要保持概念清醒。",
+          "englishLine": "The more human-like AI becomes in language, the more carefully society must distinguish consciousness from simulation.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Could AI be conscious?",
+              "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "consciousness",
+              "meaning": "意识；主观体验或感受能力",
+              "example": "The debate asks whether AI could ever have consciousness."
+            },
+            {
+              "expression": "subjective experience",
+              "meaning": "主观体验",
+              "example": "Subjective experience is different from producing convincing language."
+            },
+            {
+              "expression": "anthropomorphism",
+              "meaning": "拟人化；把非人对象当作人来理解",
+              "example": "Anthropomorphism can make users overtrust AI systems."
+            },
+            {
+              "expression": "ethical preparedness",
+              "meaning": "伦理准备",
+              "example": "Society needs ethical preparedness before technology creates confusion."
+            }
+          ],
+          "linkedKeywords": [
+            "AI consciousness",
+            "ethics",
+            "simulation",
+            "anthropomorphism"
+          ],
+          "englishTranslation": "The Guardian article discusses a question that is being asked more and more often: could AI have consciousness? This kind of question is easily mistaken for science fiction, but it is entering real technology governance. Current AI systems can imitate emotion, express preferences, hold conversations, and describe their own states. That does not mean they truly have subjective experience. But if models increasingly resemble beings that can say they have feelings, the public, companies, and regulators will have to decide how to respond. Declaring too early that AI is conscious may lead to anthropomorphism, commercial manipulation, and responsibility shifting. Refusing to discuss the question at all may also leave society ethically unprepared as technology changes quickly. The most important task may not be to answer immediately whether AI has consciousness. It may be to build a clearer framework for asking the question: what is the difference between consciousness, intelligence, suffering, rights, responsibility, and simulation? The ethical difficulty of the AI age often lies here. The more a system speaks like a person, the more conceptually careful we need to be."
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s news is about control and imagination. Governments try to control industries when markets fail, while markets judge whether technology companies can turn AI promises into revenue. Gender debates show that inclusion is not only a value but also a set of rules about speech, safety, and belonging. Culture offers another kind of possibility: LGBTQ fans find hope in shared stories, and young people return to film photography to slow down digital life. Even science and AI ask us to imagine carefully, whether we are looking for another Earth or wondering what consciousness means.",
+    "chinese": "今天的新闻围绕控制与想象展开。当市场失灵时，政府试图重新控制产业；而市场则审问科技公司能否把 AI 承诺变成收入。性别争议提醒我们，包容不只是价值口号，也是一套关于表达、安全和归属的规则。文化提供了另一种可能：LGBTQ 粉丝在共同故事中寻找希望，年轻人回到胶片摄影来放慢数字生活。科学与 AI 也要求我们谨慎想象：无论是在寻找另一个地球，还是追问意识究竟意味着什么。"
+  },
+  "keywords": [
+    {
+      "word": "control",
+      "meaning": "控制；对系统、规则或资源的掌握",
+      "example": "Political debates often concern who should control public systems."
+    },
+    {
+      "word": "public ownership",
+      "meaning": "公共所有权；由国家或公共机构拥有",
+      "example": "Public ownership can protect strategic industries during crises."
+    },
+    {
+      "word": "representation",
+      "meaning": "代表性；某群体被看见、被呈现和被纳入决策",
+      "example": "Representation matters in politics and popular culture."
+    },
+    {
+      "word": "habitability",
+      "meaning": "宜居性；适合生命存在的条件",
+      "example": "Habitability depends on atmosphere, water, and planetary stability."
+    },
+    {
+      "word": "consciousness",
+      "meaning": "意识；拥有主观体验或感受的能力",
+      "example": "The possibility of AI consciousness raises difficult ethical questions."
+    },
+    {
+      "word": "slow media",
+      "meaning": "慢媒介；鼓励等待、触感和专注的媒介实践",
+      "example": "Film photography is a form of slow media for many young people."
+    }
+  ],
+  "sentenceLab": {
+    "sentence": "The more a system speaks like a person, the more conceptually careful we need to be.",
+    "analysisChinese": "这是 The more..., the more... 结构，表示“越……越……”。第一个分句 the more a system speaks like a person 表示系统越像人在说话；第二个分句 the more conceptually careful we need to be 表示我们越需要在概念上保持谨慎。conceptually careful 意思是不要把模拟、智能、意识和权利混为一谈。"
+  },
+  "reflection": {
+    "english": "A good future needs both boundaries and imagination: enough rules to protect people, and enough openness to let life become larger.",
+    "chinese": "一个好的未来既需要边界，也需要想象：有足够的规则保护人，也有足够的开放让生活变得更宽阔。"
+  },
+  "tags": [
+    "state control",
+    "Labour",
+    "British Steel",
+    "public ownership",
+    "IBM",
+    "AI revenue",
+    "Sweden",
+    "political gender gap",
+    "gender-critical",
+    "Scope",
+    "Heartstopper",
+    "LGBTQ",
+    "film photography",
+    "Gen Z",
+    "Earth-like planet",
+    "habitability",
+    "AI consciousness"
+  ],
+  "sources": [
+    {
+      "label": "The European Conservative｜Britain's new Labour PM",
+      "url": "https://europeanconservative.com/articles/news/britains-new-labour-pm-promises-more-state-control/"
+    },
+    {
+      "label": "The Guardian｜British Steel public ownership",
+      "url": "https://www.theguardian.com/business/live/2026/jul/16/uk-government-british-steel-public-ownership-gdp-economy-latest-news-updates"
+    },
+    {
+      "label": "The Guardian｜IBM shares plunge",
+      "url": "https://www.theguardian.com/business/all"
+    },
+    {
+      "label": "The Guardian｜Sweden's political gender gap",
+      "url": "https://www.theguardian.com/world/gender"
+    },
+    {
+      "label": "The European Conservative｜Scope choir and gender-critical beliefs",
+      "url": "https://europeanconservative.com/articles/news-corner/uk-charity-scope-marathon-choir-banned-gender-critical-beliefs/"
+    },
+    {
+      "label": "The Conversation｜Heartstopper and LGBTQ fans",
+      "url": "https://theconversation.com/heartstopper-is-helping-lgbtq-fans-find-hope-and-community-across-time-and-space-287350"
+    },
+    {
+      "label": "The Conversation｜Gen Z and film photography",
+      "url": "https://theconversation.com/why-gen-z-is-falling-in-love-with-film-photography-282454"
+    },
+    {
+      "label": "WIRED｜Search for Earth-like planet",
+      "url": "https://www.wired.com/story/search-for-earth-like-planet-step-forward/"
+    },
+    {
+      "label": "The Guardian｜Could AI be conscious?",
+      "url": "https://www.theguardian.com/technology/2026/jul/19/could-ai-be-conscious"
+    }
+  ]
+}
