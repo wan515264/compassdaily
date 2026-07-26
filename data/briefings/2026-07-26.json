@@ -1,0 +1,524 @@
+{
+  "date": "2026-07-26",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "退休留学、数学荣誉、油价风险、AI金融热潮、女性体育声音、身体包容、电影格式、数字档案、AI手机与平台责任",
+  "introChinese": "今天的小报关键词是：recognition and access（承认与进入权）。中国退休人群把留学变成晚年重新打开世界的方式，数学家王虹获得菲尔兹奖让科学荣誉中的性别与制度问题再次浮现；金融市场在能源风险与 AI 热潮之间摇摆；女性足球解说员和包容性时装秀都在重新分配公共舞台；电影放映格式与巴勒斯坦数字档案提醒我们，文化记忆也依赖基础设施；AI 与科技栏目则从智能手机里的 AI agents 读到社交媒体平台面对儿童成瘾诉讼时的责任边界。今天我们读的不是单个事件，而是人们如何获得进入世界、被看见、被保护和被认真对待的机会。",
+  "sourceLinks": [
+    {
+      "label": "Sixth Tone｜Retirees study abroad",
+      "url": "https://www.sixthtone.com/news/1018818/china%E2%80%99s-study-abroad-boom-finds-a-new-generation%3A-retirees"
+    },
+    {
+      "label": "Quanta Magazine｜Hong Wang wins 2026 Fields Medal",
+      "url": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/"
+    },
+    {
+      "label": "Financial Times｜Oil falls below $100",
+      "url": "https://www.ft.com/"
+    },
+    {
+      "label": "Financial Times｜Hedge funds and AI boom",
+      "url": "https://www.ft.com/"
+    },
+    {
+      "label": "Sixth Tone｜Female football commentators",
+      "url": "https://www.sixthtone.com/"
+    },
+    {
+      "label": "The Guardian｜Sinéad O’Dwyer inclusivity",
+      "url": "https://www.theguardian.com/society/women"
+    },
+    {
+      "label": "WIRED｜The Odyssey and IMAX 70mm",
+      "url": "https://www.wired.com/category/culture/"
+    },
+    {
+      "label": "WIRED｜Palestinian digital archive",
+      "url": "https://www.wired.com/category/culture/"
+    },
+    {
+      "label": "Sixth Tone｜AI agents and smartphones",
+      "url": "https://www.sixthtone.com/news/1018799/chinese-tech-firms-pitch-ai-agents-as-the-future-of-smartphones"
+    },
+    {
+      "label": "ABC News｜Social media addiction trial",
+      "url": "https://abcnews.go.com/technology"
+    }
+  ],
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "中国退休人群加入留学潮：晚年不是退场，而是重新进入世界",
+          "dek": "退休后的中国人正在把短期留学、语言课程和海外生活体验变成一种新的晚年学习方式。",
+          "summary": "中国的留学故事不再只属于年轻学生。越来越多退休人群选择去海外参加语言课、文化课程或短期学习项目，把留学当成晚年生活的重新规划。这个趋势背后有几条线索：一是中国城市中产退休者拥有更多时间和储蓄；二是他们在年轻时可能错过了国际流动机会；三是晚年教育逐渐从“打发时间”变成一种主动塑造生活的方式。它也改变了我们对老龄化的想象：退休并不必然意味着收缩、等待和照护依赖，也可以意味着重新学习、重新旅行、重新建立身份。新闻里最温柔的地方是：人生的国际化并不一定发生在二十岁，也可以发生在六十岁之后。",
+          "englishLine": "Retirement can become not an ending, but a second opening into language, travel, and self-renewal.",
+          "englishTranslation": "The story of studying abroad in China no longer belongs only to young students. More retirees are choosing to join language courses, cultural programs, or short-term study experiences overseas, treating study abroad as a way to redesign later life. Several forces sit behind this trend. Urban middle-class retirees may have more time and savings. Some missed opportunities for international mobility when they were younger. Later-life education is also shifting from a way to pass time into an active form of life-making. The trend changes how we imagine ageing. Retirement does not have to mean withdrawal, waiting, or dependence on care. It can also mean learning again, travelling again, and building a new sense of self. The most gentle idea in this story is that international life does not have to begin at twenty. It can also begin after sixty.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Retirees study abroad",
+              "url": "https://www.sixthtone.com/news/1018818/china%E2%80%99s-study-abroad-boom-finds-a-new-generation%3A-retirees"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "later-life learning",
+              "meaning": "晚年学习",
+              "example": "Later-life learning can help people rebuild confidence and social connection."
+            },
+            {
+              "expression": "study abroad boom",
+              "meaning": "留学热潮",
+              "example": "China’s study abroad boom is reaching a new generation of retirees."
+            },
+            {
+              "expression": "self-renewal",
+              "meaning": "自我更新",
+              "example": "Travel and language learning can become forms of self-renewal."
+            },
+            {
+              "expression": "international mobility",
+              "meaning": "国际流动",
+              "example": "International mobility is no longer limited to young students."
+            }
+          ],
+          "linkedKeywords": [
+            "retirement",
+            "study abroad",
+            "ageing",
+            "lifelong learning"
+          ]
+        },
+        {
+          "title": "王虹获 2026 年菲尔兹奖：第三位女性得主，也是一种制度性可见性",
+          "dek": "数学家王虹获得 2026 年菲尔兹奖，成为该奖历史上第三位女性获奖者。",
+          "summary": "Quanta Magazine 报道，数学家王虹获得 2026 年菲尔兹奖，成为该奖历史上第三位女性得主。她的研究与调和分析、几何和组合数学等领域相关，也让一个常被公众认为抽象、遥远的数学世界进入更广泛的视野。菲尔兹奖常被称作数学界最高荣誉之一，因此女性得主的稀少并不是简单的“个人天才数量”问题，而与科学训练、导师网络、学术评价、家庭期待和制度筛选都有关系。王虹的获奖当然首先属于她自己的深刻工作，但它也具有象征意义：当更多女性出现在顶级科学奖项里，年轻研究者会更容易把“我也可以在这里”想象成现实。",
+          "englishLine": "A scientific prize recognizes individual brilliance, but it also changes who can imagine themselves inside a field.",
+          "englishTranslation": "Quanta Magazine reports that mathematician Wang Hong (王虹) has won the 2026 Fields Medal, becoming the third woman in the history of the prize to receive the honor. Her work is connected to areas such as harmonic analysis, geometry, and combinatorics, bringing a mathematical world often seen by the public as abstract and distant into wider visibility. The Fields Medal is often described as one of the highest honors in mathematics. The rarity of women among its recipients is not simply a question of how many individual geniuses exist. It is connected to scientific training, mentor networks, academic evaluation, family expectations, and institutional filtering. Wang’s award belongs first to the depth of her own work, but it also carries symbolic meaning. When more women appear in the highest spaces of scientific recognition, younger researchers can more easily imagine the sentence “I can belong here” as something real.",
+          "sourceLinks": [
+            {
+              "label": "Quanta Magazine｜Hong Wang wins 2026 Fields Medal",
+              "url": "https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "scientific recognition",
+              "meaning": "科学承认；学术共同体给予的认可",
+              "example": "Scientific recognition can shape who feels welcome in a field."
+            },
+            {
+              "expression": "institutional visibility",
+              "meaning": "制度性可见性",
+              "example": "Awards create institutional visibility for underrepresented researchers."
+            },
+            {
+              "expression": "mentor network",
+              "meaning": "导师网络",
+              "example": "A strong mentor network can support early-career scientists."
+            },
+            {
+              "expression": "mathematical breakthrough",
+              "meaning": "数学突破",
+              "example": "A mathematical breakthrough can take years to be understood widely."
+            }
+          ],
+          "linkedKeywords": [
+            "王虹",
+            "Fields Medal",
+            "mathematics",
+            "women in science"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "油价跌回 100 美元以下：能源市场仍被战争风险牵动",
+          "dek": "油价回落并不意味着风险消失。中东局势、航运安全和政策预期仍然会迅速改变市场情绪。",
+          "summary": "油价跌回每桶 100 美元以下，但能源市场并没有真正安静下来。围绕伊朗、霍尔木兹海峡和美国军事选项的新闻，仍然会让投资者重新评估供应中断风险。金融栏目读油价，不只是看一个数字涨跌，而是看它背后的系统：运输路线、保险成本、库存安排、央行通胀判断、家庭能源账单，以及依赖进口能源国家的财政压力。油价短期回落可能缓解市场紧张，但只要战争风险仍在，价格就会继续充当全球不安的温度计。能源市场最敏感的地方在于，它把远方冲突转化成每个国家都能感受到的成本。",
+          "englishLine": "Oil prices are not only market numbers; they are thermometers for geopolitical anxiety and everyday costs.",
+          "englishTranslation": "Oil has fallen back below $100 a barrel, but energy markets have not become truly calm. News around Iran, the Strait of Hormuz, and possible U.S. military options still forces investors to reassess the risk of supply disruption. To read oil prices in a finance section is not only to watch one number rise or fall. It is to look at the system behind the number: shipping routes, insurance costs, inventory planning, central banks’ inflation judgments, household energy bills, and fiscal pressure in countries that depend on imported energy. A short-term fall in oil prices may ease market tension, but as long as war risk remains, prices will continue to act as a thermometer for global unease. The sensitivity of energy markets lies in their ability to turn distant conflict into costs felt by every country.",
+          "sourceLinks": [
+            {
+              "label": "Financial Times｜Oil falls below $100",
+              "url": "https://www.ft.com/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "supply disruption",
+              "meaning": "供应中断",
+              "example": "Energy markets react quickly to the risk of supply disruption."
+            },
+            {
+              "expression": "market sentiment",
+              "meaning": "市场情绪",
+              "example": "A single geopolitical headline can shift market sentiment."
+            },
+            {
+              "expression": "inflation pressure",
+              "meaning": "通胀压力",
+              "example": "Higher oil prices can create inflation pressure."
+            },
+            {
+              "expression": "geopolitical risk",
+              "meaning": "地缘政治风险",
+              "example": "Geopolitical risk is often priced into energy markets."
+            }
+          ],
+          "linkedKeywords": [
+            "oil prices",
+            "energy markets",
+            "Iran",
+            "geopolitical risk"
+          ]
+        },
+        {
+          "title": "AI 热潮推动对冲基金增长：技术想象正在变成金融资产",
+          "dek": "AI 叙事不仅改变科技公司估值，也正在改变资金流向、投资策略和市场风险偏好。",
+          "summary": "AI 热潮推动对冲基金规模快速增长，说明技术想象已经深深进入资本市场。对冲基金追逐的不只是某个模型或某家公司的利润，而是整个 AI 基础设施、芯片、云服务、电力、数据中心和软件生态的未来增长叙事。问题在于，金融市场会把未来提前定价：当投资者相信 AI 将改造经济，他们会迅速把资金推向相关资产；当增长不及预期，同样的叙事也会放大回撤。对普通读者来说，这条新闻不是投资建议，而是一个理解金融化的窗口。AI 不只是技术，它也正在成为一种可交易的未来感。",
+          "englishLine": "The AI boom shows how quickly a technological future can be turned into a financial asset.",
+          "englishTranslation": "The AI boom has helped hedge funds grow quickly, showing how deeply technological imagination has entered capital markets. Hedge funds are not only chasing the profit of one model or one company. They are chasing the growth narrative around an entire AI infrastructure: chips, cloud services, electricity, data centers, and software ecosystems. The problem is that financial markets price the future before it fully arrives. When investors believe that AI will reshape the economy, money moves rapidly into related assets. When growth disappoints, the same narrative can magnify losses. For ordinary readers, this story is not investment advice. It is a window into financialization. AI is not only a technology. It is also becoming a tradable feeling of the future.",
+          "sourceLinks": [
+            {
+              "label": "Financial Times｜Hedge funds and AI boom",
+              "url": "https://www.ft.com/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "hedge fund",
+              "meaning": "对冲基金",
+              "example": "Hedge funds often move quickly when a market narrative becomes powerful."
+            },
+            {
+              "expression": "growth narrative",
+              "meaning": "增长叙事",
+              "example": "The AI growth narrative has attracted large amounts of capital."
+            },
+            {
+              "expression": "financialization",
+              "meaning": "金融化",
+              "example": "Financialization turns future expectations into tradable assets."
+            },
+            {
+              "expression": "risk appetite",
+              "meaning": "风险偏好",
+              "example": "Investor risk appetite can rise during a technology boom."
+            }
+          ],
+          "linkedKeywords": [
+            "AI boom",
+            "hedge funds",
+            "financialization",
+            "markets"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender Perspective｜性别视角",
+      "items": [
+        {
+          "title": "中国女性足球解说员登场：体育权威的声音正在改变",
+          "dek": "女性足球解说员进入更显眼的位置，挑战体育评论长期由男性声音定义专业性的惯例。",
+          "summary": "女性足球解说员在中国体育媒体中获得更多关注。体育解说看似只是转述比赛，但它实际上是一种公共解释权：谁能解释战术，谁能判断球员状态，谁能把比赛变成故事，谁的声音会被观众认作“专业”。足球长期被塑造成男性知识和男性热情的领域，因此女性解说员的出现不仅是职业机会增加，也是在重新分配体育空间里的权威。她们面对的挑战往往不只是业务能力，而是额外的性别审视：声音是否“够懂球”、外表是否被过度评价、错误是否更容易被放大。性别视角读这条新闻，可以看到一个更大的问题：当女性进入男性化公共领域，她们不是只在争取工作岗位，也是在争取定义专业的权利。",
+          "englishLine": "Sports commentary is not only narration; it is the authority to explain what counts as knowledge, skill, and expertise.",
+          "englishTranslation": "Female football commentators are receiving more attention in Chinese sports media. Sports commentary may look like the simple act of describing a match, but it is also a form of public interpretive authority. Who gets to explain tactics? Who gets to evaluate players’ conditions? Who gets to turn a match into a story? Whose voice is recognized by viewers as professional? Football has long been framed as a field of male knowledge and male passion. The rise of women commentators is therefore not only an expansion of job opportunities. It is also a redistribution of authority inside sports culture. Their challenge is often not only professional ability, but extra gendered scrutiny: whether their voice sounds knowledgeable enough, whether their appearance is overjudged, and whether their mistakes are amplified more easily. From a gender perspective, this story points to a larger issue. When women enter masculinized public fields, they are not only seeking work. They are also seeking the right to define expertise.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Female football commentators",
+              "url": "https://www.sixthtone.com/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "interpretive authority",
+              "meaning": "解释权；定义事件意义的权威",
+              "example": "Sports commentators hold interpretive authority over how audiences understand a match."
+            },
+            {
+              "expression": "gendered scrutiny",
+              "meaning": "性别化审视",
+              "example": "Women in public-facing roles often face gendered scrutiny."
+            },
+            {
+              "expression": "masculinized field",
+              "meaning": "男性化领域",
+              "example": "Football commentary has long been a masculinized field."
+            },
+            {
+              "expression": "professional legitimacy",
+              "meaning": "专业合法性；被承认为专业的资格",
+              "example": "Women commentators must often fight for professional legitimacy."
+            }
+          ],
+          "linkedKeywords": [
+            "football",
+            "women commentators",
+            "sports media",
+            "expertise"
+          ]
+        },
+        {
+          "title": "Sinéad O’Dwyer 秀场：身体包容不只是模特尺码，也是谁能进入时尚现场",
+          "dek": "大码模特、低票价和更开放的秀场安排，让时装周里的包容性从视觉姿态走向制度设计。",
+          "summary": "Sinéad O’Dwyer 的秀场因大码模特和低票价受到关注。它触及的不只是“看见不同身体”这一层，也包括谁有资格进入时尚现场。时装周常常是排他的：门票、邀请、阶级符号、身体标准和品牌关系共同决定谁能坐在观众席，谁能走上秀场。包容性如果只停留在一两个多元模特身上，很容易变成品牌姿态；但如果它同时改变票价、空间、尺码、叙事和观众构成，就开始触及制度层面。性别视角读这类时尚新闻，可以看到身体政治和阶级政治如何交织：谁的身体被展示，谁的钱包负担得起，谁的审美被认为值得进入高级时尚。",
+          "englishLine": "Inclusivity in fashion is not only about who appears on the runway, but also who can afford to enter the room.",
+          "englishTranslation": "Sinéad O’Dwyer’s show has drawn attention for its use of plus-size models and low ticket prices. The story is not only about seeing different bodies. It is also about who is allowed to enter the fashion space. Fashion weeks are often exclusionary. Tickets, invitations, class symbols, body standards, and brand relationships all decide who can sit in the audience and who can walk on the runway. If inclusivity remains limited to one or two diverse models, it can easily become a brand gesture. But if it also changes ticket prices, spatial access, sizing, storytelling, and the makeup of the audience, it begins to touch the institutional level. From a gender perspective, this fashion story shows how body politics and class politics intersect. Whose body is displayed? Whose wallet can afford entry? Whose aesthetic is treated as worthy of high fashion?",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Sinéad O’Dwyer inclusivity",
+              "url": "https://www.theguardian.com/society/women"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "body inclusivity",
+              "meaning": "身体包容",
+              "example": "Body inclusivity requires changes in sizing, casting, and representation."
+            },
+            {
+              "expression": "runway",
+              "meaning": "秀场；T台",
+              "example": "The runway can reflect changing cultural ideas about beauty."
+            },
+            {
+              "expression": "class access",
+              "meaning": "阶级进入权；不同阶层进入空间的机会",
+              "example": "Low ticket prices can make class access part of fashion politics."
+            },
+            {
+              "expression": "brand gesture",
+              "meaning": "品牌姿态",
+              "example": "Inclusivity should be more than a brand gesture."
+            }
+          ],
+          "linkedKeywords": [
+            "fashion",
+            "body inclusivity",
+            "Sinéad O’Dwyer",
+            "class access"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "《The Odyssey》与 IMAX 70mm：电影体验也取决于基础设施",
+          "dek": "一部为 IMAX 70mm 而生的电影，只有在少数影院才能以理想格式被观看，这让“艺术体验”变成基础设施问题。",
+          "summary": "围绕《The Odyssey》的讨论不仅是电影评论，也是一场关于放映技术的文化新闻。IMAX 70mm 常被描述为最接近导演视觉野心的格式之一：画幅、清晰度、颗粒感和沉浸感共同构成一种稀有的影院体验。但问题是，能够放映这种格式的影院数量有限，很多观众即使买票，也只能看到经过转换或压缩后的版本。文化栏目读这条新闻，可以看到艺术并不只存在于作品本身，也存在于它被传播、放映和消费的基础设施里。所谓“最佳观看方式”，背后是影院设备、城市分布、票价、排片和商业策略。电影的魔法很浪漫，但它也很物质。",
+          "englishLine": "A film’s artistic promise depends not only on its images, but also on the infrastructure that allows those images to be seen.",
+          "englishTranslation": "The discussion around The Odyssey is not only a matter of film criticism. It is also a cultural story about projection technology. IMAX 70mm is often described as one of the formats closest to a director’s visual ambition. Frame size, clarity, grain, and immersion combine to create a rare theatrical experience. But the problem is that only a limited number of cinemas can project the format. Many viewers may buy tickets and still see a converted or compressed version. For the culture section, this story shows that art does not exist only inside the work itself. It also exists inside the infrastructure through which it is distributed, projected, and consumed. The phrase “best way to watch” depends on cinema equipment, urban geography, ticket prices, scheduling, and commercial strategy. The magic of film is romantic, but it is also deeply material.",
+          "sourceLinks": [
+            {
+              "label": "WIRED｜The Odyssey and IMAX 70mm",
+              "url": "https://www.wired.com/category/culture/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "projection format",
+              "meaning": "放映格式",
+              "example": "A projection format can change how a film is experienced."
+            },
+            {
+              "expression": "theatrical experience",
+              "meaning": "影院体验",
+              "example": "IMAX 70mm creates a rare theatrical experience."
+            },
+            {
+              "expression": "visual ambition",
+              "meaning": "视觉野心",
+              "example": "The format was chosen to match the director’s visual ambition."
+            },
+            {
+              "expression": "cultural infrastructure",
+              "meaning": "文化基础设施",
+              "example": "Cultural infrastructure determines who can access certain artworks."
+            }
+          ],
+          "linkedKeywords": [
+            "The Odyssey",
+            "IMAX",
+            "70mm",
+            "film infrastructure"
+          ]
+        },
+        {
+          "title": "巴勒斯坦数字档案：当记忆必须被设计得不容易消失",
+          "dek": "数字档案不仅保存图片和文字，也是在战争、平台删除和信息混乱中保护一种集体存在。",
+          "summary": "WIRED 关于巴勒斯坦数字档案的选题提醒我们，档案不是安静的仓库，而是一种政治和技术实践。对处在战争、流离失所和媒体争夺中的社群来说，保存照片、证词、地图、家庭故事和文化物件，不只是记录过去，也是保护未来可被讲述的权利。数字档案看起来轻盈，却依赖服务器、备份、元数据、平台规则、网络安全和国际访问。如果一个档案容易被删除、屏蔽、误判为暴力内容或淹没在信息噪音里，记忆本身就会变得脆弱。文化栏目读这条新闻，最重要的是理解：被看见不是自然发生的，很多时候需要被设计、维护和守护。",
+          "englishLine": "A digital archive is not just a memory bank; it is a structure built to keep a people’s story from being erased.",
+          "englishTranslation": "WIRED’s story on a Palestinian digital archive reminds us that an archive is not a quiet warehouse. It is a political and technical practice. For communities living through war, displacement, and media contestation, preserving photographs, testimonies, maps, family stories, and cultural objects is not only about recording the past. It is about protecting the future right to tell a story. Digital archives may appear lightweight, but they depend on servers, backups, metadata, platform rules, cybersecurity, and international access. If an archive can easily be deleted, blocked, misclassified as violent content, or drowned in information noise, memory itself becomes fragile. The key point for the culture section is this: visibility does not happen naturally. It often has to be designed, maintained, and protected.",
+          "sourceLinks": [
+            {
+              "label": "WIRED｜Palestinian digital archive",
+              "url": "https://www.wired.com/category/culture/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "digital archive",
+              "meaning": "数字档案",
+              "example": "A digital archive can preserve stories that might otherwise disappear."
+            },
+            {
+              "expression": "collective memory",
+              "meaning": "集体记忆",
+              "example": "Collective memory depends on records, stories, and access."
+            },
+            {
+              "expression": "metadata",
+              "meaning": "元数据；描述资料来源、时间和结构的信息",
+              "example": "Metadata helps people find and verify archival materials."
+            },
+            {
+              "expression": "erasure",
+              "meaning": "抹除；从记录或公共视野中消失",
+              "example": "Archives can resist cultural erasure."
+            }
+          ],
+          "linkedKeywords": [
+            "Palestine",
+            "digital archive",
+            "memory",
+            "media"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "中国科技公司押注 AI agents：智能手机会变成主动安排生活的入口吗？",
+          "dek": "AI agents 被包装成智能手机的下一阶段：不只是回答问题，而是理解语境、连接应用并主动完成任务。",
+          "summary": "中国科技公司正在把 AI agents 描述为智能手机的未来。这个方向的核心，不是让手机多一个聊天窗口，而是让系统能够理解用户语境、调用不同应用、整理信息、安排任务、提醒日程，甚至替用户完成一部分操作。如果传统智能手机是“人找 app”，AI agent 的想象则是“任务找系统”。这听起来像效率革命，但也带来新的平台权力问题：谁决定哪些任务优先？哪些应用能被调用？用户数据如何流动？系统主动建议会不会变成商业推荐？AI 手机不是单纯的硬件升级，而是入口权、注意力和个人生活管理权的重新分配。",
+          "englishLine": "AI agents may turn smartphones from app containers into active managers of attention, tasks, and daily life.",
+          "englishTranslation": "Chinese technology companies are presenting AI agents as the future of smartphones. The core idea is not simply to add another chatbot window to the phone. It is to build systems that understand user context, call different apps, organize information, arrange tasks, remind users of schedules, and even perform some actions on their behalf. If the traditional smartphone was a world where people looked for apps, the AI-agent smartphone imagines a world where tasks find the system. This sounds like an efficiency revolution, but it also raises new questions about platform power. Who decides which tasks are prioritized? Which apps can be called? How does user data move? Could proactive suggestions become commercial recommendations? The AI phone is not only a hardware upgrade. It is a redistribution of gateway power, attention, and the management of personal life.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜AI agents and smartphones",
+              "url": "https://www.sixthtone.com/news/1018799/chinese-tech-firms-pitch-ai-agents-as-the-future-of-smartphones"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "AI agent",
+              "meaning": "AI 智能体；能理解任务并调用工具执行操作的系统",
+              "example": "An AI agent can connect apps and complete tasks for a user."
+            },
+            {
+              "expression": "user context",
+              "meaning": "用户语境",
+              "example": "AI agents need user context to provide useful assistance."
+            },
+            {
+              "expression": "gateway power",
+              "meaning": "入口权力；控制用户进入服务路径的能力",
+              "example": "Smartphones give platforms enormous gateway power."
+            },
+            {
+              "expression": "proactive suggestion",
+              "meaning": "主动建议",
+              "example": "A proactive suggestion can be helpful, but it can also steer behavior."
+            }
+          ],
+          "linkedKeywords": [
+            "AI agents",
+            "smartphones",
+            "platform power",
+            "attention"
+          ]
+        },
+        {
+          "title": "社交媒体成瘾审判：平台责任进入儿童大脑与注意力经济",
+          "dek": "围绕社交媒体是否让儿童大脑成瘾的诉讼，把平台设计、算法推荐和未成年人保护推向法庭。",
+          "summary": "社交媒体平台面对一场关键诉讼，核心问题是它们是否通过产品设计让儿童和青少年更容易沉迷。这样的审判重要之处在于，它把“用户自己控制不住”重新改写成“平台如何设计环境”。无限滚动、即时通知、推荐算法、点赞反馈和短视频节奏，都不是中性的界面细节，而是注意力经济的基础设施。如果法庭开始认真讨论平台是否知道这些机制会影响儿童大脑和心理健康，那么社交媒体监管就会从内容审核扩展到产品架构本身。AI 与科技栏目读这条新闻，重点是：技术伤害不一定来自单个坏内容，也可能来自每天重复数百次的设计选择。",
+          "englishLine": "Platform harm may come not from one bad post, but from design choices repeated hundreds of times a day.",
+          "englishTranslation": "Social media platforms are facing an important trial centered on whether their product designs make children and teenagers more likely to become addicted. The significance of such a case is that it rewrites the issue from “users cannot control themselves” into “platforms designed the environment.” Infinite scroll, instant notifications, recommendation algorithms, like feedback, and short-video rhythms are not neutral interface details. They are the infrastructure of the attention economy. If courts begin to seriously ask whether platforms knew these mechanisms could affect children’s brains and mental health, social media regulation will expand from content moderation to product architecture itself. For the AI & Tech section, the key point is this: technological harm does not always come from a single bad piece of content. It can also come from design choices repeated hundreds of times every day.",
+          "sourceLinks": [
+            {
+              "label": "ABC News｜Social media addiction trial",
+              "url": "https://abcnews.go.com/technology"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "attention economy",
+              "meaning": "注意力经济",
+              "example": "The attention economy rewards platforms for keeping users engaged."
+            },
+            {
+              "expression": "product architecture",
+              "meaning": "产品架构；产品功能和交互结构",
+              "example": "Regulators are paying more attention to product architecture."
+            },
+            {
+              "expression": "algorithmic recommendation",
+              "meaning": "算法推荐",
+              "example": "Algorithmic recommendation can shape what children see online."
+            },
+            {
+              "expression": "platform accountability",
+              "meaning": "平台问责",
+              "example": "Platform accountability includes design choices, not only content rules."
+            }
+          ],
+          "linkedKeywords": [
+            "social media",
+            "children",
+            "addiction",
+            "platform accountability"
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Access is one of the quiet themes of modern life. Retirees seek access to study abroad, women scientists seek access to recognition, and women commentators seek access to sports authority. Audiences seek access to rare film formats, while communities build digital archives so their memories cannot be easily erased. Technology companies promise easier access through AI agents, but platforms also control what we see, how long we stay, and how our attention is shaped. To read today’s news well, we need to ask not only who enters a space, but who built the door, who holds the key, and who decides the rules inside.",
+    "chinese": "进入权，是现代生活里一个安静却重要的主题。退休者寻找进入海外学习的机会，女性科学家寻找进入顶级科学承认的机会，女性解说员寻找进入体育权威的机会。观众想进入稀有电影格式，社群则建立数字档案，让自己的记忆不轻易被抹去。科技公司承诺通过 AI agents 让进入服务变得更容易，但平台也控制我们看见什么、停留多久，以及注意力如何被塑造。要读懂今天的新闻，我们不只要问谁进入了某个空间，也要问门是谁造的，钥匙在谁手里，里面的规则又由谁决定。"
+  },
+  "keywords": [
+    {
+      "word": "access",
+      "meaning": "进入权；获得资源、空间或机会的能力",
+      "example": "Access to education can transform later life."
+    },
+    {
+      "word": "recognition",
+      "meaning": "承认；被看见并被正式认可",
+      "example": "Scientific recognition can reshape who feels welcome in a field."
+    },
+    {
+      "word": "infrastructure",
+      "meaning": "基础设施；让系统运行的物质与组织条件",
+      "example": "Cultural infrastructure determines how art reaches audiences."
+    },
+    {
+      "word": "accountability",
+      "meaning": "问责；对决定和后果承担责任",
+      "example": "Platform accountability includes design choices."
+    },
+    {
+      "word": "visibility",
+      "meaning": "可见性；被公共空间看见和理解的状态",
+      "example": "Visibility can change who is seen as an expert."
+    }
+  ],
+  "rawText": ""
+}
