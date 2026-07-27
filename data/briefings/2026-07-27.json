@@ -393,5 +393,15 @@
     "english": "Meta Glasses may not be the final form of AI eyewear, but they have brought a future problem into the present. When AI learns to see, the issue is no longer only whether a device is useful or convenient. The deeper question is how public life changes when seeing, recording, analyzing, and sharing can happen through something as ordinary as a pair of glasses. A society built on consent must preserve the right to know, the right to refuse, and the right to exist in public without becoming content. The future of AI wearables should not be measured only by what they allow users to do. It should also be measured by whether they protect the people around the user.",
     "chinese": "Meta Glasses 或许不会是 AI 眼镜的最终形态，但它已经提前把一个未来问题带到今天。当 AI 学会“看见”，问题就不再只是某个设备是否有用、是否方便。更深的问题是：当观看、记录、分析和分享可以通过一副普通眼镜发生，公共生活会如何改变？一个建立在 consent 之上的社会，必须保留知情的权利、拒绝的权利，以及在公共空间中存在而不被变成内容的权利。AI 可穿戴设备的未来，不应该只用它让用户能做什么来衡量，也应该用它是否保护用户身边的人来衡量。"
   },
+  "furtherWatching": [
+    {
+      "label": "Further Watching｜Meta Glasses video 1",
+      "url": "https://www.youtube.com/watch?v=N2VLy9zCLpw"
+    },
+    {
+      "label": "Further Watching｜Meta Glasses video 2",
+      "url": "https://www.youtube.com/watch?v=9RhQodWFACM&t=23s"
+    }
+  ],
   "rawText": ""
 }

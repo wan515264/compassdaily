@@ -194,6 +194,28 @@ function renderSourceLinks(sourceLinks = []) {
   `;
 }
 
+function renderFurtherWatching(videos = []) {
+  if (!Array.isArray(videos) || !videos.length) return "";
+  return `
+    <section class="briefing-subblock further-watching-card">
+      <h3>Further Watching｜延伸观看</h3>
+      <div class="item-source-list">
+        ${videos
+          .map((video, index) => {
+            const label = escapeHtml(video.label || video.title || `Video ${index + 1}`);
+            if (!video.url) return `<span class="item-source-pill item-source-pill-muted">${label}</span>`;
+            return `
+              <a class="item-source-pill" href="${escapeAttribute(video.url)}" target="_blank" rel="noopener noreferrer">
+                ${label} ↗
+              </a>
+            `;
+          })
+          .join("")}
+      </div>
+    </section>
+  `;
+}
+
 function renderLegacyParagraphs(text = "") {
   const hiddenLabels = /^(English key expressions?|English expressions?|Expression|Expressions|中文理解|中文解释|中文|Example sentence|Keyword|Keywords)$/i;
   return text
@@ -288,6 +310,7 @@ function renderBriefing(briefing) {
       </section>
     `
     : "";
+  const furtherWatching = renderFurtherWatching(briefing.furtherWatching || []);
 
   briefingDetail.innerHTML = `
     <span class="topic-pill">今日小报</span>
@@ -308,6 +331,7 @@ function renderBriefing(briefing) {
     ${englishParagraph}
     ${writingPrompt}
     ${studyNote}
+    ${furtherWatching}
   `;
 
 }
