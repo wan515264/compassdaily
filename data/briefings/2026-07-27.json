@@ -1,0 +1,397 @@
+{
+  "date": "2026-07-27",
+  "type": "special-report",
+  "hideSectionHeadings": true,
+  "title": "When AI Learns to See",
+  "subtitle": "The Daily Compass｜Special Report",
+  "theme": "当 AI 学会“看见”之后，我们还拥有怎样的公共空间？",
+  "topics": [
+    "Meta Glasses",
+    "Ray-Ban Meta",
+    "embodied AI",
+    "consent",
+    "privacy",
+    "public space",
+    "women's safety",
+    "accessibility",
+    "AI wearables",
+    "social trust"
+  ],
+  "sourceLinks": [
+    {
+      "label": "The Verge｜Meta smart glasses and privacy",
+      "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables"
+    },
+    {
+      "label": "Vox｜Meta glasses are killing the vibe",
+      "url": "https://www.vox.com/culture/496659/meta-glasses-pervert-glasses-vibe-kill-backlash"
+    },
+    {
+      "label": "Business Insider｜Kylie Jenner Meta glasses backlash",
+      "url": "https://www.businessinsider.com/meta-glasses-facial-recognition-kylie-jenner-2026-7"
+    },
+    {
+      "label": "The Times｜Spoof ads protest Meta AI glasses",
+      "url": "https://www.thetimes.com/uk/london/article/meta-ai-glasses-spoof-advert-jeffrey-epstein-slx3wttm5"
+    },
+    {
+      "label": "The Verge｜Apple and privacy-first smart glasses",
+      "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"
+    },
+    {
+      "label": "Meta｜Ray-Ban Meta AI glasses",
+      "url": "https://www.meta.com/ai-glasses/"
+    },
+    {
+      "label": "Ray-Ban｜Ray-Ban Meta smart glasses",
+      "url": "https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses"
+    }
+  ],
+  "intro": {
+    "heading": "Special Report｜特别报道",
+    "body": "2026 年夏天，Meta Ray-Ban AI 智能眼镜突然成为欧美社交媒体最具争议的话题之一。它既被称为 the future after smartphones（后智能手机时代），也被批评为 pervert glasses（变态眼镜）。围绕这副眼镜的讨论，已经超越一款消费电子产品，而逐渐演变为关于 AI、公共空间、隐私、女性安全、同意（consent）与社会信任的公共辩论。今天这期特别报道想问的是：当 AI 从屏幕进入身体，并开始与你一起“看见”世界，公共空间会变成什么？"
+  },
+  "sections": [
+    {
+      "id": "special-report",
+      "heading": "Opening Lens｜开篇视角",
+      "items": [
+        {
+          "title": "当 AI 学会“看见”：问题不只是一副眼镜",
+          "dek": "Meta Glasses 的争议之所以强烈，是因为它把 AI、相机、身体和公共空间绑在了一起。",
+          "summary": "Meta 与 Ray-Ban 合作推出的 AI 智能眼镜，表面上是一款可穿戴设备：它可以拍照、录像、直播、播放音乐、接打电话、调用语音助手，也可以通过 AI 理解眼前画面。Meta 希望它成为 AI 时代新的计算平台，让 AI 不再只待在手机屏幕里，而是进入人的视线、声音和行动。可是正因为它戴在脸上、指向别人、进入公共空间，这副眼镜才引发如此强烈的反弹。人们担心的不只是“被拍到”，而是无法判断自己是否正在被记录、被分析、被上传，甚至被转化成某种内容。Meta Glasses 让一个老问题以新形式回来：当技术变得越来越自然、越来越无感，人的 consent 还是否真正存在？",
+          "englishLine": "The controversy is not only about a device; it is about what happens when AI, cameras, bodies, and public space merge.",
+          "englishTranslation": "Ray-Ban Meta smart glasses are, on the surface, a wearable device. They can take photos, record video, livestream, play music, handle calls, activate voice assistance, and use AI to understand what the wearer is looking at. Meta wants them to become a new computing platform for the AI era, moving AI out of the phone screen and into people’s sight, voice, and movement. Yet the very fact that the device sits on the face, points toward others, and enters shared spaces is what has triggered such strong backlash. People are not only worried about being photographed. They are worried about not knowing whether they are being recorded, analyzed, uploaded, or turned into content. Meta Glasses bring an old question back in a new form: when technology becomes more natural and less noticeable, can consent still truly exist?",
+          "sourceLinks": [
+            {
+              "label": "Meta｜Ray-Ban Meta AI glasses",
+              "url": "https://www.meta.com/ai-glasses/"
+            },
+            {
+              "label": "Ray-Ban｜Ray-Ban Meta smart glasses",
+              "url": "https://www.ray-ban.com/usa/ray-ban-meta-smart-glasses"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "embodied AI",
+              "meaning": "具身 AI；进入身体、动作和感官环境中的 AI",
+              "example": "Smart glasses turn AI into a form of embodied AI."
+            },
+            {
+              "expression": "consent",
+              "meaning": "同意；在知情和自愿的情况下允许某件事发生",
+              "example": "Consent becomes harder when recording is discreet."
+            },
+            {
+              "expression": "public space",
+              "meaning": "公共空间",
+              "example": "Wearable cameras can change the atmosphere of public space."
+            }
+          ],
+          "linkedKeywords": [
+            "embodied AI",
+            "consent",
+            "public space"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "what-are-meta-glasses",
+      "heading": "What Are Meta Glasses?｜什么是 Meta Glasses？",
+      "items": [
+        {
+          "title": "从手机里的 AI，到戴在身体上的 AI",
+          "dek": "Look and Ask、实时翻译、第一人称拍摄和直播，让智能眼镜从相机变成 AI 的感官入口。",
+          "summary": "Ray-Ban Meta Smart Glasses 的功能包括 AI 视觉理解、实时翻译、第一人称摄影与录像、Instagram 和 Facebook 直播、音乐播放、电话与语音助手。Meta 的核心叙事很清楚：未来人与 AI 的互动会像戴眼镜一样自然。手机不会消失，但越来越多任务会从手机迁移到可穿戴设备：翻译菜单、导航、查询信息、拍摄生活、理解眼前环境。换句话说，这副眼镜不是简单的相机，也不是普通耳机，而是 AI 的感官入口。它让 AI 能够与你一起看见世界，也因此让旁人进入了一个新的不确定状态：我是否也正在成为这套 AI 感知系统的一部分？",
+          "englishLine": "Smart glasses turn the camera into an AI sensor, and the world around the wearer into possible input.",
+          "englishTranslation": "Ray-Ban Meta smart glasses include features such as AI visual understanding, live translation, first-person photography and video, Instagram and Facebook livestreaming, music playback, calls, and voice assistance. Meta’s central story is clear: future interaction with AI should feel as natural as wearing glasses. Phones will not disappear, but more tasks may move from the phone to wearable devices: translating menus, navigating, looking up information, recording daily life, and understanding the environment in front of the user. In other words, these glasses are not simply a camera, and not merely a pair of headphones. They are a sensory gateway for AI. They allow AI to see the world with the wearer, and therefore place everyone nearby into a new state of uncertainty: am I also becoming part of this AI perception system?",
+          "sourceLinks": [
+            {
+              "label": "Meta｜Ray-Ban Meta AI glasses",
+              "url": "https://www.meta.com/ai-glasses/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "visual understanding",
+              "meaning": "视觉理解",
+              "example": "Visual understanding allows AI to answer questions about what a user sees."
+            },
+            {
+              "expression": "wearable device",
+              "meaning": "可穿戴设备",
+              "example": "Smart glasses are wearable devices that sit directly on the body."
+            },
+            {
+              "expression": "sensory gateway",
+              "meaning": "感官入口",
+              "example": "The glasses become a sensory gateway for AI."
+            }
+          ],
+          "linkedKeywords": [
+            "visual understanding",
+            "wearable AI",
+            "AI sensor"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "perspectives",
+      "heading": "Perspective Compass｜观点罗盘",
+      "items": [
+        {
+          "title": "Perspective ①｜Meta：下一代计算平台",
+          "dek": "在 Meta 的叙事里，智能眼镜不是手机配件，而是 AI 时代的入口。",
+          "summary": "Meta 的官方想象很雄心勃勃：AI 不应该只存在于屏幕和聊天框里，而应该随时理解人的环境、意图和行动。眼镜是最自然的载体，因为它贴近视线、声音和身体，不需要人不断低头打开手机。在这个叙事里，AI Glasses 是 the next computing platform（下一代计算平台）。它们把计算从手掌转移到脸上，把交互从点击转向语音、视觉和环境理解。这个愿景并不荒唐。真正的问题是：当一个平台贴近身体到这种程度，它就不再只是工具，也开始管理注意力、记忆和观看权。",
+          "englishLine": "The closer a platform moves to the body, the more it begins to manage attention, memory, and the right to look.",
+          "englishTranslation": "Meta’s official vision is ambitious: AI should not exist only inside screens and chat boxes. It should be able to understand a person’s environment, intention, and action at any moment. Glasses are a natural carrier because they sit close to sight, sound, and the body, without requiring users to constantly look down at a phone. In this narrative, AI glasses are the next computing platform. They move computation from the palm to the face, and shift interaction from tapping to voice, vision, and environmental understanding. This vision is not absurd. The real question is this: when a platform moves so close to the body, it is no longer only a tool. It begins to manage attention, memory, and the right to look.",
+          "sourceLinks": [
+            {
+              "label": "The Verge｜Meta smart glasses and privacy",
+              "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "computing platform",
+              "meaning": "计算平台",
+              "example": "Meta wants smart glasses to become the next computing platform."
+            },
+            {
+              "expression": "environmental understanding",
+              "meaning": "环境理解",
+              "example": "AI glasses depend on environmental understanding."
+            }
+          ],
+          "linkedKeywords": [
+            "Meta",
+            "computing platform"
+          ]
+        },
+        {
+          "title": "Perspective ②｜创作者：第一人称内容革命",
+          "dek": "对创作者来说，Meta Glasses 的吸引力在于真正的 POV：不用举手机，也能把生活变成内容。",
+          "summary": "许多 YouTuber、Instagram 创作者开始使用 Meta Glasses，因为它提供了真正的第一视角。骑车、做饭、旅行、健身、摄影、逛街，这些活动都可以在不用举手机的情况下被记录下来。对创作者来说，这是一种内容生产效率：画面更沉浸，动作更自然，观众更像“在场”。但第一人称内容革命也有阴影。它很容易把身边的人变成素材，把公共空间变成取景场，把陌生人变成未经同意的配角。创作者看到的是沉浸感，被拍摄者感受到的却可能是被侵入。",
+          "englishLine": "First-person content can feel immersive to viewers, but invasive to the people who become unwilling background characters.",
+          "englishTranslation": "Many YouTubers and Instagram creators are using Meta Glasses because they offer a true point of view. Cycling, cooking, travelling, exercising, photography, and walking through a city can all be recorded without holding up a phone. For creators, this is a form of content-production efficiency: the image feels more immersive, movement feels more natural, and the audience feels more present. But the first-person content revolution has a shadow. It can easily turn nearby people into material, public space into a filming set, and strangers into background characters who never agreed to be included. What creators experience as immersion may be experienced by others as intrusion.",
+          "sourceLinks": [
+            {
+              "label": "Vox｜Meta glasses are killing the vibe",
+              "url": "https://www.vox.com/culture/496659/meta-glasses-pervert-glasses-vibe-kill-backlash"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "point of view",
+              "meaning": "第一视角 / POV",
+              "example": "Smart glasses make point-of-view filming easier."
+            },
+            {
+              "expression": "immersive",
+              "meaning": "沉浸式的",
+              "example": "First-person video can feel immersive to viewers."
+            }
+          ],
+          "linkedKeywords": [
+            "creator economy",
+            "POV",
+            "vlog"
+          ]
+        },
+        {
+          "title": "Perspective ③｜女性主义：当 Consent 消失",
+          "dek": "最激烈的反弹来自偷拍、搭讪实验和骚扰内容：技术让“未经同意的观看”变得太容易。",
+          "summary": "围绕 Meta Glasses 的争议中，最尖锐的部分来自女性主义和公共安全讨论。近期社交平台上出现大量使用智能眼镜偷拍陌生女性、搭讪、索要电话号码、上传全过程的视频。被拍摄者往往并不知道自己正在被录像。于是，“pervert glasses”这个标签迅速扩散。Instagram 已经开始删除部分利用 Meta Glasses 拍摄骚扰内容的账号。这里的问题不是设备能不能拍摄，而是同意机制是否已经失效：如果一个人无法知道自己正在被记录，就无法真正说 yes 或 no。女性在公共空间里本来就长期承受被凝视、被评价、被跟踪的风险，而可穿戴相机把这种风险变得更隐蔽、更日常、更容易被包装成内容。",
+          "englishLine": "If people cannot know they are being recorded, they cannot meaningfully consent or refuse.",
+          "englishTranslation": "The sharpest part of the Meta Glasses controversy comes from feminist and public-safety discussions. Recently, social platforms have seen many videos in which smart glasses are used to secretly film women, run pickup experiments, ask for phone numbers, and upload the entire interaction. The people being filmed often do not know they are being recorded. As a result, the label “pervert glasses” spread quickly. Instagram has begun removing some accounts that used Meta Glasses to produce harassing content. The issue is not whether the device can record. The issue is whether the mechanism of consent has already failed. If a person cannot know they are being recorded, they cannot truly say yes or no. Women in public space have long faced the risks of being watched, judged, followed, and turned into objects of attention. Wearable cameras make those risks more hidden, more ordinary, and easier to package as content.",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Kylie Jenner Meta glasses backlash",
+              "url": "https://www.businessinsider.com/meta-glasses-facial-recognition-kylie-jenner-2026-7"
+            },
+            {
+              "label": "Vox｜Meta glasses are killing the vibe",
+              "url": "https://www.vox.com/culture/496659/meta-glasses-pervert-glasses-vibe-kill-backlash"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "non-consensual recording",
+              "meaning": "未经同意的录制",
+              "example": "Non-consensual recording can turn public space into a site of harassment."
+            },
+            {
+              "expression": "harassment",
+              "meaning": "骚扰",
+              "example": "Platforms are removing videos that use smart glasses for harassment."
+            }
+          ],
+          "linkedKeywords": [
+            "consent",
+            "women's safety",
+            "harassment"
+          ]
+        },
+        {
+          "title": "Perspective ④｜公共空间：我们还能相信彼此吗？",
+          "dek": "Vox 提出的关键词是 vibe：问题不只是违法与否，而是公共空间的社交氛围被改变。",
+          "summary": "Vox 的角度很重要：Meta Glasses 的问题不只在于是否违法，而在于它正在 killing the vibe。婚礼、咖啡馆、健身房、朋友聚会、餐厅、课堂，这些空间依赖一种脆弱的默认信任：我们可以出现在别人面前，但不一定会被永久记录。智能眼镜改变了这种默认。过去，你看见别人戴眼镜，只会认为那是眼镜；现在，你可能会想：他是不是在录像？他是不是在直播？我的脸会不会出现在某个账号里？技术改变的不只是隐私边界，也改变了人们进入公共空间时的身体感受。公共空间不只是地点，也是一种社会气氛。",
+          "englishLine": "Public space depends on a fragile assumption: that being seen does not automatically mean being recorded.",
+          "englishTranslation": "Vox offers an important angle: the problem with Meta Glasses is not only whether they break the law, but whether they are killing the vibe. Weddings, cafés, gyms, friend gatherings, restaurants, and classrooms depend on a fragile default trust: we can appear in front of others without necessarily being permanently recorded. Smart glasses change that default. In the past, when you saw someone wearing glasses, you assumed they were simply glasses. Now you may wonder: is he recording? Is he livestreaming? Will my face appear on someone’s account? The technology changes not only privacy boundaries, but also the bodily feeling of entering public space. Public space is not only a location. It is also a social atmosphere.",
+          "sourceLinks": [
+            {
+              "label": "Vox｜Meta glasses are killing the vibe",
+              "url": "https://www.vox.com/culture/496659/meta-glasses-pervert-glasses-vibe-kill-backlash"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "social atmosphere",
+              "meaning": "社交氛围",
+              "example": "Wearable cameras can change the social atmosphere of a room."
+            },
+            {
+              "expression": "default trust",
+              "meaning": "默认信任",
+              "example": "Public space relies on default trust."
+            }
+          ],
+          "linkedKeywords": [
+            "public space",
+            "trust",
+            "vibe"
+          ]
+        },
+        {
+          "title": "Perspective ⑤｜隐私：Google Glass 的问题回来了",
+          "dek": "2013 年 Google Glass 失败的问题，在 AI 时代重新出现，而且变得更复杂。",
+          "summary": "Google Glass 当年遇到的核心反弹，是人们不知道自己是否正在被记录。十几年后，Meta 面对几乎相同的问题，但今天的技术环境更复杂。AI 不只是拍摄画面，还可以理解画面、识别语音、总结内容、关联身份和提取信息。The Verge 指出，Meta 虽然通过 LED 指示灯等方式提示录制，但现实争议表明，这类提醒很容易被忽略、被遮挡、被误解，甚至被人为规避。隐私问题因此从“有没有摄像头”变成“AI 是否应该持续观察我们的日常生活”。当记录变得轻盈，拒绝反而变得沉重。",
+          "englishLine": "The old Google Glass problem returns in a more powerful form: AI can now interpret what it records.",
+          "englishTranslation": "The core backlash against Google Glass was that people did not know whether they were being recorded. More than a decade later, Meta faces almost the same problem, but the technical environment is more complex. AI does not only capture images. It can understand images, process speech, summarize content, connect identities, and extract information. The Verge notes that although Meta uses indicators such as LED lights to signal recording, the controversy shows that such signals can be missed, covered, misunderstood, or deliberately bypassed. The privacy issue therefore shifts from “is there a camera?” to “should AI be allowed to continuously observe everyday life?” When recording becomes light and frictionless, refusal becomes heavy.",
+          "sourceLinks": [
+            {
+              "label": "The Verge｜Meta smart glasses and privacy",
+              "url": "https://www.theverge.com/tech/970948/meta-smart-glasses-privacy-wearables"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "privacy indicator",
+              "meaning": "隐私提示灯 / 隐私提示机制",
+              "example": "A privacy indicator only works if people notice and trust it."
+            },
+            {
+              "expression": "continuous observation",
+              "meaning": "持续观察",
+              "example": "AI wearables raise concerns about continuous observation."
+            }
+          ],
+          "linkedKeywords": [
+            "Google Glass",
+            "privacy",
+            "recording"
+          ]
+        },
+        {
+          "title": "Perspective ⑥｜法律：规则还跟得上吗？",
+          "dek": "秘密录音、秘密录像和公开传播在不同国家有不同法律，但可穿戴 AI 正在让旧规则显得迟缓。",
+          "summary": "法律面对 AI 眼镜时会遇到一个速度问题。许多国家已有关于秘密录音、偷拍、肖像权、骚扰和公开传播的规则，但这些规则大多建立在手机、相机或监控摄像头的想象上。可穿戴 AI 设备不同：它可能一直戴在脸上，可以短时间记录，也可能未来持续收集声音、画面和环境数据。公共场所、私人聚会、工作场所、学校、医院和健身房的规则也不一样。法律需要回答的不只是“能不能拍”，还包括：旁人如何知道？平台如何审核？设备厂商承担什么责任？当录制与 AI 分析发生在同一副眼镜里，责任链条就会变得更长、更难看清。",
+          "englishLine": "Wearable AI stretches old legal categories built around phones, cameras, and surveillance systems.",
+          "englishTranslation": "Law faces a speed problem when dealing with AI glasses. Many countries already have rules about secret recording, hidden filming, image rights, harassment, and public distribution, but these rules were mostly built around the imagination of phones, cameras, or surveillance systems. Wearable AI devices are different. They may sit on the face all day, record briefly, or in the future continuously collect audio, video, and environmental data. Rules also differ across public places, private gatherings, workplaces, schools, hospitals, and gyms. Law must answer not only “can this be filmed?” but also: how will bystanders know? How should platforms review content? What responsibilities do device makers carry? When recording and AI analysis happen inside the same pair of glasses, the chain of responsibility becomes longer and harder to see.",
+          "sourceLinks": [
+            {
+              "label": "The Times｜Spoof ads protest Meta AI glasses",
+              "url": "https://www.thetimes.com/uk/london/article/meta-ai-glasses-spoof-advert-jeffrey-epstein-slx3wttm5"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "chain of responsibility",
+              "meaning": "责任链条",
+              "example": "AI wearables create a longer chain of responsibility."
+            },
+            {
+              "expression": "image rights",
+              "meaning": "肖像权 / 图像权利",
+              "example": "Image rights become harder to protect when cameras are wearable."
+            }
+          ],
+          "linkedKeywords": [
+            "law",
+            "recording",
+            "responsibility"
+          ]
+        },
+        {
+          "title": "Perspective ⑦｜Apple：把隐私变成竞争优势",
+          "dek": "Apple 被认为会用 privacy-first 路线区分自己的智能眼镜，把隐私从价值主张变成硬件竞争策略。",
+          "summary": "面对 Meta 引发的争议，Apple 被认为会采取不同路线。The Verge 报道称，Apple 预计会把隐私作为智能眼镜的重要差异点，强调 on-device AI（本地 AI）、更少云端处理，并避免引发争议的人脸识别或持续记录功能。这个方向很符合 Apple 长期建立的品牌资产：把 privacy-first 变成产品信任的一部分。但这也说明，隐私已经不只是伦理问题，而是下一轮 AI 硬件竞争的商业策略。谁能让用户相信“我不会滥用你的视线”，谁就可能拥有下一代入口。",
+          "englishLine": "Privacy is becoming not only an ethical promise, but a competitive strategy in AI hardware.",
+          "englishTranslation": "In contrast to the controversy surrounding Meta, Apple is expected to take a different path. The Verge reports that Apple may use privacy as a major point of differentiation for its smart glasses, emphasizing on-device AI, less cloud processing, and avoiding controversial features such as facial recognition or always-on recording. This direction fits Apple’s long-standing brand identity: making privacy-first design part of product trust. But it also shows that privacy is no longer only an ethical issue. It is becoming a commercial strategy in the next round of AI hardware competition. Whoever can convince users that “I will not misuse your field of vision” may own the next platform gateway.",
+          "sourceLinks": [
+            {
+              "label": "The Verge｜Apple and privacy-first smart glasses",
+              "url": "https://www.theverge.com/tech/971101/apple-smart-glasses-privacy"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "on-device AI",
+              "meaning": "本地 AI；在设备端处理而非传到云端的 AI",
+              "example": "On-device AI can reduce some privacy risks."
+            },
+            {
+              "expression": "privacy-first",
+              "meaning": "隐私优先",
+              "example": "Apple may use a privacy-first strategy for smart glasses."
+            }
+          ],
+          "linkedKeywords": [
+            "Apple",
+            "privacy",
+            "on-device AI"
+          ]
+        },
+        {
+          "title": "Perspective ⑧｜Accessibility：AI 也可能帮助更多人",
+          "dek": "对视障、低视力或记忆障碍者来说，AI 眼镜可能不是玩具，而是理解环境的辅助技术。",
+          "summary": "讨论 Meta Glasses 时，也不能忽略 accessibility（可及性 / 辅助功能）这一面。对视障人士、低视力者、记忆障碍患者，AI 眼镜可能帮助阅读菜单、识别路标、辅助导航、理解周围环境、记住人名或提供即时描述。Meta 也持续强调这类设备的辅助潜力。问题因此不是简单地说 AI Glasses 是好还是坏，而是如何在帮助一部分人获得能力的同时，保护其他人的权利。辅助技术不应该成为取消 consent 的理由，隐私担忧也不应该被用来否定残障群体的真实需求。真正困难的地方，是设计出既能服务脆弱者，也不制造新的脆弱性的技术规则。",
+          "englishLine": "The challenge is to build assistive technology that expands ability without erasing consent.",
+          "englishTranslation": "When discussing Meta Glasses, we should not ignore accessibility. For blind people, people with low vision, or people with memory impairments, AI glasses may help read menus, identify signs, assist navigation, understand surroundings, remember names, or provide real-time descriptions. Meta also continues to emphasize the assistive potential of such devices. The question is therefore not simply whether AI glasses are good or bad. It is how to help some people gain ability while protecting the rights of others. Assistive technology should not become a reason to cancel consent, and privacy concerns should not be used to dismiss the real needs of disabled people. The difficult task is to design technological rules that serve vulnerable people without creating new vulnerabilities.",
+          "sourceLinks": [
+            {
+              "label": "Business Insider｜Kylie Jenner Meta glasses backlash",
+              "url": "https://www.businessinsider.com/meta-glasses-facial-recognition-kylie-jenner-2026-7"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "assistive technology",
+              "meaning": "辅助技术",
+              "example": "Smart glasses may become assistive technology for blind users."
+            },
+            {
+              "expression": "accessibility",
+              "meaning": "可及性 / 辅助功能",
+              "example": "Accessibility should be part of AI hardware design."
+            }
+          ],
+          "linkedKeywords": [
+            "accessibility",
+            "assistive technology",
+            "disability"
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "Daily Compass Reflection｜每日罗盘思考",
+    "english": "Meta Glasses may not be the final form of AI eyewear, but they have brought a future problem into the present. When AI learns to see, the issue is no longer only whether a device is useful or convenient. The deeper question is how public life changes when seeing, recording, analyzing, and sharing can happen through something as ordinary as a pair of glasses. A society built on consent must preserve the right to know, the right to refuse, and the right to exist in public without becoming content. The future of AI wearables should not be measured only by what they allow users to do. It should also be measured by whether they protect the people around the user.",
+    "chinese": "Meta Glasses 或许不会是 AI 眼镜的最终形态，但它已经提前把一个未来问题带到今天。当 AI 学会“看见”，问题就不再只是某个设备是否有用、是否方便。更深的问题是：当观看、记录、分析和分享可以通过一副普通眼镜发生，公共生活会如何改变？一个建立在 consent 之上的社会，必须保留知情的权利、拒绝的权利，以及在公共空间中存在而不被变成内容的权利。AI 可穿戴设备的未来，不应该只用它让用户能做什么来衡量，也应该用它是否保护用户身边的人来衡量。"
+  },
+  "rawText": ""
+}

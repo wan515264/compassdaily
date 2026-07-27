@@ -238,9 +238,11 @@ function renderSection(section) {
     .join("");
   const legacyMarkup = !items.length && legacyText ? renderLegacyParagraphs(legacyText) : "";
   const speakText = items.length ? "" : legacyText;
+  const sectionHeading = displaySectionHeading(section);
+  const sectionHeadingMarkup = currentBriefing?.hideSectionHeadings ? "" : `<h3>${sectionHeading}</h3>`;
   return `
     <section class="detail-section">
-      <h3>${displaySectionHeading(section)}</h3>
+      ${sectionHeadingMarkup}
       ${section.summaryChinese ? `<p class="briefing-cn">${section.summaryChinese}</p>` : ""}
       ${itemMarkup}
       ${legacyMarkup}

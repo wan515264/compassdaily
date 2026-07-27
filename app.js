@@ -236,22 +236,12 @@ function renderTodayBriefing(briefing) {
         <small>${dateParts.weekday}</small>
       </div>
       <div class="today-copy">
-        <p class="dateline">今日主题 / Today’s Theme</p>
+        <p class="dateline">特别报道</p>
         <h3>${themeText}</h3>
         <p class="today-intro">${trimText(introText, 360)}</p>
         <a class="primary-button" href="${href}">阅读全文 / Read this briefing</a>
       </div>
     </div>
-    <aside class="today-signals" aria-label="Today’s Signals">
-      <p class="signal-title">今日信号 / Today’s Signals</p>
-      <div class="signal-list">${signalRows}</div>
-      ${topicTags.length ? renderTags(topicTags) : ""}
-      ${
-        englishPreview
-          ? `<div class="english-preview"><span>One English Paragraph</span><p>${trimText(englishPreview, 320)}</p></div>`
-          : ""
-      }
-    </aside>
   `;
 }
 
