@@ -1,5 +1,13 @@
 [
   {
+    "date": "2026-08-01",
+    "title": "Published August 1 briefing",
+    "description": "Added the August 1 Daily Compass with full English translations, covering Berlin Pride and terrorism narratives, oil prices and Wall Street sentiment, CXMT’s chip-market debut, honour killings in Pakistan, Chinese storytellers adapting Harry Potter, and Venus in the history of astronomy.",
+    "type": "briefing",
+    "relatedDate": "2026-08-01",
+    "link": "briefing.html?date=2026-08-01"
+  },
+  {
     "date": "2026-07-07",
     "title": "Editorial note",
     "description": "从 2026 年 7 月 7 日起，每日小报的新闻来源由开发者人工筛选与整理，以保持主题更清晰、来源更克制、阅读体验更稳定。Starting July 7, 2026, each Daily Compass briefing is manually selected and edited by the developer to keep the themes clearer, the sources more focused, and the reading experience more stable.",

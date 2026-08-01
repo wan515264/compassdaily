@@ -1,0 +1,304 @@
+{
+  "date": "2026-08-01",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "恐袭叙事、能源市场、芯片资本、荣誉暴力、传统叙事复兴与金星的科学想象",
+  "introChinese": "今天的小报关键词是：fear, markets and imagination（恐惧、市场与想象）。柏林 Pride 袭击后的公共讨论提醒我们，恐怖主义叙事会影响少数群体安全和移民政治；能源市场和中国芯片 IPO 则显示，战争降温与技术资本会迅速改变价格和风险感；巴基斯坦所谓“荣誉杀人”让性别暴力的制度结构再次浮出水面；中国传统说书人用《哈利·波特》重新吸引年轻观众；而 Aeon 关于金星凌日的长文，则把科学写成一种带着帝国阴影、也带着浪漫执念的人类追问。",
+  "sourceLinks": [
+    {
+      "label": "The Conversation｜Berlin Pride and ISIS-inspired terrorism",
+      "url": "https://theconversation.com/berlin-pride-isis-still-inspires-terrorism-in-europe-but-who-carries-out-these-attacks-288447"
+    },
+    {
+      "label": "Local10 / AP｜Stocks and oil as Mideast tensions cool",
+      "url": "https://www.local10.com/business/2026/07/27/stocks-open-higher-on-wall-street-and-crude-oil-prices-drop-6-as-mideast-tensions-cool/"
+    },
+    {
+      "label": "Fortune / AP｜CXMT shares surged 466%",
+      "url": "https://fortune.com/2026/07/27/cxmt-china-biggest-ipo-since-2010/"
+    },
+    {
+      "label": "The Guardian｜Honour killings in Pakistan",
+      "url": "https://www.theguardian.com/global-development/2026/jul/27/her-screams-echo-in-my-ears-the-trauma-of-so-called-honour-killings-in-pakistan"
+    },
+    {
+      "label": "Sixth Tone｜Classic storytellers and Harry Potter",
+      "url": "https://www.sixthtone.com/news/1018823"
+    },
+    {
+      "label": "Aeon｜Why Venus has obsessed astronomers",
+      "url": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers"
+    }
+  ],
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "柏林 Pride 袭击之后：恐怖主义叙事如何改变公共安全与少数群体可见性",
+          "dek": "The Conversation 的分析提醒我们，暴力事件之后，真正危险的不只是袭击本身，也包括随后被放大的政治叙事。",
+          "summary": "The Conversation 关于柏林 Pride 袭击的文章指出，ISIS 虽然不再拥有过去那种实体“国家”形态，但其意识形态仍可能通过社交媒体、孤立处境和身份危机影响欧洲的极少数激进化个体。文章讨论了一个重要问题：谁会实施这类袭击？它并不把穆斯林群体整体化，而是强调第二代移民、边缘化青年、监禁经历、贫困和政治疏离等因素如何在少数案例中交织。对 Daily Compass 来说，这条新闻适合作为新闻聚焦，是因为它同时涉及恐怖主义、LGBTQ+ 公共空间、移民政治和媒体语言。Pride 本来是一种可见性和庆祝，但当暴力进入现场，可见性也会变成风险。更复杂的是，右翼政治力量可能借袭击强化排外叙事，却并不真正保护酷儿群体的权利。因此，读这类新闻时，我们需要同时反对极端主义暴力，也警惕把暴力变成新的污名和集体归罪。",
+          "englishLine": "After an attack, the danger lies not only in violence itself, but also in the political stories that are built around it.",
+          "englishTranslation": "The Conversation’s article on the Berlin Pride attack argues that although ISIS no longer exists as the territorial state it once claimed to be, its ideology can still influence a very small number of radicalized individuals in Europe through social media, isolation, and identity crisis. The article asks an important question: who carries out these attacks? It does not treat Muslim communities as a single group. Instead, it examines how second-generation migration, marginalization, youth dislocation, prison experience, poverty, and political alienation can intersect in some cases. For The Daily Compass, this story works as a news focus because it brings together terrorism, LGBTQ+ public space, migration politics, and media language. Pride is meant to be a form of visibility and celebration, but when violence enters the scene, visibility can also become risk. The situation is even more complicated because right-wing political actors may use such attacks to intensify anti-immigrant narratives while doing little to protect queer rights. To read this kind of news carefully, we need to oppose extremist violence while also resisting the transformation of violence into stigma and collective blame.",
+          "sourceLinks": [
+            {
+              "label": "The Conversation｜Berlin Pride and ISIS-inspired terrorism",
+              "url": "https://theconversation.com/berlin-pride-isis-still-inspires-terrorism-in-europe-but-who-carries-out-these-attacks-288447"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "radicalization",
+              "meaning": "激进化；走向极端思想或暴力行动的过程",
+              "example": "Radicalization is often shaped by isolation, grievance, and online networks."
+            },
+            {
+              "expression": "public visibility",
+              "meaning": "公共可见性",
+              "example": "Pride events create public visibility for LGBTQ+ communities."
+            },
+            {
+              "expression": "collective blame",
+              "meaning": "集体归罪",
+              "example": "Responsible reporting should avoid collective blame after an attack."
+            }
+          ],
+          "linkedKeywords": [
+            "Berlin Pride",
+            "terrorism",
+            "LGBTQ+",
+            "public safety"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "中东紧张降温，美股上涨、油价下跌：市场把“风险缓解”先定价",
+          "dek": "AP 报道显示，当美国与伊朗暂停攻击、谈判重新启动时，股市和油价迅速作出反应。",
+          "summary": "AP 经 Local10 发布的报道显示，在美国与伊朗暂停攻击、重启谈判的背景下，华尔街股市开盘上涨，原油价格明显回落。报道称，标普 500 指数、道琼斯指数和纳斯达克指数均上涨，布伦特原油价格则从此前因冲突升级而冲高的位置回落。金融市场在这里做的事情，是把“风险缓解”提前转换成价格：如果霍尔木兹海峡相关风险下降，投资者会预期供应中断概率降低、运输成本缓和、通胀压力减轻。可是市场的反应并不等于现实已经稳定。它只是说明，资本总是在不确定性中寻找可交易的信号。今天可以记住一个表达：markets price in expectations，市场会把预期提前计入价格。",
+          "englishLine": "Markets often move before stability is real, because they price in expectations rather than certainty.",
+          "englishTranslation": "An AP report published by Local10 says that Wall Street stocks opened higher and crude oil prices fell after the United States and Iran paused their attacks and talks resumed. The report notes gains in the S&P 500, the Dow Jones Industrial Average, and the Nasdaq, while Brent crude retreated from levels reached during the earlier escalation. What financial markets are doing here is turning the expectation of reduced risk into prices. If risks around the Strait of Hormuz decline, investors may expect a lower chance of supply disruption, softer shipping costs, and less inflation pressure. But a market reaction does not mean that reality has become stable. It only shows that capital is always searching for tradable signals inside uncertainty. A useful phrase for today is: markets price in expectations.",
+          "sourceLinks": [
+            {
+              "label": "Local10 / AP｜Stocks and oil as Mideast tensions cool",
+              "url": "https://www.local10.com/business/2026/07/27/stocks-open-higher-on-wall-street-and-crude-oil-prices-drop-6-as-mideast-tensions-cool/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "price in expectations",
+              "meaning": "把预期计入价格",
+              "example": "Markets price in expectations before political outcomes are certain."
+            },
+            {
+              "expression": "supply disruption",
+              "meaning": "供应中断",
+              "example": "Oil prices rise when investors fear supply disruption."
+            },
+            {
+              "expression": "risk relief",
+              "meaning": "风险缓解",
+              "example": "Risk relief helped stocks move higher."
+            }
+          ],
+          "linkedKeywords": [
+            "oil prices",
+            "Wall Street",
+            "Mideast tensions",
+            "market sentiment"
+          ]
+        },
+        {
+          "title": "CXMT 首日暴涨 466%：AI 热潮如何重塑中国芯片资产想象",
+          "dek": "Fortune / AP 报道称，中国存储芯片公司 CXMT 上市首日股价大涨，显示 AI 需求与国产半导体叙事正在共同推高资本期待。",
+          "summary": "Fortune 与 AP 的报道显示，中国存储芯片公司 CXMT 在上海上市首日股价飙升 466%，并成为中国内地市值最高的上市公司之一。这个新闻不能只读成“某只股票大涨”。它更像是 AI 时代资本市场的一次集中表达：存储芯片、数据中心、高带宽内存、国产替代和中美技术竞争，都被压缩进一个 IPO 事件里。投资者押注的不是单一公司，而是中国在全球半导体供应链中获得更高自主性的可能性。当然，高估值也意味着高压力。技术限制、出口管制、国际竞争和实际盈利能力都会继续考验这种市场热情。金融栏目读这条新闻，要抓住的是：AI 不只改变软件公司，也在重新定价制造业、供应链和国家产业战略。",
+          "englishLine": "The AI boom is not only repricing software companies; it is also repricing manufacturing, supply chains, and industrial strategy.",
+          "englishTranslation": "Fortune and AP report that Chinese memory-chip company CXMT surged 466% on its first day of trading in Shanghai, becoming one of the most valuable listed companies on China’s mainland market. This story should not be read only as a dramatic stock-market jump. It is more like a concentrated expression of capital-market imagination in the AI era. Memory chips, data centers, high-bandwidth memory, domestic substitution, and U.S.-China technology competition are all compressed into one IPO event. Investors are not only betting on one company. They are also betting on the possibility that China may gain greater autonomy in the global semiconductor supply chain. Of course, high valuation also brings high pressure. Technology limits, export controls, international competition, and real profitability will continue to test this market enthusiasm. For a finance section, the key lesson is this: AI is not only changing software companies. It is also repricing manufacturing, supply chains, and national industrial strategy.",
+          "sourceLinks": [
+            {
+              "label": "Fortune / AP｜CXMT shares surged 466%",
+              "url": "https://fortune.com/2026/07/27/cxmt-china-biggest-ipo-since-2010/"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "market valuation",
+              "meaning": "市场估值",
+              "example": "High market valuation can create pressure for future performance."
+            },
+            {
+              "expression": "semiconductor supply chain",
+              "meaning": "半导体供应链",
+              "example": "The semiconductor supply chain is central to AI competition."
+            },
+            {
+              "expression": "industrial strategy",
+              "meaning": "产业战略",
+              "example": "Industrial strategy shapes how countries compete in advanced technology."
+            }
+          ],
+          "linkedKeywords": [
+            "CXMT",
+            "semiconductors",
+            "AI boom",
+            "IPO"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender & Culture｜性别与文化",
+      "items": [
+        {
+          "title": "巴基斯坦所谓“荣誉杀人”：女性身体如何被家族、财产与社会控制绑定",
+          "dek": "The Guardian 的报道把一个个案放进更大的制度背景：所谓“荣誉”往往不是荣誉，而是对女性行动、亲密关系和身体自主的暴力控制。",
+          "summary": "The Guardian 报道了巴基斯坦所谓“荣誉杀人”给幸存者、家属和社区带来的创伤。报道中的个案显示，女性可能因为被指控“不合规范”的亲密关系而遭到家族或部落结构惩罚，甚至被杀害。所谓“荣誉”在这里不是道德，而是一套控制机制：它把女性身体与家族名声、财产继承、男性权威和地方权力联系起来。更令人痛苦的是，许多案件会因为亲属施压、非法调解、执法薄弱和社会沉默而难以得到公正处理。性别视角读这条新闻，不只是为暴力感到震惊，而是要看见暴力背后的制度：谁有权定义女性的行为？谁有权决定惩罚？谁又被迫在恐惧中生活？",
+          "englishLine": "So-called honour violence is not about honour; it is about control over women’s bodies, mobility, and choices.",
+          "englishTranslation": "The Guardian reports on the trauma caused by so-called honour killings in Pakistan for survivors, families, and communities. The cases described in the report show how women can be punished, and even killed, after being accused of relationships or behavior considered unacceptable by family or tribal structures. In this context, so-called honour is not morality. It is a mechanism of control. It links women’s bodies to family reputation, inheritance, male authority, and local power. What makes these cases even more painful is that many are difficult to prosecute because of family pressure, informal settlements, weak law enforcement, and social silence. To read this story through a gender lens is not only to be shocked by violence. It is to see the system behind the violence: who has the power to define women’s behavior? Who has the power to decide punishment? And who is forced to live in fear?",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜Honour killings in Pakistan",
+              "url": "https://www.theguardian.com/global-development/2026/jul/27/her-screams-echo-in-my-ears-the-trauma-of-so-called-honour-killings-in-pakistan"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "honour killing",
+              "meaning": "所谓“荣誉杀人”",
+              "example": "Human rights groups argue that honour killings are rooted in control, not honour."
+            },
+            {
+              "expression": "gender-based violence",
+              "meaning": "基于性别的暴力",
+              "example": "Gender-based violence is often reinforced by social silence."
+            },
+            {
+              "expression": "bodily autonomy",
+              "meaning": "身体自主权",
+              "example": "Bodily autonomy means having control over one’s own body and choices."
+            }
+          ],
+          "linkedKeywords": [
+            "Pakistan",
+            "honour killing",
+            "gender-based violence",
+            "bodily autonomy"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "中国传统说书人讲《哈利·波特》：古老艺术如何借流行文化重新活过来",
+          "dek": "Sixth Tone 报道显示，评书、曲艺和直播平台正在发生有趣的相遇。",
+          "summary": "Sixth Tone 报道，中国传统说书与曲艺表演者正在用《哈利·波特》《海贼王》《火影忍者》等全球流行文本吸引年轻观众。这个现象很迷人：一方面，评书、相声、评弹、快板等形式常被年轻人视为“非遗”或长辈的娱乐；另一方面，当它们进入 Douyin 等平台，并讲述年轻人熟悉的魔法、冒险和动漫故事时，古老的口头艺术突然重新获得可听性。这里的重点并不是“传统被流行文化污染”，而是传统本来就需要被不断讲述、改写和重新适配。一个故事能否活下去，不只取决于它来自哪里，也取决于它能不能找到新的声音、新的节奏和新的听众。",
+          "englishLine": "Tradition survives not by remaining untouched, but by finding new voices, rhythms, and listeners.",
+          "englishTranslation": "Sixth Tone reports that performers of traditional Chinese storytelling and quyi are using global popular texts such as Harry Potter, One Piece, and Naruto to attract younger audiences. The phenomenon is fascinating. On one hand, forms such as pingshu, xiangsheng, pingtan, and kuaiban are often seen by young people as intangible cultural heritage or entertainment from their grandparents’ generation. On the other hand, when these forms enter platforms such as Douyin and tell stories of magic, adventure, and anime that younger audiences already know, old oral arts suddenly become listenable again. The point is not that tradition has been contaminated by popular culture. The point is that tradition has always needed to be retold, rewritten, and adapted. Whether a story survives depends not only on where it comes from, but also on whether it can find new voices, new rhythms, and new listeners.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Classic storytellers and Harry Potter",
+              "url": "https://www.sixthtone.com/news/1018823"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "oral storytelling",
+              "meaning": "口头叙事 / 说书传统",
+              "example": "Oral storytelling can adapt to digital platforms."
+            },
+            {
+              "expression": "intangible cultural heritage",
+              "meaning": "非物质文化遗产",
+              "example": "Intangible cultural heritage needs living audiences, not only preservation."
+            },
+            {
+              "expression": "popular adaptation",
+              "meaning": "流行改编",
+              "example": "Popular adaptation can make older art forms feel immediate again."
+            }
+          ],
+          "linkedKeywords": [
+            "pingshu",
+            "quyi",
+            "Harry Potter",
+            "livestream"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "为什么金星让天文学家着迷：科学也需要浪漫、风险与想象力",
+          "dek": "Aeon 的长文把金星凌日写成一部科学史：它既关乎测量太阳系，也关乎帝国、殖民、好奇心和美。",
+          "summary": "Aeon 关于金星的文章从“金星凌日”写起：当金星从地球和太阳之间经过时，它会像一个小黑点穿过太阳表面。这种罕见天象曾让 18 世纪的天文学家远赴世界各地，只为测量地球到太阳的距离。文章最动人的地方在于，它没有把科学写成冰冷工具，而是写成一种带着浪漫执念的追问：人类为什么愿意为了一个小小的影子冒险？但文章也没有把科学史美化。许多观测行动与帝国扩张、殖民知识和不平等权力结构纠缠在一起。金星因此成为一个很好的科技栏目选题：它提醒我们，科学不仅是数据和仪器，也是好奇心、政治、审美和历史记忆。真正成熟的科学阅读，应该同时容纳 wonder（惊奇）和 critique（批判）。",
+          "englishLine": "Science is not only a tool for measurement; it is also a history of wonder, power, beauty, and exclusion.",
+          "englishTranslation": "Aeon’s essay on Venus begins with the transit of Venus: the rare moment when Venus passes between Earth and the Sun and appears as a small black dot crossing the solar disk. This phenomenon once sent 18th-century astronomers across the world in an effort to measure the distance from Earth to the Sun. What makes the essay moving is that it does not describe science as a cold instrument. It presents science as a form of romantic obsession: why would human beings risk so much for a tiny shadow? At the same time, the essay does not idealize the history of science. Many observation campaigns were entangled with imperial expansion, colonial knowledge, and unequal structures of power. Venus therefore becomes a strong topic for the AI and technology section because it reminds us that science is not only data and instruments. It is also curiosity, politics, aesthetics, and historical memory. A mature way of reading science should be able to hold both wonder and critique at the same time.",
+          "sourceLinks": [
+            {
+              "label": "Aeon｜Why Venus has obsessed astronomers",
+              "url": "https://aeon.co/essays/why-has-venus-obsessed-so-many-astronomers"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "transit of Venus",
+              "meaning": "金星凌日",
+              "example": "The transit of Venus helped astronomers measure the scale of the solar system."
+            },
+            {
+              "expression": "scientific wonder",
+              "meaning": "科学惊奇感",
+              "example": "Scientific wonder can make knowledge feel alive."
+            },
+            {
+              "expression": "colonial knowledge",
+              "meaning": "殖民知识",
+              "example": "Colonial knowledge often erased local ways of understanding the world."
+            }
+          ],
+          "linkedKeywords": [
+            "Venus",
+            "astronomy",
+            "history of science",
+            "wonder"
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "Today’s stories all ask how societies turn uncertainty into meaning. After an attack, public fear can become a political narrative. In markets, a pause in conflict can become a change in oil prices, stock indexes, and investor expectations. In gendered violence, a private tragedy reveals a public system of control. In culture, old storytelling forms survive by borrowing new fictional worlds. In science, a planet crossing the Sun becomes a way to measure the universe and to remember the complicated history behind knowledge. To read the news well is to ask not only what happened, but also what kind of story people build around what happened.",
+    "chinese": "今天的新闻都在追问：社会如何把不确定性转化为意义？袭击发生后，公共恐惧可能变成政治叙事；市场里，冲突暂停会变成油价、股指和投资者预期的变化；性别暴力中，一个私人悲剧会揭示一套公共控制系统；文化里，古老说书形式通过借用新的虚构世界延续生命；科学里，一颗行星穿过太阳，既成为测量宇宙的方法，也让我们记住知识背后复杂的历史。真正读懂新闻，不只是问发生了什么，也要问人们围绕这件事建造了怎样的故事。"
+  },
+  "tags": [
+    "Berlin Pride",
+    "terrorism",
+    "LGBTQ+",
+    "oil prices",
+    "Wall Street",
+    "CXMT",
+    "semiconductors",
+    "honour killing",
+    "Pakistan",
+    "gender-based violence",
+    "pingshu",
+    "quyi",
+    "Harry Potter",
+    "Venus",
+    "history of science"
+  ],
+  "rawText": ""
+}
