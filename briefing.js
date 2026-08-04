@@ -275,6 +275,7 @@ function renderSection(section) {
 
 function renderBriefing(briefing) {
   document.title = `${SITE_TITLE} | ${briefing.date}`;
+  briefingDetail.classList.toggle("is-flat-report", Boolean(briefing.hideSectionHeadings));
   const sections = orderedSections(briefing.sections || []).map(renderSection).join("");
 
   const topSources = renderSourceLinks(briefing.sourceLinks || briefing.sources || []);

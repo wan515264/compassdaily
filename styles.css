@@ -872,9 +872,7 @@ main,
 }
 
 .today-card {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) minmax(340px, 0.78fr);
-  gap: 28px;
+  display: block;
   margin-top: 20px;
   padding: clamp(22px, 4vw, 36px);
   border: 1px solid var(--border);
@@ -1291,8 +1289,15 @@ main,
 
 .today-main {
   display: grid;
-  grid-template-columns: 132px minmax(0, 1fr);
+  grid-template-columns: 156px minmax(0, 1fr);
   gap: 28px;
+  align-items: stretch;
+}
+
+.today-copy {
+  min-width: 0;
+  max-width: 880px;
+  align-self: center;
 }
 
 .date-card {
@@ -2328,6 +2333,25 @@ main,
 
 .detail-section {
   margin-bottom: 12px;
+}
+
+.detail-card.is-flat-report > .briefing-subblock:has(.detail-body),
+.detail-card.is-flat-report .detail-section {
+  margin: 0;
+  padding: 0;
+  border: 0;
+  border-radius: 0;
+  background: transparent;
+  box-shadow: none;
+}
+
+.detail-card.is-flat-report .detail-body {
+  display: grid;
+  gap: 18px;
+}
+
+.detail-card.is-flat-report .briefing-item {
+  margin: 0;
 }
 
 .briefing-subblock p,
