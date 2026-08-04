@@ -1,0 +1,314 @@
+{
+  "date": "2026-08-04",
+  "type": "special-report",
+  "hideSectionHeadings": true,
+  "title": "The Odyssey 2026：一部史诗电影如何被不同影评重新拆开",
+  "subtitle": "The Daily Compass｜Special Report",
+  "theme": "奥德赛2026、史诗改编、IMAX电影工业、古典文本、男性英雄、女性角色与当代观众",
+  "topics": [
+    "The Odyssey 2026",
+    "Christopher Nolan",
+    "Homer",
+    "epic adaptation",
+    "IMAX",
+    "film criticism",
+    "classical reception",
+    "masculinity",
+    "Penelope",
+    "cinema industry"
+  ],
+  "sourceLinks": [
+    {
+      "label": "TIME｜The Odyssey review",
+      "url": "https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/"
+    },
+    {
+      "label": "NPR｜The Odyssey movie review",
+      "url": "https://www.npr.org/2026/07/17/nx-s1-5872759/the-odyssey-movie-review-christopher-nolan"
+    },
+    {
+      "label": "The Guardian｜Film reviews",
+      "url": "https://www.theguardian.com/film+tone/reviews"
+    },
+    {
+      "label": "RogerEbert.com｜Film reviews",
+      "url": "https://www.rogerebert.com/reviews"
+    },
+    {
+      "label": "The New Yorker｜Film criticism",
+      "url": "https://www.newyorker.com/culture/the-front-row"
+    },
+    {
+      "label": "Time Out｜Film reviews",
+      "url": "https://www.timeout.com/film"
+    }
+  ],
+  "intro": {
+    "heading": "Special Report｜特别报道",
+    "body": "今天这期专题不是普通影讯，而是一份影评地图。Christopher Nolan 的《The Odyssey》在 2026 年夏天被许多媒体当作“电影还可以有多大”的试金石：它有史诗文本、明星阵容、IMAX 70mm、神话场景、战争归途、丈夫与妻子、英雄与家园，也有一整套围绕电影工业、古典改编和当代观看方式的争论。不同影评关注的并不是同一件事：有人看见宏大形式，有人看见情感距离；有人讨论 Homer 的文本如何被现代化，有人讨论 Nolan 的控制欲；有人赞叹影院技术，也有人追问女性角色是否仍被困在等待之中。今天我们把这些评论按方向重新整理：不是问这部电影“好不好”，而是问它为什么会成为一场关于电影、神话、权力和观看方式的公共讨论。"
+  },
+  "sections": [
+    {
+      "id": "special-report",
+      "heading": "Special Report｜特别报道",
+      "items": [
+        {
+          "title": "总论：为什么《The Odyssey》会变成一场影评事件？",
+          "dek": "这部电影被讨论，不只是因为它改编 Homer，也因为它把“史诗电影”重新推回大银幕中心。",
+          "summary": "《The Odyssey》之所以值得做专题，不只是因为它来自 Homer，也不只是因为导演是 Christopher Nolan。更重要的是，它把许多当代电影问题同时摆到台前：当流媒体改变观看习惯之后，影院还能不能重新成为一种公共仪式？当超级英雄电影疲劳之后，古典史诗是否能重新承担“大叙事”的功能？当导演作者论不断被商业大片吸收，Nolan 式的控制、精密、宏大和男性主人公困境又会怎样被影评解读？影评的分歧恰好说明，这部电影不是一个单纯的娱乐产品，而是一个文化节点。支持者把它看成影院工业的胜利，批评者则提醒我们：规模并不自动等于深度，忠实于史诗也不等于真正理解史诗里的复杂人性。",
+          "englishTranslation": "The Odyssey deserves a special report not only because it comes from Homer, and not only because it is directed by Christopher Nolan. More importantly, it brings many contemporary questions about cinema to the surface at the same time. After streaming has changed viewing habits, can the movie theater still become a public ritual? After superhero fatigue, can classical epic storytelling once again carry the weight of grand narrative? As auteur filmmaking is increasingly absorbed into blockbuster production, how should critics read Nolan’s familiar language of control, precision, scale, and troubled male protagonists? The disagreement among reviewers is exactly what makes the film interesting. Supporters see it as a triumph of theatrical cinema. More skeptical critics remind us that scale does not automatically create depth, and that fidelity to epic form does not necessarily mean a deep understanding of the complicated humanity inside epic literature.",
+          "sourceLinks": [
+            {
+              "label": "TIME｜The Odyssey review",
+              "url": "https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/"
+            },
+            {
+              "label": "NPR｜The Odyssey movie review",
+              "url": "https://www.npr.org/2026/07/17/nx-s1-5872759/the-odyssey-movie-review-christopher-nolan"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "critical event",
+              "meaning": "评论事件；引发广泛影评讨论的文化节点",
+              "example": "The film became a critical event because it touched questions beyond plot and performance."
+            },
+            {
+              "expression": "theatrical cinema",
+              "meaning": "影院电影；强调大银幕观看经验的电影",
+              "example": "Nolan’s work often argues for the value of theatrical cinema."
+            },
+            {
+              "expression": "grand narrative",
+              "meaning": "宏大叙事",
+              "example": "Classical epics can still carry grand narratives for modern audiences."
+            }
+          ],
+          "linkedKeywords": [
+            "film criticism",
+            "epic",
+            "cinema ritual",
+            "Nolan"
+          ]
+        },
+        {
+          "title": "方向一：作为电影工业的《奥德赛》",
+          "dek": "许多影评首先讨论的不是故事，而是 IMAX、70mm、影院排片和“必须在大银幕看”的工业宣言。",
+          "summary": "从电影工业角度看，《The Odyssey》几乎是一份关于影院未来的声明。Nolan 长期坚持胶片、IMAX 和大银幕经验，而这部电影把这种坚持推到史诗尺度：海面、岛屿、神殿、怪物、战争记忆和归乡旅程，都被设计成需要沉浸观看的空间。正面评论往往赞赏它把“去影院”重新变成值得计划的事件；怀疑者则会问：当一部电影越来越依赖格式、稀缺场次和昂贵票价，它是否也把电影经验变成了某种文化资本？也就是说，《The Odyssey》不只是在讲 Odysseus 回家，它也在问观众是否还愿意回到影院。",
+          "englishTranslation": "From an industrial perspective, The Odyssey almost functions as a statement about the future of moviegoing. Nolan has long defended film, IMAX, and large-screen viewing, and this film pushes that commitment to epic scale. Seas, islands, temples, monsters, memories of war, and the journey home are all designed as spaces that demand immersive viewing. Positive reviews tend to praise the film for making the act of going to the cinema feel like an event again. More skeptical critics may ask another question: when a film becomes increasingly dependent on format, scarce screenings, and expensive tickets, does the moviegoing experience also become a form of cultural capital? In other words, The Odyssey is not only about Odysseus returning home. It also asks whether audiences are still willing to return to the cinema.",
+          "sourceLinks": [
+            {
+              "label": "TIME｜The Odyssey review",
+              "url": "https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/"
+            },
+            {
+              "label": "Time Out｜Film reviews",
+              "url": "https://www.timeout.com/film"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "large-format cinema",
+              "meaning": "大格式电影 / 巨幕电影",
+              "example": "Large-format cinema turns scale into part of the story."
+            },
+            {
+              "expression": "cultural capital",
+              "meaning": "文化资本",
+              "example": "A rare screening can become a form of cultural capital."
+            },
+            {
+              "expression": "immersive viewing",
+              "meaning": "沉浸式观看",
+              "example": "The film was designed for immersive viewing in theaters."
+            }
+          ],
+          "linkedKeywords": [
+            "IMAX",
+            "70mm",
+            "cinema industry",
+            "moviegoing"
+          ]
+        },
+        {
+          "title": "方向二：作为古典改编的《奥德赛》",
+          "dek": "影评最关心的问题之一是：电影到底是在翻译 Homer，还是在把 Homer 变成 Nolan 自己的主题？",
+          "summary": "作为古典改编，《The Odyssey》的核心问题并不是“有没有照着原著拍”。Homer 的史诗本来就是经过口头传统、翻译、改写和解释不断流动的文本。真正的问题是：电影选择强调什么，又牺牲了什么？如果它强调归乡、创伤、命运和男性英雄的意志，那么 Penelope 的等待、Telemachus 的成长、奴隶与仆人的位置、神与人的不平等关系，是否会被压缩成背景？一些影评可能赞赏 Nolan 把古典史诗拍出当代节奏，另一些评论则会警惕：现代化不等于去复杂化。最好的改编不是把古代文本变得简单，而是让古代文本的陌生性继续刺痛今天。",
+          "englishTranslation": "As a classical adaptation, the central question for The Odyssey is not simply whether it follows the original. Homer’s epic has always been a text shaped by oral tradition, translation, rewriting, and interpretation. The real question is what the film chooses to emphasize, and what it sacrifices. If it foregrounds homecoming, trauma, fate, and the will of the male hero, what happens to Penelope’s waiting, Telemachus’s growth, the position of servants and enslaved people, and the unequal relationship between gods and humans? Some reviewers may praise Nolan for giving classical epic a contemporary rhythm. Others may warn that modernization should not mean simplification. The best adaptation does not make an ancient text easy. It allows the strangeness of the ancient text to continue unsettling the present.",
+          "sourceLinks": [
+            {
+              "label": "NPR｜The Odyssey movie review",
+              "url": "https://www.npr.org/2026/07/17/nx-s1-5872759/the-odyssey-movie-review-christopher-nolan"
+            },
+            {
+              "label": "The New Yorker｜Film criticism",
+              "url": "https://www.newyorker.com/culture/the-front-row"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "classical adaptation",
+              "meaning": "古典改编",
+              "example": "A classical adaptation must decide what to preserve and what to transform."
+            },
+            {
+              "expression": "source material",
+              "meaning": "原始材料 / 原著文本",
+              "example": "Critics often compare a film adaptation with its source material."
+            },
+            {
+              "expression": "modernize a text",
+              "meaning": "使文本现代化",
+              "example": "To modernize a text is not the same as simplifying it."
+            }
+          ],
+          "linkedKeywords": [
+            "Homer",
+            "adaptation",
+            "Penelope",
+            "classics"
+          ]
+        },
+        {
+          "title": "方向三：作为 Nolan 作品的《奥德赛》",
+          "dek": "这部电影几乎天然会被放进 Nolan 的作者谱系里：时间、执念、任务、牺牲、男性主体与归家幻觉。",
+          "summary": "从导演作者论角度看，《The Odyssey》非常适合 Nolan。Odysseus 是一个被任务、身份和归乡欲望驱动的人；Nolan 的许多主人公也常常被某种目标、罪疚、记忆或技术系统推着走。影评因此会把这部电影与《Dunkirk》《Interstellar》《Oppenheimer》放在一起看：它们都关心人在巨大历史、宇宙或技术结构中的位置。但问题也随之出现：当一个古典英雄被放进 Nolan 的形式机器中，他会不会变得过于像 Nolan 过去的男性主人公？如果电影的秩序感太强，史诗中本来混杂、松散、口头、重复和怪异的部分是否会被驯化？这正是影评分歧的地方：有人爱它的精密，也有人怀念史诗本应有的野性。",
+          "englishTranslation": "From an auteur perspective, The Odyssey seems almost naturally suited to Nolan. Odysseus is a man driven by mission, identity, and the desire to return home. Many of Nolan’s protagonists are also pushed forward by goals, guilt, memory, or technological systems. Reviewers therefore tend to read the film alongside Dunkirk, Interstellar, and Oppenheimer. All of them ask where a human being stands inside vast historical, cosmic, or technological structures. But this also creates a problem. When a classical hero is placed inside Nolan’s formal machinery, does he become too similar to Nolan’s earlier male protagonists? If the film’s sense of order is too strong, are the mixed, loose, oral, repetitive, and strange qualities of epic poetry domesticated? This is where critics diverge. Some love the precision. Others miss the wildness that epic should be allowed to keep.",
+          "sourceLinks": [
+            {
+              "label": "TIME｜The Odyssey review",
+              "url": "https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/"
+            },
+            {
+              "label": "RogerEbert.com｜Film reviews",
+              "url": "https://www.rogerebert.com/reviews"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "auteur theory",
+              "meaning": "作者论；把导演视为电影核心创作者的批评方法",
+              "example": "Auteur theory reads the film through Nolan’s recurring themes."
+            },
+            {
+              "expression": "formal precision",
+              "meaning": "形式精密性",
+              "example": "Nolan’s formal precision can make chaos feel controlled."
+            },
+            {
+              "expression": "male protagonist",
+              "meaning": "男性主人公",
+              "example": "The troubled male protagonist is a recurring figure in Nolan’s work."
+            }
+          ],
+          "linkedKeywords": [
+            "auteur",
+            "Nolan",
+            "masculinity",
+            "homecoming"
+          ]
+        },
+        {
+          "title": "方向四：作为性别文本的《奥德赛》",
+          "dek": "当一部电影讲“男人回家”，影评自然也会追问：谁在等待？谁被牺牲？谁拥有叙事权？",
+          "summary": "《奥德赛》从来不只是英雄冒险，它也是一部关于婚姻、家、忠诚和权力的文本。Odysseus 的旅程常被理解为男性英雄历经诱惑、战争和灾难后回归秩序；但从性别视角看，我们必须问：Penelope 的等待是否被拍成主动的智慧，还是只是忠贞的象征？女性角色是完整的人，还是 Odysseus 心理成长路上的功能性镜子？怪物、女神、女巫和妻子的形象，又如何继续塑造西方文化对女性欲望和危险的想象？一些影评如果觉得电影宏大却情感冷，问题也可能在这里：史诗规模越大，边缘人物越容易被压扁。好的性别阅读不是要求电影放弃 Odysseus，而是要求它承认：英雄归来的路上，许多人也在承受等待、失语和被讲述的命运。",
+          "englishTranslation": "The Odyssey has never been only a story of heroic adventure. It is also a text about marriage, home, loyalty, and power. Odysseus’s journey is often understood as the return of a male hero to order after temptation, war, and disaster. But from a gender perspective, we have to ask: is Penelope’s waiting presented as active intelligence, or only as a symbol of fidelity? Are the women in the story full human beings, or functional mirrors for Odysseus’s psychological development? How do figures such as monsters, goddesses, witches, and wives continue to shape Western ideas of female desire and danger? If some critics find the film grand but emotionally cold, the problem may lie here as well. The larger the epic scale becomes, the easier it is for marginal figures to be flattened. A good gender reading does not ask the film to abandon Odysseus. It asks the film to acknowledge that on the road of the hero’s return, many others also endure waiting, silence, and the fate of being narrated by someone else.",
+          "sourceLinks": [
+            {
+              "label": "NPR｜The Odyssey movie review",
+              "url": "https://www.npr.org/2026/07/17/nx-s1-5872759/the-odyssey-movie-review-christopher-nolan"
+            },
+            {
+              "label": "The Guardian｜Film reviews",
+              "url": "https://www.theguardian.com/film+tone/reviews"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "narrative agency",
+              "meaning": "叙事能动性；角色推动和拥有故事的能力",
+              "example": "A gender reading asks whether Penelope has narrative agency."
+            },
+            {
+              "expression": "function as a mirror",
+              "meaning": "作为镜子发挥功能",
+              "example": "Female characters should not merely function as mirrors for a male hero."
+            },
+            {
+              "expression": "emotional distance",
+              "meaning": "情感距离",
+              "example": "Some critics found emotional distance beneath the film’s scale."
+            }
+          ],
+          "linkedKeywords": [
+            "Penelope",
+            "gender",
+            "narrative agency",
+            "female characters"
+          ]
+        },
+        {
+          "title": "方向五：作为当代观众的神话课",
+          "dek": "《The Odyssey》的影评争论也许说明：今天的人仍然需要神话，但不再愿意无条件相信英雄。",
+          "summary": "今天重新观看《奥德赛》，最有价值的地方也许不是“古希腊故事仍然伟大”，而是它暴露了我们与英雄神话之间的矛盾关系。我们仍然被归乡、漂泊、试炼和重逢打动；但我们也更容易看见英雄叙事中的暴力、性别等级、殖民想象和权力不平等。影评之所以分裂，是因为观众也分裂：我们想要壮阔、想要神话、想要影院奇观，同时又不想再被旧英雄叙事轻易说服。因此，《The Odyssey 2026》最有意思的地方不是它给出答案，而是它把问题放大：在一个对权力更敏感、对性别更警觉、对影像工业更自觉的时代，史诗还能怎样被相信？",
+          "englishTranslation": "The most valuable part of watching The Odyssey today may not be the simple claim that ancient Greek stories are still great. It may be that the film exposes our conflicted relationship with heroic myth. We are still moved by homecoming, wandering, trials, and reunion. At the same time, we are more able to see the violence, gender hierarchy, colonial imagination, and unequal power inside heroic narrative. Critics are divided because audiences are divided too. We want grandeur, myth, and cinematic spectacle, but we no longer want to be easily persuaded by old heroic stories. For this reason, the most interesting thing about The Odyssey 2026 is not that it provides an answer. It enlarges a question: in an age more sensitive to power, more alert to gender, and more self-aware about image industries, how can epic still be believed?",
+          "sourceLinks": [
+            {
+              "label": "TIME｜The Odyssey review",
+              "url": "https://time.com/article/2026/07/15/the-odyssey-review-christopher-nolan/"
+            },
+            {
+              "label": "The New Yorker｜Film criticism",
+              "url": "https://www.newyorker.com/culture/the-front-row"
+            }
+          ],
+          "expressions": [
+            {
+              "expression": "heroic myth",
+              "meaning": "英雄神话",
+              "example": "Modern audiences often admire and question heroic myth at the same time."
+            },
+            {
+              "expression": "cinematic spectacle",
+              "meaning": "电影奇观",
+              "example": "The film offers cinematic spectacle on a rare scale."
+            },
+            {
+              "expression": "be persuaded by",
+              "meaning": "被……说服",
+              "example": "Viewers may no longer be easily persuaded by old heroic narratives."
+            }
+          ],
+          "linkedKeywords": [
+            "myth",
+            "spectacle",
+            "modern audience",
+            "critical viewing"
+          ]
+        }
+      ]
+    }
+  ],
+  "englishParagraph": {
+    "heading": "One English Paragraph｜今日英文段落",
+    "english": "The debate around The Odyssey shows that a film adaptation is never only a translation from one medium to another. It is also a negotiation between past and present. Critics are not simply asking whether Nolan has respected Homer. They are asking what kind of epic can still speak to an audience that is more aware of gender, power, labor, technology, and cinematic spectacle. A myth survives when it can be retold, but every retelling also reveals the values of the age that tells it.",
+    "chinese": "围绕《The Odyssey》的争论说明，电影改编从来不只是从一种媒介翻译到另一种媒介。它也是过去与现在之间的协商。影评人问的不只是 Nolan 是否尊重 Homer，而是怎样的史诗还能对一个更关注性别、权力、劳动、技术和电影奇观的观众说话。神话能够存活，是因为它可以被不断重述；但每一次重述，也都会暴露讲述它的时代究竟相信什么。"
+  },
+  "studyNote": {
+    "heading": "Study Note｜影评阅读笔记",
+    "body": "读影评时，可以把评论分成几个层次：formal criticism（形式批评）看摄影、剪辑、声音和节奏；adaptation criticism（改编批评）看电影如何处理原著；industry criticism（工业批评）看发行、格式、影院和票价；gender criticism（性别批评）看角色权力和叙事位置；reception criticism（接受史批评）看观众、媒体和时代如何重新解释一部作品。这样读，就不会只停留在“好看 / 不好看”。"
+  },
+  "tags": [
+    "The Odyssey",
+    "Christopher Nolan",
+    "Homer",
+    "film review",
+    "IMAX",
+    "epic adaptation",
+    "classical reception",
+    "Penelope",
+    "masculinity",
+    "cinema industry"
+  ],
+  "rawText": ""
+}
