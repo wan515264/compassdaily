@@ -1,0 +1,145 @@
+{
+  "date": "2026-08-06",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual daily briefing for navigating global news, culture, AI, and social change.",
+  "theme": "数据中心政治、Ubuntu 人工智能、朝鲜网络行动、权力纪实、月经健康、女性身体商品化与日元干预",
+  "sourceLinks": [
+    { "label": "WIRED｜How Data Centers Broke American Politics", "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/" },
+    { "label": "Aeon｜Towards an AI for Africa", "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics" },
+    { "label": "WIRED｜Inside North Korean Hackers’ Networks", "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/" },
+    { "label": "The Conversation｜Regime Change review", "url": "https://theconversation.com/regime-change-might-be-2026s-nonfiction-bestseller-heres-why-its-essential-chilling-reading-288382" },
+    { "label": "D+C｜Mela for Her and menstrual health in Ethiopia", "url": "https://www.dandc.eu/en/article/menstrual-health-ethiopia-mela-for-her" },
+    { "label": "Sixth Tone｜Chinese Rafting Park’s ‘Female Companion’ Service", "url": "https://www.sixthtone.com/news/1018855" },
+    { "label": "The NY Ledger｜Japanese Yen and intervention expectations", "url": "https://thenyledger.com/markets/forex/japanese-yen-gathers-strength-to-near-157-50-on-us-backed-intervention/" }
+  ],
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "数据中心如何闯入美国政治：AI 基础设施不再只是技术议题",
+          "dek": "WIRED 追踪 2026 年的数据中心反弹：电力、水、土地与政治资金，让“云端”重新落回具体社区。",
+          "summary": "数据中心常被描述成无形数字经济的后台，但它们在现实中需要大量土地、电力和水，也会影响居民账单、地方税收与公共设施。WIRED 把 2026 年美国各地的反数据中心情绪放进更大的政治图景：科技公司争取快速审批与税收优惠，地方居民则追问成本由谁承担、承诺的就业是否足够、社区是否真正拥有决定权。当不同政治阵营都开始借这个议题组织选民，AI 基础设施就从产业政策变成了分配政治。真正的问题不是简单支持或反对数据中心，而是谁能定义发展、谁获得收益、谁承受外部成本。",
+          "englishLine": "The cloud becomes political when its physical costs are concentrated in particular communities.",
+          "englishTranslation": "Data centers are often described as the invisible back end of the digital economy, yet in the physical world they require large amounts of land, electricity, and water. They can also affect household bills, local tax revenue, and public infrastructure. WIRED places the American data-center backlash of 2026 within a larger political struggle. Technology companies seek faster permits and tax incentives, while residents ask who will bear the costs, whether promised jobs justify those costs, and whether communities have meaningful power over the decision. Once different political camps begin organizing voters around the issue, AI infrastructure becomes a question of distribution rather than technology alone. The central issue is who defines development, who receives the benefits, and who absorbs the external costs.",
+          "sourceLinks": [{ "label": "WIRED｜How Data Centers Broke American Politics", "url": "https://www.wired.com/story/how-data-centers-broke-american-politics/" }],
+          "expressions": [
+            { "expression": "data-center backlash", "meaning": "针对数据中心扩张的公众反弹", "example": "The data-center backlash has become a local election issue." },
+            { "expression": "external costs", "meaning": "外部成本；由企业之外的人承担的代价", "example": "Residents want companies to pay for the external costs of growth." },
+            { "expression": "local consent", "meaning": "地方社区的知情同意与参与", "example": "Large infrastructure projects require meaningful local consent." }
+          ],
+          "linkedKeywords": ["data centers", "AI infrastructure", "electricity", "local politics"]
+        },
+        {
+          "title": "非洲需要怎样的 AI？从 Hunhu/Ubuntu 重新思考“负责任技术”",
+          "dek": "Aeon 指出，AI 不只是缺少非洲语言，也把西方个人主义当成了默认的普遍价值。",
+          "summary": "津巴布韦哲学家 Fainos Mangena 在 Aeon 写道，今天的主流 AI 由西方制度与数据塑造，其个性化、自动决策和隐私框架往往把个人视为孤立、自主的单位。Hunhu/Ubuntu 伦理则以“人通过他人而成为人”为起点，强调共同体、对话、团结与共享责任。文章提醒我们，语言缺席只是算法殖民主义的一部分：如果系统能说一种语言，却不能理解当地关于人格、尊严和公共利益的观念，它仍然可能制造文化排斥。以 Ubuntu 为基础的 AI 应让受影响的共同体参与治理，并把集体福祉、地方数据和代际责任纳入设计；但把哲学价值转化为可执行规则仍是艰难的制度工作。",
+          "englishLine": "Responsible AI must be culturally answerable, not merely technically accurate.",
+          "englishTranslation": "Zimbabwean philosopher Fainos Mangena argues in Aeon that mainstream AI is shaped by Western institutions and data. Its systems of personalization, automated decision-making, and privacy often treat a person as an isolated and autonomous unit. Hunhu/Ubuntu ethics begins elsewhere: a person becomes a person through other people, and moral life depends on community, dialogue, solidarity, and shared responsibility. Linguistic absence is therefore only one part of algorithmic colonialism. Even an AI that speaks a local language can create cultural exclusion if it cannot recognize local understandings of personhood, dignity, and the common good. An Ubuntu-informed AI would give affected communities a role in governance and place collective welfare, local data, and intergenerational responsibility inside the design process.",
+          "sourceLinks": [{ "label": "Aeon｜Towards an AI for Africa", "url": "https://aeon.co/essays/an-ai-for-africa-would-be-built-on-hunhu-ubuntu-ethics" }],
+          "expressions": [
+            { "expression": "algorithmic colonialism", "meaning": "算法殖民主义", "example": "Algorithmic colonialism can reproduce old power relations through new systems." },
+            { "expression": "collective agency", "meaning": "集体能动性", "example": "Ubuntu ethics places collective agency above isolated preference." },
+            { "expression": "culturally sensitive", "meaning": "对文化背景敏感的", "example": "Responsible systems should be culturally sensitive and locally accountable." }
+          ],
+          "linkedKeywords": ["Hunhu", "Ubuntu", "AI ethics", "algorithmic colonialism"]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜AI 与科技",
+      "items": [
+        {
+          "title": "安全研究员反入侵朝鲜黑客：被攻破的不是一台服务器，而是一张全球网络",
+          "dek": "WIRED 报道，Vangelis Stykas 持续近两年进入朝鲜黑客服务器，由此看见数百个遭入侵系统。",
+          "summary": "安全研究员 Vangelis Stykas 发现并利用朝鲜黑客基础设施的漏洞，近两年持续观察其服务器。WIRED 称，这项工作显示相关攻击者已进入全球数量惊人的网络。这个故事的意义不只在“黑客黑了黑客”的戏剧性，而在于它暴露了网络情报的结构性难题：一个私人研究者可能偶然看见跨国受害面，却必须同时处理通知受害者、保存证据、避免破坏系统以及与执法机构协调等责任。国家支持的网络行动还会长期潜伏，使单个入侵事件很难被孤立理解。防御因此不能只依靠一次补丁，而要持续监测身份、端点、服务器和异常通信。",
+          "englishLine": "Threat intelligence becomes valuable only when discovery can be turned into coordinated defense.",
+          "englishTranslation": "Security researcher Vangelis Stykas found and exploited weaknesses in infrastructure used by North Korean hackers, maintaining visibility into their servers for nearly two years. WIRED reports that his work revealed intrusions across a striking number of systems worldwide. The importance of the story lies beyond the drama of a hacker hacking hackers. It exposes a structural problem in cyber intelligence: a private researcher may unexpectedly gain sight of victims across borders while also carrying responsibilities to notify them, preserve evidence, avoid damaging systems, and coordinate with law enforcement. State-backed operations can remain hidden for long periods, making it difficult to treat each breach as an isolated event. Effective defense therefore requires continuous monitoring of identities, endpoints, servers, and unusual communications.",
+          "sourceLinks": [{ "label": "WIRED｜Inside North Korean Hackers’ Networks", "url": "https://www.wired.com/story/a-security-pro-hacked-north-korean-hackers-he-found-theyd-breached-hundreds-of-networks-worldwide/" }],
+          "expressions": [
+            { "expression": "maintain access", "meaning": "持续保持访问权限", "example": "The researcher maintained access to the servers for nearly two years." },
+            { "expression": "state-backed hackers", "meaning": "国家支持的黑客", "example": "State-backed hackers may pursue espionage and financial goals." },
+            { "expression": "coordinated disclosure", "meaning": "协调披露漏洞或入侵信息", "example": "Coordinated disclosure can help victims respond without alerting attackers too early." }
+          ],
+          "linkedKeywords": ["North Korea", "cybersecurity", "threat intelligence", "network breach"]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Books / Literature / Art / Fashion / Media｜书籍文学艺术时尚媒体",
+      "items": [
+        {
+          "title": "《Regime Change》为何令人不寒而栗：政治报道如何写出权力内部",
+          "dek": "The Conversation 评介 Maggie Haberman 与 Jonathan Swan 的新书：细节既是畅销书引擎，也是公共问责工具。",
+          "summary": "《Regime Change: Inside the Imperial Presidency of Donald Trump》由《纽约时报》记者 Maggie Haberman 与 Jonathan Swan 合著。The Conversation 的评论认为，这本书可能成为 2026 年非虚构畅销书，因为它把白宫内部的谈话、决定与权力习惯组织成一幅近距离政治肖像。此类“内部叙事”的价值在于让抽象制度变化变得可见：权力如何说话、幕僚如何适应、规范如何在日常操作中被削弱。但读者也要保留媒介意识——匿名消息源、访问权和戏剧性细节会影响叙事边界。优秀的政治纪实不只是提供秘密，而是用可核验细节帮助公众理解制度正在怎样改变。",
+          "englishLine": "Insider reporting matters when intimate detail reveals institutional change rather than merely feeding spectacle.",
+          "englishTranslation": "Regime Change: Inside the Imperial Presidency of Donald Trump is written by New York Times reporters Maggie Haberman and Jonathan Swan. The Conversation argues that it may become a major nonfiction bestseller of 2026 because it organizes conversations, decisions, and habits inside the White House into a close political portrait. The value of insider narrative is that it can make institutional change visible: how power speaks, how aides adapt, and how norms are weakened through everyday practice. Readers should still retain media awareness, because anonymous sources, access, and dramatic detail shape the limits of the story. Political nonfiction is most useful when verified detail helps the public understand changing institutions, rather than simply supplying secrets and spectacle.",
+          "sourceLinks": [{ "label": "The Conversation｜Regime Change review", "url": "https://theconversation.com/regime-change-might-be-2026s-nonfiction-bestseller-heres-why-its-essential-chilling-reading-288382" }],
+          "expressions": [
+            { "expression": "insider account", "meaning": "内部人士叙事 / 内幕纪实", "example": "The book is an insider account of executive power." },
+            { "expression": "institutional norms", "meaning": "制度规范", "example": "Small decisions can gradually weaken institutional norms." },
+            { "expression": "chilling reading", "meaning": "令人不寒而栗的读物", "example": "The documented concentration of power makes for chilling reading." }
+          ],
+          "linkedKeywords": ["Regime Change", "political nonfiction", "Donald Trump", "media accountability"]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender & Culture｜性别与文化",
+      "items": [
+        {
+          "title": "埃塞俄比亚的月经健康：社会企业能否把“买不到”变成可持续的解决方案？",
+          "dek": "Mela for Her 用可重复使用的卫生巾、月经内裤、教育与女性就业，把健康问题连接到本地生产。",
+          "summary": "D+C 采访埃塞俄比亚社会企业 Mela for Her。报道指出，当地约七成女性和女孩缺少合适的月经用品，知识缺口也会影响教育、健康、尊严与经济参与。Mela for Her 生产可重复使用的卫生巾和月经内裤，并与人道组织合作，向难民和流离失所者提供包含卫生用品的 dignity kits；团队超过 85% 为女性。它的市场化思路并不是把公共责任简单交给商业，而是尝试让本地生产、可负担价格、教育与就业形成可持续循环。判断这种模式是否有效，还要看最贫困群体能否真正负担、产品是否安全舒适，以及公共机构是否继续承担基本保障责任。",
+          "englishLine": "Menstrual health is a question of access, knowledge, dignity, and economic participation.",
+          "englishTranslation": "D+C interviews the Ethiopian social enterprise Mela for Her. The article says that about 70 percent of women and girls in Ethiopia lack access to adequate menstrual products, while gaps in knowledge affect education, health, dignity, and economic participation. Mela for Her manufactures reusable sanitary pads and menstrual underwear and works with humanitarian organizations to provide dignity kits to refugees and displaced people. More than 85 percent of its team is female. Its market-based approach does not have to mean transferring all public responsibility to business. Instead, it attempts to connect local production, affordability, education, and employment in a sustainable cycle. The model must still be judged by whether low-income users can afford it and whether public institutions continue to guarantee basic access.",
+          "sourceLinks": [{ "label": "D+C｜Mela for Her and menstrual health in Ethiopia", "url": "https://www.dandc.eu/en/article/menstrual-health-ethiopia-mela-for-her" }],
+          "expressions": [
+            { "expression": "menstrual health", "meaning": "月经健康", "example": "Menstrual health affects education, work, and dignity." },
+            { "expression": "reusable sanitary pad", "meaning": "可重复使用的卫生巾", "example": "A reusable sanitary pad can reduce long-term costs when washing facilities are available." },
+            { "expression": "market-based solution", "meaning": "基于市场机制的解决方案", "example": "A market-based solution still needs safeguards for people with little income." }
+          ],
+          "linkedKeywords": ["Ethiopia", "menstrual health", "Mela for Her", "social enterprise"]
+        },
+        {
+          "title": "“女性陪伴”被做成漂流套餐：亲密服务如何成为景区营销商品",
+          "dek": "Sixth Tone 报道，一家中国漂流景区按价格宣传女性拥抱、亲吻游客，随后被责令停业。",
+          "summary": "Sixth Tone 报道，一家漂流景区推出所谓“女性陪伴”服务，并按价格把拥抱、亲吻等互动包装进游玩项目，景区之后被责令暂停运营。争议不只是营销低俗，而是女性身体与情感劳动如何被拆分、标价并当作吸引客流的附加产品。即便工作人员同意参与，真正的同意仍取决于劳动合同、拒绝权、收入结构、安全措施和免受骚扰的保障；消费者付费也不等于获得越界的许可。这个案例提醒我们，文旅创新不能把性别刻板印象当创意，更不能用“自愿”一词掩盖不平等的工作环境。",
+          "englishLine": "Payment for a service never removes the need for clear boundaries and ongoing consent.",
+          "englishTranslation": "Sixth Tone reports that a Chinese rafting attraction advertised a so-called female companion service, packaging hugs and kisses into differently priced experiences. Authorities later ordered the park to suspend operations. The controversy concerns more than vulgar marketing. It shows how women’s bodies and emotional labor can be divided, priced, and sold as an extra attraction. Even if workers agree to participate, meaningful consent depends on contracts, the right to refuse, pay structures, safety measures, and protection from harassment. A customer’s payment never creates permission to cross boundaries. Tourism businesses should not treat gender stereotypes as creative marketing or use the word voluntary to hide unequal working conditions.",
+          "sourceLinks": [{ "label": "Sixth Tone｜Chinese Rafting Park’s ‘Female Companion’ Service", "url": "https://www.sixthtone.com/news/1018855" }],
+          "expressions": [
+            { "expression": "emotional labor", "meaning": "情感劳动", "example": "Emotional labor is often hidden inside service work." },
+            { "expression": "ongoing consent", "meaning": "持续、可随时撤回的同意", "example": "Physical interaction requires ongoing consent." },
+            { "expression": "objectification", "meaning": "物化；把人当成可使用的物品", "example": "The campaign was criticized for the objectification of women." }
+          ],
+          "linkedKeywords": ["tourism", "female companion", "consent", "emotional labor"]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜金融与市场",
+      "items": [
+        {
+          "title": "日元走强至 157.50 附近：市场在交易“美日协同干预”的可能性",
+          "dek": "汇率波动反映的不只是买卖力量，也包括央行政策差、官方措辞与干预可信度。",
+          "summary": "The NY Ledger 报道，日元兑美元走强，USD/JPY 向 157.50 附近回落，市场关注美国支持下的干预预期。读这类外汇新闻要先分清方向：USD/JPY 下跌意味着一美元能兑换的日元减少，也就是日元升值。短期波动可能来自交易者降低空头仓位、官方口头警告或对协同行动的预判；中期趋势仍会受到日本银行与美联储政策差、两国债券收益率差和风险情绪影响。所谓“干预预期”可以迅速改变价格，却不保证长期趋势已经逆转。对普通读者而言，这是一则理解政策信号如何进入市场价格的案例，而不是买卖建议。",
+          "englishLine": "Markets react not only to intervention itself, but also to the credibility of an intervention threat.",
+          "englishTranslation": "The NY Ledger reports that the Japanese yen strengthened as USD/JPY moved toward 157.50, with traders watching the possibility of intervention supported by the United States. The direction matters: when USD/JPY falls, one dollar buys fewer yen, which means the yen is appreciating. Short-term moves may reflect traders reducing short-yen positions, official warnings, or expectations of coordinated action. The medium-term trend still depends on the policy gap between the Bank of Japan and the Federal Reserve, the difference between Japanese and US bond yields, and broader risk sentiment. Expectations of intervention can move prices quickly, but they do not prove that a long-term trend has reversed. This is an example of policy signals entering market prices, not investment advice.",
+          "sourceLinks": [{ "label": "The NY Ledger｜Japanese Yen and intervention expectations", "url": "https://thenyledger.com/markets/forex/japanese-yen-gathers-strength-to-near-157-50-on-us-backed-intervention/" }],
+          "expressions": [
+            { "expression": "currency intervention", "meaning": "汇率干预", "example": "Currency intervention can slow a disorderly exchange-rate move." },
+            { "expression": "policy divergence", "meaning": "政策分化", "example": "Policy divergence can widen the yield gap between two countries." },
+            { "expression": "short covering", "meaning": "空头回补", "example": "Short covering can produce a rapid currency rebound." }
+          ],
+          "linkedKeywords": ["Japanese yen", "USD/JPY", "currency intervention", "Bank of Japan"]
+        }
+      ]
+    }
+  ]
+}
