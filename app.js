@@ -100,7 +100,7 @@ function transitionHomeTheme(theme) {
 }
 
 async function fetchJson(path) {
-  const response = await fetch(path);
+  const response = await fetch(path, { cache: "no-store" });
   if (!response.ok) throw new Error(`Failed to load ${path}`);
   return response.json();
 }
@@ -110,12 +110,33 @@ function sortByNewest(entries) {
 }
 
 async function loadBriefingIndex() {
-  const index = await fetchJson("data/briefings/index.json");
+  let index;
+  try {
+    index = await fetchJson("data/briefings/index.json");
+  } catch (error) {
+    const embedded = document.querySelector("#briefingIndexData");
+    if (!embedded) throw error;
+    index = JSON.parse(embedded.textContent);
+  }
   return sortByNewest(index);
 }
 
 async function loadBriefing(entry) {
-  return fetchJson(`data/briefings/${entry.file || `${entry.date}.json`}`);
+  try {
+    return await fetchJson(`data/briefings/${entry.file || `${entry.date}.json`}`);
+  } catch (error) {
+    const embedded = document.querySelector("#todayBriefingData");
+    if (!embedded) throw error;
+    const briefing = JSON.parse(embedded.textContent);
+    if (briefing.date !== entry.date) throw error;
+    return briefing;
+  }
+}
+
+function entryHref(entry = {}) {
+  return entry.reportSlug
+    ? `report.html?slug=${encodeURIComponent(entry.reportSlug)}`
+    : `briefing.html?date=${encodeURIComponent(entry.date || "")}`;
 }
 
 function normalizeSectionId(section = {}) {
@@ -203,6 +224,9 @@ function renderTodayBriefing(briefing) {
   const sections = orderedSections(briefing.sections || []).slice(0, 5);
   const themeText = briefing.theme || briefing.subtitle || briefing.title || SITE_TITLE;
   const introText = briefing.introChinese || briefing.intro?.body || "今天的小报还在整理中，请稍后回来阅读。";
+  const introMarkup = Array.isArray(briefing.introParagraphsChinese) && briefing.introParagraphsChinese.length
+    ? briefing.introParagraphsChinese.map((paragraph) => `<div class="today-intro-pair"><p lang="zh-CN">${escapeHTML(paragraph.text)}</p>${paragraph.text_en ? `<p class="today-intro-en" lang="en">${escapeHTML(paragraph.text_en)}</p>` : ""}</div>`).join("")
+    : `<p>${escapeHTML(trimText(introText, 360))}</p>`;
   const topicTags = briefing.tags || briefing.topics || [];
   const signalRows = (sections.length ? sections : topicFallback.map((heading) => ({ heading }))).slice(0, 5)
     .map((section, index) => {
@@ -222,7 +246,7 @@ function renderTodayBriefing(briefing) {
     })
     .join("");
   const englishPreview = briefing.englishParagraph?.english || briefing.sentenceAnalysis?.sentence || briefing.sentenceLab?.sentence || sectionPlainText(sections[0]) || "";
-  const href = `briefing.html?date=${briefing.date}`;
+  const href = entryHref(briefing);
   const dateParts = formatDateParts(briefing.date);
 
   if (readTodayLink) {
@@ -237,8 +261,8 @@ function renderTodayBriefing(briefing) {
       </div>
       <div class="today-copy">
         <p class="dateline">特别报道</p>
-        <h3>${themeText}</h3>
-        <p class="today-intro">${trimText(introText, 360)}</p>
+        <h3>${themeText}${briefing.titleEnglish ? `<span class="today-title-en" lang="en">${escapeHTML(briefing.titleEnglish)}</span>` : ""}</h3>
+        <div class="today-intro">${introMarkup}</div>
         <a class="primary-button" href="${href}">阅读全文 / Read this briefing</a>
       </div>
     </div>
@@ -307,7 +331,7 @@ function renderArchive(entries, query = "") {
           const previewText = entry.theme || entry.subtitle || entry.title || SITE_SUBTITLE;
           const label = escapeAttribute(`${entry.date} ${previewText}`);
           return `
-            <a class="archive-date-token" href="briefing.html?date=${entry.date}" title="${label}" aria-label="${label}">
+            <a class="archive-date-token" href="${entryHref(entry)}" title="${label}" aria-label="${label}">
               <span class="archive-date-symbol" aria-hidden="true">${symbol}</span>
               <span class="archive-date-main">${dateParts.monthDay.replace(/\s/g, "")}</span>
               <span class="archive-date-weekday">${dateParts.weekday || "Briefing"}</span>
@@ -405,8 +429,15 @@ async function loadUpdateLog() {
     allUpdateNotes = [...updates].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
     renderUpdateLog();
   } catch (error) {
-    console.warn("Could not load update log:", error);
-    renderUpdateLogError();
+    const embedded = document.querySelector("#updateLogData");
+    if (!embedded) {
+      console.warn("Could not load update log:", error);
+      renderUpdateLogError();
+      return;
+    }
+    const updates = JSON.parse(embedded.textContent);
+    allUpdateNotes = [...updates].sort((a, b) => new Date(b.date || 0) - new Date(a.date || 0));
+    renderUpdateLog();
   }
 }
 

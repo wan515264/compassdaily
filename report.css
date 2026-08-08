@@ -1,0 +1,48 @@
+.report-page { background-color: var(--bg); }
+.report-page .site-nav { position: sticky; top: 0; z-index: 50; }
+.report-shell { position: relative; z-index: 1; width: min(1120px, calc(100% - 40px)); margin: 0 auto; padding: clamp(4rem, 8vw, 8rem) 0; }
+.report-header { max-width: 930px; margin-bottom: 4rem; }
+.report-type, .report-chapter > header p { color: var(--gold); letter-spacing: .13em; text-transform: uppercase; font-size: .76rem; }
+.report-header h1 { margin: 1rem 0; font: 500 clamp(2.25rem, 4.2vw, 3.5rem)/1.12 Georgia, "Songti SC", serif; letter-spacing: -.025em; }
+.report-header h1 span, .report-dek span { display: block; margin-top: .3em; color: var(--gold); font-size: .62em; letter-spacing: 0; }
+.report-dek { max-width: 780px; font: clamp(1.15rem, 2vw, 1.5rem)/1.55 Georgia, "Songti SC", serif; }
+.report-metadata { display: flex; flex-wrap: wrap; gap: 1.4rem 3rem; margin: 2.5rem 0 1.5rem; padding: 1.2rem 0; border-block: 1px solid var(--border); }
+.report-metadata div { min-width: 110px; }
+.report-metadata dt { color: var(--muted); font-size: .7rem; letter-spacing: .1em; text-transform: uppercase; }
+.report-metadata dd { margin: .25rem 0 0; font-family: Georgia, serif; }
+.report-tags { display: flex; flex-wrap: wrap; gap: .5rem; padding: 0; list-style: none; }
+.report-tags li { padding: .4rem .7rem; border: 1px solid var(--border); border-radius: 99px; color: var(--muted); font-size: .78rem; }
+.report-toc { display: grid; grid-template-columns: repeat(3, 1fr); position: sticky; top: 78px; z-index: 30; margin-bottom: 5rem; border-block: 1px solid var(--border); background: color-mix(in srgb, var(--bg) 92%, transparent); backdrop-filter: blur(16px); }
+.report-toc a { display: grid; grid-template-columns: auto 1fr; column-gap: .7rem; padding: 1rem; border-right: 1px solid var(--border); color: var(--ink); text-decoration: none; font-size: .82rem; }
+.report-toc a > span { grid-row: 1 / 3; color: var(--gold); }
+.report-toc small { color: var(--muted); }
+.report-chapter { padding: clamp(4rem, 8vw, 7rem) 0; border-top: 1px solid var(--border); scroll-margin-top: 145px; }
+.report-chapter > header { display: grid; grid-template-columns: 80px 1fr; gap: 2rem; margin-bottom: 3rem; }
+.report-chapter > header > span { color: var(--gold); font: 3rem/1 Georgia, serif; }
+.report-chapter > header p, .report-chapter > header h2 { margin: 0; }
+.report-chapter > header h2 { margin-top: .2rem; font: 500 clamp(1.55rem, 3vw, 2.45rem)/1.18 Georgia, "Songti SC", serif; }
+.question-chapter blockquote { margin: 0 0 4rem 110px; padding: 0; border: 0; font: clamp(1.45rem, 2.8vw, 2.55rem)/1.3 Georgia, "Songti SC", serif; }
+.question-chapter blockquote p:last-child { color: var(--gold); font-size: .68em; }
+.bilingual-columns { display: grid; grid-template-columns: repeat(2, minmax(0, 1fr)); gap: clamp(2rem, 6vw, 5rem); }
+.bilingual-columns > div:first-child { font-family: Georgia, "Times New Roman", serif; font-size: 1.06rem; }
+.bilingual-columns > div:last-child { color: var(--muted); }
+.bilingual-columns p { margin: 0 0 1.35rem; line-height: 1.78; }
+.chapter-purpose, .report-theme, .report-subsection, .reference-group { margin-left: 110px; }
+.chapter-purpose { margin-top: -2rem; margin-bottom: 3rem; color: var(--muted); font: 1.15rem/1.5 Georgia, serif; }
+.chapter-purpose span { display: block; }
+.report-theme { margin-bottom: 5rem; }
+.report-theme > header { display: flex; gap: 1rem; align-items: baseline; margin-bottom: 1rem; padding-bottom: 1rem; border-bottom: 1px solid var(--border); }
+.report-theme > header > span { color: var(--gold); font: .78rem/1 system-ui, sans-serif; letter-spacing: .12em; }
+.report-theme > header h3 { margin: 0; font: 500 clamp(1.55rem, 2.5vw, 2.2rem)/1.15 Georgia, "Songti SC", serif; }
+.report-theme > header small { margin-left: .65rem; color: var(--gold); font-size: .68em; }
+.report-theme .report-subsection { margin-left: 0; }
+.report-subsection, .reference-group { padding: 3rem 0; border-top: 1px solid var(--border); }
+.report-subsection h3, .reference-group h3 { margin: 0 0 2rem; font: 500 clamp(1.2rem, 1.9vw, 1.65rem)/1.35 Georgia, "Songti SC", serif; }
+.report-subsection h3 span, .reference-group h3 span { display: block; margin-top: .3rem; color: var(--gold); font-size: .72em; }
+.inline-citations { display: inline-flex; flex-wrap: wrap; gap: .35rem; margin-left: .4rem; }
+.inline-citations a, .reference-group a { color: var(--gold); font-size: .75rem; }
+.reference-group ol { padding-left: 1.4rem; }
+.reference-group li { display: grid; grid-template-columns: 1fr auto; gap: 1rem; padding: 1rem 0 .9rem .4rem; border-bottom: 1px solid var(--border); line-height: 1.55; }
+.publication-footer { position: relative; z-index: 1; }
+@media (max-width: 850px) { .report-toc { position: static; grid-template-columns: repeat(2, 1fr); } .bilingual-columns { grid-template-columns: 1fr; } .question-chapter blockquote, .chapter-purpose, .report-theme, .report-subsection, .reference-group { margin-left: 0; } }
+@media (max-width: 620px) { .report-shell { width: min(100% - 28px, 1120px); } .report-header h1 { font-size: clamp(1.75rem, 8vw, 2rem); line-height: 1.18; } .report-toc { grid-template-columns: 1fr; } .report-chapter > header { grid-template-columns: 50px 1fr; gap: 1rem; } .report-chapter > header > span { font-size: 2.2rem; } .reference-group li { grid-template-columns: 1fr; } }

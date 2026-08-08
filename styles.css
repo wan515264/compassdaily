@@ -1369,6 +1369,34 @@ main,
   font-size: 1rem;
 }
 
+.today-intro p {
+  margin: 0 0 1rem;
+}
+
+.today-intro-pair {
+  margin-bottom: 1.35rem;
+}
+
+.today-intro-pair p {
+  margin-bottom: 0.45rem;
+}
+
+.today-intro-en {
+  color: var(--ink-muted);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.94em;
+  line-height: 1.72;
+}
+
+.today-title-en {
+  display: block;
+  margin-top: 0.35rem;
+  color: var(--gold);
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: 0.58em;
+  letter-spacing: 0;
+}
+
 .today-signals {
   padding: 10px 0 0 26px;
   border-left: 1px solid rgba(197, 154, 87, 0.22);
