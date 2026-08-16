@@ -1,0 +1,37 @@
+{
+  "date": "2026-08-16",
+  "title": "为什么“传统妻子”的幻想如此迷人？",
+  "theme": "为什么“传统妻子”的幻想如此迷人？",
+  "titleEnglish": "Why Is the Tradwife Fantasy So Seductive?",
+  "type": "special-report",
+  "reportSlug": "why-is-the-tradwife-fantasy-so-seductive",
+  "introChinese": "当Tradwife被包装成一种生活方式、个人选择和逃离现代压力的路径时，它究竟在向女性出售什么？",
+  "introParagraphsChinese": [
+    {
+      "text": "长裙、刚出炉的面包、整洁的厨房、成群的孩子，以及仿佛不受通勤和电子邮件打扰的时间，已经成为社交媒体上反复出现的画面。",
+      "text_en": "Long dresses, fresh bread, immaculate kitchens, many children, and time apparently untouched by commutes or email have become a recurring social-media vision."
+    },
+    {
+      "text": "这期专题不预设Tradwife等于极右翼，也不把它简单解释为女性自由选择。我们想追问：这种幻想回应了哪些真实疲惫，又把哪些劳动、资源和风险移出了画面？",
+      "text_en": "This report neither assumes that Tradwife means the far right nor reduces it to women’s free choice. It asks which genuine forms of exhaustion the fantasy answers—and which forms of labour, resources, and risk it moves outside the frame."
+    },
+    {
+      "text": "Tradwife文化把结构性的疲惫，转化成了一场关于“回归”的个人幻想。这个工作假设能够经受证据检验吗？",
+      "text_en": "Tradwife culture turns structural exhaustion into an individualized fantasy of return. Can that working thesis withstand the evidence?",
+      "emphasis": true
+    }
+  ],
+  "tags": ["Tradwife", "gender", "care work", "influencer culture", "nostalgia", "platform politics"],
+  "sections": [
+    {
+      "id": "special-report",
+      "heading": "Research Question｜研究问题",
+      "summaryChinese": "当Tradwife被包装成逃离现代压力的路径时，它究竟向女性出售什么？"
+    },
+    {
+      "id": "news-focus",
+      "heading": "Research｜研究",
+      "summaryChinese": "从幻想、逃离、劳动、选择、平台、政治、反证与历史八个维度检验Tradwife叙事。"
+    }
+  ]
+}

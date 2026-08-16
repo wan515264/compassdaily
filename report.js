@@ -48,8 +48,8 @@ function renderBlocks(blocks, sources) {
   </section>`).join("");
 }
 
-function renderThemedBlocks(blocks, sources) {
-  const themes = [
+function renderThemedBlocks(blocks, sources, configuredThemes = []) {
+  const themes = configuredThemes?.length ? configuredThemes : [
     { id: "love", en: "Love", zh: "爱情" },
     { id: "marriage", en: "Marriage", zh: "婚姻" },
     { id: "body", en: "Body", zh: "身体" },
@@ -94,7 +94,7 @@ function renderReport(report) {
     <section class="report-chapter" id="news">
       <header><span>02</span><div><p>Research</p><h2>研究</h2></div></header>
       <p class="chapter-purpose">${escapeHTML(report.news.heading_en)}<span>${escapeHTML(report.news.heading_zh)}</span></p>
-      ${renderThemedBlocks(report.news.blocks, sources)}
+      ${renderThemedBlocks(report.news.blocks, sources, report.news.themes)}
     </section>
 
     <section class="report-chapter references-chapter" id="references">
@@ -102,6 +102,7 @@ function renderReport(report) {
       ${renderReferenceGroup("Journalism", "新闻报道", report.references.journalism)}
       ${renderReferenceGroup("Academic Research", "学术研究", report.references.academic_research)}
       ${renderReferenceGroup("Reports & Data", "报告与数据", report.references.reports_data)}
+      ${renderReferenceGroup("Fiction / Cultural Text", "文学与文化文本", report.references.fiction_cultural_text)}
     </section>`;
 }
 
@@ -111,7 +112,10 @@ async function init() {
   if (!/^[a-z0-9-]+$/.test(slug)) throw new Error("Invalid report identifier.");
   const embeddedNode = document.querySelector("#embeddedReportData");
   const embeddedReport = embeddedNode ? JSON.parse(embeddedNode.textContent) : null;
-  renderReport(embeddedReport || await fetchJSON(`data/reports/${slug}.json`));
+  const report = embeddedReport?.slug === slug
+    ? embeddedReport
+    : await fetchJSON(`data/reports/${slug}.json`);
+  renderReport(report);
 }
 
 themeSwitch?.addEventListener("click", () => applyTheme(document.documentElement.classList.contains("theme-light") ? "dark" : "light"));
