@@ -39,13 +39,20 @@ function citations(ids = [], sources) {
 }
 
 function renderBlocks(blocks, sources) {
-  return blocks.map((block) => `<section class="report-subsection">
+  return blocks.map((block) => block.pairs ? `<div class="report-paragraph-pairs">${block.pairs.map((pair) => `<div class="report-paragraph-pair"><p lang="zh-CN">${renderInlineSources(pair.zh, sources)}</p><p lang="en">${renderInlineSources(pair.en, sources)}</p></div>`).join("")}</div>` : `<section class="report-subsection">
     <h3>${escapeHTML(block.heading_en)}<span>${escapeHTML(block.heading_zh)}</span></h3>
     <div class="bilingual-columns">
       <div lang="en">${block.paragraphs_en.map((paragraph, index) => `<p>${escapeHTML(paragraph)}${index === block.paragraphs_en.length - 1 ? citations(block.citations, sources) : ""}</p>`).join("")}</div>
       <div lang="zh-CN">${block.paragraphs_zh.map((paragraph) => `<p>${escapeHTML(paragraph)}</p>`).join("")}</div>
     </div>
   </section>`).join("");
+}
+
+function renderInlineSources(text, sources) {
+  return escapeHTML(text).replace(/\[([NLU]\d+)\]/g, (marker, id) => {
+    const source = sources.get(id);
+    return source ? `<a class="report-source-marker" href="#reference-${id}" aria-label="Reference ${id}">${marker}</a>` : marker;
+  });
 }
 
 function renderThemedBlocks(blocks, sources, configuredThemes = []) {
@@ -63,6 +70,9 @@ function renderThemedBlocks(blocks, sources, configuredThemes = []) {
 
 function renderReferenceGroup(title, titleZh, entries = []) {
   if (!entries.length) return "";
+  if (entries.every((entry) => entry.citation_text)) {
+    return `<section class="reference-group"><h3>${title}<span>${titleZh}</span></h3><ol>${entries.map((entry) => `<li id="reference-${escapeHTML(entry.id)}"><span>[${escapeHTML(entry.id)}] ${escapeHTML(entry.citation_text)}</span>${entry.url ? `<a href="${escapeHTML(entry.url)}" target="_blank" rel="noopener noreferrer">Open source ↗</a>` : ""}</li>`).join("")}</ol></section>`;
+  }
   return `<section class="reference-group"><h3>${title}<span>${titleZh}</span></h3><ol>${entries.map((entry) => `<li><span>${escapeHTML(entry.author)}. “${escapeHTML(entry.title)}.” <em>${escapeHTML(entry.publication)}</em>, ${escapeHTML(entry.date)}.${entry.doi ? ` DOI: ${escapeHTML(entry.doi)}.` : ""}</span><a href="${escapeHTML(entry.url)}" target="_blank" rel="noopener noreferrer">Open source ↗</a></li>`).join("")}</ol></section>`;
 }
 
@@ -89,6 +99,7 @@ function renderReport(report) {
       <header><span>01</span><div><p>Research Question</p><h2>研究问题</h2></div></header>
       <blockquote><p lang="en">${escapeHTML(report.research_question.question_en)}</p><p lang="zh-CN">${escapeHTML(report.research_question.question_zh)}</p></blockquote>
       <div class="bilingual-columns"><div lang="en"><p>${escapeHTML(report.research_question.trigger_en)}</p><p>${escapeHTML(report.research_question.purpose_en)}</p></div><div lang="zh-CN"><p>${escapeHTML(report.research_question.trigger_zh)}</p><p>${escapeHTML(report.research_question.purpose_zh)}</p></div></div>
+      ${report.evidence_limitations ? `<aside class="report-evidence-note"><h3>Evidence Limitations｜证据局限</h3><p lang="zh-CN">${escapeHTML(report.evidence_limitations.zh)}</p><p lang="en">${escapeHTML(report.evidence_limitations.en)}</p></aside>` : ""}
     </section>
 
     <section class="report-chapter" id="news">

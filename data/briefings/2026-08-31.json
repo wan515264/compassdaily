@@ -1,0 +1,39 @@
+{
+  "date": "2026-08-31",
+  "title": "当养老金遇见衰老：泰国跨国婚姻中的权力与照护",
+  "theme": "当养老金遇见衰老：泰国跨国婚姻中的权力与照护",
+  "titleEnglish": "When Pensions Meet Ageing: Power and Care in Thai–Western Marriages",
+  "type": "special-report",
+  "reportSlug": "when-pensions-meet-ageing",
+  "introChinese": "当经济特权与身体依赖并存，爱、金钱和照护如何在长期关系中被重新协商？",
+  "introParagraphsChinese": [
+    {
+      "text": "当西方丈夫在泰国老去，跨国婚姻中的权力如何重新配置？",
+      "text_en": "How does power shift when Western husbands grow old in Thailand?"
+    },
+    {
+      "text": "当经济特权与身体依赖并存，爱、金钱和照护如何在长期关系中被重新协商？",
+      "text_en": "When economic privilege and bodily dependency coexist, how are love, money, and care renegotiated over time?"
+    }
+  ],
+  "tags": [
+    "retirement migration",
+    "Thailand",
+    "care",
+    "ageing",
+    "intimacy",
+    "power"
+  ],
+  "sections": [
+    {
+      "id": "special-report",
+      "heading": "Research Question｜研究问题",
+      "summaryChinese": "当西方丈夫在泰国老去，跨国婚姻中的权力如何重新配置？"
+    },
+    {
+      "id": "news-focus",
+      "heading": "Research｜研究",
+      "summaryChinese": "退休生活、爱与金钱、返迁、身体依赖、照护成本与丧偶后的研究缺口。"
+    }
+  ]
+}

@@ -1,4 +1,10 @@
 .report-page { background-color: var(--bg); }
+.report-paragraph-pair { margin: 2rem 0; line-height: 1.85; overflow-wrap: anywhere; }
+.report-paragraph-pair p { margin: 0 0 1rem; }
+.report-paragraph-pair [lang="en"] { color: var(--muted); font-family: Georgia, serif; }
+.report-source-marker { color: var(--gold); font-size: .8em; }
+.report-evidence-note { margin-top: 2rem; padding: 1.4rem; border: 1px solid var(--border); line-height: 1.8; }
+.reference-group li[id] { scroll-margin-top: 160px; }
 .report-page .site-nav { position: sticky; top: 0; z-index: 50; }
 .report-shell { position: relative; z-index: 1; width: min(1120px, calc(100% - 40px)); margin: 0 auto; padding: clamp(4rem, 8vw, 8rem) 0; }
 .report-header { max-width: 930px; margin-bottom: 4rem; }
