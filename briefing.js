@@ -226,6 +226,17 @@ function renderLegacyParagraphs(text = "") {
     .join("");
 }
 
+function renderBilingualParagraphs(chinese = "", english = "") {
+  const chineseParagraphs = chinese.split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+  const englishParagraphs = english.split(/\n\s*\n/).map((paragraph) => paragraph.trim()).filter(Boolean);
+  const paragraphCount = Math.max(chineseParagraphs.length, englishParagraphs.length);
+
+  return Array.from({ length: paragraphCount }, (_, index) => `
+    ${chineseParagraphs[index] ? `<p class="briefing-cn">${chineseParagraphs[index]}</p>` : ""}
+    ${englishParagraphs[index] ? `<p class="briefing-en-paragraph">${renderClickableWords(englishParagraphs[index], savedWords)}</p>` : ""}
+  `).join("");
+}
+
 function renderSection(section) {
   const legacyText = section.body || section.text || "";
   const items = Array.isArray(section.items) ? section.items : [];
@@ -242,9 +253,9 @@ function renderSection(section) {
         <article class="briefing-item">
           <h4>${item.title || "Briefing item"}</h4>
           ${item.dek ? `<p class="item-dek">${renderClickableWords(item.dek, savedWords)}</p>` : ""}
-          ${summary ? `<p class="briefing-cn">${summary}</p>` : ""}
+          ${item.paragraphTranslation ? renderBilingualParagraphs(summary, englishTranslation) : summary ? `<p class="briefing-cn">${summary}</p>` : ""}
           ${
-            englishTranslation
+            englishTranslation && !item.paragraphTranslation
               ? `<div class="english-translation"><h4>Full English Translation｜完整英文翻译</h4><p>${renderClickableWords(englishTranslation, savedWords)}</p></div>`
               : ""
           }

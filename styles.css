@@ -2989,3 +2989,8 @@ main,
     animation: none !important;
   }
 }
+.briefing-en-paragraph {
+  margin-top: -0.35rem;
+  color: var(--muted);
+  line-height: 1.75;
+}

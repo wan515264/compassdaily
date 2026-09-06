@@ -1,0 +1,127 @@
+{
+  "date": "2026-09-04",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "A bilingual briefing for navigating global news, culture, AI, and social change.",
+  "theme": "吉隆口岸山洪、油价与债券市场、女性导演职业断层、DLSS 5 生成式渲染",
+  "sourceLinks": [
+    {
+      "label": "Sixth Tone｜Remembering Gyirong: The Bustling Port That Vanished in a Flash",
+      "url": "https://www.sixthtone.com/news/1018971"
+    },
+    {
+      "label": "AP｜Stocks slip under pressure from oil prices and bond yields",
+      "url": "https://apnews.com/article/775d7cf741349c7c8e689c0beb57f074"
+    },
+    {
+      "label": "Reuters｜Bond selloff deepens as oil stokes inflation fears",
+      "url": "https://www.kitco.com/news/off-the-wire/2026-09-01/bond-selloff-deepens-and-stocks-drop-oil-prices-stoke-inflation-fears"
+    },
+    {
+      "label": "The Guardian｜Female film-makers squeezed out of industry",
+      "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival"
+    },
+    {
+      "label": "NVIDIA Research｜DLSS 5",
+      "url": "https://research.nvidia.com/labs/adlr/DLSS5/"
+    },
+    {
+      "label": "Tom’s Hardware｜DLSS 5 launches with NBA 2K27",
+      "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now"
+    }
+  ],
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "山洪过后：消失在一夜之间的吉隆口岸",
+          "paragraphTranslation": true,
+          "dek": "Sixth Tone 通过口岸工作人员、商户与访客的记忆，记录山洪如何摧毁一座边境口岸及其日常生活。",
+          "summary": "8月26日上午，一场由山地冰川引发的突发洪水冲击了位于西藏自治区日喀则市的吉隆口岸。这座连接中国与尼泊尔的重要陆路口岸，在岩石、冰块与洪水形成的洪流中遭到严重破坏。\n\n据新华社报道，截至9月2日，灾害已在尼泊尔造成至少1,204人死亡、在中国造成21人死亡，另有近5,000人失踪，其中546人在吉隆失踪。通往口岸的约三公里公路被毁，首批救援人员用了两天才抵达灾区。\n\nSixth Tone 转载并翻译的《解放日报》报道没有只关注灾害数字，而是通过摄影师何旭、口岸工作人员、商户和物流从业者的记忆，重建灾难发生前的吉隆。何旭自2010年起到访这里至少100次，见证它从一排简陋平房发展成繁忙的国际口岸。\n\n洪水发生后，何旭开始逐一联系他在口岸认识的海关、边检、消防和疾控工作人员。他向他们发送“你安全吗”的信息，但大多数消息没有得到回复。一名当天请假进城的疾控工作人员幸免于难，他的工作地点却已被洪流摧毁。\n\n吉隆不仅是一处边境检查站，也是中尼贸易与地方生活的重要节点。2015年尼泊尔地震损坏樟木口岸后，吉隆逐渐成为两国之间的主要陆路通道，并于2017年扩大为国际口岸。到2024年，经吉隆进出口的货物总值达到42.4亿元，居西藏各口岸之首。\n\n口岸的消失也打断了围绕它形成的经济网络。卡车和货物被迫滞留，物流企业开始寻找紧急仓储空间，并将部分运输转向樟木和里孜等其他口岸。依靠游客、边贸和口岸工作人员生存的餐馆、酒店与商店，则突然失去了往日的人流。\n\n这篇报道记录的并不只是一个基础设施节点如何被自然灾害摧毁。那些尚未得到回复的信息、无法确认安全的工作人员，以及突然安静下来的边境小城，共同说明：灾害摧毁的也是人们经过多年建立起来的工作、关系与日常生活。",
+          "englishTranslation": "On the morning of August 26, a flash flood triggered by a mountain glacier struck Gyirong Port in Shigatse, Xizang Autonomous Region. The major land crossing between China and Nepal was devastated by a torrent of rocks, ice, and water.\n\nAccording to Xinhua News Agency, by September 2 the disaster had killed at least 1,204 people in Nepal and 21 in China. Nearly 5,000 people remained missing, including 546 in Gyirong. Around three kilometers of highway leading to the port were destroyed, and it took two days for the first rescue teams to reach the area.\n\nThe report, originally published by Jiefang Daily and translated and republished by Sixth Tone, looks beyond the casualty figures. Through the memories of photographer He Xu, port workers, shopkeepers, and logistics employees, it reconstructs the Gyirong that existed before the disaster. He had visited the area at least 100 times since 2010, watching it grow from a row of modest buildings into a busy international port.\n\nAfter the flood, He began contacting customs officers, immigration personnel, firefighters, and disease-control workers he knew at the port. He sent messages asking whether they were safe, but most went unanswered. One disease-control worker survived because he had taken the day off and travelled into town; the place where he worked was swept away.\n\nGyirong was more than a border checkpoint. It had become an important hub for China-Nepal trade and local life. After the 2015 Nepal earthquake damaged facilities at Zhangmu Port, Gyirong developed into the main land crossing between the two countries and was expanded into an international port in 2017. By 2024, goods worth 4.24 billion yuan had passed through it—the highest total among all ports in Xizang.\n\nThe port’s destruction also disrupted the economic networks that had developed around it. Trucks and cargo were stranded, logistics companies searched for emergency storage, and some shipments were redirected through other crossings such as Zhangmu and Lizi. Restaurants, hotels, and shops that depended on tourists, border trade, and port employees suddenly lost their usual flow of customers.\n\nThe story is not only about the destruction of a piece of infrastructure. The unanswered messages, the port workers whose safety remains unknown, and the border town that suddenly fell silent show that a disaster also destroys work, relationships, and forms of everyday life built over many years.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜Remembering Gyirong: The Bustling Port That Vanished in a Flash",
+              "url": "https://www.sixthtone.com/news/1018971"
+            }
+          ],
+          "expressions": [
+            { "expression": "flash flood", "meaning": "突发洪水；山洪", "example": "A flash flood swept through the border port." },
+            { "expression": "land crossing", "meaning": "陆路口岸", "example": "Gyirong is an important land crossing between China and Nepal." },
+            { "expression": "remain missing", "meaning": "仍然失踪", "example": "Many people remain missing after the disaster." }
+          ],
+          "linkedKeywords": ["Gyirong Port", "Xizang", "Nepal", "flash flood", "border trade"]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜财经与市场",
+      "items": [
+        {
+          "title": "油价上涨如何传导至债券与科技股？",
+          "paragraphTranslation": true,
+          "dek": "中东冲突、能源价格、通胀预期与利率共同形成一条进入全球市场的风险传导链。",
+          "summary": "9月初，能源市场、债券市场和股票市场出现了一条清晰的风险传导链。\n\n中东冲突升级推动原油价格上涨，加剧了市场对通胀的担忧。如果能源成本持续走高，中央银行可能不得不维持较高利率，甚至进一步收紧货币政策。\n\n利率预期随之推动债券收益率上升，并提高政府、企业和消费者的借贷成本。\n\n9月1日，美国股市整体下跌：标普500指数跌0.7%，道琼斯工业平均指数跌0.8%，纳斯达克综合指数跌1%。英伟达、亚马逊和 AMD 等大型科技公司也出现下跌。\n\n科技股对利率尤其敏感。投资者对这类公司的估值很大程度上建立在未来利润和持续增长之上；当借贷成本上升，这些未来收益的当前价值也会下降。\n\nAI 基础设施建设同时依赖规模庞大的资本投入。因此，高利率不仅改变股票估值，也可能改变企业扩建数据中心和采购芯片的速度。\n\n但一天的市场波动不能证明长期趋势。它更适合作为一个观察窗口：战争造成的能源冲击，如何通过通胀预期和利率进入全球金融市场。",
+          "englishTranslation": "At the beginning of September, a clear chain of risk connected energy, bond, and equity markets.\n\nEscalating conflict in the Middle East pushed oil prices higher, intensifying concerns about inflation. If energy costs remain elevated, central banks may have to keep interest rates high—or tighten monetary policy further.\n\nThose expectations pushed bond yields upward and increased borrowing costs for governments, businesses, and consumers.\n\nUS stocks fell broadly on September 1. The S&P 500 lost 0.7%, the Dow Jones Industrial Average declined 0.8%, and the Nasdaq Composite dropped 1%. Large technology companies, including Nvidia, Amazon, and AMD, also fell.\n\nTechnology stocks are particularly sensitive to interest rates. Their valuations depend heavily on expectations of future profits and continued growth; when borrowing costs increase, the present value of those future earnings falls.\n\nAI infrastructure also requires enormous capital expenditure. Higher interest rates could therefore affect not only share prices but also the pace at which companies build data centers and purchase chips.\n\nOne day of market movement cannot establish a long-term trend. It is better understood as a window into how an energy shock produced by war can travel through inflation expectations and interest rates into global financial markets.",
+          "sourceLinks": [
+            { "label": "AP｜Stocks slip under pressure from oil prices and bond yields", "url": "https://apnews.com/article/775d7cf741349c7c8e689c0beb57f074" },
+            { "label": "Reuters｜Bond selloff deepens as oil stokes inflation fears", "url": "https://www.kitco.com/news/off-the-wire/2026-09-01/bond-selloff-deepens-and-stocks-drop-oil-prices-stoke-inflation-fears" }
+          ],
+          "expressions": [
+            { "expression": "bond yield", "meaning": "债券收益率", "example": "Bond yields rose as inflation fears intensified." },
+            { "expression": "borrowing costs", "meaning": "借贷成本", "example": "Higher rates increase borrowing costs for companies." },
+            { "expression": "risk transmission", "meaning": "风险传导", "example": "Oil prices created a chain of risk transmission across markets." }
+          ],
+          "linkedKeywords": ["oil prices", "bond yields", "inflation", "technology stocks", "AI infrastructure"]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender & Culture｜性别与文化",
+      "items": [
+        {
+          "title": "女性导演进入了电影节，却仍难以留在电影行业",
+          "paragraphTranslation": true,
+          "dek": "伦敦电影节的数据表明，女性创作者被看见，并不等于她们能够持续获得预算与职业机会。",
+          "summary": "女性导演的作品正在越来越多地出现在电影节上，但“被选中”不等于能够获得长期的创作机会。\n\n2026年伦敦电影节公布的251部作品中，109部由女性电影人创作，占43%。然而，在拥有更多预算、明星和媒体关注度的21部 Gala 影片中，只有两部由女性导演。\n\n电影节负责人 Kristy Matheson 认为，问题并不在于缺少女性创作者。电影节很容易找到出色的女性导演处女作，但从第二部电影开始，女性的数量便明显下降。\n\n到了需要更高预算的第四部或第五部作品，差距更加突出。\n\n这意味着电影行业的性别问题可能已经发生变化。障碍不再只是女性能否第一次拿起摄影机，而是她们能否持续获得融资、发行资源和职业发展的机会。\n\n单届电影节的节目表不能代表整个全球电影产业，Gala 单元中的两部影片也不应被视为完整的行业统计。\n\n但两组数字之间的差距提供了一个值得追问的线索：当人才并不稀缺时，究竟是什么让女性导演在职业中途消失？",
+          "englishTranslation": "Films by women are appearing more frequently at festivals, but being selected does not necessarily lead to a sustainable career.\n\nOf the 251 titles announced for the 2026 BFI London Film Festival, 109—or 43%—were made by women. Yet only two of the festival’s 21 gala films, which tend to receive larger budgets, major stars, and greater media attention, were directed by women.\n\nFestival director Kristy Matheson argues that the problem is not a shortage of female talent. Programmers have little difficulty finding strong debut films by women, but the number begins to fall noticeably with second features.\n\nThe disparity becomes even more pronounced when directors seek the larger budgets required for their fourth or fifth films.\n\nThe gender problem in cinema may therefore be changing. The barrier is no longer only whether women can direct a first film, but whether they can continue receiving financing, distribution, and opportunities for professional development.\n\nOne festival programme cannot represent the entire global film industry, and two gala films should not be treated as a comprehensive industry statistic.\n\nThe disparity nevertheless raises an important question: if talent is not scarce, what causes women directors to disappear midway through their careers?",
+          "sourceLinks": [
+            { "label": "The Guardian｜Female film-makers squeezed out of industry", "url": "https://www.theguardian.com/film/2026/sep/02/female-film-makers-squeezed-out-of-industry-bfi-london-film-festival" }
+          ],
+          "expressions": [
+            { "expression": "sustainable career", "meaning": "可持续的职业生涯", "example": "A successful debut does not guarantee a sustainable career." },
+            { "expression": "career pipeline", "meaning": "职业发展路径", "example": "Women continue to disappear from the directing career pipeline." },
+            { "expression": "systemic barrier", "meaning": "系统性障碍", "example": "Access to financing can become a systemic barrier." }
+          ],
+          "linkedKeywords": ["women directors", "film industry", "BFI", "financing", "gender inequality"]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜人工智能与科技",
+      "items": [
+        {
+          "title": "DLSS 5 开始生成游戏的“最终画面”",
+          "paragraphTranslation": true,
+          "dek": "英伟达把生成式 AI 带入渲染流程的最后阶段，同时引出性能、稳定性与艺术控制权争议。",
+          "summary": "过去，DLSS 主要通过提高分辨率和生成中间帧，让游戏运行得更加流畅。\n\n英伟达9月1日公布的 DLSS 5 则迈出了更具争议的一步：它开始参与生成玩家最终看到的画面。\n\n根据英伟达的技术说明，DLSS 5 使用单步像素空间扩散模型，结合游戏当前渲染的画面、运动向量、时间状态和开发者设定的艺术指导参数，实时生成材质、光线和视觉细节。\n\n这项技术可以在 RTX 50 系列显卡上本地运行，最高支持4K输出。\n\n这意味着生成式 AI 不再只是幕后辅助工具。它正在进入游戏成像流程的最后阶段，决定皮肤、服装、表面细节甚至整体视觉气氛应该如何呈现。\n\n英伟达强调，这项技术并非取代传统物理渲染或开发者的艺术创作，而是执行创作者提供的视觉方向。\n\n但争议也由此产生：当神经网络生成的像素越来越多，玩家看到的究竟是美术团队设计的作品，还是模型对这些设计的实时解释？\n\nDLSS 5 于9月3日在《NBA 2K27》中首发。目前公开证据主要来自英伟达和首发合作项目，其性能损耗、跨游戏稳定性以及对原始艺术风格的影响，仍需要独立测试。",
+          "englishTranslation": "Earlier versions of DLSS primarily improved resolution or generated intermediate frames to make games run more smoothly.\n\nDLSS 5, announced by Nvidia on September 1, takes a more controversial step: it participates in generating the final image displayed to the player.\n\nAccording to Nvidia’s technical description, DLSS 5 uses a one-step pixel-space diffusion model. It combines the currently rendered frame, motion vectors, temporal information, and artistic-direction parameters supplied by developers to generate materials, lighting, and visual details in real time.\n\nThe technology runs locally on RTX 50-series graphics cards and supports output at up to 4K.\n\nGenerative AI is therefore no longer only a production tool operating behind the scenes. It is entering the final stage of the rendering pipeline and helping determine how skin, clothing, surfaces, and the overall visual atmosphere appear.\n\nNvidia says the technology is intended to complement—not replace—traditional physically based rendering and artistic authorship.\n\nBut that claim points directly to the controversy: as neural networks generate more of the pixels on screen, are players seeing the world designed by the art team, or the model’s real-time interpretation of that world?\n\nDLSS 5 launched with NBA 2K27 on September 3. Most of the available evidence currently comes from Nvidia and its launch partner, so its performance cost, consistency across games, and effect on original art direction still require independent testing.",
+          "sourceLinks": [
+            { "label": "NVIDIA Research｜DLSS 5", "url": "https://research.nvidia.com/labs/adlr/DLSS5/" },
+            { "label": "Tom’s Hardware｜DLSS 5 launches with NBA 2K27", "url": "https://www.tomshardware.com/pc-components/gpus/nvidias-controversial-dlss-5-will-launch-september-3-with-nba2k27-available-on-all-rtx-50-series-gpus-laptops-and-geforce-now" }
+          ],
+          "expressions": [
+            { "expression": "generative rendering", "meaning": "生成式渲染", "example": "Generative rendering creates parts of the final image in real time." },
+            { "expression": "art direction", "meaning": "艺术指导；美术方向", "example": "Developers use art direction to define the intended visual style." },
+            { "expression": "independent testing", "meaning": "独立测试", "example": "The performance claims still require independent testing." }
+          ],
+          "linkedKeywords": ["Nvidia", "DLSS 5", "generative rendering", "RTX 50", "video games"]
+        }
+      ]
+    }
+  ]
+}
