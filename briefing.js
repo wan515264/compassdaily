@@ -109,6 +109,7 @@ function orderedSections(sections = []) {
 }
 
 function displaySectionHeading(section = {}) {
+  if (currentBriefing?.preserveSectionHeadings && section.heading) return escapeHtml(section.heading);
   const normalizedId = normalizeSectionId(section);
   return cleanSectionHeading(SECTION_LABELS[section.id] || SECTION_LABELS[section.heading] || SECTION_LABELS[normalizedId] || section.heading || "Briefing");
 }
@@ -252,6 +253,7 @@ function renderSection(section) {
       return `
         <article class="briefing-item">
           <h4>${item.title || "Briefing item"}</h4>
+          ${item.titleEnglish ? `<p lang="en">${escapeHtml(item.titleEnglish)}</p>` : ""}
           ${item.dek ? `<p class="item-dek">${renderClickableWords(item.dek, savedWords)}</p>` : ""}
           ${item.paragraphTranslation ? renderBilingualParagraphs(summary, englishTranslation) : summary ? `<p class="briefing-cn">${summary}</p>` : ""}
           ${

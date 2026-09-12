@@ -1,0 +1,150 @@
+{
+  "date": "2026-09-12",
+  "homepageSummary": {"text":"本期关注外援削减下的马拉维医疗服务、AI基金的杠杆风险、分手后的设备权限、留学生重新创造的家乡味道，以及AI数学成果的验证与署名争议。","text_en":"This edition covers healthcare in Malawi amid aid cuts, leverage risks in an AI fund, device access after a breakup, students recreating the taste of home, and debates over verification and credit in AI-assisted mathematics."},
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "Exploring today’s questions through journalism and research.",
+  "editionLabel": "今日小报 / Today’s Briefing",
+  "preserveSectionHeadings": true,
+  "theme": "医疗援助、AI投资、设备权限、家乡味道与数学研究",
+  "introParagraphsChinese": [
+    {
+      "text": "本期关注马拉维医疗援助、AI基金的投资风险、分手后的设备权限、留学生的家乡味道，以及AI进入数学研究引发的讨论。",
+      "text_en": "This edition looks at healthcare aid in Malawi, the risks of AI investing, device access after a breakup, students recreating the taste of home, and AI’s role in mathematical research."
+    }
+  ],
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "外援撤离之后，马拉维的诊所正在关闭",
+          "titleEnglish": "When Aid Is Withdrawn, Clinics Close in Malawi",
+          "paragraphTranslation": true,
+          "summary": "一笔援助资金的取消，落到患者身上，可能意味着熟悉的诊所不再开门。D+C 9月7日的报道记录了马拉维部分医疗机构在外援削减后停止服务的经历，涉及 HIV 检测与治疗、避孕以及孕产妇保健。\n\n马拉维计划生育协会负责人表示，部分流动诊所被迫停运，机构超过四分之一的医护人员失去了工作。受访者也反映，获得避孕用品和持续治疗变得更加困难。这些描述揭示了当地服务的压力，但不能直接当作全国健康结果的统计。\n\n这则新闻留下的问题是：依靠多年投入建立起来的医疗服务，如何在外部资金退出后继续运转？对患者而言，资金来源可以改变，治疗却不能随之中断。",
+          "englishTranslation": "For patients, the cancellation of aid funding can mean finding their familiar clinic closed. A September 7 report by D+C describes how reductions in foreign assistance have interrupted services at some healthcare facilities in Malawi, affecting HIV testing and treatment, contraception, and maternal care.\n\nThe head of the Family Planning Association of Malawi says some mobile clinics have stopped operating and more than a quarter of the organization’s health workers have lost their jobs. Interviewees also report growing difficulties accessing contraception and continuing treatment. Their accounts reveal pressure on local services, but should not be treated as national statistics on health outcomes.\n\nThe story raises a question: how can healthcare services built through years of investment continue when external funding disappears? For patients, the source of funding may change, but treatment cannot simply stop.",
+          "sourceLinks": [
+            {
+              "label": "D+C｜2026-09-07",
+              "url": "https://www.dandc.eu/en/article/nowadays-malawi-cuts-foreign-aid-healthcare-deficits"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜财经与市场",
+      "items": [
+        {
+          "title": "AI投资失利后，摩根大通终止向一家对冲基金放贷",
+          "titleEnglish": "JPMorgan Ends Lending to an AI-Focused Hedge Fund After Losses",
+          "paragraphTranslation": true,
+          "summary": "据路透社9月11日援引知情人士报道，摩根大通在 Situational Awareness 的 AI 投资遭遇重大亏损后，终止了对这家对冲基金的相关贷款业务。《金融时报》率先报道了这一消息。\n\n报道指出，全球芯片股抛售冲击了基金的杠杆押注，基金被迫向 Citadel 出售大部分上市股票投资组合。其他银行仍在为其提供经纪服务，因此一家银行终止贷款并不意味着所有金融机构都已退出。\n\n这个案例值得关注的，是技术前景与投资风险之间的距离。借钱扩大投资，会同时放大上涨时的收益和下跌时的压力。即使投资者相信 AI 将继续发展，也仍然可能因为买入价格、杠杆和资金期限而陷入困境；一家基金的损失不能证明整个行业已经崩溃。",
+          "englishTranslation": "JPMorgan ended lending activity for the hedge fund Situational Awareness after substantial losses on its AI investments, Reuters reported on September 11, citing a person familiar with the matter. The Financial Times first reported the development.\n\nAccording to the report, a global chip-stock selloff disrupted the fund’s leveraged bets, forcing it to sell most of its public-equities portfolio to Citadel. Other banks continued providing brokerage services, so one lender’s withdrawal did not mean that all financial institutions had cut ties.\n\nThe case highlights the distance between a technology’s prospects and the risks of investing in it. Borrowing magnifies both gains and losses. Even investors who believe AI will keep advancing can face trouble because of prices, leverage, and financing deadlines. One fund’s losses do not establish an industry-wide collapse.",
+          "sourceLinks": [
+            {
+              "label": "Reuters｜2026-09-11",
+              "url": "https://www.streetinsider.com/Reuters/JPMorgan%2Bcut%2Boff%2BSituational%2BAwareness%2Blending%2Bafter%2BAI%2Blosses%2C%2Bsource%2Bsays/27053607.html"
+            },
+            {
+              "label": "Yahoo Finance｜相关报道",
+              "url": "https://ca.finance.yahoo.com/news/jpmorgan-cuts-off-lending-aschenbrenner-220212471.html"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender & Culture｜性别与文化",
+      "items": [
+        {
+          "title": "分手之后，设备权限如何解除？",
+          "titleEnglish": "After a Breakup, Who Controls the Devices?",
+          "paragraphTranslation": true,
+          "summary": "《卫报》报道，一名前伴侣通过特斯拉远程功能实施骚扰。\n\n这个案件提供了一个值得继续追问的角度：亲密关系结束后，共享账户、设备授权和管理员身份应该如何解除？如果一方掌握数字权限，另一方能否独立恢复控制？\n\n从产品设计的角度看，“方便共享”之外，也需要考虑“安全退出”。一套服务是否容易让用户撤销授权、确认权限归属并获得帮助，可能直接关系到使用者的自主性。这个具体案件可以帮助提出这些问题，但不足以说明此类经历的普遍程度。",
+          "englishTranslation": "The Guardian reports that an ex-partner used Tesla’s remote features for harassment.\n\nThe case offers a question worth pursuing: after a relationship ends, how should shared accounts, device permissions, and administrator access be separated? If one person holds the digital permissions, can the other independently regain control?\n\nFrom a product-design perspective, convenient sharing needs to be considered alongside a safe way to leave. Whether a service makes it easy to revoke permissions, establish control, and obtain assistance can matter directly to a user’s autonomy. This individual case helps raise those questions, but cannot establish how widespread such experiences are.",
+          "sourceLinks": [
+            {
+              "label": "The Guardian｜2026-09-09",
+              "url": "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Art & Culture｜艺术与文化",
+      "items": [
+        {
+          "title": "披萨面团做包子：留学生重新创造家乡味道",
+          "titleEnglish": "Pizza Dough Baozi: Students Recreate the Taste of Home",
+          "paragraphTranslation": true,
+          "summary": "在德国留学的刘振超，用超市买来的披萨面团制作包子，也用意大利面代替中式面条。Sixth Tone 9月11日的报道从这些厨房里的替代方案出发，记录中国留学生如何利用当地食材重新做出熟悉的饭菜。\n\n对受访者来说，自己做饭既是控制开销的办法，也与思乡、学业压力和独立生活有关。有人通过烹饪视频让父母了解自己的日常，有人邀请当地朋友尝试改造后的中餐。食物由此连接起不同地方的人与记忆。\n\n这些尝试让“家乡味道”显得更加灵活：熟悉感未必依赖完全相同的原料，也可能来自调味、做饭的动作，以及终于能够照顾好自己的满足感。报道中的几位学生不能代表所有留学生，却提供了理解异乡日常生活的具体入口。",
+          "englishTranslation": "Studying in Germany, Liu Zhenchao makes baozi with supermarket pizza dough and substitutes spaghetti for Chinese noodles. A September 11 report by Sixth Tone uses these kitchen improvisations to explore how Chinese students abroad recreate familiar meals with locally available ingredients.\n\nFor the interviewees, cooking is a way to manage expenses, but it also relates to homesickness, academic pressure, and independent living. Some use cooking videos to share everyday life with their parents; others invite local friends to try their adapted Chinese dishes. Food connects people and memories across places.\n\nThese experiments suggest a flexible understanding of the taste of home. Familiarity may come from seasoning, the act of cooking, or the satisfaction of caring for oneself, rather than identical ingredients. The students interviewed cannot represent everyone studying abroad, but their experiences offer a concrete glimpse into everyday life away from home.",
+          "sourceLinks": [
+            {
+              "label": "Sixth Tone｜2026-09-11",
+              "url": "https://m.sixthtone.com/news/1019014"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜人工智能与科技",
+      "items": [
+        {
+          "title": "AI进入数学研究，数学家为何既兴奋又不安？",
+          "titleEnglish": "Why Does AI Leave Mathematicians Both Excited and Uneasy?",
+          "paragraphTranslation": true,
+          "summary": "数学家 Steven Strogatz 在 WIRED 9月12日的访谈中，谈到 AI 近期进展带来的兴奋与不安。报道涉及一项仍需独立核验的解题宣称，以及围绕研究贡献和署名产生的争议。\n\n这使讨论超出了“AI能不能解题”：一个结果由谁验证？此前的人类工作如何得到承认？取得答案与理解证明，又是否是一回事？在核验完成前，把相关宣称写成已获确认的数学突破，仍然为时过早。",
+          "englishTranslation": "In a September 12 WIRED interview, mathematician Steven Strogatz describes excitement and unease about recent AI advances. The report discusses a claimed solution still awaiting independent verification, alongside disputes over research contributions and credit.\n\nThe discussion extends beyond whether AI can solve problems: who verifies a result, and how is earlier human work acknowledged? Is obtaining an answer the same as understanding a proof? Until verification is complete, describing the claim as an established mathematical breakthrough would be premature.",
+          "sourceLinks": [
+            {
+              "label": "WIRED｜2026-09-12",
+              "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "sourceLinks": [
+    {
+      "label": "D+C｜2026-09-07",
+      "url": "https://www.dandc.eu/en/article/nowadays-malawi-cuts-foreign-aid-healthcare-deficits"
+    },
+    {
+      "label": "Reuters｜2026-09-11",
+      "url": "https://www.streetinsider.com/Reuters/JPMorgan%2Bcut%2Boff%2BSituational%2BAwareness%2Blending%2Bafter%2BAI%2Blosses%2C%2Bsource%2Bsays/27053607.html"
+    },
+    {
+      "label": "Yahoo Finance｜相关报道",
+      "url": "https://ca.finance.yahoo.com/news/jpmorgan-cuts-off-lending-aschenbrenner-220212471.html"
+    },
+    {
+      "label": "The Guardian｜2026-09-09",
+      "url": "https://www.theguardian.com/australia-news/2026/sep/09/how-one-womans-tesla-was-remotely-controlled-and-harass-by-her-abusive-ex-partner-ntwnfb"
+    },
+    {
+      "label": "Sixth Tone｜2026-09-11",
+      "url": "https://m.sixthtone.com/news/1019014"
+    },
+    {
+      "label": "WIRED｜2026-09-12",
+      "url": "https://www.wired.com/story/mathematician-steven-strogatz-grapples-with-ai-recent-breakthroughs/"
+    }
+  ],
+  "tags": [
+    "Malawi",
+    "healthcare aid",
+    "AI investment",
+    "digital autonomy",
+    "food culture",
+    "mathematics"
+  ]
+}

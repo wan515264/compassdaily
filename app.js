@@ -224,8 +224,11 @@ function renderTodayBriefing(briefing) {
   const sections = orderedSections(briefing.sections || []).slice(0, 5);
   const themeText = briefing.theme || briefing.subtitle || briefing.title || SITE_TITLE;
   const introText = briefing.introChinese || briefing.intro?.body || "今天的小报还在整理中，请稍后回来阅读。";
-  const introMarkup = Array.isArray(briefing.introParagraphsChinese) && briefing.introParagraphsChinese.length
-    ? briefing.introParagraphsChinese.map((paragraph) => `<div class="today-intro-pair"><p lang="zh-CN">${escapeHTML(paragraph.text)}</p>${paragraph.text_en ? `<p class="today-intro-en" lang="en">${escapeHTML(paragraph.text_en)}</p>` : ""}</div>`).join("")
+  const introParagraphs = briefing.homepageSummary?.text
+    ? [briefing.homepageSummary]
+    : briefing.introParagraphsChinese;
+  const introMarkup = Array.isArray(introParagraphs) && introParagraphs.length
+    ? introParagraphs.map((paragraph) => `<div class="today-intro-pair"><p lang="zh-CN">${escapeHTML(paragraph.text)}</p>${paragraph.text_en ? `<p class="today-intro-en" lang="en">${escapeHTML(paragraph.text_en)}</p>` : ""}</div>`).join("")
     : `<p>${escapeHTML(trimText(introText, 360))}</p>`;
   const topicTags = briefing.tags || briefing.topics || [];
   const signalRows = (sections.length ? sections : topicFallback.map((heading) => ({ heading }))).slice(0, 5)
@@ -260,7 +263,7 @@ function renderTodayBriefing(briefing) {
         <small>${dateParts.weekday}</small>
       </div>
       <div class="today-copy">
-        <p class="dateline">特别报道</p>
+        <p class="dateline">${escapeHTML(briefing.editionLabel || "特别报道")}</p>
         <h3>${themeText}${briefing.titleEnglish ? `<span class="today-title-en" lang="en">${escapeHTML(briefing.titleEnglish)}</span>` : ""}</h3>
         <div class="today-intro">${introMarkup}</div>
         <a class="primary-button" href="${href}">阅读全文 / Read this briefing</a>
