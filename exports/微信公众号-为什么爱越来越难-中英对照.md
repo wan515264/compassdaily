@@ -1,0 +1,166 @@
+# 为什么爱越来越难？
+## Why Is Love Becoming More Difficult?
+
+发布日期 / Publication date：2026-08-08
+
+爱情、婚姻与身体：理解当代中国亲密关系的三个维度。
+
+Love, marriage, and the body: three dimensions of modern intimacy in contemporary China.
+
+## 首页导语｜Homepage Introduction
+
+这一次，不去统计表白、鲜花和消费数据，而是以 Sixth Tone 多年来的报道为起点，从爱情、婚姻与身体三个维度，重新理解当代中国的亲密关系。
+
+Rather than counting declarations of love, flowers, or holiday spending, this edition begins with years of Sixth Tone reporting, exploring contemporary intimacy through three dimensions: love, marriage, and the body.
+
+这些报道看似讨论的是不同的社会事件，却不断指向同一个问题：
+
+These reports may appear to concern separate social events, yet they repeatedly point toward the same question:
+
+为什么爱越来越难？
+
+Why is love becoming more difficult?
+
+当婚姻与经济压力、照护劳动、职业发展、生育期待和关系中的安全风险交织在一起，年轻人面对的不再只是“要不要结婚”，而是“怎样的关系才值得进入”。
+
+When marriage becomes entangled with economic pressure, care work, career development, reproductive expectations, and safety risks within relationships, young people are no longer asking only whether to marry, but what kind of relationship is worth entering.
+
+这期的特别报道试图沿着这些新闻留下的线索，重新理解当代中国年轻人的亲密关系，也重新思考一个或许没有标准答案的问题：
+
+Following the trails left by these stories, this special report seeks to reconsider intimate relationships among young people in contemporary China—and a question that may have no definitive answer:
+
+爱的困难，究竟来自人与人之间，还是来自我们所生活的社会？
+
+Does the difficulty of love ultimately arise between people, or from the society in which we live?
+
+## 01 — Research Question｜研究问题
+
+为什么今天的爱越来越难？
+
+Why does love feel increasingly difficult today?
+
+是现代社会让亲密关系变得更加困难，还是人们开始对爱情与婚姻有了不同的期待？结婚登记下降只是线索之一，却无法测量爱情。约会方式、情感期待、身体自主与性健康，同样影响一段亲密关系是否可能、安全，以及是否值得维持。
+
+Is modern society making intimacy harder, or are people simply expecting something different from love and marriage? Falling marriage registrations offer one clue, but they cannot measure love. Dating practices, emotional expectations, bodily autonomy, and sexual health also shape whether intimacy feels possible, safe, and worth sustaining.
+
+这篇专题通过新闻报道、学术研究、官方统计与公共卫生证据考察现代亲密关系。它区分爱情与婚姻，又不把两者与身体割裂，追问情感连接、社会制度和共同健康责任如何相互作用。
+
+This report investigates modern intimacy through journalism, academic research, official statistics, and public-health evidence. It distinguishes love from marriage without separating either from the body, asking how emotional connection, institutions, and shared health responsibilities interact.
+
+## 02 — Research｜研究
+
+爱情、婚姻与身体如何变化，现有证据又能帮助我们理解什么？
+
+How are love, marriage, and embodied intimacy changing—and what does the evidence help us understand?
+
+### 爱情：在婚姻出现之前，关系本身已经改变
+#### Love: relationships are changing before marriage enters the picture
+
+Sixth Tone关于situationship的报道描写了一些年轻人如何在限制未来承诺的同时，继续寻找陪伴与情感连接。受访者提到工作压力、过去关系带来的情感消耗、经济不确定性和对灵活性的需要。报道也记录了这种模式的代价：模糊性可能制造焦虑与期待错位。
+
+Sixth Tone’s reporting on situationships describes young adults seeking companionship and emotional connection while limiting promises about the future. Interviewees cited work pressure, past emotional exhaustion, economic uncertainty, and a desire for flexibility. The reporting also records the trade-off: ambiguity can produce anxiety and mismatched expectations.
+
+约会软件、直播相亲、网络情感建议、恋爱游戏与“搭子”拓宽了人们寻找连接的场景。这些报道无法证明存在一种统一的全国趋势，却提示过去集中于伴侣关系中的交谈、休闲、性、情感支持与未来规划，如今可能被分散到不同关系与平台之中。
+
+Dating apps, livestream matchmaking, online advice, games, and activity companions have widened the settings in which people seek connection. These stories do not establish one national trend. They suggest that needs once bundled into a couple—conversation, leisure, sex, emotional support, and future planning—can now be distributed across different relationships and platforms.
+
+Meng Wang于2025年发表于《Social Media + Society》的研究追问：陌生人如何在《王者荣耀》中形成并评价浪漫连接，以及为什么有人会选择游戏而不是约会软件或社交平台。Wang对25名曾在游戏中发展浪漫关系的中国年轻玩家进行了线上半结构式访谈，其中男性16人、女性9人，平均年龄22岁。每次访谈持续30至45分钟，研究者以主题分析重建关系如何开始、发展、维持或结束。
+
+Meng Wang’s 2025 study in Social Media + Society asks how strangers form and evaluate romantic connections in Honor of Kings, and why a game may be chosen over dating or social apps. Wang conducted online semi-structured interviews with 25 young Chinese players who had developed romantic relationships through gameplay: 16 men and nine women, with a mean age of 22. The 30–45 minute interviews were coded thematically to reconstruct how relationships began, developed, and were sustained or ended.
+
+访谈呈现出相遇、熟悉、发展，以及确立或终止关系的四个阶段。这里的“情感基础设施”并不是说平台制造了爱情，而是指技术与社交安排让某些情感更容易被实践和识别：反复组队把注意力导向特定的人；实时协作制造相互依赖的机会；语音聊天与跨平台交流支持自我披露；段位、礼物和可见的游戏行为则可能用来表现承诺或给予情感确认。与此同时，平台也会组织并商品化亲密关系，而玩家会寻找保留自主性的办法。
+
+The interviews describe four stages—encounter, acquaintance, development, and establishment or termination. Here, ‘affective infrastructure’ does not mean that a platform manufactures love. It means that technical and social arrangements make some forms of feeling easier to enact and recognize: repeated team play directs attention toward particular people; real-time cooperation creates occasions for mutual reliance; voice chat and movement across platforms support self-disclosure; ranks, gifts, and visible in-game actions can perform commitment or emotional confirmation. The same design can also organize and commodify intimacy, while players devise ways to retain autonomy.
+
+这项研究说明的是一种平台化亲密关系机制，而不是“中国年轻人普遍通过游戏恋爱”。受访者来自《王者荣耀》兴趣群组和情感讨论区，都有相关浪漫经历，样本规模较小且具有自我选择性。研究能够说明这25人如何理解自己的经验，却不能估计这种现象的普遍程度、代表所有青年，也不能证明平台功能导致了关系形成。它更有限而有用的贡献是：提醒我们，当代爱情也受制于注意、合作、自我披露与情感确认发生的环境。
+
+This is evidence about a mechanism of platformed intimacy, not evidence that Chinese young people generally find partners through games. Participants were recruited through Honor of Kings interest groups and relationship boards, all had relevant romantic experience, and the qualitative sample was small and self-selected. The study can show how these 25 participants interpreted their experiences; it cannot estimate prevalence, compare all young people, or prove that platform features caused the relationships. Its narrower contribution is to show that contemporary love is shaped partly by the environments in which attention, cooperation, disclosure, and recognition become possible.
+
+### 婚姻：成本上升、风险分配不均的制度
+#### Marriage: an institution with rising costs and uneven risks
+
+2024年，中国共有611万对新人登记结婚，比2023年减少超过20%。2023年，接近30%的30岁人口仍未婚，而2013年这一比例为14.6%。这些数字描述的是婚姻，而不是爱；推迟婚姻也不能自动被理解为终身不婚。
+
+China registered 6.11 million marriages in 2024, more than 20% fewer than in 2023. Nearly 30% of 30-year-olds were unmarried in 2023, compared with 14.6% in 2013. These figures describe marriage, not love, and postponement cannot automatically be read as permanent singlehood.
+
+相关报道把婚姻选择与住房、婚礼、育儿、无偿家务、生育期待、职业牺牲、家庭暴力和困难的法律退出联系起来。这些负担因性别、阶级与地域而异。保护令和离婚法院的证据说明结构性风险，却不能证明暴力报道直接导致结婚率下降。
+
+Reporting links marriage decisions to housing, weddings, childcare, unpaid domestic work, reproductive expectations, career sacrifice, domestic violence, and difficult legal exit. The burdens differ by gender, class, and region. Evidence about protection orders and divorce courts establishes structural risk; it does not prove that exposure to violence reporting causes marriage decline.
+
+Jia Yu与Yu Xie于2018年发表于《Journal of Marriage and Family》的研究追问：中国女性成为母亲后，时薪是否下降，这种惩罚是否因居住安排而不同。研究使用中国健康与营养调查1993至2006年的五轮数据，包括1058名18至50岁、有工资收入且至少被追访两次的女性，共2743个“人—年”观察，覆盖九省城乡地区。固定效应模型比较同一名女性随时间发生的变化，可以排除个人身上不随时间变化的未观测差异，却不能排除所有随时间变化的因素。
+
+Jia Yu and Yu Xie’s 2018 study in the Journal of Marriage and Family asks whether motherhood is associated with lower hourly wages in China and whether the penalty differs by living arrangement. It uses five waves of the China Health and Nutrition Survey from 1993 to 2006: 2,743 person-year observations for 1,058 wage-earning women aged 18–50 who were observed at least twice across rural and urban areas in nine provinces. Fixed-effects models compare changes within the same woman over time, removing stable unobserved differences between women, although they cannot remove every factor that changes over time.
+
+在纳入已测量的人力资本、工作与家庭因素后，完整固定效应模型显示，成为母亲与约15.8%的时薪下降相关；另一种以子女数量估计的模型得到每增加一个孩子约下降12%。居住安排之间差异明显：不与父母同住者每个孩子约对应14.5%的惩罚，与丈夫父母同住者约为28.9%，与女方父母同住者则没有统计显著的惩罚。这个模式使照护安排与性别化家庭角色变得可见，却不能确认具体因果机制。作者明确指出，家庭可能自行选择居住安排；数据止于2006年，也并非全国代表性样本。
+
+In the full fixed-effects model, becoming a mother was associated with hourly wages about 15.8% lower after measured human-capital, job, and family factors were included; a separate specification estimated roughly a 12% decline per additional child. The penalty varied sharply with residence: about 14.5% per child for women not living with parents, 28.9% for those living with the husband’s parents, and no statistically significant penalty for those living with the woman’s parents. The pattern makes care arrangements and gendered family roles visible, but it does not identify the causal mechanism. The authors explicitly note possible selection into living arrangements, and the data end in 2006 and are not nationally representative.
+
+Mingxue Zhang、Yue Wang与Lingling Hou于2024年发表于《Journal of Economic Behavior & Organization》的研究使用中国家庭追踪调查2010至2018年的五轮数据。主要样本包含2374名在2011至2017年迎来第一个孩子、且产前产后至少各被观察一次的父母。事件研究追踪第一个孩子出生前五年至出生后七年的劳动结果，并比较母亲与父亲的轨迹；匹配后的双重差分检验，则考察女性本人、丈夫、父母以及所在省份的性别观念是否与惩罚程度相关。
+
+Mingxue Zhang, Yue Wang, and Lingling Hou’s 2024 study in the Journal of Economic Behavior & Organization uses five waves of the nationally oriented China Family Panel Studies from 2010 to 2018. Its main sample contains 2,374 parents whose first child was born from 2011 to 2017 and who were observed at least once before and after that birth. An event-study design follows labor outcomes from five years before to seven years after first childbirth and compares mothers’ and fathers’ trajectories; matched difference-in-differences tests examine whether penalties differ with women’s, husbands’, parents’, and provincial gender norms.
+
+研究估计，在第一个孩子出生后的七年中，女性年收入相对男性平均下降21.4%，劳动参与下降14.1%，工作时长下降17.9%；在仍有工作的人群中，时薪差异较小且没有统计显著性。传统性别观念更强的群体惩罚更大，研究者也把家务时长和非正规就业作为可能路径加以检验。事件研究与稳健性检验增强了围绕生育前后的比较，但仍依赖“若未生育，男女趋势本应平行”的假设；分析性别观念时样本更小，也无法直接观察全部照护决策或歧视过程。
+
+Across the first seven years after birth, the study estimates that women’s annual earnings fell 21.4% relative to men’s, labor-force participation 14.1%, and working hours 17.9%; the estimated hourly wage-rate difference among those employed was mild and not statistically significant. Penalties were larger in groups with more traditional gender attitudes, and the authors explored housework and informal employment as possible pathways. The design and robustness tests strengthen the comparison around childbirth, but they still rely on the parallel-trends assumption, use smaller subsamples when gender-norm data are required, and do not directly observe every care decision or discriminatory process.
+
+两项研究都没有测量人们是否想结婚。它们记录的是母职与首次生育前后的劳动市场结果，而不是从经济惩罚通向不婚意愿的直接因果链。与照护劳动报道结合阅读时，它们提供的是一种可能的结构性背景：一些人，尤其是女性，可能预期家庭形成会不均等地分配时间、收入与职业风险。这个机制值得调查，却不能被写成结婚登记下降的完整解释。
+
+Neither study measures whether people want to marry. They document labor-market outcomes surrounding motherhood and first childbirth, not a causal path from economic penalty to marriage reluctance. Read alongside reporting on care work, they identify a plausible structural background: some people—especially women—may reasonably anticipate that family formation will distribute time, income, and career risk unevenly. That possibility must remain a mechanism to investigate, not a complete explanation of declining marriage registrations.
+
+### 身体：亲密关系包含性健康与共同责任
+#### Body: intimacy includes sexual health and shared responsibility
+
+Sixth Tone对2000年至2015年性调查的报道描述了初次性行为年龄提前，同时记录到性焦虑和缺乏性兴趣的报告增加。这些发现只属于相关调查时期，并非当下人口普查。它们说明亲密关系必须同时从身体、情感与制度理解。
+
+Sixth Tone’s account of sexuality surveys conducted between 2000 and 2015 described earlier sexual initiation alongside rising reports of sexual anxiety and lack of interest. Those findings belong to the surveyed period and are not a current census. They show why intimacy must be understood through bodies as well as emotions and institutions.
+
+WHO在2023年介绍的一项系统综述估计，全球15岁以上男性中，任意型别生殖器HPV的汇总感染率为31%，高危型别为21%。这是全球汇总值，不是中国感染率。WHO的结论是应把男性纳入HPV预防。这不能解释结婚率下降，却说明疫苗、检测、预防、同意与沟通都是需要共同承担的亲密关系议题。
+
+WHO reported in 2023 that a systematic review estimated global genital HPV prevalence among men over 15 at 31% for any HPV and 21% for high-risk types. These are global pooled estimates, not China-specific rates. WHO’s conclusion was that men should be included in HPV prevention. This does not explain marriage decline; it shows that vaccination, testing, prevention, consent, and communication are shared dimensions of intimacy.
+
+Laura Rowley及其同事2023年发表于《The Lancet Global Health》的系统综述与Meta-analysis，检索了1995年1月至2022年6月间发表或由作者提供的、针对15岁及以上男性的生殖器HPV人群研究。最终纳入35个国家的65项研究，共44769名男性。任意型别生殖器HPV的全球汇总感染率为31%（95%置信区间27%—35%），高危型别为21%（18%—24%），25至29岁最高。这些数字是异质研究的模型汇总，不是个人诊断，更不是中国感染率：超过一半的研究来自高收入国家，不同研究检测的型别与取样部位也不一致。
+
+Laura Rowley and colleagues’ 2023 Lancet Global Health systematic review and meta-analysis searched for population-based studies of genital HPV in males aged 15 or older published or supplied between January 1995 and June 2022. It included 65 studies, 44,769 men, and 35 countries. The pooled prevalence was 31% (95% CI 27–35) for any genital HPV and 21% (18–24) for high-risk types, peaking at ages 25–29. These are modelled summaries across heterogeneous studies, not individual diagnoses or a China estimate: more than half of included studies came from high-income countries, and studies differed in genotypes tested and anatomical sites sampled.
+
+为了理解中国情境，Xiaomeng Ma及其同事2018年的系统综述与Meta-analysis检索了PubMed、Web of Science、CNKI和万方数据库中2000年1月至2017年5月发表的研究，共纳入247项，并使用Meta-regression考察研究间差异。研究分别汇总宫颈细胞学正常女性、异性恋男性、男男性行为者和HIV感染者的HPV DNA感染率。不同群体的汇总值差异很大，例如异性恋男性为14.5%，男男性行为者为59.9%，因此不能负责任地合并成一个“中国感染率”。地域、取样部位、性取向、HIV状态与研究方法都会影响解释；观察性患病率也不能说明HPV对关系产生了什么影响。
+
+For China-specific context, Xiaomeng Ma and colleagues’ 2018 systematic review and meta-analysis searched PubMed, Web of Science, CNKI, and Wanfang for studies published from January 2000 to May 2017. It included 247 studies and used meta-regression to examine heterogeneity, separately pooling HPV DNA prevalence for women with normal cervical cytology, heterosexual men, men who have sex with men, and people living with HIV. The pooled estimates differed substantially between populations—for example, 14.5% among heterosexual men and 59.9% among men who have sex with men—so they cannot responsibly be merged into a single ‘Chinese prevalence’ number. Geography, anatomical sampling, sexual orientation, HIV status, and study methods all affect interpretation; pooled observational prevalence also does not establish any effect on relationships.
+
+Yi Tao及其同事2022年的研究回答的是另一个问题：哪些因素与中国男性支持把男性HPV疫苗纳入国家免疫规划有关。研究者在2021年9月至11月，通过重庆医科大学附属医院一期临床试验病房的微信公众号招募20至45岁男性。678名招募者中有660人完成线上问卷，内容包括人口特征、性行为、HPV与疫苗知识，以及对政策的态度，并以逻辑回归分析关联。在这个自我选择的样本中，80.45%支持纳入国家免疫规划，HPV知识更充分与支持态度相关。
+
+Yi Tao and colleagues’ 2022 study asked a different question: what factors were associated with Chinese men’s support for adding male HPV vaccination to the national immunization program. Between September and November 2021, researchers recruited men aged 20–45 through the WeChat account of a phase I clinical-trial ward at Chongqing Medical University. Of 678 recruits, 660 completed the online questionnaire; it measured demographics, sexual behaviour, HPV and vaccine knowledge, and policy attitudes, then used logistic regression to examine associations. In this self-selected sample, 80.45% supported inclusion, and stronger HPV knowledge was associated with support.
+
+这项调查测量的是受访者表达的政策态度，而不是真实接种、疫苗可及性或未来行为。通过单一机构微信公众号进行非概率抽样，限制了结果的推广范围；横截面问卷也不能证明知识导致支持。全球Meta-analysis、中国综述与态度调查都不能解释爱情或婚姻为何变难。它们与本专题的联系更具体：性健康要求伴侣与制度沟通风险、共享可靠信息、共同作出疫苗和检测决定，也不能把责任单独推给女性。
+
+That survey measures stated policy attitudes, not actual vaccination, vaccine availability, or future behaviour. Recruitment through one institution’s WeChat audience and non-probability sampling limit generalization, while a cross-sectional questionnaire cannot establish that knowledge caused support. Taken together, the global meta-analysis, China review, and attitude survey do not explain why love or marriage is becoming harder. Their relevance is more concrete: sexual health requires partners and institutions to communicate risk, share reliable information, make vaccination and testing decisions, and avoid placing responsibility on women alone.
+
+## References｜参考资料
+
+### Journalism｜新闻报道
+
+- Fan Yiying and Zhou Hanchi. “Love Without Labels: Chinese Revise the Rules on Relationships.” Sixth Tone, 2025-03-12. https://www.sixthtone.com/news/1016805
+- Sixth Tone and The Paper. “Internet, What is Love?.” Sixth Tone, 2019. https://interaction.sixthtone.com/feature/2019/Internet-What-is-Love/index.html
+- Cai Yiwen. “For Better and For Worse: How Love Lost Its Hold on China.” Sixth Tone, 2025-02-14. https://www.sixthtone.com/news/1016658
+- He Qitong. “Love on the Air: In China, Blind Dating Finds a Digital Stage.” Sixth Tone, 2024-03-14. https://www.sixthtone.com/news/1014811
+- The Paper. “I Do, But Not Yet: Young Chinese Delay Tying the Knot.” Sixth Tone, 2025-02-19. https://www.sixthtone.com/news/1016686
+- Du Xinyu and Fang Yun. “44% of China’s Urban Young Women Don’t Plan to Marry, Survey Says.” Sixth Tone, 2021-10-11. https://www.sixthtone.com/news/1008664
+- Fan Yiying. “China’s Rural Men Want to Get Married. Women, Not So Much..” Sixth Tone, 2021-05-04. https://www.sixthtone.com/news/1007378
+- Shen Yang. “What Young Shanghainese Imagine Marriage Will Cost Them.” Sixth Tone, 2026-05-25. https://www.sixthtone.com/news/1018544
+- Fu Danni. “How Protection Orders Leave Domestic Abuse Victims Vulnerable.” Sixth Tone, 2018-02-02. https://www.sixthtone.com/news/1001653
+- Zhang Wanqing. “Pre-Divorce ‘Cool-Off Period’ Finds Scant Support in China.” Sixth Tone, 2020-05-30. https://www.sixthtone.com/news/1005730
+- Cai Yineng. “Want a Divorce? In China, Try, Try Again.” Sixth Tone, 2021-11-26. https://www.sixthtone.com/news/1009044
+- Pan Suiming. “More Open, More Anxious: China’s Changing Sex Lives.” Sixth Tone, 2018-04-17. https://www.sixthtone.com/news/1002107
+
+### Academic Research｜学术研究
+
+- Meng Wang. “How Strangers Fall in Love in Games: Affective Infrastructures and Platformed Intimacy in China.” Social Media + Society, 2025. DOI: 10.1177/20563051251395404. https://doi.org/10.1177/20563051251395404
+- Jia Yu and Yu Xie. “Motherhood Penalties and Living Arrangements in China.” Journal of Marriage and Family, 2018. DOI: 10.1111/jomf.12496. https://doi.org/10.1111/jomf.12496
+- Mingxue Zhang, Yue Wang, and Lingling Hou. “Gender Norms and the Child Penalty in China.” Journal of Economic Behavior & Organization, 2024. DOI: 10.1016/j.jebo.2024.03.011. https://doi.org/10.1016/j.jebo.2024.03.011
+- Laura Rowley et al.. “Global and Regional Estimates of Genital Human Papillomavirus Prevalence Among Men: A Systematic Review and Meta-Analysis.” The Lancet Global Health, 2023. DOI: 10.1016/S2214-109X(23)00305-4. https://doi.org/10.1016/S2214-109X(23)00305-4
+- Xiaomeng Ma et al.. “Prevalence of Human Papillomavirus by Geographical Regions, Sexual Orientation and HIV Status in China: A Systematic Review and Meta-Analysis.” Sexually Transmitted Infections, 2018. DOI: 10.1136/sextrans-2017-053412. https://doi.org/10.1136/sextrans-2017-053412
+- Yi Tao et al.. “Factors Influencing Men’s Attitudes toward HPV Vaccination in Males Included in the Chinese National Immunization Program.” Vaccines, 2022. DOI: 10.3390/vaccines10071054. https://doi.org/10.3390/vaccines10071054
+
+### Reports & Data｜报告与数据
+
+- National Bureau of Statistics / Ministry of Civil Affairs. “Population and marriage-registration data cited in Sixth Tone reporting.” Official statistics via Sixth Tone, 2024–2025. https://www.sixthtone.com/news/1016686
+- World Health Organization. “One in Three Men Worldwide Are Infected With Genital Human Papillomavirus.” WHO Departmental Update, 2023-09-01. https://www.who.int/news/item/01-09-2023-one-in-three-men-worldwide-are-infected-with-genital-human-papillomavirus
