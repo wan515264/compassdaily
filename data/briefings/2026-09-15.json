@@ -1,0 +1,99 @@
+{
+  "date": "2026-09-15",
+  "title": "The Daily Compass｜每日罗盘",
+  "subtitle": "Exploring today’s questions through journalism and research.",
+  "editionLabel": "今日小报 / Today’s Briefing",
+  "preserveSectionHeadings": true,
+  "theme": "投票规则、能源合并、女性体育、AI小说与科技责任",
+  "homepageSummary": {
+    "text": "本期从投票规则与能源合并出发，关注女性体育的广告形象、AI定制小说，以及人工智能减速争论与深度伪造治理。",
+    "text_en": "This edition explores voting rules, an energy merger, advertising’s portrayal of women’s sports, AI-tailored fiction, and debates over slowing AI development and tackling deepfake abuse."
+  },
+  "introParagraphsChinese": [
+    {
+      "text": "本期整理9月12—15日范围内的六则报道，分别讨论政治规则、企业承诺、女性体育形象与人工智能的文化和社会影响。我们关注的不只是发生了什么，也包括谁能决定规则、谁承担后果。",
+      "text_en": "This edition brings together six reports published within September 12–15, covering political rules, corporate promises, portrayals of women’s sports, and AI’s cultural and social implications. We ask not only what happened, but who gets to set the rules and who bears the consequences."
+    }
+  ],
+  "sections": [
+    {
+      "id": "news-focus",
+      "heading": "News Focus｜新闻聚焦",
+      "items": [
+        {
+          "title": "中期选举前，美国最高法院阻止邮寄投票新限制",
+          "titleEnglish": "Court Blocks New Mail-In Voting Restrictions Ahead of the Midterms",
+          "paragraphTranslation": true,
+          "summary": "据 WIRED 9月14日报道，美国最高法院维持禁令，阻止邮政系统在此次中期选举中实施新的邮寄投票限制。\n\n这并非永久否定相关规则。争议也在于：临近选举时，地方机构是否还有足够时间改变程序？",
+          "englishTranslation": "WIRED reports on September 14 that the US Supreme Court upheld an injunction blocking new postal voting restrictions for these midterms.\n\nThis does not permanently invalidate the rules. The dispute also concerns whether local officials have enough time to change procedures before voting.",
+          "sourceLinks": [{"label": "WIRED｜2026-09-14", "url": "https://www.wired.com/story/the-supreme-court-just-blocked-trumps-efforts-to-control-mail-in-voting-for-the-midterms/"}]
+        }
+      ]
+    },
+    {
+      "id": "finance-markets",
+      "heading": "Finance & Markets｜财经与市场",
+      "items": [
+        {
+          "title": "能源巨头争取合并批准，居民电费优惠成为谈判筹码",
+          "titleEnglish": "Energy Companies Offer Longer Bill Credits to Win Merger Approval",
+          "paragraphTranslation": true,
+          "summary": "据 FOX 5 DC 9月14日报道，Dominion 与 NextEra 为推进拟议中的670亿美元合并，提出把居民每月10美元电费抵扣的期限从两年延长至四年，并承诺增加就业和低收入能源援助。\n\n消费者组织仍要求审查交易的长期影响。合并尚待批准，承诺也不等于已经兑现的收益。眼前的优惠与未来的电价之间，需要怎样的监管保障？",
+          "englishTranslation": "FOX 5 DC reports on September 14 that Dominion and NextEra proposed extending monthly residential bill credits of $10 from two years to four to advance their planned $67 billion merger. They also promised jobs and additional low-income energy assistance.\n\nConsumer advocates still want scrutiny of the long-term implications. Approval is pending, and promises are not realized benefits. What regulatory safeguards should connect immediate discounts with future electricity prices?",
+          "sourceLinks": [{"label": "FOX 5 DC｜2026-09-14", "url": "https://www.fox5dc.com/news/dominion-nextera-sweeten-67-billion-merger-proposal-expanded-customer-benefits"}]
+        }
+      ]
+    },
+    {
+      "id": "gender-culture",
+      "heading": "Gender & Culture｜性别与文化",
+      "items": [
+        {
+          "title": "Sydney Sweeney广告引争议：女性体育应该如何被看见？",
+          "titleEnglish": "Sydney Sweeney Ad Sparks a Debate Over Women’s Sports",
+          "paragraphTranslation": true,
+          "summary": "ABC Australia 9月14日报道，Sydney Sweeney 为 Novig 拍摄的体育博彩广告受到多名女性运动员批评。她们认为广告将体育场景用于展示女性身体，而非突出运动能力。部分运动员用自己的竞技表现回应。\n\n“性化女性体育”是批评者对广告的判断。讨论不必成为对演员个人的道德审判：品牌如何使用体育形象，女性运动员希望怎样被呈现，以及博彩营销向谁说话，是可以分别追问的问题。",
+          "englishTranslation": "ABC Australia reported on September 14 that female athletes criticized Sydney Sweeney’s sports-betting advertisement for Novig. They argued that it used sporting settings to showcase women’s bodies rather than athletic ability. Some responded with footage of their own performances.\n\n“Sexualizing women’s sports” is the critics’ assessment. Discussion need not become a moral judgment of the actor: how brands use sport, how athletes want to be represented, and whom betting campaigns address are distinct questions.",
+          "sourceLinks": [{"label": "ABC Australia｜2026-09-14", "url": "https://www.abc.net.au/news/2026-09-14/athletes-criticise-sydney-sweeney-sport-betting-ad/107149776"}]
+        }
+      ]
+    },
+    {
+      "id": "books-literature-art-fashion-media",
+      "heading": "Art & Culture｜艺术与文化",
+      "items": [
+        {
+          "title": "当读者开始用AI定制自己的小说",
+          "titleEnglish": "When Readers Use AI to Tailor Their Own Fiction",
+          "paragraphTranslation": true,
+          "summary": "WIRED 9月14日采访了一些用聊天机器人定制故事的读者，他们反复调整人物和情节。\n\n这些经历不能代表所有读者。它们提出一个文化问题：阅读是遇见别人的想象，还是获得完全符合自己期待的故事？",
+          "englishTranslation": "On September 14, WIRED profiles readers using chatbots to tailor stories, repeatedly adjusting characters and plots.\n\nTheir experiences cannot represent all readers. They raise a cultural question: is reading about encountering someone else’s imagination, or obtaining a story that fits one’s own expectations?",
+          "sourceLinks": [{"label": "WIRED｜2026-09-14", "url": "https://www.wired.com/story/chatbot-generated-fiction-i-like-my-big-rat-wife/"}]
+        }
+      ]
+    },
+    {
+      "id": "ai-tech",
+      "heading": "AI & Tech｜人工智能与科技",
+      "items": [
+        {
+          "title": "AI领导人呼吁减速，谁来决定开发的速度？",
+          "titleEnglish": "AI Leaders Call for a Slowdown—Who Sets the Pace?",
+          "paragraphTranslation": true,
+          "summary": "WIRED 9月14日报道，Amodei 呼吁监管及放缓AI开发，Altman 与 Musk 表态支持；美国政府方面则要求企业自行承担减速责任。\n\n这些呼吁不等于开发已经暂停。争论同时涉及安全与竞争：协调减速，究竟应由谁来监督？",
+          "englishTranslation": "WIRED reports on September 14 that Amodei’s appeal for regulation and slower AI development drew support from Altman and Musk; US officials placed responsibility for slowing down on companies.\n\nAppeals are not a development pause. Safety and competition both matter: who should oversee coordination?",
+          "sourceLinks": [{"label": "WIRED｜2026-09-14", "url": "https://www.wired.com/story/ai-leaders-are-calling-for-a-slowdown-trumps-team-says-its-on-them/"}]
+        },
+        {
+          "title": "纽约查封深度伪造网站：虚假影像，真实伤害",
+          "titleEnglish": "New York Seizes Deepfake Sites: Fabricated Images, Real Harm",
+          "paragraphTranslation": true,
+          "summary": "WIRED 9月14日援引曼哈顿检方称，12个传播非自愿性深度伪造影像的网站被查封，涉及约1,200名受害者，绝大多数为女性。\n\n调查仍在继续。查封不是伤害的终点：已经传播的影像，以及受影响者的生活，仍值得关注。",
+          "englishTranslation": "Citing Manhattan prosecutors, WIRED reports on September 14 that 12 sites distributing nonconsensual sexual deepfakes were seized, involving around 1,200 victims, overwhelmingly women.\n\nInvestigations continue. Seizure is not the end of the harm: circulated images and the lives of those affected still deserve attention.",
+          "sourceLinks": [{"label": "WIRED｜2026-09-14", "url": "https://www.wired.com/story/new-york-seizes-a-dozen-celebrity-deepfake-websites/"}]
+        }
+      ]
+    }
+  ],
+  "tags": ["mail-in voting", "energy merger", "women’s sports", "Sydney Sweeney", "AI fiction", "AI governance", "deepfakes"]
+}
